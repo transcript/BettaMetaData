@@ -3,10 +3,10 @@ from setuptools import setup, find_packages
 __author__ = 'adamkoziol'
 setup(
     name="BettaMetadata",
-    version="0.0.04",
+    version="0.0.05",
     include_package_data=True,
     packages=find_packages(),
-    scripts=['validator.py'],
+    scripts=['validator.py', 'term_help.py'],
     license='GPL-3.0',
     author='Adam Koziol',
     author_email='adam.koziol@canada.ca',
