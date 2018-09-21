@@ -1,0 +1,1615 @@
+bio_material
+!blank	48466
+
+cell_line
+!blank	48466
+
+cell_type
+!blank	48466
+
+collected_by
+!blank	31000
+Douglas Wilson	2693
+Public Health England	1822
+Oxford University Clinical Research Unit	1635
+British Columbia Centre for Disease Control Public Health Laboratory	1378
+ModMedMicOxford	1221
+OCICB Consortium	1000
+not collected	984
+Not Collected	819
+Chinese Center for Disease Control and Prevention	549
+IeDEA consortium	532
+Phthisiopneumology Institute/Yale SPH	421
+IRCCS San Raffaele Scientific Institute, Milan, Italy	390
+Angkana Chaiprasert	374
+GCDD	350
+Hasan Sadikin Hospital, Bandung, Indonesia	322
+PHAC	233
+Kyle Minch	211
+National JALMA Institute of Leprosy and Other Mycobacterial Diseases , Agra	200
+Marcel Behr Laboratory	169
+Autonomous University of Baja California	155
+Shanghai CDC	149
+St. Petersburg Research Institute of Phthisiopulmonology, St. Petersburg, Russia	145
+NSW Mycobacterium Reference Laboratory	110
+IMM Uni ZH	89
+Public Health Ontario	88
+Tuberculosis Research Unit Consortium	85
+State of Hawaii	84
+OCICB TB Portals Consortium	82
+ICMR JALMA	75
+Foundation for Medical Research	74
+Victor Babes Infectious Diseases and Pneumophtisiology Hospital Craiov, Romania	72
+CDC	67
+Makerere University	59
+Damien Foundation Bangladesh	47
+Ntl Reference Centre for Mycobacteriology Canada	46
+Institutul de Pneumoftiziologie	41
+Vallabhbhai Patel Chest Institute, University of Delhi, India	33
+John Radcliffe Hospital Oxford	32
+St. Petersburg Institute of Phthisiopulmonology	32
+Research Institute of Phthisiopulmonology, St. Petersburg, Russia; St. Petersburg Pasteur Institute, St. Petersburg, Russia	31
+California Dept Public Health	31
+Heartlands Hospital Birmingham	27
+Heilongjiang CDC	26
+The Public Health Agency of Sweden	25
+Guangxi CDC	25
+Carlos Robello	22
+Blanca Samayoa	22
+Center for Life Sciences, Nazarbayev University, Astana, Kazakhstan / National scientific center of phtysiopulmonology, Almaty, Kazakhstan	20
+St. Petersburg Pasteur Institute, St. Petersburg, Russian Federation	20
+Dr. Joy Michael	20
+Zhaogang Sun	19
+LabPLUS	18
+National Tuberculosis Clinical Lab.,Beijing Chest Hospital	18
+Tuberculosis Laboratory of the Tijuana General Hospital	17
+Rajan Babu Institute of Pulmonary Medicine and Tuberculosis, Delhi, India	16
+USPHS/TBTC Study 22 Team	15
+Johns Hopkins Medical Institutions	11
+UP-PGH	10
+San Francisco TB Clinic	9
+Ministerio de Desarrollo Agropecuario (MIDA)	9
+Michael Berney	9
+Scientific and Clinical Antituberculosis Center of Moscow Government Health Department, Moscow, Russia	7
+Manormoney Pillay	6
+Caroline S.Y. Foo	6
+NRC-MyRMA (National Reference Center of Mycobacteria, PitiÃ©-SalpÃªtriÃ¨re Hospital, Paris, France)	6
+The Moscow Research and Clinical Center for Tuberculosis Control	6
+Beijing Tuberculosis and Thoracic Tumor Research Institute	6
+Michigan DNR	6
+PHO	5
+Mycobacteriology Laboratory, Les Centres GHESKIO, Port-au-Prince, Haiti	5
+Henan CDC	5
+Postgraduate Institute of Medical Education and Research, Chandigarh	5
+NSW Tuberculosis Reference Laboratory	5
+PHRI	5
+Henan Chest Hospital	5
+Omsk State Medical University	4
+Claudia Sala (EPFL)	4
+Gilman	4
+Unit of Infectious Diseases, Dept of Medical, Surgical and Health Sciences, University of Trieste	4
+Institute of Microbiology and Laboratory Medicine, Gauting, Germany	4
+Africa Health Research Institute (AHRI)	4
+Muniz	4
+Sichuan CDC	4
+Institute of Tropical Medicine, Antwerp, Belgium	3
+Evangeline Jayakumar	3
+Heinner Guio	3
+Aitkhozhin Institute of Molecular Biology and Biochemistry, Almaty, Kazakhstan	2
+Central Research Institute of Tuberculosis	2
+Badleeva Maria, Dugarova Republican Clinical TB Dispensary, Ulan-Ude, Republic of Buryatia, Russia	2
+Alexeeva G.I	2
+CPHL	2
+Public health Ontario	2
+Li et al	2
+N. R Gandhi et al. (2006)	2
+San Raffaele Scientific Institute	2
+Durban Immunotherapy Trial Group	2
+Saskatchewan Disease Control Laboratory	2
+CIDM-PH	2
+G. Simpson	2
+
+collection_date
+!blank	16295
+2010-01-01	6637
+2009-01-01	2407
+2014-01-01	1453
+2013-01-01	1448
+2007-01-01	1392
+2008-01-01	1379
+2011-01-01	1071
+2016-01-01	1067
+2016-03-31	965
+2012-01-01	942
+2015-01-01	805
+2013-11-01	608
+2006-01-01	569
+2005-01-01	501
+2013-06-01	501
+2003-01-01	456
+2004-01-01	452
+2002-01-01	436
+2013-10-01	435
+2013-03-01	377
+2013-08-01	363
+2001-01-01	345
+2013-07-01	299
+1998-01-01	281
+1997-01-01	272
+2000-01-01	249
+1999-01-01	234
+2013-05-01	232
+2013-09-01	194
+1996-01-01	122
+2017-01-01	114
+2015-01-12	96
+1995-01-01	74
+1994-01-01	68
+2012-10-01	52
+2018-04-01	52
+1992-01-01	49
+2012-09-01	45
+2012-06-06	38
+1993-01-01	36
+2013-07-23	36
+2013-09-04	35
+2013-08-02	24
+2016-07-01	23
+1991-01-01	23
+2015-07-17	22
+2012-12-01	21
+2016-08-01	21
+2016-04-01	19
+2010-03-01	19
+2011-10-01	16
+2016-10-01	16
+2014-10-01	16
+2016-06-01	16
+2015-01-14	15
+2011-08-01	15
+2012-06-01	15
+2011-09-01	15
+2017-03-01	14
+2014-07-01	14
+2016-11-01	14
+2017-01-25	14
+2016-09-23	14
+2014-09-30	14
+2016-02-01	14
+2012-03-01	13
+2014-08-01	12
+2016-05-01	12
+2017-01-13	12
+2012-05-01	12
+2016-12-01	12
+2013-06-27	12
+2016-09-01	11
+2017-02-23	11
+2012-02-01	11
+2016-12-15	11
+2011-12-01	11
+2017-02-17	11
+2016-03-01	11
+2010-10-27	11
+2009-09-11	11
+2016-11-23	10
+2017-02-21	10
+2017-02-15	10
+2013-02-01	10
+2010-02-01	10
+2012-07-01	10
+2015-01-19	9
+1989-01-01	9
+2016-12-21	9
+2016-12-29	9
+2010-11-15	9
+2017-02-01	9
+2014-09-01	9
+2016-03-23	9
+2015-05-01	8
+2008-05-12	8
+2013-05-31	8
+2012-04-01	8
+
+country
+!blank	20629
+South Africa: Kwazulu-Natal	2693
+United Kingdom	1983
+Malawi	1937
+Viet Nam: Ho Chi Minh City	1635
+Canada: British Columbia	1378
+United Kingdom: Oxford	1253
+Russia	1204
+Denmark	967
+Moldova	890
+South Africa	666
+Peru	591
+Netherlands	572
+not collected	552
+China	433
+United Kingdom: Midlands	388
+Italy	350
+Georgia: Tbilisi	333
+Indonesia: Bandung	322
+Thailand: Bangkok	311
+Argentina	306
+Brazil	298
+Canada	260
+Djibouti	252
+Mexico	241
+Canada:Nunavut	233
+Thailand	221
+USA:Washington:Seattle	211
+Japan:Tochigi	197
+Uganda: Kampala	195
+Australia	181
+Switzerland	181
+Mexico: Queretaro	175
+India: Uttar Pradesh	175
+USA:MI	174
+USA: Baltimore, Maryland	173
+Azerbaijan: Baku	171
+Canada: Quebec	169
+Norway	168
+Netherlands: Amsterdam	157
+China: Shanghai	156
+USA	135
+India	113
+USA: Baltimore, MD	105
+Papua New Guinea: Daru	102
+USA: Worchester, MA	102
+Australia: Torres Strait Protected Zone	102
+Nigeria	100
+UK	99
+Azerbaijan	96
+Moldova: Chisinau	95
+Bangladesh	86
+USA: Hawaii	84
+Belarus: Minsk	82
+Mexico: Baja California,Ensenada	79
+Canada: Ontario	74
+India:Mumbai	74
+Germany	73
+Romania: Craiova	72
+Romania: Bucharest	68
+Canada: Alberta	68
+USA:MN	64
+Mexico:Baja California,Tijuana	61
+Philippines	60
+United Kingdom: England	59
+USA:CA	59
+USA:MIchigan	53
+Tajikistan	52
+Tanzania	51
+Cote d&apos;Ivoire	50
+China: Henan	50
+USA: Boston	48
+Bangladesh: Damien Foundation Project area	47
+China: Heilongjiang	47
+Romania:Bucuresti	41
+Democratic Republic of the Congo	41
+South Africa: Stellenbosch	40
+India: Agra	39
+Ireland	39
+Botswana	38
+Georgia	37
+Finland	36
+China: Hunan	36
+China: Guangxi	36
+Ethiopia	36
+Mexico: Jalisco	33
+China: Anhui	33
+China: Jiangsu	33
+USA:NE	33
+China: Shanxi	31
+Russia: Saint Petersburg	31
+USA : California	31
+USA:New York	30
+USA:Michigan	30
+China: Hebei	30
+China: Guangdong	30
+Mexico: Estado de Mexico	29
+USA: New York	29
+USA:TX	28
+Mexico: Aguascalientes	28
+
+cultivar
+!blank	48466
+
+culture_collection
+!blank	48449
+International Reference Laboratory of Mycobacteriology	14
+ATCC 25618	2
+FDA:FDAARGOS_424	1
+
+description
+This sample has been submitted by pda|tami.lieberman on 2016-09-03; Mycobacterium tuberculosis	2686
+Routine Mycobacterial sequencing	1822
+This sample has been submitted by pda|katholt on 2017-03-22; Mycobacterium tuberculosis	1635
+Mycobacterium tuberculosis; Mycobacterium tuberculosis	1497
+This sample has been submitted by pda|mrdefilippo on 2018-03-15; Mycobacterium tuberculosis	1141
+Mycobacterium tuberculosis	1047
+WGS of mycobacteria from early positive Mycobacteria Growth Indicator Tubes (MGIT)ï¿½	962
+This sample has been submitted by pda|cbrillhart on 2015-02-07; Mycobacterium tuberculosis variant bovis	817
+This sample has been submitted by Wellcome Sanger Institute on 2014-09-23; Mycobacterium tuberculosis	809
+missing	739
+This sample has been submitted by pda|vkos on 2015-07-26; Mycobacterium tuberculosis	669
+This sample has been submitted by pda|vkos on 2015-07-19; Mycobacterium tuberculosis	667
+This sample has been submitted by pda|mrdefilippo on 2018-04-12; Mycobacterium tuberculosis	660
+Clinical strain of Mycobacterium tuberculosis part from strain repository of international laboratories	579
+This sample has been submitted by Institute of Pathogen Biology, CAMS&PUMC on 2015-06-02; Mycobacterium tuberculosis	548
+This sample has been submitted by pda|mrdefilippo on 2018-03-02; Mycobacterium tuberculosis	541
+Patients with Mycobacterium tuberculosis isolates sharing identical DNA fingerprint patterns can be epidemiologically linked. However, municipal health services in the Netherlands are able to confirm an epidemiological link in only around 23% of the patients with isolates clustered by the conventional variable number of tandem repeat (VNTR) genotyping. This research aims to investigate whether whole genome sequencing (WGS) is a more reliable predictor of epidemiological links between tuberculosis patients than VNTR genotyping	535
+This sample has been submitted by pda|mrdefilippo on 2018-03-27; Mycobacterium tuberculosis	464
+This sample has been submitted by pda|mrdefilippo on 2018-03-20; Mycobacterium tuberculosis	456
+Clinical human Mycobacterium tuberculosis patient isolate	431
+This sample has been submitted by pda|mrdefilippo on 2018-02-28; Mycobacterium tuberculosis	403
+This sample has been submitted by Wellcome Sanger Institute on 2014-08-22; Mycobacterium tuberculosis	379
+This sample has been submitted by pda|fvalafar on 2017-01-18; Mycobacterium tuberculosis	349
+This sample has been submitted by pda|mrdefilippo on 2018-01-20; Mycobacterium tuberculosis	343
+This sample has been submitted by Wellcome Sanger Institute on 2012-09-11; Mycobacterium tuberculosis	336
+This sample has been submitted by pda|mrdefilippo on 2018-01-31; Mycobacterium tuberculosis	330
+This sample has been submitted by pda|carolienruesen on 2018-01-19; Mycobacterium tuberculosis	322
+This sample has been submitted by pda|vkos on 2015-07-24; Mycobacterium tuberculosis	312
+Mycobacterium tuberculosis clinical isolate	307
+random selection	306
+Generic sample from Mycobacterium tuberculosis H37Rv	299
+This sample has been submitted by pda|mrdefilippo on 2018-05-09; Mycobacterium tuberculosis	295
+This sample has been submitted by pda|josephcrispell on 2017-01-31; Mycobacterium tuberculosis variant bovis	295
+This sample has been submitted by pda|tylerbrown on 2018-08-05; Mycobacterium tuberculosis	293
+This sample has been submitted by pda|angkana555 on 2018-04-21; Mycobacterium tuberculosis	293
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-04; Mycobacterium tuberculosis	288
+This sample has been submitted by Wellcome Sanger Institute on 2012-10-08; Mycobacterium tuberculosis	288
+This sample has been submitted by Wellcome Sanger Institute on 2013-07-18; Mycobacterium tuberculosis	285
+This sample has been submitted by Wellcome Sanger Institute on 2011-12-22; Mycobacterium tuberculosis	267
+Large outbreak of pre-XDR TB, Argentina	251
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-06; Mycobacterium tuberculosis	238
+This sample has been submitted by pda|mrdefilippo on 2017-07-13; Mycobacterium tuberculosis	225
+MTBC reference	225
+This sample has been submitted by Wellcome Sanger Institute on 2014-03-13; Mycobacterium bovis	218
+TB WGS	212
+This sample has been submitted by pda|tskprasad on 2017-11-08; Mycobacterium tuberculosis	200
+This sample has been submitted by pda|mrdefilippo on 2018-04-10; Mycobacterium tuberculosis	197
+Mycobacterium tuberculosis isolated from TB cases in a prefecture of Japan	197
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-19; Mycobacterium tuberculosis	192
+This sample has been submitted by pda|mrdefilippo on 2018-04-05; Mycobacterium tuberculosis	191
+Mycobacterium tuberculosis strains isolated in Khayelitsha	190
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-05; Mycobacterium tuberculosis	190
+DNA direct from sputum	187
+M. tuberculosis WGS	177
+This sample has been submitted by pda|michael.harris2@nih.gov on 2018-07-13; Mycobacterium tuberculosis	173
+This sample has been submitted by pda|ramusal on 2017-06-14; Mycobacterium tuberculosis variant bovis	172
+This sample has been submitted by pda|vkos on 2015-07-23; Mycobacterium tuberculosis	169
+This sample has been submitted by Beijing Genome Institute on 2013-08-21; Mycobacterium tuberculosis	161
+This sample has been submitted by pda|gygseb on 2018-07-19; Mycobacterium tuberculosis	159
+This sample has been submitted by pda|mrdefilippo on 2017-01-09; Mycobacterium tuberculosis	157
+This sample has been submitted by pda|andrea.d.tyler@gmail.com on 2017-11-09; Mycobacterium tuberculosis	150
+This sample has been submitted by pda|echernya on 2017-11-06; Mycobacterium tuberculosis	145
+cultured specimen	128
+This sample has been submitted by pda|tylerbrown on 2018-08-28; Mycobacterium tuberculosis	128
+multidrug-resistance	122
+Whole genome sequences ofÂ Mycobacterium bovisÂ samples from Northern Ireland	119
+This sample has been submitted by pda|arnoldbaino on 2017-11-08; Mycobacterium tuberculosis	100
+This sample has been submitted by pda|andrea.d.tyler@gmail.com on 2016-02-25; Mycobacterium tuberculosis	98
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-22; Mycobacterium tuberculosis	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-07-25; Mycobacterium tuberculosis	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-14; Mycobacterium tuberculosis	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-10; Mycobacterium tuberculosis	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-06-06; Mycobacterium tuberculosis	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-30; Mycobacterium bovis	95
+This sample has been submitted by pda|michael.harris2@nih.gov on 2018-03-06; Mycobacterium tuberculosis	95
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-03; Mycobacterium tuberculosis	95
+Drug resistant M. tuberculosis for two Ugandan Surveys	90
+Generic sample from Mycobacterium tuberculosis	89
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-11; Mycobacterium tuberculosis	87
+This sample has been submitted by pda|michael.harris2@nih.gov on 2017-12-08; Mycobacterium tuberculosis	86
+WGS of mycobacteria from early positive Mycobacteria Growth Indicator Tubes (MGIT) in Leeds	86
+This sample has been submitted by pda|brites on 2017-01-28; Mycobacterium tuberculosis	85
+This sample has been submitted by pda|andrea.d.tyler@gmail.com on 2017-09-29; Mycobacterium tuberculosis	83
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-21; Mycobacterium tuberculosis	81
+MTBC	81
+MTBC genomic DNA	80
+This sample has been submitted by pda|vinods on 2017-01-20; Mycobacterium tuberculosis	75
+This sample has been submitted by pda|vkos on 2015-07-27; Mycobacterium tuberculosis	75
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-07; Mycobacterium tuberculosis	75
+Purified isolate	74
+This sample has been submitted by pda|tfmr on 2017-11-08; Mycobacterium tuberculosis	74
+This sample has been submitted by pda|carolienruesen on 2018-06-26; Mycobacterium tuberculosis	72
+This sample has been submitted by Wellcome Sanger Institute on 2014-01-29; Mycobacterium africanum	71
+MTB-Var	71
+Clinical Isolate	70
+This sample has been submitted by pda|michael.harris2@nih.gov on 2018-07-26; Mycobacterium tuberculosis	68
+This sample has been submitted by Wellcome Sanger Institute on 2015-06-09; Mycobacterium tuberculosis	66
+This sample has been submitted by pda|tatumdmortimer@era on 2017-11-08; Mycobacterium tuberculosis	65
+This sample has been submitted by Wellcome Sanger Institute on 2010-04-19; Mycobacterium tuberculosis	65
+MTB BC002 Genomes	64
+
+dev_stage
+!blank	48465
+stationary phase	1
+
+ecotype
+!blank	48466
+
+environmental_sample
+false	48465
+true	1
+
+first_public
+2016-09-03	2686
+2018-05-15	1823
+2017-03-22	1635
+2018-03-15	1141
+2018-03-02	1071
+2017-11-08	1015
+2015-02-03	1012
+2017-11-30	962
+2017-12-21	837
+2015-02-07	819
+2015-10-06	815
+2015-06-02	704
+2015-07-26	669
+2015-07-19	668
+2018-04-12	663
+2017-10-27	655
+2016-09-19	652
+2014-03-03	633
+2011-05-26	579
+2018-06-01	544
+2018-03-28	535
+2014-04-29	480
+2014-02-21	473
+2018-03-27	464
+2018-03-20	457
+2018-02-28	403
+2014-11-20	400
+2012-10-08	384
+2012-10-22	383
+2015-01-08	372
+2018-08-05	356
+2017-01-18	349
+2017-11-09	348
+2018-01-20	345
+2018-01-19	335
+2014-05-12	335
+2018-01-31	330
+2018-06-19	328
+2014-01-17	325
+2018-07-31	321
+2015-07-24	312
+2017-12-23	306
+2018-05-09	297
+2017-01-31	295
+2018-04-21	293
+2011-09-27	288
+2013-05-28	288
+2013-02-11	288
+2016-08-09	259
+2016-06-29	253
+2017-01-08	253
+2018-07-19	244
+2015-09-22	239
+2017-01-09	234
+2018-06-03	234
+2014-02-20	230
+2017-07-13	226
+2014-07-16	218
+2014-08-20	213
+2018-05-03	212
+2013-03-18	204
+2012-07-30	200
+2018-04-10	197
+2015-02-18	194
+2012-12-18	194
+2012-06-06	192
+2013-02-18	192
+2012-01-16	192
+2013-05-07	192
+2018-04-05	191
+2016-11-12	190
+2013-11-18	183
+2017-03-07	181
+2015-03-03	179
+2012-11-06	179
+2016-06-07	177
+2013-05-02	177
+2018-07-13	173
+2017-06-14	172
+2013-08-22	169
+2014-02-04	169
+2015-07-23	169
+2010-02-26	156
+2011-02-14	153
+2014-01-07	149
+2018-03-01	147
+2012-04-30	145
+2017-11-06	145
+2013-01-16	145
+2013-03-05	144
+2017-07-04	131
+2018-08-28	128
+2013-11-19	126
+2018-01-15	125
+2016-07-06	122
+2015-05-15	122
+2015-12-01	119
+2017-03-17	117
+2017-05-30	115
+2015-03-10	114
+
+germline
+false	48466
+
+identified_by
+!blank	48462
+Bovine Tuberculosis French national reference laboratory	3
+not collected	1
+
+isolate
+!blank	25273
+Mycobacterium tuberculosis	1346
+Sputum sample	354
+Clinical isolate1	344
+Primary culture	298
+clinical isolate	233
+Pulmonary tuberculosis	200
+Clinical isolate	159
+Sputum	84
+Pulmonary	84
+MTBC	73
+M. tuberculosis	61
+1	61
+MGIT	53
+MDR-TB patient	47
+MTBC Culture Isolate	39
+RTB	36
+patients	29
+Various	28
+AF2122/97	13
+Clinical isolate7	13
+Clinical isolate10	13
+Clinical isolate5	13
+Clinical isolate4	13
+Clinical isolate6	13
+Clinical isolate3	13
+Clinical isolate2	13
+Clinical isolate9	13
+Clinical isolate8	13
+Clinical isolate11	12
+Clinical isolate13	12
+Clinical isolate12	12
+Clinical isolate138	11
+Clinical isolate105	11
+Clinical isolate101	11
+Clinical isolate20	11
+Clinical isolate21	11
+Clinical isolate24	11
+Clinical isolate28	11
+Clinical isolate124	11
+Clinical isolate122	11
+Clinical isolate128	11
+Clinical isolate129	11
+Clinical isolate37	11
+Clinical isolate33	11
+Clinical isolate32	11
+Clinical isolate40	11
+Clinical isolate41	11
+Clinical isolate47	11
+Clinical isolate48	11
+Clinical isolate64	11
+Clinical isolate63	11
+Clinical isolate69	11
+Clinical isolate79	11
+Clinical isolate120	11
+Clinical isolate22	11
+Clinical isolate23	11
+Clinical isolate25	11
+Clinical isolate26	11
+Clinical isolate27	11
+Clinical isolate121	11
+Clinical isolate108	11
+Clinical isolate109	11
+Clinical isolate119	11
+Clinical isolate118	11
+Clinical isolate110	11
+Clinical isolate112	11
+Clinical isolate115	11
+Clinical isolate114	11
+Clinical isolate117	11
+Clinical isolate116	11
+Clinical isolate84	11
+Clinical isolate85	11
+Clinical isolate83	11
+Clinical isolate88	11
+Clinical isolate46	11
+Clinical isolate44	11
+Clinical isolate49	11
+Clinical isolate55	11
+Clinical isolate111	11
+Clinical isolate87	11
+Clinical isolate61	11
+Clinical isolate82	11
+Clinical isolate68	11
+Clinical isolate113	11
+Clinical isolate65	11
+Clinical isolate66	11
+Clinical isolate67	11
+Clinical isolate60	11
+Clinical isolate62	11
+Clinical isolate137	11
+Clinical isolate136	11
+Clinical isolate135	11
+Clinical isolate134	11
+Clinical isolate133	11
+Clinical isolate132	11
+Clinical isolate131	11
+Clinical isolate130	11
+Clinical isolate139	11
+Clinical isolate29	11
+
+isolation_source
+!blank	21506
+sputum	7368
+clinical sample	2820
+Morgue	2693
+Sputum	2685
+not known	1597
+culture	1525
+Tissue	822
+human	685
+clinical samples	535
+not collected	468
+Mycobacterial Culture	421
+lab strain	388
+Sputum sample	374
+Sputum or cerebrospinal fluid	322
+Affedcted Herd	283
+Clinical sample	259
+stool	254
+Bodily fluid	232
+Spleen	196
+other	194
+Fed	192
+Montreal Hospitals	169
+Excreted bodily substance	161
+human host	128
+Hospital	122
+Head lymph node	110
+sputum sample	106
+Stool	104
+BAL	96
+DNA from M. tuberculosis	90
+Sputa	85
+Sputum Sample	84
+cerebrospinal fluid	77
+Culture	68
+lung	61
+Human	57
+PULMONARY	53
+Lab strain	49
+Gastric lavage	47
+culture from sputum	47
+Lung lymph node	44
+Pleural fluid	42
+Secrete from trachea	37
+Bodily Fluid	32
+Clinical isolates of M. tuberculosis from human patients	30
+in-vitro	30
+in vitro culture	27
+Human sputum	27
+CSF	23
+Biological sample	20
+Farmed cervid	20
+Biopsy	19
+Lymph nodes	18
+Human patient	16
+tissue	13
+surgeryCaseousMasses	12
+herd4	11
+herd8	11
+bronchial	10
+vaccinal strain	10
+herd5	10
+punctuat	9
+Lungs	9
+Event	9
+herd7	8
+Clinical	8
+Human body	8
+lymph node	7
+Buffalo	7
+hospital	7
+clinical	7
+ATCC #35733	7
+human sputum	6
+H37RV TB	6
+Cerebrospinal fluid	6
+This strain has been derived from the original human-lung H37 isolate in 1934, and has been used extensively worldwide in biomedical research.	6
+Fed-Cow	6
+Human clinical isolate	6
+This strain is a fully virulent strain that was isolated in 1997 in the UK from a cow suffering necrotic lesions in lung and bronchomediastinal lymph nodes.	6
+This strain is a fully virulent strain that was isolated in 1997 in the UK from a cow suffering necrotic lesions in lung and bronchomediastinal lymph nodes. The strain was also reported to infect and persist in badgers that are considered to be a significant source of bovine infection.	6
+Homo sapiens	6
+Cervical lymphnode biopsy	5
+bodily fluid	5
+herd1	5
+Pus	5
+TB culture	5
+herd6	5
+herd2	5
+abscess	5
+VSK	5
+Lavage	4
+broncho alveolar lavage	4
+laboratory	4
+bovine milk	4
+Biopsy right lung	4
+herd3	4
+Spinal fluid	4
+CSF sample	4
+gland	4
+
+location
+!blank	39506
+29.6483 S 30.3318 E	2693
+10.82 N 106.63 E	1635
+49.15 N 123.7 W	1378
+13.7563 N 100.5018 E	300
+47.6097 N 122.3331 W	211
+36.6 N 139.9 E	197
+26.8467 N 80.9462 E	175
+41.7151 N 44.8271 E	173
+57.382713 N 70.61656 W	169
+33.868 S 151.209 E	110
+19.02 N 72.83 E	108
+33.94 S 25.6 E	102
+40.4093 N 49.8671 E	96
+47.0105 N 28.8638 E	95
+46.99 N 28.83 E	90
+21.326958 N 157.86163 W	84
+53.9 N 27.566668 E	82
+31.5196 N 116.3598 W	79
+19.076 N 72.8777 E	74
+44.4268 N 26.1025 E	68
+32.3159 N 117.3 W	62
+50.0 N 85.0 W	55
+14.56 N 121.01 E	50
+15.87 N 100.9925 E	44
+45.9432 N 24.9668 E	41
+27.18 N 78.02 E	39
+43.7 N 79.4 W	35
+37.0 N 120.0 W	31
+32.3849 N 115.2646 W	27
+59.913 N 10.752 E	24
+39.92 N 116.65 E	24
+44.929806 N 127.16119 E	23
+14.633 N 90.5 W	22
+12.899309 N 79.11834 E	21
+51.16 N 71.44 E	20
+60.0108 N 30.366789 E	20
+48.0 N 68.0 E	19
+14.1 N 99.41 E	18
+14.42 N 100.47 E	15
+31.1048 N 77.1734 E	15
+36.8485 S 174.7633 E	12
+46.51999 N 6.5622406 E	10
+29.0 S 31.0 E	10
+59.436962 N 24.753574 E	10
+26.14 N 91.77 E	10
+14.6 N 120.98 E	10
+31.034357 N 121.223335 E	9
+8.9667 N 79.5333 W	9
+37.7749 N 122.4194 W	8
+33.86 S 151.2094 E	7
+31.02387 N 121.41821 E	7
+13.735216 N 100.571335 E	7
+27.49 N 77.67 E	7
+55.7558 N 37.6173 E	6
+34.0948 S 56.2203 W	6
+59.95 N 10.75 E	6
+40.9006 S 174.886 E	6
+27.0238 N 74.2179 E	6
+15.0 N 100.0 E	5
+18.57 N 72.25 W	5
+30.7333 N 76.7794 E	5
+34.75 N 113.64 E	5
+31.0 N 121.13 E	5
+31.23872 N 121.46216 E	5
+34.5291 S 56.2873 W	4
+28.5306 S 30.8958 E	4
+34.4607 S 57.8339 W	4
+54.9885 N 73.3242 E	4
+22.3964 N 114.1095 E	4
+15.87 N 100.99 E	4
+31.39 N 121.23 E	3
+30.2 N 106.17 E	3
+27.15 N 78.4 E	3
+22.9734 N 78.6569 E	3
+31.2576 N 121.3444 E	3
+62.02 N 129.44 E	2
+23.44 N 107.37 E	2
+55.45 N 37.37 E	2
+55.0 N 106.0 W	2
+12.9248 N 79.1358 E	2
+52.035713 N 109.03344 E	2
+21.453068 N 96.67969 E	2
+9.05 S 143.12 E	2
+33.5169 S 56.8985 W	2
+31.109917 N 121.56573 E	2
+35.0853 N 106.6056 W	2
+31.62985 N 121.38606 E	2
+26.77 N 79.03 E	2
+27.07 N 79.92 E	2
+55.676113 N 12.568334 E	2
+23.19 N 107.34 E	2
+45.617767 N 73.55278 W	2
+34.31 N 114.1 E	2
+30.96282 N 121.43763 E	2
+33.88 N 35.5 E	2
+34.481 S 54.3307 W	2
+31.109 N 121.53294 E	2
+27.5 N 79.5 E	2
+16.8661 N 96.1951 E	2
+
+mating_type
+!blank	48466
+
+serotype
+!blank	48316
+MTB	58
+nd	54
+ECDC0002	10
+n.a.	9
+SSI 1331	7
+H37Rv ÎRv3341	5
+H37Rv	4
+EAI	1
+Not known	1
+MTB1_M	1
+
+serovar
+!blank	48316
+MTB	58
+nd	54
+ECDC0002	10
+n.a.	9
+SSI 1331	7
+H37Rv ÎRv3341	5
+H37Rv	4
+EAI	1
+Not known	1
+MTB1_M	1
+
+sex
+!blank	48465
+male	1
+
+submitted_sex
+!blank	48421
+Other	44
+male	1
+
+specimen_voucher
+!blank	48464
+OSDD271	1
+not applicabble	1
+
+strain
+!blank	30584
+not collected	1192
+Thailand	1188
+H37Rv	683
+M (lineage 4.1.2.1)	251
+Microbial	205
+East-Asian (Beijing)	114
+CDC1551	65
+Euro-American (X-type)	63
+MTB	58
+Euro-American	54
+Ra	54
+tuberculosis	51
+Euro-American (LAM)	45
+Manila	37
+Euro-American (mainly T)	32
+ON-A_WT	31
+Ps4_HN878	26
+Beijing (Lineage 2)	24
+Ps5_OFXS-1	24
+ON-A_NM	24
+ST 10	19
+Tn12_Tn209_ref	18
+Tn11:H37Rv	18
+Pasteur 1173P2	16
+from clinical sample	15
+Mp7_Rv0967	14
+Beijing	14
+Mp11_Rv3060c	13
+Mp3_Rv2989	13
+Mp1_Rv1474c	13
+Mp4_Rv3334	13
+18b	13
+Mp8_Rv1049	13
+Mp10_Rv0135c	13
+Mp5_Rv2745c	13
+Mp9_Rv1963c	13
+Mp2_Rv1152	13
+Mp12_209	13
+&quot;M-strain, a nationwide strain in Japan&quot;	10
+BCG-1 (Russia)	10
+Tn3:Rv1819c	10
+Tn7:Rv2196	10
+OFXR-16	10
+OFXR-14	10
+Cr2_00-R1301	10
+Cr6_auxRIF-R1	10
+Cr3_01-R1422	10
+ST-19	10
+Tn1:Tn1398c	10
+ST-10	10
+Tn5:Rv3083c	10
+Cr8_MC26020	10
+MC2_6020	10
+Tn2:Rv1027c	10
+Tn4:Rv3323c	10
+Cr1_01-R0348	10
+Tn6:Rv3869	10
+Cr7_auxRIF-R2	10
+Tn8:Rv1304	10
+lineage 4	9
+Bacillus Calmette Guerin	9
+BCG Pasteur 1173P2	9
+Tokyo 172	9
+Indo-Oceanic	8
+M. tuberculosis	8
+CDC1551 (DdosRS mutant)	8
+Tn10:Rv0758	8
+Tn9:Rv3214	8
+mycobacterium tuberculosis	8
+Mycobacterium bovis BCG SSI 1331	7
+East Asian	7
+ST-22	7
+H37Rv mutant 1	7
+SIT 523	6
+microbial	6
+H37Rv mutant 1 complement	6
+Mp6_Rv1359	6
+subsp. tuberculosis	6
+Erdman	5
+ST-25	5
+H37rv	4
+Mycobacterium tuberculosis strain H37Rv	4
+Haarlem	4
+H37Rv (ATCC 27294)	4
+Tn9_Rv3214	4
+Mtb_2855	3
+STK	3
+SCAID 252	3
+NM	3
+SCAID 187	3
+Beijing GC1237	3
+2068Z	3
+Southern Cross	3
+Mtb_323	3
+7	3
+127	3
+102	3
+101	3
+A70136	3
+
+sub_species
+!blank	48454
+tuberculosis	11
+bovis	1
+
+sub_strain
+!blank	48466
+
+tissue_lib
+!blank	48466
+
+tissue_type
+!blank	48461
+cell culture	4
+nose	1
+
+variety
+!blank	48466
+
+tax_id
+1773	40770
+1765	2894
+83332	1123
+33894	319
+233413	111
+115862	72
+83331	39
+33892	38
+410289	27
+1455167	26
+1455169	24
+1455170	18
+1455166	18
+561275	16
+1455177	14
+1455172	13
+1455171	13
+1455173	13
+1455174	13
+1455175	13
+1455176	13
+1455178	13
+1455181	13
+1455180	13
+1455182	13
+747367	13
+1455162	10
+1455165	10
+1455190	10
+1455159	10
+1455158	10
+1455156	10
+1455157	10
+1455185	10
+1455184	10
+1455189	10
+1455161	10
+1455160	10
+687452	10
+1455186	10
+1455188	10
+194542	9
+1455163	8
+998090	8
+1455164	8
+1806	6
+1455183	6
+652616	5
+419947	5
+395095	4
+1455168	4
+182785	4
+659019	3
+336982	2
+537210	2
+668339	2
+537209	2
+1455191	2
+478434	2
+937592	2
+1455179	2
+515617	2
+675512	2
+1455187	2
+907904	2
+668349	2
+520141	2
+1295745	1
+1295744	1
+1295747	1
+1295746	1
+1295740	1
+1295742	1
+1413020	1
+1413021	1
+1413022	1
+1413023	1
+1413024	1
+1413025	1
+1413026	1
+1413027	1
+1447450	1
+1447451	1
+1447452	1
+1447453	1
+1447454	1
+1447386	1
+1447456	1
+1438967	1
+1447458	1
+1447459	1
+1448664	1
+1447387	1
+1448662	1
+1448663	1
+1448660	1
+1448661	1
+1455248	1
+1455249	1
+1455246	1
+
+scientific_name
+Mycobacterium tuberculosis	40770
+Mycobacterium tuberculosis variant bovis	2894
+Mycobacterium tuberculosis H37Rv	1123
+Mycobacterium tuberculosis variant africanum	319
+Mycobacterium tuberculosis variant bovis AF2122/97	111
+Mycobacterium tuberculosis variant caprae	72
+Mycobacterium tuberculosis CDC1551	39
+Mycobacterium tuberculosis variant bovis BCG	38
+Mycobacterium tuberculosis variant bovis BCG str. Pasteur 1173P2	27
+Mycobacterium tuberculosis Ps4_HN878	26
+Mycobacterium tuberculosis Ps5_OFXS-1	24
+Mycobacterium tuberculosis Tn11:H37Rv	18
+Mycobacterium tuberculosis Tn12_Tn209_ref	18
+Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172	16
+Mycobacterium tuberculosis Mp7_Rv0967	14
+Mycobacterium tuberculosis Mp8_Rv1049	13
+Mycobacterium tuberculosis Mp2_Rv1152	13
+Mycobacterium tuberculosis Mp10_Rv0135c	13
+Mycobacterium tuberculosis Mp5_Rv2745c	13
+Mycobacterium tuberculosis HN878	13
+Mycobacterium tuberculosis Mp1_Rv1474c	13
+Mycobacterium tuberculosis Mp3_Rv2989	13
+Mycobacterium tuberculosis Mp11_Rv3060c	13
+Mycobacterium tuberculosis Mp4_Rv3334	13
+Mycobacterium tuberculosis Mp12_209	13
+Mycobacterium tuberculosis Mp9_Rv1963c	13
+Mycobacterium tuberculosis Cr7_auxRIF-R2	10
+Mycobacterium tuberculosis Tn8:Rv1304	10
+Mycobacterium tuberculosis Tn4:Rv3323c	10
+Mycobacterium tuberculosis Cr3_01-R1422	10
+Mycobacterium tuberculosis Tn5:Rv3083c	10
+Mycobacterium tuberculosis MC2_6020	10
+Mycobacterium tuberculosis Cr6_auxRIF-R1	10
+Mycobacterium tuberculosis Cr8_MC26020	10
+Mycobacterium tuberculosis Tn7:Rv2196	10
+Mycobacterium tuberculosis Tn3:Rv1819c	10
+Mycobacterium tuberculosis Tn1:Tn1398c	10
+Mycobacterium tuberculosis Cr1_01-R0348	10
+Mycobacterium tuberculosis Tn2:Rv1027c	10
+Mycobacterium tuberculosis Cr2_00-R1301	10
+Mycobacterium tuberculosis Tn6:Rv3869	10
+Mycobacterium tuberculosis variant pinnipedii	9
+Mycobacterium tuberculosis Tn9:Rv3214	8
+Mycobacterium tuberculosis variant bovis BCG str. ATCC 35733	8
+Mycobacterium tuberculosis Tn10:Rv0758	8
+Mycobacterium tuberculosis variant microti	6
+Mycobacterium tuberculosis Mp6_Rv1359	6
+Mycobacterium tuberculosis H37Ra	5
+Mycobacterium tuberculosis str. Erdman = ATCC 35801	5
+Mycobacterium tuberculosis subsp. tuberculosis	4
+Mycobacterium tuberculosis Tn9_Rv3214	4
+Mycobacterium tuberculosis str. Haarlem	4
+Mycobacterium tuberculosis W-148	3
+Mycobacterium tuberculosis T92	2
+Mycobacterium tuberculosis HN4143	2
+Mycobacterium tuberculosis T67	2
+Mycobacterium tuberculosis SUMu001	2
+Mycobacterium tuberculosis F11	2
+Mycobacterium tuberculosis Cr5_OFXR-17	2
+Mycobacterium tuberculosis KZN 1435	2
+Mycobacterium tuberculosis 00_1695	2
+Mycobacterium tuberculosis Cr4_98-01436	2
+Mycobacterium tuberculosis Tn10_Rv0758	2
+Mycobacterium tuberculosis T17	2
+Mycobacterium tuberculosis str. Erdman WHO	2
+Mycobacterium tuberculosis T85	2
+Mycobacterium tuberculosis GM 1503	2
+Mycobacterium tuberculosis M1233	1
+Mycobacterium tuberculosis M1232	1
+Mycobacterium tuberculosis TKK-01-0076	1
+Mycobacterium tuberculosis M1236	1
+Mycobacterium tuberculosis BTB04-388	1
+Mycobacterium tuberculosis BTB07-123	1
+Mycobacterium tuberculosis BTB07-126	1
+Mycobacterium tuberculosis MD14620	1
+Mycobacterium tuberculosis MD14621	1
+Mycobacterium tuberculosis M1726	1
+Mycobacterium tuberculosis M7D1	1
+Mycobacterium tuberculosis M7D7	1
+Mycobacterium tuberculosis M7D4	1
+Mycobacterium tuberculosis M1025	1
+Mycobacterium tuberculosis NRITLD19	1
+Mycobacterium tuberculosis NRITLD18	1
+Mycobacterium tuberculosis NRITLD17	1
+Mycobacterium tuberculosis M10D7	1
+Mycobacterium tuberculosis M10D4	1
+Mycobacterium tuberculosis variant bovis B2 7505	1
+Mycobacterium tuberculosis M37D4	1
+Mycobacterium tuberculosis MD14825	1
+Mycobacterium tuberculosis NRITLD11	1
+Mycobacterium tuberculosis M10D1	1
+Mycobacterium tuberculosis M37D28	1
+Mycobacterium tuberculosis MD18498	1
+Mycobacterium tuberculosis M37D21	1
+Mycobacterium tuberculosis MAL010108	1
+Mycobacterium tuberculosis MAL010109	1
+Mycobacterium tuberculosis 15-Ps1_RIF_3_A	1
+Mycobacterium tuberculosis M34D10pre	1
+Mycobacterium tuberculosis MAL010103	1
+Mycobacterium tuberculosis MAL010106	1
+
+sample_alias
+1	5
+17	4
+30	4
+7	3
+2	3
+3150	3
+6	3
+11	3
+12	3
+15	3
+16	3
+19	3
+24	3
+25	3
+26	3
+27	3
+23	3
+39	3
+38	3
+33	3
+36	3
+35	3
+34	3
+55	3
+1022	3
+C1	3
+5	3
+C4	3
+3874	2
+Mtb40	2
+10-7070	2
+C00007569	2
+3621	2
+3620	2
+3856	2
+3857	2
+3858	2
+3859	2
+N0031	2
+Mtb42	2
+Mtb41	2
+Mtb45	2
+48	2
+41	2
+2918	2
+Mtb35	2
+Mtb38	2
+09-0109	2
+2701	2
+7074	2
+07-7377	2
+09-3330	2
+549	2
+09-5870	2
+04-8160	2
+9	2
+654	2
+178	2
+C5	2
+07-7940	2
+F28	2
+227	2
+1797	2
+Mtb53	2
+Mtb54	2
+556	2
+550	2
+821	2
+07-6884	2
+4	2
+3052	2
+C22	2
+04-8158	2
+04-8159	2
+10-4566	2
+Sample 58	2
+97-3827	2
+C00007570	2
+1008	2
+1004	2
+3869	2
+3868	2
+3862	2
+3861	2
+3867	2
+3866	2
+3865	2
+3864	2
+MP1	2
+234	2
+07-3557	2
+04-7295	2
+877	2
+02-1054	2
+Mtb24	2
+09-3201	2
+BCG Connaught	2
+KC34179	2
+108	2
+106	2
+
+checklist
+!blank	35336
+ERC000011	8695
+ERC000028	3848
+ERC000013	1
+
+center_name
+pda|mrdefilippo	5494
+Wellcome Sanger Institute	4215
+ModMedMicOxford	3093
+pda|tami.lieberman	2693
+pda|katholt	1635
+pda|jlgardy	1378
+pda|todstuber	985
+STATENS SERUM INSTITUT	952
+pda|cbrillhart	819
+NORWEGIAN INSTITUTE OF PUBLIC HEALTH	802
+Broad Institute	596
+pda|carolinecusick	568
+Institute of Pathogen Biology, CAMS&PUMC	549
+RIVM - National Institute for Public Health and the Environment	535
+pda|michael.harris2@nih.gov	514
+pda|sineadchapman	490
+pda|tylerbrown	421
+FUDAN UNIVERSITY	419
+pda|carolienruesen	394
+pda|angkana555	381
+!blank	379
+pda|andrea.d.tyler@gmail.com	377
+pda|fvalafar	351
+pda|josephcrispell	296
+pda|afk2s@virginia.edu	216
+Institute for Systems Biology	211
+pda|arnoldbaino	205
+pda|tskprasad	200
+pda|echernya	193
+Institute of Infectious Disease and Molecular Medicine	190
+UNIVERSITY OF CAPE TOWN	177
+pda|callender	176
+pda|ramusal	172
+pda|gygseb	159
+Fudan university	122
+Glasgow Polyomics	119
+UNIVERSITY COLLEGE LONDON	107
+St George's, University of London	105
+Public Health Ontario	92
+Fudan University	89
+pda|brites	85
+pda|kkoster@hawaii.edu	85
+pda|vinods	76
+pda|tfmr	74
+BIRMINGHAM UNIVERSITY	73
+pda|tatumdmortimer@era	66
+British Columbia Centre for Disease Control	64
+GENE CENTER MUNICH, LMU MUNICH, MUNICH, GERMANY	61
+pda|dkateete	59
+pda|ranjeeta_menon	58
+UCL	58
+pda|maru82md	54
+pda|ugabronco	52
+Centre for Infectious Diseases and Microbiology	52
+pda|botti86	49
+pda|pauline_lempens	47
+Eureka Genomics	46
+cit|quinonesm	41
+Trinity College Dublin, Republic of Ireland	39
+Research Institute of Physical-Chemical Medicine, Moscow, Russia	38
+NATIONAL INSTITUTE FOR HEALTH AND WELFARE	36
+pda|mikael_mansjo	32
+Institute of Biodiversity, Animal Health & Comparative Medicine	31
+UNIVERSITY OF S*O PAULO	30
+MRC National Institute for Medical Research	29
+University of Oslo	29
+DST/NRF Centre of Excellence for Biomedical TB research, SAMRC Centre for TB Research	29
+pda|giandharij	24
+pda|jws48	22
+pda|moira.lasserre@gmail.com	22
+University of Oxford	21
+pda|sandeepkaushik	21
+UNIVERSITY OF BASEL, SWITZERLAND	21
+pda|aset8	20
+pda|eshitikov	20
+School of Veterinary Medicine	19
+Institute of Microbiology, Chinese Academy of Sciences	19
+SCAID	19
+pda|efly	18
+Broad Institute, Cambridge, MA, USA	18
+pda|soohong	18
+Translational Genomics Research Institute	18
+Gene Expression Omnibus	16
+pda|aditi9783	15
+London School of Hygiene and Tropical Medicine	15
+DTU Systems Biology	14
+ETH Zurich Institute of Molecular Systems Biology	13
+MRC NIMR	13
+pda|ib	12
+pda|vkos	11
+pda|ioerger@cs.tamu.edu	10
+pda|abenjak	10
+Oxford Gene Technology	10
+pda|charissan	10
+pda|htin	10
+European Bioinformatics Institute	10
+RADBOUDUMC	10
+pda|maryletteroa	10
+SAMRC Centre for Tuberculosis Research	9
+University of California, San Francisco	9
+
+depth
+!blank	32963
+20.0	1
+339.0	1
+58.0	1
+324.0	1
+224.0	1
+34.0	1
+306.0	1
+114.0	1
+270.0	1
+22.0	1
+62.0	1
+196.0	1
+28.0	1
+170.0	1
+415.0	1
+
+elevation
+!blank	32978
+
+altitude
+!blank	32978
+
+environment_biome
+!blank	32946
+not collected	24
+terrestrial biome	6
+hospital	1
+cow	1
+
+environment_feature
+!blank	32947
+not collected	24
+human-associated habitat	6
+cow	1
+
+environment_material
+!blank	32750
+sputum	197
+not collected	24
+human-associated habitat	6
+tissue	1
+
+temperature
+!blank	32978
+
+salinity
+!blank	32978
+
+sampling_campaign
+!blank	32978
+
+sampling_site
+!blank	32978
+
+sampling_platform
+!blank	32978
+
+protocol_label
+!blank	32978
+
+project_name
+!blank	32759
+Whole genome sequencing of Mycobacterium tuberculosis isolated from TB cases in a prefecture of Japan	197
+TGS-TB: Total Genotyping Solution for Mycobacterium tuberculosis using short read genome sequencing.	7
+Identification of a case of cross-contamination in a laboratory in japan	3
+Mycobacterium caprae isolated from an Asian elephant	2
+S4	1
+
+host
+Homo sapiens	22843
+Human	3383
+human	2789
+Cattle	1233
+Bos taurus	520
+mouse	254
+Mouse	206
+homo sapiens	197
+BOVINE	192
+homo sapien	177
+!blank	161
+Cow	115
+cattle	61
+Deer	49
+FERRET	38
+Homo sapien	38
+bos taurus	23
+Homo sapiens sapiens	21
+human patient	18
+Raccoon	13
+Elephas maximus	10
+cow	9
+Sus scrofa	8
+Felis catus	7
+Syncerus caffer	7
+free-living	6
+Elk	5
+Primate	5
+Elephant	3
+Panthera leo	3
+wild boar	2
+bovine	1
+Jaguar	1
+red deer	1
+elk	1
+Chimpanzee	1
+free living	1
+Coyote	1
+Homo Sapien	1
+Bison bison athabascae	1
+Tragelaphus strepsiceros	1
+Pan troglodytes	1
+Bison	1
+Lama glama	1
+llama	1
+STOAT	1
+Bovine	1
+Bison bonasus	1
+Bobcat	1
+African Elephant	1
+
+host_tax_id
+9606	10348
+!blank	207
+9913	95
+9783	8
+9970	7
+9689	3
+9946	1
+9598	1
+9784	1
+
+host_status
+!blank	3143
+
+host_sex
+male	1811
+female	1189
+!blank	143
+
+submitted_host_sex
+!blank	142
+
+host_body_site
+!blank	142
+
+host_gravidity
+!blank	142
+
+host_phenotype
+!blank	142
+
+host_genotype
+!blank	142
+
+host_growth_conditions
+!blank	142
+
+environmental_package
+!blank	141
+host-associated	1
+
+investigation_type
+!blank	141
+mimarks-survey	1
+
+experimental_factor
+!blank	142
+
+sample_collection
+!blank	142
+
+sequencing_method
+!blank	141
+
+target_gene
+!blank	141
+
+ph
+!blank	125
+
+broker_name
+

@@ -1,0 +1,1146 @@
+bio_material
+!blank	16273
+bacteria grown on 16HBE cells	7
+
+cell_line
+!blank	16280
+
+cell_type
+!blank	16280
+
+collected_by
+!blank	15687
+US State Health Department	382
+FL Department of Health	109
+Columbus STD clinic	75
+UW clinical laboratory	10
+Pediatric Research and Clinical Center for Infectious Diseases	4
+Fiocruz	2
+Christian Medical College	2
+USAMRIID &lt; ATCC &lt; S.E. Branham &lt; F. Mickle	1
+ATCC &lt; Enzo Biochem, Inc.&lt; ATCC 13109	1
+ATCC, E Aho, J. Cannon, North Carolina Memorial Hospital	1
+ATCC &lt; Enzo Biochem, Inc. &lt; ATCC 13090	1
+ATCC &lt; H Tettelin &lt; R Moxon	1
+British Columbia Centre for Disease Control	1
+Florida State Clinic	1
+USAMRIID	1
+ATCC &lt; Enzo Biochem, Inc.&lt; ATCC 13077	1
+
+collection_date
+!blank	12655
+2011-01-01	704
+2015-01-01	546
+2012-01-01	541
+2006-01-01	426
+2010-01-01	398
+2016-01-01	281
+2014-01-01	202
+2009-01-01	154
+2013-01-01	145
+2017-01-01	46
+2008-01-01	32
+2004-01-01	25
+1997-01-01	23
+2003-01-01	23
+2002-01-01	18
+2007-01-01	13
+2001-01-01	10
+2005-01-01	8
+1900-01-01	7
+1998-01-01	4
+1996-01-01	3
+1983-01-01	3
+1928-01-01	2
+2016-08-01	2
+1994-01-01	2
+1999-01-01	1
+1931-01-01	1
+2007-12-01	1
+2014-05-10	1
+2010-10-04	1
+2014-11-18	1
+2018-04-16	1
+
+country
+!blank	12635
+United Kingdom	1440
+USA	540
+Netherlands	390
+Burkina Faso	294
+Nigeria	119
+USA: Florida	110
+Ethiopia	100
+Chad	97
+Niger	78
+USA: Columbus, Ohio	75
+Togo	70
+Ghana	65
+Ghana: Kassena Nankana District	61
+Burkina Faso: Nouna Health District	34
+Mali	32
+New Zealand	27
+Germany	26
+Guinea	13
+Benin	11
+USA: WA	10
+not available	7
+Russia:Saint-Petersburg	4
+Ghana: Bolgatanga District	4
+France	3
+Algeria	3
+Australia	3
+USA: Chicago	2
+India: Vellore	2
+USA:MA	2
+USA:VA	2
+Italy: Veneto Region	2
+Canada	1
+United Kingdom: Blackpool	1
+Brazil: Espirito Santo	1
+Cameroon	1
+New York City	1
+not provided	1
+Djibouti	1
+Oregon	1
+USA:MD	1
+Philippines	1
+USA: Illinois	1
+Gambia	1
+Minnesota, USA	1
+Central African Republic	1
+Brazil: Rio de Janeiro	1
+Switzerland	1
+Russia	1
+Senegal	1
+USA:NC	1
+
+cultivar
+!blank	16280
+
+culture_collection
+!blank	16262
+NCTC:13280	1
+FDA:FDAARGOS_214	1
+NCTC:9714	1
+NCTC:10025	1
+NCTC:10026	1
+NCTC:6455	1
+NCTC:8554	1
+NCTC:8249	1
+NCTC:3372	1
+NCTC:9388	1
+FDA:FDAARGOS_210	1
+FDA:FDAARGOS_211	1
+FDA:FDAARGOS_212	1
+NCTC:12163	1
+FDA:FDAARGOS_215	1
+NCTC:9390	1
+FDA:FDAARGOS_209	1
+FDA:FDAARGOS_208	1
+
+description
+Nottingham Carriage Isolate	533
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-09; Neisseria meningitidis	458
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-29; Neisseria meningitidis	404
+This sample has been submitted by Wellcome Sanger Institute on 2013-05-21; Neisseria meningitidis	311
+This sample has been submitted by pda|lur5 on 2018-07-11; Neisseria meningitidis	291
+Collaboration project between CDC, Institut Pasteur and the Norwegian Institute of Public Health (FHI). WGS of N meningitidis from Africa.	289
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-14; Neisseria meningitidis	212
+This sample has been submitted by pda|adamretchlesscdc on 2017-08-09; Neisseria meningitidis	193
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-17; Neisseria meningitidis	184
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-03; Neisseria meningitidis	177
+This sample has been submitted by Wellcome Sanger Institute on 2012-11-19; Neisseria meningitidis	177
+This sample has been submitted by pda|adamretchlesscdc on 2017-11-30; Neisseria meningitidis	156
+NmC	149
+This sample has been submitted by Wellcome Sanger Institute on 2012-09-05; Neisseria meningitidis	138
+Mc transformation	100
+Neisseria meningitidis	100
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-20; Neisseria meningitidis	95
+This sample has been submitted by Wellcome Sanger Institute on 2010-07-05; Neisseria meningitidis	95
+This sample has been submitted by Wellcome Sanger Institute on 2010-05-12; Neisseria meningitidis	84
+This sample has been submitted by pda|adamretchlesscdc on 2016-07-30; Neisseria meningitidis	80
+This sample has been submitted by pda|adamretchlesscdc on 2017-01-05; Neisseria meningitidis	75
+This sample has been submitted by pda|taj.azarian on 2015-06-08; Neisseria meningitidis	74
+This sample has been submitted by Wellcome Sanger Institute on 2013-07-03; Neisseria meningitidis	61
+This sample has been submitted by Wellcome Sanger Institute on 2011-01-25; Neisseria meningitidis	59
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-10; Neisseria meningitidis	57
+This sample has been submitted by pda|lur5 on 2018-05-04; Neisseria meningitidis	57
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-13; Neisseria meningitidis	53
+This sample has been submitted by Wellcome Sanger Institute on 2011-08-17; Neisseria meningitidis	53
+This sample has been submitted by Wellcome Sanger Institute on 2014-05-21; Neisseria meningitidis	47
+This sample has been submitted by pda|djnolan on 2016-07-08; Neisseria meningitidis	34
+This sample has been submitted by pda|lur5 on 2017-11-08; Neisseria meningitidis	34
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-29; Neisseria meningitidis	20
+This sample has been submitted by Wellcome Sanger Institute on 2011-07-11; Neisseria meningitidis	20
+NZ Household contact meningococci	20
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-29; Neisseria meningitidis	16
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-14; Neisseria meningitidis	15
+This sample has been submitted by pda|stevesal on 2015-07-08; Neisseria meningitidis	10
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-06; Neisseria meningitidis	8
+This sample has been submitted by Wellcome Sanger Institute on 2011-12-14; Neisseria meningitidis	8
+Neisseria meningitidis; Neisseria meningitidis; Neisseria meningitidis	7
+Protocols: Bacteria grown in Ham F-12 medium (PAA Laboratories) supplemented with 10% fetal calf serum (FCS; PAA Laboratories), 20 mM HEPES (PAA Laboratories) at 37Â°C in a humidified incubator under 5% CO2to the mid-logarithmic phase were harvested by centrifugation Three replicates each	6
+This sample has been submitted by Wellcome Sanger Institute on 2011-04-13; Neisseria meningitidis	6
+This sample has been submitted by pda|johklu on 2016-09-06; Neisseria meningitidis	4
+This sample has been submitted by pda|jblom@cebitec.uni-bielefeld.de on 2016-08-02; Neisseria meningitidis	4
+This sample has been submitted by Wellcome Sanger Institute on 2010-06-30; Neisseria meningitidis	4
+This sample has been submitted by Wellcome Sanger Institute on 2010-08-17; Neisseria meningitidis	4
+This sample has been submitted by Wellcome Sanger Institute on 2014-06-19; Neisseria meningitidis	3
+NadA lambda displayed libraries	3
+Biological replicate number 2/2	3
+Biological replicate number 1/2	3
+This sample has been submitted by pda|adamretchlesscdc on 2017-03-21; Neisseria meningitidis	2
+This sample has been submitted by pda|drnaveenkumar on 2017-02-17; Neisseria meningitidis	2
+meningococcal invasive disease	2
+Neisseria meningitidis 98080	2
+Neisseria meningitidis 97021	2
+Serogroup C	2
+This sample has been submitted by Wellcome Sanger Institute on 2010-05-13; Neisseria meningitidis	2
+neisseria meningitidis tnseq data target endothelial cells lib 2	2
+NHBA lambda displayed libraries	2
+nasal carriage	2
+This sample has been submitted by pda|lilianeconteville@gmail.com on 2018-01-13; Neisseria meningitidis	2
+Neisseria methylome	2
+14324_4#42	1
+14355_5#93	1
+14324_4#40	1
+14355_5#91	1
+14324_4#47	1
+14355_5#94	1
+14324_4#43	1
+SAMPLE_WTCHG_156101_156102_269190	1
+14324_4#48	1
+14324_4#49	1
+SAMPLE_136897_M15_240192	1
+SAMPLE_186662_M07_240657-2	1
+SAMPLE_WTCHG_523978_290179	1
+SAMPLE_WTCHG_404917_242174	1
+SAMPLE_WTCHG_316996_270185	1
+SAMPLE_WTCHG_404916_270135	1
+SAMPLE_WTCHG_118360_118361_237185	1
+SAMPLE_128132_M14_240550	1
+SAMPLE_261866_ST42326-1	1
+SAMPLE_252234_BR40021-2	1
+SAMPLE_252260_BR40378-2	1
+N. meningitidis CKNM397, gene pilE, experiment 1	1
+N. meningitidis CKNM397, gene pilE, experiment 2	1
+SAMPLE_WTCHG_130766_221	1
+SAMPLE_WTCHG_372639_263185	1
+SAMPLE_260470_ST41746-2	1
+SAMPLE_205835_M15_240953-1	1
+SAMPLE_137174_M15_240211	1
+SAMPLE_WTCHG_130124_130125_269107	1
+SAMPLE_WTCHG_432690_204155	1
+SAMPLE_136894_M15_240189	1
+SAMPLE_WTCHG_432690_210178	1
+SAMPLE_WTCHG_372639_209107	1
+SAMPLE_WTCHG_372639_209104	1
+SAMPLE_WTCHG_372639_209103	1
+SAMPLE_WTCHG_350648_202179	1
+SAMPLE_WTCHG_432689_211131	1
+SAMPLE_WTCHG_128691_128692_250185	1
+
+dev_stage
+!blank	16280
+
+ecotype
+!blank	16280
+
+environmental_sample
+false	16280
+
+first_public
+2015-08-13	892
+2014-07-15	582
+2017-11-16	533
+2017-01-03	530
+2015-08-19	508
+2018-06-08	491
+2017-12-08	411
+2015-06-01	399
+2017-09-06	384
+2012-09-19	384
+2017-05-30	355
+2016-12-19	325
+2015-01-08	317
+2016-07-05	307
+2017-01-16	306
+2018-07-11	291
+2014-04-07	279
+2014-01-10	276
+2017-10-27	276
+2016-09-02	262
+2014-06-20	251
+2016-10-07	216
+2013-10-14	215
+2016-06-21	214
+2016-04-28	204
+2017-08-09	193
+2018-01-18	192
+2015-01-14	190
+2014-12-23	190
+2017-04-19	188
+2014-01-14	187
+2014-10-17	187
+2013-07-15	183
+2014-03-25	179
+2017-01-11	178
+2013-07-08	178
+2013-03-11	177
+2015-04-08	175
+2011-02-14	173
+2016-08-02	166
+2015-11-12	164
+2018-07-10	161
+2017-11-30	157
+2018-04-24	149
+2015-12-03	146
+2013-01-21	138
+2017-03-01	131
+2010-08-31	130
+2012-06-06	116
+2016-02-23	111
+2017-12-23	100
+2016-11-02	99
+2017-05-09	96
+2012-09-25	96
+2012-06-11	96
+2013-08-27	96
+2011-11-07	96
+2015-11-13	95
+2015-01-27	93
+2013-11-18	93
+2012-06-25	91
+2016-04-27	87
+2013-06-03	83
+2013-05-28	83
+2016-07-30	80
+2012-10-30	76
+2017-01-05	75
+2015-06-08	74
+2011-06-14	73
+2013-09-30	70
+2015-11-25	62
+2015-10-08	61
+2016-08-16	59
+2018-05-04	57
+2016-10-12	54
+2012-01-05	53
+2015-08-04	52
+2014-08-27	47
+2015-11-11	45
+2016-07-08	37
+2017-11-08	34
+2016-10-05	32
+2012-10-08	31
+2010-11-25	30
+2013-10-07	29
+2016-05-25	28
+2017-10-20	27
+2015-08-05	26
+2011-11-02	24
+2015-08-06	24
+2014-11-20	23
+2015-07-16	18
+2012-03-18	17
+2017-03-06	15
+2012-04-10	15
+2016-12-20	14
+2016-07-23	14
+2013-03-23	13
+2017-12-06	13
+2010-09-17	12
+
+germline
+false	16280
+
+identified_by
+!blank	16280
+
+isolate
+!blank	14142
+NZ97192	3
+NZCM240	3
+2586_15	2
+1168_15	2
+NZCM238	2
+NZCM239	2
+982_15	2
+1395_15	2
+22469	1
+22468	1
+22466	1
+22463	1
+22460	1
+SK186	1
+SK187	1
+COL-201511-18	1
+1947_15	1
+COL-201511-10	1
+M29308	1
+M24026	1
+BuFa1/12	1
+M38001	1
+MM_B_4593	1
+COL-201508-18	1
+COL-201508-19	1
+COL-201508-16	1
+COL-201508-17	1
+NZCM165	1
+NZCM162	1
+M37464	1
+M38714	1
+M38715	1
+M1089	1
+M1083	1
+M1082	1
+M38718	1
+M38719	1
+COL-201507-09	1
+M25165	1
+M23950	1
+22714	1
+M1067	1
+1661_15	1
+22712	1
+22485	1
+AR04432_T0	1
+22483	1
+AR04432_T9	1
+22488	1
+Niga12_15	1
+COL-201510-39	1
+M25255	1
+M24689	1
+M24688	1
+Tch67/12	1
+R980	1
+R987	1
+1663_15	1
+22900	1
+Niga10_14	1
+22903	1
+22904	1
+22905	1
+M27306	1
+AR05607_T0	1
+2548_15	1
+R850	1
+R852	1
+R855	1
+R856	1
+R212	1
+R210	1
+R216	1
+Tch50/13	1
+M23252	1
+Nm122_FL_W135_2014	1
+Niga16/15	1
+M23227	1
+M23228	1
+M23229	1
+MM_B_1631	1
+M25862	1
+M25863	1
+M38333	1
+M25866	1
+M25867	1
+M25864	1
+M25865	1
+Niga12/15	1
+99607	1
+M22935	1
+3643_15	1
+R508	1
+R504	1
+M39552	1
+M23169	1
+M23168	1
+NZ98074	1
+M23160	1
+
+isolation_source
+!blank	12932
+Invasive	899
+CSF	697
+Nottingham	533
+Sterile Site	347
+Blood	206
+not collected	158
+Blood or CSF	109
+pharynx	109
+Oropharyngeal swab	100
+urethral swab	75
+sterile site	30
+Throat	19
+not known	8
+cerebrospinal fluid	7
+not available: to be reported later	6
+Cerebrospinal fluid	6
+nasopharynx	4
+Human (Homo sapiens) Blood	4
+Urogenital swab	3
+spinal fluid	3
+nasopharyngeal swab	3
+serum	2
+not provided	2
+Spinal fluid	2
+Cerobrospinal fluid	2
+blood	2
+environmental	2
+human	1
+Non-sterile site	1
+Skin biopsy	1
+Anal swab	1
+Rectal swab	1
+Throat swab	1
+CSF/Blood	1
+throat swab	1
+Blood culture	1
+Human	1
+
+location
+!blank	16276
+12.9165 N 79.1325 E	2
+36.0 N 79.0 W	1
+13.4 N 15.0 W	1
+
+mating_type
+!blank	16280
+
+serotype
+!blank	14443
+Not Known	899
+W	211
+10217	147
+Y	123
+Serogroup A	101
+A	90
+B	74
+ST-192	48
+C	43
+X	21
+ST-2880	15
+ST-53	11
+not available: to be reported later	11
+ST-11	10
+not known	7
+ST-198	5
+ST-175	4
+ST-35	2
+ST-11597	2
+Serogroup B	2
+ST-11372	2
+9367	1
+ST-11595	1
+11561	1
+Group B	1
+NG	1
+Serotype Group C, serotype 2a	1
+cnl	1
+?	1
+Serogroup C	1
+
+serovar
+!blank	14443
+Not Known	899
+W	211
+10217	147
+Y	123
+Serogroup A	101
+A	90
+B	74
+ST-192	48
+C	43
+X	21
+ST-2880	15
+ST-53	11
+not available: to be reported later	11
+ST-11	10
+not known	7
+ST-198	5
+ST-175	4
+ST-35	2
+ST-11597	2
+Serogroup B	2
+ST-11372	2
+9367	1
+ST-11595	1
+11561	1
+Group B	1
+NG	1
+Serotype Group C, serotype 2a	1
+cnl	1
+?	1
+Serogroup C	1
+
+sex
+!blank	16280
+
+submitted_sex
+!blank	16280
+
+specimen_voucher
+!blank	16280
+
+strain
+!blank	12259
+Neisseria meningitidis	533
+W	94
+A	47
+B:4:P1.4:ST-154(cc41/44)	7
+MC58	6
+Z5463	6
+FAM18	4
+8013	3
+M12 240641	2
+0418	2
+98080	2
+97021	2
+Neisseria meningitidis C	2
+NM1264	2
+NM1482	2
+0480	2
+M10 240645	2
+2068	2
+Neisseria meningitidis 2091136	1
+Neisseria meningitidis 800879 III	1
+M10 240712	1
+M10 240713	1
+Neisseria meningitidis 930470 II A	1
+M10 240711	1
+M10 240716	1
+M11 240318	1
+M12 240809	1
+M11 240315	1
+M11 240314	1
+M11 240317	1
+M11 240316	1
+M11 240311	1
+M11 240313	1
+M11 240312	1
+Neisseria meningitidis 2020417	1
+OX00 51106	1
+Neisseria meningitidis 930470 II B	1
+Neisseria meningitidis 2110092	1
+Neisseria meningitidis 2120484	1
+M10 240820	1
+M10 240821	1
+M10 240822	1
+M10 240823	1
+M10 240824	1
+M10 240825	1
+M10 240826	1
+OX01061511	1
+61106	1
+OX9930681	1
+Neisseria meningitidis 2090353	1
+Neisseria meningitidis 910221 I	1
+M97 253394	1
+61103	1
+Neisseria meningitidis 940895 III	1
+OX0051350	1
+OX00 50185	1
+M10 240626	1
+M10 240627	1
+M10 240624	1
+M11 240402	1
+M10 240622	1
+M10 240623	1
+M10 240621	1
+M11 240409	1
+M11 240068	1
+Neisseria meningitidis 2012326	1
+M11 240319	1
+M10 240717	1
+OX99 31682	1
+M10 240718	1
+M11 241042	1
+M11 241043	1
+M11 241040	1
+M10 240719	1
+M11 241046	1
+M11 241047	1
+M11 241044	1
+M10 240532	1
+M10 240530	1
+M10 240531	1
+M10 240536	1
+M98 250319	1
+M10 240534	1
+2842STDY5881012	1
+2842STDY5881013	1
+2842STDY5881010	1
+M11 240600	1
+NM1829	1
+2842STDY5881014	1
+2842STDY5881015	1
+NM1826	1
+Neisseria meningitidis 2000384	1
+63023	1
+M08 240052	1
+2842STDY5881361	1
+Neisseria meningitidis 2130047	1
+OX01060367	1
+Neisseria meningitidis 901523 I	1
+Neisseria meningitidis 970208 III	1
+
+sub_species
+!blank	16280
+
+sub_strain
+!blank	16280
+
+tissue_lib
+!blank	16280
+
+tissue_type
+!blank	16280
+
+variety
+!blank	16280
+
+tax_id
+487	16009
+491	30
+604162	17
+122587	16
+122586	12
+272831	5
+135720	3
+1095697	2
+1095699	2
+65699	2
+926521	1
+926506	1
+926507	1
+926508	1
+1145141	1
+1145169	1
+1145168	1
+1145165	1
+1145156	1
+1145167	1
+1145166	1
+1145161	1
+1145160	1
+1145163	1
+1145162	1
+1145149	1
+1145140	1
+1145187	1
+1145186	1
+1145185	1
+1145184	1
+1069609	1
+1069608	1
+1145181	1
+1145180	1
+926513	1
+926512	1
+926511	1
+926510	1
+926517	1
+926516	1
+926515	1
+926514	1
+926519	1
+926518	1
+1145178	1
+1145179	1
+1145158	1
+1145172	1
+1145173	1
+1145170	1
+1145171	1
+1145176	1
+1145177	1
+1145174	1
+1145175	1
+1145194	1
+1069618	1
+1069619	1
+1145190	1
+1145191	1
+1145192	1
+1145193	1
+1069612	1
+1069613	1
+1069610	1
+1069611	1
+1069616	1
+1069617	1
+1069614	1
+1069615	1
+1145145	1
+768485	1
+768484	1
+926509	1
+1145144	1
+1095691	1
+1095690	1
+1095693	1
+1095692	1
+1095695	1
+1095694	1
+1095696	1
+1095698	1
+662598	1
+1172206	1
+1190577	1
+1145119	1
+1145164	1
+1190571	1
+1095688	1
+1095689	1
+1095686	1
+1095687	1
+1095684	1
+1095685	1
+1095682	1
+1095683	1
+1095680	1
+1095681	1
+
+scientific_name
+Neisseria meningitidis	16009
+Neisseria meningitidis serogroup B	30
+Neisseria meningitidis 8013	17
+Neisseria meningitidis Z2491	16
+Neisseria meningitidis MC58	12
+Neisseria meningitidis FAM18	5
+Neisseria meningitidis serogroup C	3
+Neisseria meningitidis serogroup A	2
+Neisseria meningitidis 97021	2
+Neisseria meningitidis 98080	2
+Neisseria meningitidis N 10/01	1
+Neisseria meningitidis 65012	1
+Neisseria meningitidis 65014	1
+Neisseria meningitidis NM576	1
+Neisseria meningitidis 1076	1
+Neisseria meningitidis NM174	1
+Neisseria meningitidis 2004032	1
+Neisseria meningitidis 2001001	1
+Neisseria meningitidis NM23	1
+Neisseria meningitidis NM3141	1
+Neisseria meningitidis NM2781	1
+Neisseria meningitidis NM3147	1
+Neisseria meningitidis NM3144	1
+Neisseria meningitidis NM3652	1
+Neisseria meningitidis NM3173	1
+Neisseria meningitidis M04-240196	1
+Neisseria meningitidis 2005172	1
+Neisseria meningitidis 96037	1
+Neisseria meningitidis G2136	1
+Neisseria meningitidis 4119	1
+Neisseria meningitidis 80179	1
+Neisseria meningitidis 97008	1
+Neisseria meningitidis NM32	1
+Neisseria meningitidis NM82	1
+Neisseria meningitidis N 16/02	1
+Neisseria meningitidis NmgNor24	1
+Neisseria meningitidis NM604	1
+Neisseria meningitidis NM606	1
+Neisseria meningitidis NM607	1
+Neisseria meningitidis 69155	1
+Neisseria meningitidis NM762	1
+Neisseria meningitidis 61106	1
+Neisseria meningitidis NM271	1
+Neisseria meningitidis NM115	1
+Neisseria meningitidis 64182	1
+Neisseria meningitidis NM165	1
+Neisseria meningitidis NM80	1
+Neisseria meningitidis NM35	1
+Neisseria meningitidis 63006	1
+Neisseria meningitidis M14879	1
+Neisseria meningitidis NM3642	1
+Neisseria meningitidis 2008223	1
+Neisseria meningitidis 88050	1
+Neisseria meningitidis 73704	1
+Neisseria meningitidis NM3001	1
+Neisseria meningitidis 9757	1
+Neisseria meningitidis NM3158	1
+Neisseria meningitidis 2001068	1
+Neisseria meningitidis 2003022	1
+Neisseria meningitidis 2001212	1
+Neisseria meningitidis 70030	1
+Neisseria meningitidis 70021	1
+Neisseria meningitidis NM045	1
+Neisseria meningitidis NM477	1
+Neisseria meningitidis 115 CB V1	1
+Neisseria meningitidis 68094	1
+Neisseria meningitidis 77221	1
+Neisseria meningitidis NM90	1
+Neisseria meningitidis NM94	1
+Neisseria meningitidis NM95	1
+Neisseria meningitidis 1101	1
+Neisseria meningitidis 1102	1
+Neisseria meningitidis 75643	1
+Neisseria meningitidis 69096	1
+Neisseria meningitidis NM36	1
+Neisseria meningitidis 97020	1
+Neisseria meningitidis 2002038	1
+Neisseria meningitidis 97027	1
+Neisseria meningitidis 2002030	1
+Neisseria meningitidis NM586	1
+Neisseria meningitidis M13255	1
+Neisseria meningitidis MK110/03	1
+Neisseria meningitidis NM3081	1
+Neisseria meningitidis 69176	1
+Neisseria meningitidis 94018	1
+Neisseria meningitidis M07092	1
+Neisseria meningitidis NM183	1
+Neisseria meningitidis NM422	1
+Neisseria meningitidis NM3222	1
+Neisseria meningitidis alpha704	1
+Neisseria meningitidis NM27	1
+Neisseria meningitidis 2004090	1
+Neisseria meningitidis 63023	1
+Neisseria meningitidis HF159	1
+Neisseria meningitidis NM3230	1
+Neisseria meningitidis 2007461	1
+Neisseria meningitidis 2002004	1
+Neisseria meningitidis NM3139	1
+Neisseria meningitidis 2002020	1
+Neisseria meningitidis 2007056	1
+
+sample_alias
+2	3
+1	3
+99	2
+98	2
+91	2
+90	2
+93	2
+92	2
+94	2
+97	2
+96	2
+95	2
+3	2
+6	2
+39	2
+37	2
+35	2
+7	2
+77	2
+46	2
+100	2
+11	2
+10	2
+13	2
+12	2
+15	2
+14	2
+17	2
+16	2
+19	2
+18	2
+4	2
+24	2
+25	2
+26	2
+27	2
+20	2
+23	2
+28	2
+29	2
+8	2
+38	2
+33	2
+32	2
+31	2
+30	2
+36	2
+34	2
+48	2
+49	2
+47	2
+44	2
+45	2
+42	2
+43	2
+40	2
+41	2
+58	2
+59	2
+55	2
+57	2
+51	2
+50	2
+53	2
+52	2
+54	2
+56	2
+21	2
+22	2
+60	2
+61	2
+62	2
+63	2
+64	2
+65	2
+66	2
+67	2
+68	2
+69	2
+5	2
+76	2
+75	2
+74	2
+73	2
+72	2
+71	2
+70	2
+79	2
+78	2
+9	2
+88	2
+89	2
+82	2
+83	2
+80	2
+81	2
+86	2
+87	2
+84	2
+85	2
+
+checklist
+ERC000011	12243
+!blank	2908
+ERC000028	1101
+
+center_name
+University of Oxford	6648
+PUBLIC HEALTH ENGLAND	2096
+Wellcome Sanger Institute	1481
+NORWEGIAN INSTITUTE OF PUBLIC HEALTH	538
+UNIVERSITY OF LEICESTER	533
+pda|adamretchlesscdc	506
+pda|lur5	383
+pda|taj.azarian	74
+pda|djnolan	35
+Institute of Environmental Science and Research	27
+Department Periodontology, University Hospital Munster, Germany	21
+pda|stevesal	10
+pda|hsichtig	7
+European Bioinformatics Institute	6
+CUBE - Division of Computational Systems Biology, Dept. of Microbiology and Ecosystem Science, University of Vienna, Austria	6
+pda|elvira1975	4
+pda|jblom@cebitec.uni-bielefeld.de	4
+pda|johklu	4
+pda|drnaveenkumar	2
+National Institute for Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Sandringham, Johannesburg, South Africa	2
+Swiss TPH	2
+pda|lilianeconteville@gmail.com	2
+pda|bharatka	1
+!blank	1
+Seydina	1
+
+depth
+!blank	12394
+
+elevation
+!blank	12394
+
+altitude
+!blank	12394
+
+environment_biome
+!blank	12393
+terrestrial biome [ENVO:00000446]	1
+
+environment_feature
+!blank	12394
+
+environment_material
+!blank	12394
+
+temperature
+!blank	12394
+
+salinity
+!blank	12394
+
+sampling_campaign
+!blank	12394
+
+sampling_site
+!blank	12394
+
+sampling_platform
+!blank	12394
+
+protocol_label
+!blank	12394
+
+project_name
+!blank	12393
+Neisseria meningitidis ATCC 13091	1
+
+host
+!blank	8756
+Homo sapiens	2535
+Homo Sapien	899
+human	183
+Homo spiens	7
+not available: to be reported later	7
+Human	3
+Human (1yr old girl)	1
+free-living	1
+
+host_tax_id
+!blank	8765
+9606	2597
+
+host_status
+!blank	8780
+
+host_sex
+!blank	8765
+male	15
+
+submitted_host_sex
+!blank	8759
+
+host_body_site
+!blank	8758
+Nasal	1
+
+host_gravidity
+!blank	8759
+
+host_phenotype
+!blank	8759
+
+host_genotype
+!blank	8759
+
+host_growth_conditions
+!blank	8759
+
+environmental_package
+!blank	8759
+
+investigation_type
+!blank	8759
+
+experimental_factor
+!blank	8759
+
+sample_collection
+!blank	8759
+
+sequencing_method
+!blank	8758
+
+target_gene
+!blank	8758
+
+ph
+!blank	8758
+
+broker_name
+

@@ -1,0 +1,2183 @@
+bio_material
+!blank	84098
+Blood	10
+Frontier Science Research Center, University of Miyazaki	3
+Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon	1
+Surveillance rectal swab	1
+University of Florida, Gainesville	1
+Intraoperative sacral sore tissue	1
+Institut fur Molekulare Infektionsbiologie, Universitat Wurzburg and Institut fur Hygiene, Universitatsklinikum Munster	1
+
+cell_line
+!blank	84113
+Bal225	3
+
+cell_type
+!blank	84093
+Top10	12
+mouse embryonic stem cells	8
+Escherichia coli str. K-12 substr. MG1655	2
+OxyS-overexpressing bacterial cells	1
+
+collected_by
+!blank	48349
+CDC	10690
+PHE	7669
+USDA-FSIS	1870
+FDA	1279
+Penn State E. coli Reference Center	1175
+ECRC	792
+TGEN	611
+AZ	443
+DTU	427
+University of Washington	384
+Kansas State University	364
+University of Gothenburg	362
+University of Minnesota, Minneapolis, MN	292
+CDPH FDLB	282
+UQCCR	258
+Thakur	238
+FSIS	238
+PHAC	230
+Central Manchester University Hospitals NHS Foundation Trust (CMFT)	225
+FLUFL	213
+Kobe University	202
+University of Michigan Medical School	200
+Vance Fowler	199
+Microbiology laboratory, John Radcliffe Hospital, Oxford	197
+Brigham and Women&apos;&apos;s Hospital	190
+NVRI	189
+MSU-Manning	150
+Scottish E.coliO157/STEC Reference Laboratory	150
+NC State University College of Veterinary Medicine	146
+Aberdeen University	145
+Michigan State University	143
+FVST / DTU	142
+Alberta Health Services	139
+TX	128
+Cambodia Oxford Medical Research Unit	127
+mEpilab	122
+James Johnson	115
+NHS Lothian:Scotland	105
+ADRDL	101
+APHA	100
+Danish Technical Institute - Food	100
+BSAC	98
+T. M. Arthur	96
+Marian University	91
+UMD-JIFSAN	85
+J Riehm	85
+UW clinical laboratory	82
+Alan McNally	74
+Sun-Yat Sen Memorial Hospital	70
+CFIA	70
+Waite-Cusic	69
+Kansas State University Pre-harvest Food Safety Laboratory	69
+Malbran	69
+University of Minnesota	64
+IZSLT	63
+CA	62
+CaPES	62
+University of Copenhagen	60
+USMARC	60
+Shandong Academy of Agricultural Sciences	60
+Columbia University Division of Infectious Diseases	55
+National Institute for Health and Welfare	55
+NY	55
+Kathy Wang	54
+NC State Vet School	54
+Alex Royden, Nicola Williams	53
+Toon Swings	51
+MOD1	50
+TN	49
+DANMAP	48
+TTU Burnett Feedyard	47
+Statens Serum Institut, Flemming Scheutz	47
+Antimicrobial resistance and healthcare associated infections reference unit, Colindale, London	44
+UCSD SBRG	44
+Finnish Food Safety Authority Evira	44
+Peking University People&apos;&apos;s Hospital	44
+CDPHFDLB	41
+George Zhanel	39
+RIVM	39
+KCMC-KCRI	38
+Gerda Saxer	36
+NMSU	36
+OR	36
+GA	35
+Health Canada	33
+MMM	33
+clinical microbiology laboratory of the Brigham and Women&apos;s Hospital in Boston, MA	32
+ESR	32
+SMRU	31
+MDACC	31
+VA	31
+Minnesota Department of Health	30
+USGS Alaska Science Center	30
+Merck Study for Monitoring of Antimicrobial Resistance Trends (SMART)	30
+University of Copenhagen, Department of Veterinary and Animal Sciences	30
+Colorado SU	29
+MN	28
+NIPH-NIH	28
+USDA ARS Eastern Regional Research Center	28
+
+collection_date
+!blank	42224
+2015-01-01	2471
+2014-01-01	1961
+2016-01-01	1860
+2017-01-01	1432
+2014-06-01	1032
+2012-01-01	1014
+2018-01-01	999
+2011-01-01	899
+2013-01-01	898
+2010-01-01	779
+2009-01-01	621
+2008-01-01	614
+2007-01-01	536
+2015-08-01	493
+2015-10-01	417
+2015-09-01	398
+2015-07-01	372
+2003-01-01	345
+2006-01-01	339
+2000-01-01	330
+2001-01-01	323
+2004-01-01	316
+2016-06-01	298
+2018-08-01	288
+2002-01-01	281
+2015-11-01	277
+2005-01-01	267
+2015-03-01	267
+2012-12-01	264
+2016-10-01	258
+2016-09-01	257
+2016-05-01	250
+2016-07-01	239
+2015-06-01	235
+2017-08-01	228
+2016-08-01	225
+2016-03-01	224
+2016-03-15	222
+2016-04-01	219
+2015-12-01	218
+2018-07-01	217
+2017-06-01	214
+2017-07-01	212
+2017-09-01	193
+2017-06-20	192
+2016-11-01	191
+2016-02-01	191
+1998-01-01	185
+2014-10-01	184
+1900-01-01	181
+2015-07-20	181
+2017-10-01	180
+2018-06-01	177
+2015-05-01	174
+2014-11-01	166
+2017-05-01	160
+2016-12-01	158
+2018-05-01	154
+1999-01-01	152
+2017-03-01	143
+2013-07-01	138
+2017-11-01	137
+2014-08-01	134
+2015-07-27	131
+1997-01-01	131
+2017-04-01	128
+2015-04-01	127
+2014-09-01	124
+1996-01-01	106
+2015-06-29	104
+1985-01-01	103
+2018-04-01	102
+1995-01-01	99
+2015-08-12	99
+2011-12-15	97
+2017-02-01	96
+2015-08-10	95
+2015-08-24	91
+2014-12-01	89
+2015-02-01	86
+2018-02-01	82
+2006-10-26	82
+2018-03-01	81
+2017-12-01	80
+2014-07-01	78
+2015-08-03	78
+2013-06-01	76
+2015-08-30	76
+2014-11-29	76
+2015-08-17	75
+2015-09-21	74
+2015-06-15	74
+2015-07-06	67
+2015-05-04	66
+2013-06-10	62
+2014-05-01	62
+2015-07-30	62
+2014-12-08	62
+2013-10-01	61
+
+country
+!blank	27559
+USA	17772
+United Kingdom: United Kingdom	5807
+United Kingdom	2829
+Netherlands	1527
+United Kingdom: None	1487
+Japan	1335
+Denmark	1162
+USA:Bloomington, IN	1006
+USA:CA	994
+USA: Minnesota: Buffalo River Watershed	943
+Germany	818
+Australia	764
+Canada	555
+not collected	552
+USA:PA	491
+USA: WA	464
+USA:AZ	445
+USA:TX	412
+Japan:Chiba	351
+USA: Boston	333
+USA:NE	301
+USA:CO	297
+United Kingdom:Scotland	295
+Sweden	287
+USA:MI	285
+Tanzania	277
+USA:NY	276
+Israel	273
+France	272
+United Kingdom: Manchester	267
+USA:TN	265
+Singapore	248
+USA:NC	246
+USA:FL	242
+Poland	242
+USA:OH	229
+USA:WI	221
+USA:Boston	211
+USA: FLAGSTAFF: AZ	211
+Cambodia	207
+USA: Southeast Michigan	200
+United Kingdom: Oxford	197
+Thailand	192
+Denmark: Copenhagen	188
+Spain	187
+USA: PA	182
+Norway	180
+USA: CA	169
+Bangladesh	164
+USA:IA	163
+USA:AR	160
+Italy	156
+USA:OR	155
+United Kingdom: South of England	151
+Saudi Arabia	141
+Viet Nam	138
+USA:MN	137
+Finland	133
+Cambodia: Siem Reap	127
+USA: FL	124
+Argentina	123
+USA:IL	122
+USA:WY	112
+Uganda	109
+USA:WA	108
+Brazil, Rio de Janeiro	107
+USA: Pacific Northwest	106
+USA:KS	105
+Ireland	105
+United Kingdom:Scotland:Lothian	105
+Istanbul	101
+USA:AZ, Flagstaff	101
+USA: Irvine, CA	100
+USA: MI	95
+India	90
+United Kingdom: North of England	90
+China: Chengdu, Sichuan	88
+China	87
+Belgium	86
+Guatemala	80
+Nepal	79
+USA:VA	78
+Chile	78
+Japan:Miyazaki	77
+USA:DC	75
+USA:MO	74
+Mexico	74
+Kenya	72
+USA: Seattle	72
+China: Guangzhou	71
+USA:OK	71
+Egypt	71
+USA:MD	70
+Japan:Osaka	69
+United Kingdom: Midlands and East of England	68
+USA: Maywood, IL	66
+USA:AK	66
+Japan:Toyama	65
+USA: TX	62
+
+cultivar
+!blank	84114
+strain	1
+MG1655	1
+
+culture_collection
+!blank	83803
+ATCC BAA-460	4
+NCTC:86	3
+ATCC:BAA-178	2
+ATCC:BAA-460	2
+NCTC:7922	1
+NCTC:11133	1
+NCTC:9037	1
+ATCC:43886	1
+ATCC:43887	1
+NCTC:8333	1
+NCTC:9081	1
+NCTC:13919	1
+NCTC:10674	1
+NCTC:10279	1
+NCTC:9048	1
+ATCC:700415	1
+NCTC:12900	1
+ATCC:BAA-182	1
+NCTC:9020	1
+NCTC:9021	1
+NCTC:9022	1
+NCTC:9023	1
+NCTC:9024	1
+NCTC:9026	1
+NCTC:10082	1
+NCTC:9028	1
+NCTC:9029	1
+NCTC:8450	1
+NCTC:9120	1
+NCTC:8959	1
+FDA:FDAARGOS_144	1
+NCTC:13461	1
+NCTC:13462	1
+NCTC:13463	1
+ATCC:10798	1
+ATCC:47011	1
+NCTC:11151	1
+NCTC:9092	1
+NCTC:9035	1
+NCTC:10957	1
+FDA:FDAARGOS_142	1
+NCTC:9965	1
+FDA:FDAARGOS_448	1
+ATCC:43896	1
+NCTC:9018	1
+NCTC:9699	1
+NCTC:10959	1
+NCTC:10958	1
+NCTC:5934	1
+NCTC:10664	1
+FDA:FDAARGOS_441	1
+CCUG:62462	1
+NCTC:122	1
+ATCC:31608	1
+NCTC:9121	1
+NCTC:12655	1
+NCTC:9123	1
+FDA:FDAARGOS_349	1
+NCTC:9055	1
+NCTC:9054	1
+NCTC:9056	1
+ATCC:43895	1
+NCTC:9050	1
+NCTC:9053	1
+NCTC:9052	1
+NCTC:8179	1
+NCTC:9058	1
+NCTC:9080	1
+NCTC:13846	1
+NCTC:9855	1
+NCTC:9117	1
+NCTC:9068	1
+NCTC:10090	1
+NCTC:9033	1
+NCTC:9069	1
+NCTC:10757	1
+NCTC:9119	1
+NCTC:8984	1
+NCTC:11473	1
+NCTC:11472	1
+NCTC:11475	1
+NCTC:11474	1
+NCTC:11476	1
+NCTC:9064	1
+NCTC:12923	1
+NCTC:13148	1
+NCTC:9089	1
+NCTC:10002	1
+NCTC:9032	1
+NCTC:7921	1
+NCTC:9047	1
+NCTC:9044	1
+NCTC:10361	1
+NCTC:9043	1
+NCTC:9040	1
+NCTC:9041	1
+NCTC:9071	1
+NCTC:9060	1
+NCTC:4168	1
+
+description
+Escherichia coli	6982
+Soil isolate of Escherichia coli	943
+This sample has been submitted by pda|longhongan on 2016-04-09; Escherichia coli	785
+This sample has been submitted by CFSAN on 2017-11-08; Escherichia coli	635
+Denmark	597
+This sample has been submitted by University of Washington on 2014-10-28; Escherichia coli	384
+This sample has been submitted by CFSAN on 2016-07-30; Escherichia coli	371
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-12; Escherichia coli	362
+Missing	314
+This sample has been submitted by pda|lprice_lab on 2018-09-19; Escherichia coli	292
+This sample has been submitted by pda|meng_umd on 2018-06-01; Escherichia coli	279
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-09; Escherichia coli	275
+Patient with bloodstream infection	258
+NA	247
+This sample has been submitted by pda|avranis on 2017-11-08; Escherichia coli str. K-12 substr. MG1655	247
+This sample has been submitted by pda|100kgenomeproject on 2016-02-25; Escherichia coli	244
+This sample has been submitted by pda|janepipistrelle@googlemail.com on 2015-12-25; Escherichia coli	240
+This sample has been submitted by pda|longhongan on 2017-07-27; Escherichia coli	221
+Escherichia coli; Escherichia coli	217
+This sample has been submitted by CFSAN on 2016-07-29; Escherichia coli	203
+This sample has been submitted by pda|satomibanno on 2017-11-09; Escherichia coli	202
+E. coli from humans and food in Phnom Penh	197
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-16; Escherichia coli	190
+This sample has been submitted by NVRI on 2017-12-18; Escherichia coli	186
+This sample has been submitted by pda|norvalstrachan on 2018-09-12; Escherichia coli	184
+E. coli O157	183
+missing	177
+This sample has been submitted by Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark on 2017-06-27; Escherichia coli	170
+This sample has been submitted by CFSAN on 2016-08-01; Escherichia coli	168
+This sample has been submitted by CFSAN on 2017-10-27; Escherichia coli	168
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-13; Escherichia coli	168
+AmpC-producing Escherichia coli isolate	164
+This sample has been submitted by Wellcome Sanger Institute on 2015-04-01; Escherichia coli	157
+This sample has been submitted by pda|solmin6 on 2015-12-03; Escherichia coli	157
+This sample has been submitted by pda|rahidtu on 2017-11-08; Escherichia coli	157
+Colistin-resistant E. coli	153
+This sample has been submitted by pda|springerbrowne on 2018-05-24; Escherichia coli	153
+This sample has been submitted by pda|a1holmes on 2017-11-30; Escherichia coli	150
+This sample has been submitted by pda|annasheppard on 2015-12-04; Escherichia coli	148
+Ecoli	147
+This sample has been submitted by pda|jrumore on 2018-08-31; Escherichia coli	146
+Pathogen sample from Escherichia coli	144
+This sample has been submitted by pda|narjol123 on 2016-07-20; Escherichia coli	139
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-03; Escherichia coli	133
+This sample has been submitted by CFSAN on 2016-07-27; Escherichia coli	133
+This sample has been submitted by UCD-100K on 2015-02-26; Escherichia coli	130
+Ausgem porcine Escherichia coli genomes assembled with A5Miseq v. 20140618	129
+This sample has been submitted by Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark on 2017-08-08; Escherichia coli	127
+This sample has been submitted by University of Oxford on 2015-02-05; Escherichia coli	127
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-09; Escherichia coli	120
+This sample has been submitted by CFSAN on 2017-01-18; Escherichia coli	118
+This sample has been submitted by pda|mdhmolepi on 2017-11-08; Escherichia coli	116
+This sample has been submitted by pda|joh04207 on 2018-08-28; Escherichia coli	115
+This sample has been submitted by CFSAN on 2016-08-04; Escherichia coli	114
+Generic sample from Escherichia coli	114
+Vietnam ESBL E. coli sample	112
+E. coli isolate	112
+This sample has been submitted by CFSAN on 2017-03-10; Escherichia coli	109
+Artificial.AccD	105
+This sample has been submitted by pda|shell421 on 2017-11-08; Escherichia coli	105
+This sample has been submitted by pda|ice1110 on 2018-01-07; Escherichia coli	104
+This sample has been submitted by pda|davidmgordon on 2017-11-08; Escherichia coli	103
+This sample has been submitted by CFSAN on 2016-07-31; Escherichia coli	103
+This sample has been submitted by CFSAN on 2016-04-29; Escherichia coli	103
+E. coli with antimicrobial resistance	103
+E.coli	103
+This sample has been submitted by pda|txdshs on 2017-11-08; Escherichia coli	102
+Standard Strain	102
+This sample has been submitted by pda|a1holmes on 2015-09-20; Escherichia coli O157	101
+Native.AccD	100
+E. coli WGS sample	100
+This sample has been submitted by CFSAN on 2016-07-02; Escherichia coli	99
+This sample has been submitted by pda|gleb.kuznetsov@gmail.com on 2017-11-08; Escherichia coli	98
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-06; Escherichia coli	98
+This sample has been submitted by pda|max_cummins_uts on 2018-07-05; Escherichia coli	97
+This sample has been submitted by Sabanci University on 2014-06-27; Escherichia coli str. K-12 substr. MG1655	97
+This sample has been submitted by CFSAN on 2018-07-28; Escherichia coli	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-08; Escherichia coli	96
+This sample has been submitted by pda|asedlacek on 2017-11-08; Escherichia coli	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-25; Escherichia coli	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-17; Escherichia coli	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-20; Escherichia coli	95
+This sample has been submitted by pda|zhulinfeng2009 on 2018-09-02; Escherichia coli	95
+This sample has been submitted by CFSAN on 2016-07-28; Escherichia coli	95
+APEC-EU	94
+This sample has been submitted by Wellcome Sanger Institute on 2012-06-28; Escherichia coli	93
+This sample has been submitted by pda|waphl on 2017-11-08; Escherichia coli	93
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-03; Escherichia coli	93
+Isolate from chicken with colibacillosis	92
+ENGAGE-project commensal Escherichia coli	92
+This sample has been submitted by CFSAN on 2016-09-27; Escherichia coli	92
+This sample has been submitted by pda|usda_fsis_el on 2017-11-08; Escherichia coli	91
+This sample has been submitted by Wellcome Sanger Institute on 2011-01-27; Escherichia coli APEC O1	90
+This sample has been submitted by pda|shug on 2018-01-20; Escherichia coli	88
+This sample has been submitted by pda|jlbono on 2016-03-30; Escherichia coli	88
+This sample has been submitted by pda|jlbono on 2016-09-29; Escherichia coli	88
+This sample has been submitted by pda|meng_umd on 2018-09-01; Escherichia coli	87
+Escherichia coli K-12	87
+This sample has been submitted by Wellcome Sanger Institute on 2012-06-19; Escherichia coli	87
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-27; Escherichia coli	87
+
+dev_stage
+!blank	84097
+A600=1.2	15
+mid-log phase	1
+OD=0.2	1
+stable phase	1
+stationary phase	1
+
+ecotype
+!blank	84116
+
+environmental_sample
+false	82938
+true	1178
+
+first_public
+2017-11-08	3760
+2017-10-27	2870
+2017-11-30	1701
+2014-02-18	1510
+2017-01-11	1398
+2016-10-13	1378
+2017-11-09	1311
+2016-09-12	1255
+2018-03-01	1009
+2017-09-27	896
+2018-06-26	811
+2016-04-09	803
+2016-11-04	734
+2015-06-02	712
+2017-04-13	666
+2016-09-07	596
+2017-05-10	552
+2018-07-31	538
+2016-11-06	520
+2016-05-26	479
+2013-05-15	478
+2018-09-15	476
+2015-04-22	473
+2018-06-01	460
+2016-07-30	451
+2018-06-19	434
+2018-08-21	411
+2017-02-07	396
+2017-05-04	385
+2014-10-28	384
+2014-03-14	381
+2018-08-28	380
+2018-08-22	375
+2018-09-19	350
+2018-08-15	340
+2017-09-29	327
+2017-03-09	325
+2017-04-28	321
+2018-08-23	317
+2016-11-19	317
+2017-07-27	315
+2015-10-09	315
+2016-11-10	311
+2018-05-24	305
+2018-07-11	286
+2017-03-01	283
+2016-07-19	278
+2016-11-17	273
+2016-06-28	267
+2017-04-24	266
+2016-07-27	263
+2016-01-19	261
+2018-02-14	258
+2016-02-25	257
+2016-09-27	251
+2014-04-07	249
+2017-02-21	248
+2015-02-06	243
+2015-12-25	242
+2018-08-08	241
+2016-09-08	233
+2018-05-01	233
+2016-08-15	228
+2015-03-03	227
+2016-12-14	222
+2015-08-24	221
+2016-08-04	221
+2017-01-21	220
+2015-05-30	220
+2018-09-12	218
+2012-06-06	216
+2016-07-29	213
+2018-05-30	213
+2016-11-16	209
+2015-11-05	205
+2016-04-14	205
+2016-07-20	202
+2012-03-29	200
+2012-04-30	200
+2014-02-24	200
+2018-01-26	198
+2018-01-09	195
+2018-08-10	193
+2018-01-20	193
+2018-05-15	192
+2018-05-29	191
+2017-04-25	189
+2018-09-18	188
+2015-09-23	188
+2014-01-20	188
+2017-12-18	186
+2010-02-26	185
+2018-06-09	185
+2015-04-28	185
+2018-07-20	183
+2015-12-26	183
+2018-06-07	182
+2016-01-12	182
+2015-03-24	180
+2013-05-07	180
+
+germline
+false	84116
+
+identified_by
+!blank	84114
+Yanhong Zhang	1
+Daniel Rivera	1
+
+isolate
+!blank	60508
+Escherichia coli	259
+1	187
+Evolution Experiment	157
+human	147
+MG1655	136
+Human	105
+Escherichia coli (commensal)	92
+Enterobacteriaceae	84
+Population 1	63
+Population 2	62
+VTEC	61
+Population 4	60
+E. coli_R1	52
+E.coli	47
+culture	40
+Population 3	32
+YS river water	30
+Population 5	30
+not collected	29
+E2348/69	21
+UPEC	19
+E. coli 536	16
+E110019	14
+C581-05	14
+FDA	14
+B171	14
+chicken fecal	12
+commercial strain	12
+1st isolate	10
+2nd isolate	10
+E. coli	9
+Isolated from nano-Al2O3 exposed culture	8
+mutS deletion mutant	8
+Isolated from nano-ZnO exposed culture	8
+pGL4.23	7
+C57BL/6 (Gut Microbiome)	6
+Isolated from Ag exposed culture	6
+cow fecal	6
+Escherichia coli K-12 BW25113	6
+Anaerobic Atmosphere (0% O2)	6
+flock B12	6
+UR40	6
+139	6
+flock AN14	5
+233	5
+3rd isolate	5
+225	5
+11	5
+417	5
+36	5
+TG90	5
+173	4
+swine fecal	4
+155	4
+156	4
+158	4
+197	4
+4th isolate	4
+478	4
+479	4
+3	4
+MC4101	4
+102	4
+107	4
+104	4
+Hematopoietic stem cell transplant recipient	4
+236	4
+141	4
+148	4
+16	4
+19	4
+24	4
+20	4
+8	4
+37	4
+288	4
+A192PP Tn5 population	4
+405	4
+wild-type	4
+food	4
+584	3
+272	3
+276	3
+93	3
+176	3
+151	3
+153	3
+126	3
+235	3
+237	3
+2	3
+relA deletion mutant	3
+198	3
+195	3
+196	3
+311	3
+flock A9	3
+377	3
+Isolated from Zn exposed culture	3
+
+isolation_source
+!blank	46787
+human	3730
+Stool	3433
+Human	3419
+blood	2122
+feces	1489
+stool	1067
+lab evolved	1006
+faeces	742
+urine	613
+Faeces	552
+Feces	547
+Blood	487
+culture	412
+fecal	365
+Urine	365
+patient with urinary tract infection	288
+cattle fecal samples	279
+Environmental	273
+food	268
+animal-swine-market swine	257
+Lab-grown strain	247
+not available: to be reported later	240
+laboratory	222
+not collected	207
+water	200
+Clinical	200
+Rectal swab	199
+Human, Food	194
+intestine	184
+Laboratory strain	166
+animal-cattle-steer	164
+Animal-Turkey-Young Turkey	159
+Bacterial pure culture	159
+Rectal screen	157
+Pig rectal swab	143
+animal-chicken-young chicken	141
+long-term LB culture	140
+animal-cattle-dairy cow	139
+CIPA	135
+Comminuted Beef	132
+chicken meat	129
+bovine	125
+Poultry	121
+animal	114
+Product-Raw-Intact-Beef	113
+ESBA	110
+Stool (Cervus canadensis)	109
+Beef	107
+animal-cattle-heifer	106
+Stool (Odocoileus hemionus)	105
+Bovine feces	101
+packaged whole turkey	101
+in vitro lab	100
+Lab Evolved	98
+Cow, (Bovine)	98
+Cattle Hide	96
+blood from patient with bacteremia	96
+soil	93
+Spinach	93
+Cattle	92
+Human faeces	92
+Food	90
+Broiler meat	89
+Animal	83
+environmental isolate	82
+Bodily fluid	80
+farm	76
+Nickels Lab	75
+animal-cattle-beef cow	74
+Cattle manure (bos taurus)	73
+product-raw-intact-beef	71
+feces of feedlot cattle	69
+turkey	69
+Beef cattle feces (Bos taurus)	69
+beef	68
+comminuted beef	68
+military dog fecal sample	68
+Bovine hide	67
+Environment	66
+Skinless Boneless Chicken Breast	66
+Animal-Cattle-Steer	66
+Ground Beef	63
+cattle feces	62
+Lab Strain	60
+animal-swine-sow	60
+Pig, (Porcine)	60
+cow paddock straw bedding_Bovine (dairy)	60
+lab population	59
+Canal	55
+rectal swab	55
+fecal swab	55
+ground beef	53
+Liver	52
+Animal-Cattle-Dairy Cow	52
+lung	51
+Sheep	50
+Laboratory evolution experiment	50
+Cattle Feces	49
+cultured	49
+
+location
+!blank	79310
+35.58 N 140.16 E	351
+56.2639 N 9.5018 E	276
+53.27 N 2.13 W	266
+36.0 N 78.9 W	199
+51.75 N 1.26 W	197
+51.919437 N 19.145136 E	186
+13.3622 N 103.8597 E	137
+51.5 N 0.12 W	100
+27.7 N 85.3 E	95
+21.608454 N 39.09221 E	67
+41.8061 N 12.5786 E	63
+1.17 N 103.5 E	62
+55.676098 N 12.568337 E	60
+40.84067 N 73.942 W	55
+53.24 N 2.59 W	53
+23.13 N 113.26 E	49
+36.4 N 116.57 E	48
+16.7788 N 96.149 E	45
+32.8801 N 117.234 W	44
+38.06 S 175.44 E	42
+3.32 S 37.327 E	38
+52.57 N 1.8 W	35
+51.7519 N 1.2578 W	33
+42.33 N 71.1 W	32
+16.7131 N 98.5747 E	31
+35.118 N 138.937 E	30
+55.67611 N 12.568333 E	30
+39.35 S 174.44 E	27
+52.2597 N 21.0122 E	27
+45.85 S 167.68 E	26
+60.44 N 151.1 W	26
+46.2276 N 2.2137 E	24
+40.3523 S 175.6082 E	23
+42.36 N 71.06 W	23
+17.9667 N 102.6 E	21
+46.8346 N 95.9211 W	21
+43.75 S 171.16 E	21
+49.47 N 9.56 E	19
+55.6425 N 12.4754 E	18
+55.0 N 49.0 E	17
+27.4 N 85.19 E	17
+56.8796 N 24.6032 E	17
+33.733265 S 151.09917 E	16
+16.26 N 61.56 W	15
+39.56 N 116.24 E	15
+37.4335 N 122.1754 W	15
+35.1264 N 33.4299 E	14
+41.4 N 99.9 W	14
+42.16 N 83.44 W	14
+38.9047 N 77.0164 W	14
+64.0 N 26.0 E	14
+51.5 N 0.1167 W	14
+55.1694 N 23.8813 E	14
+13.766 N 100.5268 E	13
+45.4039 N 73.9525 W	13
+35.7 N 139.7 E	12
+23.04 N 113.15 E	12
+36.85 S 174.76 E	12
+48.669 N 19.699 E	12
+38.5549 N 121.4565 W	12
+53.35 N 10.04 E	12
+30.26 N 97.73 W	12
+39.0 N 0.0 E	12
+51.1657 N 10.4515 E	12
+46.8303 N 95.9629 W	12
+40.44 N 79.96 W	12
+46.861 N 96.0094 W	11
+46.8649 N 96.4692 W	11
+47.0033 N 96.2111 W	10
+46.8647 N 96.4692 W	10
+46.7475 N 96.1922 W	10
+30.3931 N 104.0353 E	10
+58.5953 N 25.0136 E	10
+39.73 S 175.44 E	10
+46.8342 N 96.1352 W	9
+46.8593 N 96.2158 W	9
+46.8628 N 95.9989 W	9
+46.8345 N 96.1354 W	9
+46.7815 N 96.0882 W	8
+46.9594 N 95.7015 W	8
+46.7477 N 96.1926 W	8
+47.0034 N 96.211 W	8
+47.0033 N 96.211 W	7
+34.47 N 113.38 E	7
+1.3666667 N 103.8 E	7
+46.7477 N 96.1925 W	7
+38.14 N 78.45 W	7
+55.6484 N 12.4667 E	7
+46.9028 N 95.9074 W	7
+36.68 N 121.67 W	7
+47.0724 N 95.8686 W	7
+46.8594 N 96.2158 W	7
+46.8616 N 96.4723 W	7
+39.2833 N 76.6167 W	7
+46.8306 N 95.9623 W	7
+38.984653 N 77.09471 W	7
+46.8843 N 96.183 W	7
+41.57 S 173.42 E	6
+46.7078 N 96.2358 W	6
+
+mating_type
+!blank	84088
+F-	10
+F&apos;	6
+11	1
+10	1
+12	1
+1	1
+3	1
+2	1
+5	1
+4	1
+7	1
+6	1
+9	1
+8	1
+
+serotype
+!blank	66406
+Escherichia coli	5783
+O157	1684
+O157:H7	1112
+O26:H11	574
+O103	285
+E. coli O26:Pending	269
+E. coli O157:H7	240
+O25:H4	206
+Not known	197
+O6:H1	194
+E. coli O103:Pending	193
+E. coli O111:NM	187
+E. coli O103:H2	174
+O26	166
+O121	158
+E. coli O26:H11	140
+E. coli O103:Undetermined	120
+O1:H7	111
+E. coli O111:Pending	104
+E. coli O26:Undetermined	102
+Pending:Pending	102
+O25b:H4	97
+E. coli O121:Pending	87
+Isolate to CDC:Isolate to CDC	75
+O17:H18	73
+O111	72
+E. coli O145:NM	72
+E. coli O111:Undetermined	67
+E. coli O121:H19	63
+E. coli O157:Undetermined	62
+Pending:Undetermined	56
+E. coli O26:NM	56
+O2:H1	53
+E. coli O103:HNT	52
+not available: to be reported later	49
+O6:H31	48
+O6	46
+O2:H4	43
+O75:H5	43
+E. coli O45:H2	41
+E. coli O26:HNT	41
+O16:H5	38
+E. coli O186:H2	38
+O4:H5	37
+O2:H7	36
+E. coli O5:NM	36
+Undetermined:Undetermined	35
+O2:H6	34
+O103:H2	33
+O15:H1	31
+O4:H1	31
+O91:H14	30
+O145	30
+ON5	29
+O25	29
+E. coli O145:Pending	29
+E. coli O118:H16	28
+Undetermined:HNT	28
+O146:H21	28
+O55	28
+E. coli O118:H2	28
+O16:H6	27
+O121:H19	27
+O13/O135:H4	26
+E. coli O121:Undetermined	26
+E. coli O69:H11	25
+O18:H7	25
+O45	25
+O128ab:H2	24
+O18:H1	23
+E. coli O145:Undetermined	22
+O8:H28	21
+E. coli O26:	21
+O111:H8	21
+O8	21
+multilocus sequence type (ST) 38	19
+O27	19
+O75:H7	19
+O7:H45	19
+26	19
+O146	19
+E. coli O26	19
+E. coli O45:Pending	19
+O25:H1	18
+E. coli O45:Undetermined	18
+O115	18
+O157:H7 (non-motile)	18
+O153:H10	18
+O25:H17	18
+O114	17
+Undetermined:Isolate to CDC	17
+O76:H19	17
+O45:H7	17
+O102:H6	17
+O78	17
+O159	17
+O78:H4	16
+E. coli O71:H11	16
+O55:H7	16
+
+serovar
+!blank	66406
+Escherichia coli	5783
+O157	1684
+O157:H7	1112
+O26:H11	574
+O103	285
+E. coli O26:Pending	269
+E. coli O157:H7	240
+O25:H4	206
+Not known	197
+O6:H1	194
+E. coli O103:Pending	193
+E. coli O111:NM	187
+E. coli O103:H2	174
+O26	166
+O121	158
+E. coli O26:H11	140
+E. coli O103:Undetermined	120
+O1:H7	111
+E. coli O111:Pending	104
+E. coli O26:Undetermined	102
+Pending:Pending	102
+O25b:H4	97
+E. coli O121:Pending	87
+Isolate to CDC:Isolate to CDC	75
+O17:H18	73
+O111	72
+E. coli O145:NM	72
+E. coli O111:Undetermined	67
+E. coli O121:H19	63
+E. coli O157:Undetermined	62
+Pending:Undetermined	56
+E. coli O26:NM	56
+O2:H1	53
+E. coli O103:HNT	52
+not available: to be reported later	49
+O6:H31	48
+O6	46
+O2:H4	43
+O75:H5	43
+E. coli O45:H2	41
+E. coli O26:HNT	41
+O16:H5	38
+E. coli O186:H2	38
+O4:H5	37
+O2:H7	36
+E. coli O5:NM	36
+Undetermined:Undetermined	35
+O2:H6	34
+O103:H2	33
+O15:H1	31
+O4:H1	31
+O91:H14	30
+O145	30
+ON5	29
+O25	29
+E. coli O145:Pending	29
+E. coli O118:H16	28
+Undetermined:HNT	28
+O146:H21	28
+O55	28
+E. coli O118:H2	28
+O16:H6	27
+O121:H19	27
+O13/O135:H4	26
+E. coli O121:Undetermined	26
+E. coli O69:H11	25
+O18:H7	25
+O45	25
+O128ab:H2	24
+O18:H1	23
+E. coli O145:Undetermined	22
+O8:H28	21
+E. coli O26:	21
+O111:H8	21
+O8	21
+multilocus sequence type (ST) 38	19
+O27	19
+O75:H7	19
+O7:H45	19
+26	19
+O146	19
+E. coli O26	19
+E. coli O45:Pending	19
+O25:H1	18
+E. coli O45:Undetermined	18
+O115	18
+O157:H7 (non-motile)	18
+O153:H10	18
+O25:H17	18
+O114	17
+Undetermined:Isolate to CDC	17
+O76:H19	17
+O45:H7	17
+O102:H6	17
+O78	17
+O159	17
+O78:H4	16
+E. coli O71:H11	16
+O55:H7	16
+
+sex
+!blank	84073
+female	27
+male	16
+
+submitted_sex
+!blank	83891
+Other	181
+female	26
+male	16
+neuter	1
+Female	1
+
+specimen_voucher
+!blank	84113
+peritoneal fluid	1
+Escherichia coli	1
+not collected	1
+
+strain
+!blank	22124
+K-12	1822
+K12 MG1655	1245
+O157	394
+MG1655	365
+O157:H7	289
+BW25113	287
+BW25113 - KEIO dlacA	252
+REL606	247
+K-12 MG1655	242
+ST131	204
+DH5alpha	198
+UPEC	190
+K12	182
+STEC	153
+K12 MG1655 (PMF2)	149
+Escherichia coli	135
+B	101
+c321D	98
+MC4100	96
+MDS42	82
+REL4536	79
+ATCC 25922	79
+K12 W3110	77
+O145:H28	71
+str. K-12 substr. MG1655	70
+Stellar	62
+Escherichia coli NCTC 13441	58
+SX4	57
+K-12 substr. MG1655	53
+TOP10F&apos;	50
+DH10BGFP	48
+K12-MG1655	43
+MG1655GFP	42
+BL21-DE3	36
+XL1 Blue	36
+NEB 10-beta	35
+NEB5?	34
+wt	32
+BL21(DE3)	32
+K12 str. MG1655	32
+CFT073	31
+DY330	31
+DH5-alpha	30
+EC958	25
+EDL933	25
+BL21-Gold(DE3)	24
+DH1	22
+E. coli K12 MG1655	22
+K12 MG1655 mutator	22
+REL607	21
+GLBRCE1	21
+ATCC 4157	21
+DH10B	20
+K12 MG1655 EcNR2	20
+ETEC H10407	20
+JJ1886	19
+EcNR2	18
+21	18
+MG1655 delta_mazF	17
+CEC08152	17
+CEC04169	17
+W3110	17
+CEC08114	17
+CEC05072	17
+CEC11077	16
+O-:H28	16
+CEC09072	16
+CEC06016	16
+CEC10106	16
+CEC13043	16
+ST73	16
+UR40	15
+R7AC	15
+K12 derivative strain	15
+MG1665	14
+BW25993	14
+?frmR	14
+ST648	14
+SR108	14
+K-12 BW25113	14
+K12 DH10beta	13
+CSH50	13
+JW3367	12
+PA45B_Tn5_mutant_library	12
+BW2952	12
+EP61	12
+JJ1887	12
+K12 substr. MG1655	12
+ancestor (BWk3)	12
+O157:H7 (ATCC 35150)	12
+C321dA	12
+Avian pathogenic E. coli	12
+delta Crp	12
+Wild Type K-12	11
+Sakai	11
+strain 9000	11
+MG1693	11
+ecoli[ST-88]	11
+ER2267	11
+
+sub_species
+!blank	84104
+K12	11
+AG100	1
+
+sub_strain
+!blank	82400
+MG1655	1317
+MDS42	165
+W3110	110
+MYMC4100	64
+AG100	17
+MC4100	11
+GJ13519	6
+TUV93-0	5
+MG1655star	4
+GJ13531	3
+GJ13507	3
+GJ13533	3
+GM4792	2
+EVT1	1
+EVT3	1
+EVT2	1
+E. coli B REL607	1
+EVT4	1
+TUV93-0 âadhE	1
+
+tissue_lib
+!blank	84116
+
+tissue_type
+!blank	84076
+Engineered bacterial plasmid	19
+bacterial cells	8
+Escherichia coli with stx phages	3
+Escherichia coli without stx phages	3
+cell extract	2
+whole	2
+Feces	1
+liver	1
+liquid culture and in vitro transcripts	1
+
+variety
+!blank	84116
+
+tax_id
+562	72579
+511145	2954
+413997	2115
+83333	808
+1045010	583
+679895	404
+244319	350
+83334	316
+1110693	185
+941322	184
+316407	124
+316401	105
+405955	93
+866768	61
+1450430	60
+1055537	45
+155864	42
+404399	38
+1450431	28
+879462	26
+469008	25
+1095709	25
+1284382	22
+1450437	22
+536056	22
+1010796	21
+199310	19
+1116126	19
+1116004	19
+1450438	17
+386585	15
+574521	14
+216592	14
+331112	14
+1038927	13
+331111	13
+37762	12
+1403831	11
+668369	9
+1078032	9
+481805	9
+1450434	8
+1318715	8
+1450429	8
+1450428	8
+1450432	8
+1261392	8
+1322345	8
+1055536	7
+364106	7
+316435	7
+626528	7
+566546	6
+2162911	6
+591946	6
+1392006	6
+1095705	6
+2072463	5
+316385	5
+217992	5
+868188	5
+409438	5
+2067429	5
+168927	5
+1095707	5
+344601	4
+1055538	4
+1055539	4
+1450427	4
+1048254	4
+1450433	4
+1450436	4
+1450174	4
+431946	4
+1126907	4
+550684	4
+340186	4
+376725	4
+373045	4
+656388	3
+656389	3
+991915	3
+244320	3
+498388	3
+1010797	3
+2184072	3
+2067420	3
+1334188	3
+1055535	3
+2170725	3
+340197	3
+2067430	3
+2162909	3
+2067428	3
+2162910	3
+381476	3
+2027293	3
+2072454	3
+2170723	3
+1954351	3
+
+scientific_name
+Escherichia coli	72579
+Escherichia coli str. K-12 substr. MG1655	2954
+Escherichia coli B str. REL606	2115
+Escherichia coli K-12	808
+Escherichia coli O157	583
+Escherichia coli BW25113	404
+Escherichia coli O26:H11	350
+Escherichia coli O157:H7	316
+Escherichia coli str. K-12 substr. MDS42	185
+Escherichia coli O25b:H4-ST131	184
+Escherichia coli str. K-12 substr. W3110	124
+Escherichia coli ETEC H10407	105
+Escherichia coli APEC O1	93
+Escherichia coli 'BL21-Gold(DE3)pLysS AG'	61
+Escherichia coli 103385	60
+Escherichia coli O121	45
+Escherichia coli O157:H7 str. EDL933	42
+Escherichia coli O26	38
+Escherichia coli 103573	28
+Escherichia coli str. K-12 substr. MG1655star	26
+Escherichia coli O25	25
+Escherichia coli BL21(DE3)	25
+Escherichia coli DH1	22
+Escherichia coli REL606	22
+Escherichia coli ACE527	22
+Escherichia coli O8	21
+Escherichia coli 2846750	19
+Escherichia coli CFT073	19
+Escherichia coli 2729250	19
+Escherichia coli BCE032	17
+Escherichia coli O157:H7 str. Sakai	15
+Escherichia coli O127:H6 str. E2348/69	14
+Escherichia coli HS	14
+Escherichia coli 042	14
+Escherichia coli O139:H28 str. E24377A	13
+Escherichia coli O104:H4	13
+Escherichia coli B	12
+Escherichia coli str. K-12 substr. MC4100	11
+Escherichia coli O45:H2	9
+Escherichia coli DH5[alpha]	9
+Escherichia coli ATCC 8739	9
+Escherichia coli 300059	8
+Escherichia coli 401140	8
+Escherichia coli 102651	8
+Escherichia coli 102712	8
+Escherichia coli BW38028	8
+Escherichia coli ES699	8
+Escherichia coli ATCC 25922	8
+Escherichia coli Nissle 1917	7
+Escherichia coli O157:NM	7
+Escherichia coli O103	7
+Escherichia coli UTI89	7
+Escherichia coli O21	6
+Escherichia coli O11	6
+Escherichia coli LF82	6
+Escherichia coli W	6
+Escherichia coli FREP	6
+Escherichia coli str. K-12 substr. DH10B	5
+Escherichia coli O6	5
+Escherichia coli O2	5
+Escherichia coli O19	5
+Escherichia coli SE11	5
+Escherichia coli O111:H-	5
+Escherichia coli DEC11C	5
+Escherichia coli O78	5
+Escherichia coli 402290	4
+Escherichia coli O145	4
+Escherichia coli 302053	4
+Escherichia coli O111:NM	4
+Escherichia coli 100329	4
+Escherichia coli C581_05	4
+Escherichia coli O119	4
+Escherichia coli SE15	4
+Escherichia coli O103:H2	4
+Escherichia coli E110019	4
+Escherichia coli O104:H4 str. C227-11	4
+Escherichia coli B171	4
+Escherichia coli O91	4
+Escherichia coli B1167	4
+Escherichia coli O153	3
+Escherichia coli F11	3
+Escherichia coli O121:H19	3
+Escherichia coli H260	3
+Escherichia coli APEC O2-211	3
+Escherichia coli H252	3
+Escherichia coli O32	3
+Escherichia coli O111	3
+Escherichia coli O100	3
+Escherichia coli O101	3
+Escherichia coli O9	3
+Escherichia coli O1	3
+Escherichia coli O102	3
+Escherichia coli O109	3
+Escherichia coli O8:H8	3
+Escherichia coli O55:H7	3
+Escherichia coli C	3
+Escherichia coli O86	3
+Escherichia coli Bal225	3
+Escherichia coli O73	3
+Escherichia coli O117	3
+
+sample_alias
+1	27
+2	16
+3	11
+4	9
+7	6
+E. coli	6
+9	6
+6	6
+10	6
+8	6
+5	6
+11	5
+MG1655	4
+108	4
+16	4
+18	4
+25	4
+27	4
+21	4
+22	4
+30	4
+E5	4
+E4	4
+E1	4
+E3	4
+E2	4
+26	4
+Escherichia coli	3
+Ancestor	3
+H19	3
+H17	3
+109	3
+102	3
+103	3
+101	3
+106	3
+107	3
+104	3
+105	3
+13	3
+12	3
+17	3
+19	3
+24	3
+20	3
+23	3
+28	3
+32	3
+89	3
+83	3
+98	3
+H25	3
+29	3
+12-6417	2
+WT_1	2
+16_A62	2
+REL10381	2
+REL10969	2
+19_A72	2
+REL10884	2
+2010C-3517	2
+E58	2
+E57	2
+E51	2
+E50	2
+E53	2
+REL10479	2
+WTCHG_81370_236	2
+WTCHG_81370_237	2
+WTCHG_81370_234	2
+WTCHG_81370_232	2
+WTCHG_81370_230	2
+WTCHG_81370_231	2
+WTCHG_81370_238	2
+WTCHG_81370_239	2
+UTI24	2
+WTCHG_81370_209	2
+WTCHG_81370_208	2
+WTCHG_81370_204	2
+WTCHG_81370_203	2
+5_A29	2
+E44	2
+E49	2
+UTI48	2
+Sakai	2
+PNUSAE003702	2
+20_A76	2
+H44	2
+H49	2
+H48	2
+REL10561	2
+REL10379	2
+WT	2
+ECOR64	2
+W	2
+Ecoli1	2
+3_A16	2
+PNUSAE004172	2
+MGY	2
+WTCHG_81370_207	2
+
+checklist
+!blank	57865
+ERC000011	20919
+ERC000028	1484
+ERC000029	1020
+ERC000041	192
+ERC000025	67
+ERC000015	20
+ERC000020	4
+ERC000036	2
+ERC000014	2
+ERC000039	1
+
+center_name
+PHE	7151
+Wellcome Sanger Institute	3310
+CFSAN	2546
+!blank	2140
+Amphia Hospital	1359
+pda|pbergholz	943
+Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark	776
+University of Oxford	599
+pda|lprice_lab	534
+University of Washington	384
+ModMedMicOxford	373
+pda|tanyalaird	284
+pda|padstock	258
+pda|a1holmes	250
+University Hospital Muenster	216
+J. Craig Venter Institute	215
+pda|apirani	201
+pda|xz060	198
+pda|janepipistrelle@googlemail.com	197
+pda|jrumore	196
+NVRI	186
+UNIVERSITY OF ABERDEEN	183
+TUAGRI	174
+KYOTO_ENG	168
+ROBERT KOCH-INSTITUTE	164
+Ausgem	163
+pda|springerbrowne	156
+Broad Institute, Cambridge, MA, USA	145
+academisch medisch centrum	140
+ANIMAL AND PLANT HEALTH AGENCY	139
+STATENS SERUM INSTITUT	133
+pda|byronberenger	131
+pda|benizao	128
+pda|jaxmolecular1	125
+pda|dlgriffin	121
+pda|annasheppard	119
+pda|joh04207	117
+NCGM	107
+Fondation Merieux	103
+pda|davidmgordon	103
+Sabanci University	100
+pda|troro	98
+UNIVERSITY OF HELSINKI	98
+pda|max_cummins_uts	97
+NTNU	96
+pda|zhulinfeng2009	94
+pda|ice1110	88
+Systems Biology - Harvard Medical School	88
+ISTITUTO SUPERIORE DI SANITA	85
+pda|belindamami	85
+pda|stevesal	82
+pda|chwil	82
+BRAEMBL	75
+Saolta	75
+NIID	74
+pda|carolinecusick	74
+WDRC KAUST	69
+pda|putonti@gmail.com	66
+pda|retimme	64
+pda|zzon6681	63
+IZSLT (Istituto Zooprofilattico Sperimentale del Lazio e la Toscana)	63
+pda|tomdeman	62
+pda|weixindec	62
+University of Montana	60
+pda|tozain	59
+National Centre for Biological Sciences	59
+pda|inghosh	56
+UNIVERSITY OF COPENHAGEN	56
+University of Maryland, School of Medicine	56
+pda|nmacesic	55
+pda|sgarciacobos	55
+pda|robbiehall	54
+pda|rebecca_lindsey	54
+The Hebrew University of Jerusalem, Israel	52
+CALGARY	51
+Technical University of Denmark	51
+pda|rmor7560	51
+AIDRC	46
+Novo Nordisk Foundation Center for Biosustainability Technical University of Denmark	45
+pda|jonathan.m.monk@gmail.com	44
+CDC	43
+pda|narjol123	42
+The Wadsworth Center, NYSDOH	40
+pda|alexwong	39
+PUBLIC HEALTH ENGLAND	39
+Universite Paris-Sud Institute for the integrative biology of the cell (I2BC) Bat 26, CNRS	38
+Kilimanjaro Clinical Research Institute	38
+European Bioinformatics Institute	37
+pda|jayanthi_gangiredla	37
+pda|xiaokangwang	35
+pda|akearney	34
+pda|kqj9	34
+Broad Institute of MIT and Harvard	32
+pda|giawwi	32
+pda|tsandberg	31
+pda|sshelburne	31
+Department of Paediatric Medicine, Oslo University Hospital	30
+Institute of Technology, University of Tartu	30
+National Institute of Genetics (Japan)	30
+pda|rpbbio	30
+
+depth
+!blank	29135
+0.0-4.0	943
+0.04	18
+
+elevation
+!blank	30096
+
+altitude
+!blank	30096
+
+environment_biome
+!blank	28271
+Deciduous Forest	575
+anthropogenic	353
+Cropland	105
+environmental material	91
+Buffer	67
+Pasture	67
+Grassland	62
+Deciduous forest	51
+Laboratory generated	51
+Herbaceous Wetland	45
+Wooded Wetland	33
+cultured habitat(ENVO:02000006)	30
+terrestrial biome [ENVO:00000446]	29
+intestine environment	22
+city	18
+human gut	18
+gut flora	16
+laboratory	12
+not collected	8
+terrestial biome	7
+human-gut	6
+clinical	5
+forest biome	5
+Scrubland	5
+Ocean	4
+Not collected	3
+human-associated habitat	3
+Culture of Escherichia coli population isolated from mice fecal contents	3
+bovine slurry	2
+mouse gut	2
+compost	2
+Laboratory	2
+Human	2
+gut	2
+urinary tract	1
+artificial	1
+perirectal	1
+human-associated	1
+anthropogenic terrestrial biome	1
+Gut	1
+wastewater/sludge	1
+bodily fluid	1
+E. coli	1
+Lab	1
+uncultured pig faeces bacterium	1
+waste water	1
+
+environment_feature
+!blank	28295
+Deciduous Forest Soil	575
+organic	353
+Cropland Soil	105
+organic material	91
+Pasture Soil	67
+Grassland Soil	62
+Deciduous forest Soil	51
+Herbaceous Wetland Soil	45
+Dark	36
+Wooded Wetland Soil	33
+Light	31
+cell culture(ENVO:02000008)	30
+intestine environment	22
+park	18
+human gut	18
+not collected	16
+river	14
+rich medium	12
+human blood	10
+septic tank	8
+host-associated	7
+human-gut	6
+Scrubland Soil	5
+mountain pass	5
+Human	5
+fertiliser	4
+Ocean	4
+Not collected	3
+human urine	2
+Lab	2
+Urinary infection	2
+gut	2
+mouse gut Rag (C57Bl/6 rag2-/-)	1
+human-associated habitat [ENVO:00009003]	1
+biotic mesoscopic physical object	1
+farm	1
+bladder	1
+blood	1
+mouse gut WT (C57Bl/6)	1
+
+environment_material
+!blank	27314
+Soil	943
+feces	722
+organic	353
+river	127
+blood	69
+Midstream urine	68
+Planktonic cells	67
+sewage	64
+tissue culture(ENVO:02000007)	30
+urine	23
+soil	18
+human blood	18
+water	14
+rectal swab	13
+Stool	7
+human urine	6
+human-gut	6
+waste water	5
+human sputum	3
+human wound	3
+agricultural environmental material	2
+fecal	2
+fecal samples	2
+restricted access	2
+animal manure	2
+Urine	2
+human pus	2
+meat food product	1
+swab	1
+laboratory variant	1
+human gut	1
+gut	1
+
+temperature
+!blank	29678
+30.0	28
+37.0	8
+
+salinity
+!blank	29714
+
+sampling_campaign
+!blank	29714
+
+sampling_site
+!blank	29714
+
+sampling_platform
+!blank	29714
+
+protocol_label
+!blank	29714
+
+project_name
+!blank	27229
+Genomic comparison of bovine- and human-associated E. coli	787
+Antimicrobial resistant organisms collection in Department of Microbiology and Infectious Diseases, Toho University Graduate School of Medicine	247
+Whole genome sequencing of ESBL-producing E. coli ST131	91
+Whole genome sequencing of Escherichia coli ST131	68
+Solar inactivation	67
+Sequence analysis of clinical isolates	64
+Molecular epidemiology of carbapenem-resistant Enterobacteriaceae	45
+WGS of E. coli O121	44
+Carbapenem-resistant escherichia coli in a medical setting in Nepal	39
+Phylogeny of enterohemorrhagic Escherichia coli O157	38
+WGS of E. coli O26	27
+E. coli diversity in healthy and IBD human gut	17
+Escherichia coli Genome Sequencing	16
+Genomic analysis of non-sorbitol-fermenting and beta-glucuronidase-positive O157:H7 strain	13
+Molecular epidemiology of mcr-1-positive Enterobacteriaceae	13
+Comparative analysis	7
+E.coli from children in Trondheim	6
+Draft genome sequencing of STEC isolated from wild deer	5
+Molecular epidemiology of MBL-producing Enterobacteriaceae	4
+Low Pilmore isolates	3
+Whole genome sequencing of Escherichia coli carrying NDM-3	3
+Complete genome sequences of Escherichia coli with mcr-1 gene positive IncI2 plasmid	3
+VIM-4 Escherichia coli	2
+Characterization of Pathogenic Escherichia coli in River Water by Simultaneous Detection and Sequencing of 14 Virulence Genes	2
+Escherichia coli MS 119-7	1
+Escherichia coli MS 124-1	1
+Escherichia coli MS 198-1	1
+Escherichia coli MS 153-1	1
+Escherichia coli K-12 MG1655	1
+Escherichia coli MS 69-1	1
+JF733	1
+Escherichia coli MS 107-1	1
+Escherichia coli MS 185-1	1
+Escherichia coli MS 16-3	1
+Escherichia coli MS 200-1	1
+Escherichia coli KO11	1
+Escherichia coli W	1
+Escherichia coli MS 182-1	1
+Escherichia coli MS 78-1	1
+Escherichia coli MS 117-3	1
+Escherichia coli MS 115-1	1
+Pathogen sample from Escherichia coli O104:H4 str. C227-11	1
+Escherichia coli MS 187-1	1
+K802	1
+STEC from wild deer meat	1
+Escherichia coli MS 196-1	1
+Escherichia coli MS 45-1	1
+Escherichia coli 83972	1
+Ecoli 1094 genome sequence	1
+Escherichia coli MS 146-1	1
+Emerging Diarrheal Pathogens	1
+Escherichia coli MS 116-1	1
+environmental E. coli	1
+Multicenter collaboration study on the _-lactam resistant Enterobacteriaceae in Japan	1
+Escherichia coli MS 21-1	1
+Escherichia coli MS 60-1	1
+Escherichia coli MS 85-1	1
+Escherichia coli MS 110-3	1
+Escherichia coli MS 84-1	1
+Escherichia coli K-12 MG1655 3.1.4 Multiomics #1	1
+Escherichia coli MS 145-7	1
+Escherichia coli MS 57-2	1
+Escherichia coli MS 79-10	1
+Escherichia coli MS 175-1	1
+
+host
+Homo sapiens	16668
+!blank	2855
+human	2001
+Bos taurus	1436
+Human	669
+Sus scrofa	440
+Gallus gallus	428
+Chroicocephalus	284
+Sus scrofa domesticus	256
+not available: to be reported later	244
+Gallus gallus domesticus	158
+Meleagris gallopavo	156
+Canis lupus familiaris	135
+bovine	132
+Cattle	75
+Sus domesticus	69
+cattle	54
+pig	54
+Chicken	53
+Sus scrofa scrofa	50
+Homo Sapiens	44
+imported food	41
+artificial	39
+homo sapien	33
+Odocoileus virginianus	30
+Meleagris	29
+Canis lupus	29
+Sheep	28
+Equus caballus	27
+homo sapiens	24
+Ovis aries	23
+mouse	23
+Bos primigenius	21
+HUMAN	20
+Anas platyrhynchos	20
+bacteria	19
+Felis catus	17
+mice	17
+mink	16
+parrot	15
+equine	15
+Mus musculus	15
+swine	14
+not provided	14
+duck	14
+Branta	13
+Oryctolagus cuniculus	13
+Bovine	10
+Canis familiaris	10
+goose	9
+pigeon	8
+Hu Child	8
+unidentified	8
+Laridae	8
+avian	8
+rat	8
+Somateria fischeri	7
+chicken	6
+Macaca mulatta	6
+Human (Infant)	6
+rabbit	6
+Vicugna pacos	6
+Mustela putorius furo	6
+Animalia	5
+broiler	5
+Rat	5
+Cervus nippon yesoensis	5
+Avian	5
+Panthera tigris	5
+Cetacea	4
+Antilocapra americana	4
+homo sapian	4
+Bos	4
+J82 Bladder Epithelial Cells (BECs)	4
+cow	4
+primate	4
+mus musculus	4
+Oreotragus oreotragus	4
+Cervus elaphus	3
+Amniota	3
+Capra aegagrus hircus	3
+Capra	3
+Sirenia	3
+Struthio camelus	3
+Porcine	3
+Bovine, juvenile	3
+Polysticta stelleri	3
+cat	3
+Ammotragus lervia	3
+Sylvicapra grimmia	3
+okapi	3
+Chlorocebus sabaeus	3
+Gallus domesticus	3
+Poultry	3
+Serpentes	3
+dog	3
+Rucervus duvaucelii	2
+Anthochaera carunculata	2
+Zenaida macroura	2
+Phaps chalcoptera	2
+
+host_tax_id
+9606	4017
+!blank	3208
+9031	373
+9825	257
+9913	207
+9823	201
+9103	141
+9909	21
+10095	16
+32644	8
+8839	8
+10114	4
+9940	3
+9822	2
+8782	2
+9925	1
+
+host_status
+!blank	3532
+not provided	453
+diseased	54
+healthy	48
+
+host_sex
+!blank	3381
+female	475
+male	231
+
+submitted_host_sex
+!blank	3381
+
+host_body_site
+!blank	3380
+Urinary tract	1
+
+host_gravidity
+!blank	3381
+
+host_phenotype
+!blank	3381
+
+host_genotype
+!blank	3381
+
+host_growth_conditions
+!blank	3381
+
+environmental_package
+!blank	3282
+miscellaneous natural or artificial environment	67
+human-gut	26
+plant-associated	4
+human-associated	2
+
+investigation_type
+!blank	3100
+metatranscriptome	67
+metagenome	19
+mimarks-survey	13
+
+experimental_factor
+!blank	3199
+
+sample_collection
+!blank	3193
+1 ml of overnight broth culture (10^9 cfu/ml) was added to 9 ml of donor urine then processed for extraction	2
+Sample collected from &gt;10^7 cfu.ml-1 heavily infected urine in boric acid containers for routine analysis, then cultured for DNA extraction	2
+1 ml of overnight broth culture (10^9 cfu/ml) was added to 9 ml of donor urine and then processed for extraction	1
+Sample was collected from &gt;10^7 cfu.ml-1 heavily infected urine in boric acid containers for routine analysis, then cultured for DNA extraction	1
+
+sequencing_method
+!blank	3072
+
+target_gene
+!blank	3061
+
+ph
+!blank	2100
+
+broker_name
+

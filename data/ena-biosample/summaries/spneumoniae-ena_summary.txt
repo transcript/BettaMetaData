@@ -1,0 +1,1895 @@
+bio_material
+!blank	56194
+
+cell_line
+!blank	56194
+
+cell_type
+!blank	56194
+
+collected_by
+!blank	54744
+HARVARD PILGRIM HEALTH CARE	738
+Public Health Ontario	236
+National Microbiology Laboratory, Winnipeg	137
+Alberta Provincial Laboratory for Public Health	101
+Donald Morrison	69
+Catrin Moore	53
+Chris Doyle	31
+University of Malaya Medical Centre	18
+Pediatric Research and Clinical Center for Infectious Diseases	14
+Robin Sorg	13
+Jing Li	9
+UW clinical laboratory	4
+not available	4
+PLA General Hospital	3
+BCCDC PHL	3
+Fiocruz	2
+Muhlemann et al	2
+Angela L. Bricker	1
+Pak Leung Ho	1
+Winnipeg Public Health	1
+Avery	1
+Rieza Aprianto	1
+Michael L. Joloba	1
+University of Southampton	1
+ATCC	1
+Mwangi Lab	1
+Fen Pan	1
+Georgiy Lominadze	1
+Moses L. Joloba	1
+Zijun Liu	1
+
+collection_date
+!blank	41639
+2016-01-01	2647
+2006-01-01	1447
+2017-01-01	787
+2009-01-01	613
+2015-01-01	533
+2011-01-01	421
+2004-01-01	419
+2012-01-01	416
+2014-01-01	378
+2007-01-01	363
+2001-01-01	242
+1994-01-01	193
+2008-01-01	167
+1800-01-01	141
+2005-01-01	130
+1984-01-01	126
+2003-01-01	92
+1999-01-01	84
+2010-01-01	83
+1998-01-01	73
+2002-01-01	70
+2016-11-01	69
+2013-01-01	67
+2000-01-01	54
+1900-01-01	51
+1995-01-01	45
+1996-01-01	45
+1997-01-01	40
+1993-01-01	30
+1990-01-01	16
+2008-12-01	15
+2009-12-07	14
+1992-01-01	14
+2010-07-19	14
+1991-01-01	14
+1989-01-01	13
+2010-03-18	13
+2009-02-16	13
+2010-02-16	13
+1964-01-01	13
+2009-11-18	12
+2009-04-01	12
+2009-03-19	12
+2010-02-15	12
+2010-02-01	12
+2009-11-16	11
+2008-09-01	11
+2008-02-04	11
+2008-09-29	11
+2009-11-12	11
+2009-03-17	11
+2010-07-05	11
+2009-01-28	11
+2008-11-28	11
+2010-02-18	11
+2009-01-06	11
+2010-02-08	11
+2009-10-16	11
+2008-09-15	10
+2010-01-13	10
+2009-12-01	10
+2009-12-02	10
+2009-08-14	10
+2009-08-17	10
+2008-02-11	10
+2007-01-31	10
+2010-03-15	10
+2010-08-19	10
+2009-03-25	10
+2010-02-12	10
+2009-05-04	10
+2010-06-14	10
+2010-02-09	10
+2011-05-21	10
+2009-10-19	10
+2008-05-15	9
+2010-05-18	9
+2008-05-02	9
+2008-05-06	9
+2008-09-08	9
+2010-01-25	9
+2008-08-12	9
+2008-10-20	9
+2008-10-23	9
+2010-04-13	9
+2010-04-16	9
+2008-01-28	9
+2010-05-17	9
+2008-08-18	9
+2008-04-15	9
+2008-08-21	9
+2008-12-08	9
+2009-05-08	9
+2009-02-20	9
+2010-02-05	9
+2009-01-16	9
+2010-06-07	9
+2008-11-19	8
+2009-06-22	8
+
+country
+!blank	41515
+USA	4829
+Thailand: Maela	3177
+Netherlands	1718
+USA:Memphis	785
+United Kingdom	686
+USA: Massachesetts	616
+South Africa	533
+Malawi	249
+United Kingdom: England	230
+Spain	197
+South Africa: Cape Town	195
+Canada:Alberta	104
+Germany	100
+Iceland: Reykjavik	71
+USA:Chicago	69
+Cambodia	53
+not collected	52
+Canada: Ontario	42
+Denmark	41
+Canada: Quebec	40
+Sweden	38
+Japan	38
+Portugal	37
+Thailand	36
+Canada	32
+Canada:British Columbia	32
+USA: Bronx, NY	31
+Czech Republic	28
+Russia:Saint-Petersburg	25
+Canada:Quebec	21
+China: Shanghai	20
+Canada:Manitoba	19
+Turkey	18
+Canada:Saskatchewan	18
+Malaysia: Kuala Lumpur	18
+UK: England	17
+Korea	17
+China	17
+Australia	16
+Canada:Ontario	16
+Iceland	16
+South Korea	14
+Gambia	14
+Switzerland	13
+China: Hong Kong	13
+Canada:Nova Scotia	12
+Iceland: Kopavogur	11
+France	11
+Mexico: Mexico City	11
+Vietnam: Ho Chi Minh City	10
+Russia	10
+USA: New York	10
+USA: Georgia	9
+Portugal: Lisbon	9
+China: Tsinghua University	9
+China: Taiwan	9
+Peru	8
+Canada:Newfoundland and Labrador	8
+Russia:Moscow	8
+USA: Massachusetts	8
+not available: not collected	7
+Malaysia	7
+Iceland: Reykjanesbaer	6
+United Kingdom: Scotland	6
+Poland	6
+India	5
+Peru: Lima	5
+not available	4
+USA: Maryland	4
+Singapore	4
+USA: Tennessee	4
+USA: Alaska	4
+USA: WA	4
+China: Beijing	4
+Canada:Prince Edward Island	3
+Iceland: Mosfellsbaer	3
+Kenya	3
+Iceland: Gardabaer	3
+USA: Jackson, Mississippi	3
+Iceland: Hafnarfjordur	3
+Canada:Northwest Territories	3
+Canada:New Brunswick	3
+Uruguay: Montevideo	3
+Iceland: Eyjafjordur	3
+Egypt	3
+Greece	3
+USA: Minnesota	2
+Ghana	2
+UK: Scotland	2
+United Kingdom: London	2
+Viet Nam	2
+Russia:Perm	2
+Iceland: Grindavik	2
+France: Paris	2
+Canada:Yukon	2
+Iceland: Seltjarnarnes	2
+Iceland: Hveragerdi	2
+Iceland: Bessastadahreppur	2
+Croatia	2
+
+cultivar
+!blank	56194
+
+culture_collection
+!blank	56162
+NCTC:11908	1
+NCTC:11905	1
+NCTC:11904	1
+NCTC:11907	1
+NCTC:11901	1
+NCTC:11900	1
+NCTC:11903	1
+NCTC:13276	1
+NCTC:11902	1
+NCTC:11888	1
+NCTC:11889	1
+NCTC:11886	1
+NCTC:13734	1
+NCTC:13735	1
+NCTC:13753	1
+NCTC:13754	1
+NCTC:13755	1
+NCTC:7466	1
+NCTC:7465	1
+NCTC:12140	1
+NCTC:12495	1
+NCTC:10319	1
+NCTC:11893	1
+NCTC:11891	1
+NCTC:11890	1
+NCTC:11897	1
+NCTC:11895	1
+NCTC:12977	1
+NCTC:7978	1
+NCTC:11899	1
+NCTC:11898	1
+ATCC:6303	1
+
+description
+Streptococcus pneumoniae; Streptococcus pneumoniae	3233
+This sample has been submitted by pda|schochua on 2017-07-05; Streptococcus pneumoniae	2117
+PneumoCaT - Validation Set	2065
+This sample has been submitted by Wellcome Sanger Institute on 2015-04-20; Streptococcus pneumoniae	1212
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-22; Streptococcus pneumoniae	1016
+This sample has been submitted by pda|schochua on 2018-05-18; Streptococcus pneumoniae	1000
+This sample has been submitted by pda|schochua on 2018-05-19; Streptococcus pneumoniae	1000
+This sample has been submitted by pda|schochua on 2018-05-22; Streptococcus pneumoniae	1000
+This sample has been submitted by Wellcome Sanger Institute on 2014-10-02; Streptococcus pneumoniae	987
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-28; Streptococcus pneumoniae	951
+PneumoCaT - Development Set	871
+NVT PNSP	846
+Streptococcus pneumoniae	799
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-13; Streptococcus pneumoniae	777
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-18; Streptococcus pneumoniae	765
+This sample has been submitted by Wellcome Sanger Institute on 2011-11-03; Streptococcus pneumoniae	762
+pneumococcus	751
+This sample has been submitted by Wellcome Sanger Institute on 2012-11-20; Streptococcus pneumoniae	744
+This sample has been submitted by pda|taj.azarian on 2018-03-10; Streptococcus pneumoniae	738
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-13; Streptococcus pneumoniae	658
+This sample has been submitted by Wellcome Sanger Institute on 2014-10-09; Streptococcus pneumoniae	604
+This sample has been submitted by Wellcome Sanger Institute on 2014-05-27; Streptococcus pneumoniae	587
+This sample has been submitted by Wellcome Sanger Institute on 2011-01-27; Streptococcus pneumoniae	576
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-06; Streptococcus pneumoniae	536
+This sample has been submitted by Wellcome Sanger Institute on 2014-12-15; Streptococcus pneumoniae	527
+This sample has been submitted by Wellcome Sanger Institute on 2015-02-03; Streptococcus pneumoniae	503
+This sample has been submitted by Wellcome Sanger Institute on 2014-01-22; Streptococcus pneumoniae	485
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-15; Streptococcus pneumoniae	475
+This sample has been submitted by Wellcome Sanger Institute on 2014-12-09; Streptococcus pneumoniae	475
+This sample has been submitted by Wellcome Sanger Institute on 2011-08-23; Streptococcus pneumoniae	473
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-27; Streptococcus pneumoniae	456
+This sample has been submitted by Wellcome Sanger Institute on 2013-03-08; Streptococcus pneumoniae	456
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-18; Streptococcus pneumoniae	453
+This sample has been submitted by Wellcome Sanger Institute on 2013-11-05; Streptococcus pneumoniae	439
+This sample has been submitted by Wellcome Sanger Institute on 2013-07-03; Streptococcus pneumoniae	415
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-01; Streptococcus pneumoniae	381
+This sample has been submitted by Wellcome Sanger Institute on 2014-08-11; Streptococcus pneumoniae	380
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-09; Streptococcus pneumoniae	379
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-09; Streptococcus pneumoniae	373
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-11; Streptococcus pneumoniae	352
+This sample has been submitted by Wellcome Sanger Institute on 2012-09-17; Streptococcus pneumoniae	350
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-06; Streptococcus pneumoniae	347
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-04; Streptococcus pneumoniae	337
+This sample has been submitted by Wellcome Sanger Institute on 2015-08-24; Streptococcus pneumoniae	328
+This sample has been submitted by Wellcome Sanger Institute on 2014-12-10; Streptococcus pneumoniae	327
+This sample has been submitted by Wellcome Sanger Institute on 2015-02-04; Streptococcus pneumoniae	327
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-26; Streptococcus pneumoniae	318
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-19; Streptococcus pneumoniae	301
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-16; Streptococcus pneumoniae	294
+This sample has been submitted by Wellcome Sanger Institute on 2014-05-13; Streptococcus pneumoniae	291
+This sample has been submitted by Wellcome Sanger Institute on 2014-06-26; Streptococcus pneumoniae	284
+This sample has been submitted by Wellcome Sanger Institute on 2015-08-14; Streptococcus pneumoniae	282
+This sample has been submitted by Wellcome Sanger Institute on 2014-09-23; Streptococcus pneumoniae	277
+This sample has been submitted by Wellcome Sanger Institute on 2015-04-02; Streptococcus pneumoniae	274
+This sample has been submitted by Wellcome Sanger Institute on 2012-06-14; Streptococcus pneumoniae	261
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-30; Streptococcus pneumoniae	242
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-29; Streptococcus pneumoniae	240
+IPD	221
+This sample has been submitted by Wellcome Sanger Institute on 2015-06-08; Streptococcus pneumoniae	220
+This sample has been submitted by Wellcome Sanger Institute on 2014-01-30; Streptococcus pneumoniae	220
+This sample has been submitted by pda|sarahteatero on 2016-12-16; Streptococcus pneumoniae	194
+This sample has been submitted by Wellcome Sanger Institute on 2015-10-09; Streptococcus pneumoniae	191
+This sample has been submitted by Wellcome Sanger Institute on 2014-01-09; Streptococcus pneumoniae	190
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-05; Streptococcus pneumoniae	186
+This sample has been submitted by pda|benjamin.metcalf@gmail.com on 2015-08-24; Streptococcus pneumoniae	177
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-05; Streptococcus pneumoniae	164
+Hermans Carriage Rotterdam Strains	145
+This sample has been submitted by Wellcome Sanger Institute on 2013-05-02; Streptococcus pneumoniae	137
+This sample has been submitted by pda|walty on 2016-10-13; Streptococcus pneumoniae	136
+Cefepime	135
+Azithromycin	135
+Linezolid	135
+Levofloxacin	135
+Ciprofloxacin	135
+This sample has been submitted by Wellcome Sanger Institute on 2013-08-08; Streptococcus pneumoniae	130
+Mutant derived from laboratory strain	125
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-05; Streptococcus pneumoniae	111
+Imepenem	110
+MOST - Development Set	110
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-20; Streptococcus pneumoniae	103
+This sample has been submitted by Wellcome Sanger Institute on 2011-03-07; Streptococcus pneumoniae	103
+This sample has been submitted by pda|walty on 2016-05-10; Streptococcus pneumoniae	100
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-29; Streptococcus pneumoniae	99
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-17; Streptococcus pneumoniae	98
+carriage	98
+This sample has been submitted by pda|philippe.leprohon@crchul.ulaval.ca on 2018-07-19; Streptococcus pneumoniae	97
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-18; Streptococcus pneumoniae	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-01-06; Streptococcus pneumoniae	96
+This sample has been submitted by pda|schochua on 2018-05-17; Streptococcus pneumoniae	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-05; Streptococcus pneumoniae	95
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-20; Streptococcus pneumoniae	95
+This sample has been submitted by pda|florianmauffrey on 2017-11-08; Streptococcus pneumoniae	88
+This sample has been submitted by Wellcome Sanger Institute on 2010-08-26; Streptococcus pneumoniae	78
+This sample has been submitted by Wellcome Sanger Institute on 2011-03-09; Streptococcus pneumoniae	71
+This sample has been submitted by pda|laurenacowley on 2018-03-31; Streptococcus pneumoniae	69
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-15; Streptococcus pneumoniae	61
+This sample has been submitted by pda|schochua on 2017-11-07; Streptococcus pneumoniae	53
+Invasive Streptococcus pneumoniae isolated from Cambodian children	52
+This sample has been submitted by Wellcome Sanger Institute on 2010-06-23; Streptococcus pneumoniae	52
+This sample has been submitted by Wellcome Sanger Institute on 2010-06-21; Streptococcus pneumoniae	51
+
+dev_stage
+!blank	56194
+
+ecotype
+!blank	56194
+
+environmental_sample
+false	56194
+
+first_public
+2016-06-10	2940
+2017-08-08	2286
+2017-07-05	2139
+2014-11-20	2028
+2015-10-13	1241
+2018-06-26	1130
+2014-03-18	1109
+2018-05-19	1000
+2018-05-18	1000
+2018-05-22	1000
+2015-03-03	989
+2018-07-03	973
+2015-06-03	944
+2016-10-31	846
+2015-01-14	810
+2011-11-07	779
+2015-01-08	767
+2017-04-25	751
+2018-03-10	738
+2015-05-19	705
+2018-02-16	610
+2012-01-16	572
+2017-01-11	563
+2016-01-12	562
+2014-02-18	560
+2015-06-23	557
+2014-09-16	551
+2016-06-14	549
+2015-01-27	544
+2013-07-22	528
+2015-05-06	515
+2015-06-16	512
+2014-05-19	510
+2011-02-14	488
+2015-08-12	483
+2015-06-09	479
+2015-02-03	456
+2012-01-05	438
+2011-11-15	430
+2017-11-09	405
+2016-01-19	387
+2013-04-08	384
+2017-11-30	380
+2015-12-15	378
+2010-03-05	371
+2014-06-24	370
+2016-05-24	369
+2015-05-12	363
+2013-08-14	360
+2014-07-16	349
+2014-03-31	347
+2014-03-04	345
+2014-07-23	343
+2011-10-11	339
+2015-10-20	325
+2014-07-01	323
+2017-12-05	320
+2015-02-10	318
+2018-02-27	304
+2012-02-07	303
+2015-04-21	285
+2016-07-19	273
+2011-12-05	263
+2011-11-02	263
+2012-01-19	257
+2014-09-23	251
+2017-11-08	242
+2015-09-03	241
+2014-08-27	235
+2012-05-28	227
+2013-12-16	226
+2016-02-23	216
+2011-11-29	215
+2012-01-10	215
+2010-08-26	213
+2013-04-22	211
+2012-02-28	199
+2016-12-16	194
+2011-09-06	192
+2014-04-28	190
+2014-07-02	190
+2014-07-09	190
+2015-11-03	190
+2014-10-15	189
+2014-05-12	184
+2016-06-01	184
+2013-08-27	179
+2014-08-12	179
+2015-08-24	179
+2013-11-18	178
+2014-02-10	174
+2016-03-09	171
+2014-10-28	170
+2013-10-14	169
+2011-09-20	164
+2015-08-18	164
+2016-03-08	156
+2015-07-07	154
+2013-06-11	149
+2017-12-19	148
+
+germline
+false	56194
+
+identified_by
+!blank	56193
+Yanhong Zhang	1
+
+isolate
+!blank	48738
+Cambodian child	52
+Not available	42
+not available	27
+R6	13
+Clinical	10
+1	8
+CCRI-21487	7
+2	7
+11	7
+10	7
+13	7
+12	7
+15	7
+14	7
+17	7
+16	7
+19	7
+18	7
+3	7
+4	7
+5	7
+6	7
+24	7
+25	7
+26	7
+27	7
+20	7
+21	7
+22	7
+23	7
+28	7
+29	7
+7	7
+8	7
+9	7
+39	7
+38	7
+33	7
+32	7
+31	7
+30	7
+37	7
+36	7
+35	7
+34	7
+CCRI-8970	7
+51	6
+50	6
+52	6
+48	6
+49	6
+46	6
+47	6
+44	6
+45	6
+42	6
+43	6
+40	6
+41	6
+108	5
+109	5
+102	5
+103	5
+100	5
+101	5
+106	5
+107	5
+104	5
+105	5
+99	5
+98	5
+91	5
+90	5
+93	5
+92	5
+95	5
+94	5
+97	5
+96	5
+376	5
+246	5
+179	5
+178	5
+177	5
+176	5
+175	5
+174	5
+173	5
+172	5
+171	5
+170	5
+168	5
+169	5
+164	5
+165	5
+166	5
+167	5
+161	5
+162	5
+
+isolation_source
+!blank	42252
+nasopharynx	4780
+sterile site	3136
+Blood	1268
+CSF	926
+nasopharyngeal	738
+BLOOD	519
+blood	495
+Murine lung	405
+not known	251
+Sickle cell patient with IPD	221
+Oral Swab	195
+Derived from laboratory strain	125
+Not Collected	101
+Sickle cell patient carriage strain	98
+Laboratory derivative	69
+Human	51
+middle ear	49
+sputum	46
+Not available	42
+Nasopharynx	39
+Sputum	33
+Respiratory	25
+not available: to be reported later	23
+Not known	22
+CSF blood	18
+Pleural fluid	15
+respiratory tract	14
+Laboratory	14
+eye	13
+Biofilm	12
+liquor	11
+Clinical site	10
+paracentesis	9
+throat swab	9
+Tsinghua University	9
+NP swab	8
+nasopharyngeal swab	8
+tracheal aspirate	7
+PLEURAL FLUID	7
+nasal	7
+human	6
+clinical specimen	6
+blood or CSF	6
+Pleural Fluid	5
+throat	5
+human blood	4
+not available	4
+Lab culture	4
+nose	4
+lung	4
+pleural fluid	4
+ear	3
+bronchus of patient	3
+nasopharynx from a pediatric patient	2
+swab	2
+Sinus	2
+JOINT	2
+Ear swab	2
+Conjunctiva	2
+Other Sterile Site	2
+BONE	2
+serum	2
+Blood Culture	2
+Joint fluid	2
+Eye	1
+urine	1
+Parotid gland	1
+Fluid	1
+pharynx	1
+not	1
+respiratory	1
+ear discharge	1
+CSF or blood	1
+sinus aspirate	1
+Bronchial aspirate	1
+bronchial aspirate	1
+brain tissue	1
+bronchial secretion	1
+Urine	1
+NP Swab	1
+Not Known	1
+Sterile site	1
+Tracheal aspirate	1
+Ear Swab	1
+Boston Children&apos;s Hospital	1
+Cerebrospinal fluid	1
+storeroom C7 of Tianjin Museum	1
+bronchial wash	1
+Clinical	1
+blood or pleural fluid	1
+tracheal secretion	1
+Laboratory Stock	1
+Tracheal	1
+Blood and CSF	1
+CSF + Blood	1
+Lab strain	1
+Synovial Fluid	1
+ear fluid	1
+
+location
+!blank	55037
+33.9249 S 18.4241 E	195
+41.87 N 87.65 W	69
+13.21 N 103.51 E	53
+50.93 N 11.58 E	44
+53.2194 N 6.5665 E	14
+40.88 N 73.88 W	12
+40.85 N 73.85 W	8
+40.89 N 73.86 W	3
+32.29876 N 90.18481 W	3
+39.9 N 116.3 E	3
+49.260735 N 123.11852 W	3
+42.36 N 71.5 W	2
+42.36 N 71.74 W	2
+42.36 N 71.37 W	2
+42.36 N 71.71 W	2
+42.36 N 71.52 W	2
+42.36 N 71.49 W	2
+42.36 N 71.25 W	2
+42.36 N 71.14 W	2
+42.36 N 71.43 W	2
+42.36 N 71.46 W	2
+42.36 N 71.26 W	2
+42.36 N 71.17 W	2
+42.36 N 71.32 W	2
+42.36 N 71.64 W	2
+42.36 N 71.31 W	2
+42.36 N 71.58 W	2
+42.36 N 71.6 W	2
+42.36 N 71.1 W	2
+42.36 N 71.61 W	2
+42.36 N 71.2 W	2
+42.36 N 71.13 W	2
+42.36 N 71.36 W	2
+42.36 N 71.51 W	2
+42.36 N 71.56 W	2
+42.36 N 71.22 W	2
+42.36 N 71.68 W	2
+42.36 N 71.35 W	2
+42.36 N 71.21 W	2
+42.36 N 71.27 W	2
+42.36 N 71.44 W	2
+42.36 N 71.47 W	2
+42.36 N 71.53 W	2
+42.36 N 71.41 W	2
+42.36 N 71.65 W	2
+42.36 N 71.19 W	2
+42.36 N 71.7 W	2
+42.36 N 71.63 W	2
+42.36 N 71.28 W	2
+42.36 N 71.66 W	2
+42.36 N 71.73 W	2
+42.36 N 71.3 W	2
+42.36 N 71.16 W	2
+42.36 N 71.55 W	2
+42.36 N 71.39 W	2
+42.36 N 71.4 W	2
+42.36 N 71.34 W	2
+42.36 N 71.69 W	2
+42.36 N 71.48 W	2
+42.36 N 71.62 W	2
+42.36 N 71.24 W	2
+42.36 N 71.23 W	2
+42.36 N 71.15 W	2
+42.36 N 71.42 W	2
+42.36 N 71.45 W	2
+42.36 N 71.33 W	2
+42.36 N 71.18 W	2
+42.36 N 71.12 W	2
+42.36 N 71.59 W	2
+42.36 N 71.29 W	2
+42.36 N 71.67 W	2
+42.36 N 71.72 W	2
+42.36 N 71.11 W	2
+42.36 N 71.38 W	2
+42.36 N 71.57 W	2
+42.36 N 71.54 W	2
+42.36 N 71.563 W	1
+42.36 N 71.141 W	1
+42.36 N 71.96 W	1
+42.36 N 71.404 W	1
+42.36 N 71.162 W	1
+42.36 N 71.98 W	1
+42.36 N 71.661 W	1
+42.36 N 71.444 W	1
+42.36 N 71.675 W	1
+42.36 N 71.454 W	1
+42.36 N 71.131 W	1
+42.36 N 71.688 W	1
+42.36 N 71.381 W	1
+42.36 N 71.433 W	1
+42.36 N 71.525 W	1
+42.36 N 71.118 W	1
+42.36 N 71.517 W	1
+42.36 N 71.305 W	1
+42.36 N 71.333 W	1
+42.36 N 71.83 W	1
+42.36 N 71.492 W	1
+42.36 N 71.341 W	1
+42.36 N 71.257 W	1
+
+mating_type
+!blank	56194
+
+serotype
+!blank	47150
+NT	794
+19F	698
+1	611
+23F	587
+19A	522
+6B	514
+4	469
+22F	316
+6A	269
+14	268
+6	230
+3	226
+11A	219
+6C	202
+35B	182
+15A	159
+23B	152
+23A	151
+15B	141
+34	136
+35F	127
+20	124
+15BC	120
+21	115
+33F	112
+10A	104
+7F	92
+15C	90
+16F	86
+07F	72
+38	69
+8	62
+15B/C	62
+13	60
+9V	57
+18C	57
+10B	54
+17F	52
+9N	51
+35C	48
+33B	38
+5	34
+19B	33
+31	31
+12F	30
+not available: to be reported later	23
+28F	22
+24F	21
+22A	19
+7C	16
+7B	16
+37	15
+22A/F	15
+19 F	15
+06C	13
+33C	12
+12B	11
+10F	11
+40	11
+32A	11
+46	10
+32F	10
+18A	9
+09A	8
+19 A	8
+33A/F	7
+33D	7
+45	7
+09N	6
+9A	6
+06A	6
+18F	6
+2	5
+9L	5
+06B	5
+18B	5
+sg18	4
+25F	4
+48	4
+15F	4
+12A/F	3
+6 serogroup	3
+6D	3
+27	2
+29	2
+28A	2
+6E	2
+09V	2
+09L	2
+24A	2
+9 AV	2
+0NT	2
+7A	2
+7 AF	2
+07C	2
+1 (ng)	1
+24	1
+12A	1
+23 F	1
+
+serovar
+!blank	47150
+NT	794
+19F	698
+1	611
+23F	587
+19A	522
+6B	514
+4	469
+22F	316
+6A	269
+14	268
+6	230
+3	226
+11A	219
+6C	202
+35B	182
+15A	159
+23B	152
+23A	151
+15B	141
+34	136
+35F	127
+20	124
+15BC	120
+21	115
+33F	112
+10A	104
+7F	92
+15C	90
+16F	86
+07F	72
+38	69
+8	62
+15B/C	62
+13	60
+9V	57
+18C	57
+10B	54
+17F	52
+9N	51
+35C	48
+33B	38
+5	34
+19B	33
+31	31
+12F	30
+not available: to be reported later	23
+28F	22
+24F	21
+22A	19
+7C	16
+7B	16
+37	15
+22A/F	15
+19 F	15
+06C	13
+33C	12
+12B	11
+10F	11
+40	11
+32A	11
+46	10
+32F	10
+18A	9
+09A	8
+19 A	8
+33A/F	7
+33D	7
+45	7
+09N	6
+9A	6
+06A	6
+18F	6
+2	5
+9L	5
+06B	5
+18B	5
+sg18	4
+25F	4
+48	4
+15F	4
+12A/F	3
+6 serogroup	3
+6D	3
+27	2
+29	2
+28A	2
+6E	2
+09V	2
+09L	2
+24A	2
+9 AV	2
+0NT	2
+7A	2
+7 AF	2
+07C	2
+1 (ng)	1
+24	1
+12A	1
+23 F	1
+
+sex
+!blank	55410
+male	502
+female	282
+
+submitted_sex
+!blank	55410
+male	502
+female	282
+
+specimen_voucher
+!blank	55409
+CM0L1G14	2
+CM0L1G13	2
+CM0L1G12	2
+CM0L1G11	2
+CM0L1G10	2
+CM0L1G7	2
+CM0L1G9	2
+CM0L1G8	2
+CM0L3G11	2
+CM0L3G10	2
+CM0L3G13	2
+CM0L3G12	2
+CM0L3G14	2
+CN0L1G8	2
+CN0L1G9	2
+CN0L1G7	2
+CN0L3G8	2
+CN0L3G9	2
+CN0L3G14	2
+CN0L3G12	2
+CN0L3G13	2
+CN0L3G10	2
+CN0L3G11	2
+CN0L1G14	2
+CN0L1G10	2
+CN0L1G11	2
+CN0L1G12	2
+CN0L1G13	2
+CM0L2G14	2
+CM0L2G12	2
+CM0L2G13	2
+CM0L2G10	2
+CM0L2G11	2
+CN0L2G9	2
+CN0L2G8	2
+CM0L3G7	2
+CM0L3G9	2
+CM0L3G8	2
+CN0L2G11	2
+CN0L2G10	2
+CN0L2G13	2
+CN0L2G12	2
+CN0L2G14	2
+CM0L2G8	2
+CM0L2G9	2
+IM0L3G2	1
+LeM0L2G11	1
+LeM0L2G10	1
+LeM0L2G13	1
+LeM0L2G12	1
+LeM0L2G14	1
+LiN0L3G12	1
+IM0L2G8	1
+IM0L2G9	1
+IM0L2G6	1
+IM0L2G7	1
+IM0L2G4	1
+IM0L2G5	1
+IM0L2G2	1
+IM0L2G3	1
+IM0L2G0	1
+IM0L2G1	1
+AN0L1G14	1
+AN0L1G12	1
+AN0L1G13	1
+AN0L1G10	1
+AN0L1G11	1
+CM0L1G3	1
+CM0L1G2	1
+CM0L1G1	1
+CM0L1G0	1
+CM0L1G6	1
+CM0L1G5	1
+CM0L1G4	1
+AN0L3G14	1
+AN0L3G10	1
+AN0L3G11	1
+AN0L3G12	1
+AN0L3G13	1
+AN0L1G4	1
+LiNdL1G14	1
+LiNdL1G13	1
+LiNdL1G12	1
+LiNdL1G11	1
+LiNdL1G10	1
+INDL2G13	1
+INDL2G12	1
+AN0L1G5	1
+INDL2G10	1
+INDL2G14	1
+IN0L3G2	1
+LiNdL3G14	1
+IN0L3G0	1
+IN0L3G1	1
+LiNdL3G11	1
+LiNdL3G10	1
+LiNdL3G13	1
+LiNdL3G12	1
+IN0L3G8	1
+
+strain
+!blank	35701
+TIGR4	821
+Serotype 22F	137
+ATCC700669	125
+ST1	108
+D39	103
+Serotype 20	101
+R6	97
+Streptococcus species	52
+1	44
+NT	41
+23F	40
+19F	33
+from clinical sample	18
+14	18
+6B	18
+GA17457	17
+GA41565	15
+6A10	15
+6A/B	15
+GA02254	15
+XZ8009	14
+XZ7022	14
+ST433	13
+TBC	12
+2/2	11
+GA17545	11
+XZ8015	10
+PMEN3 (Spain9V-3)	10
+6A	10
+34	7
+A66.1	7
+97	6
+19A	6
+78	6
+35F	6
+Rx1	6
+15	6
+27	6
+29	6
+38	6
+19A/F	6
+6C	6
+5	6
+138	6
+88	6
+92	5
+151	5
+23A/F	5
+236	5
+23A	5
+8	5
+3	5
+265	5
+108	5
+244	5
+13	5
+322	5
+325	5
+32F	5
+SP27	5
+46	5
+71	5
+ST15	5
+ST156	5
+130	5
+135	5
+80	5
+115	5
+277	4
+94	4
+172	4
+259	4
+250	4
+ST9	4
+217	4
+69	4
+194	4
+338	4
+128	4
+10F	4
+246	4
+381	4
+161	4
+205	4
+143	4
+189	4
+303	4
+33	4
+329	4
+48	4
+347	4
+196	4
+58	4
+56	4
+SP17	4
+187	4
+75	4
+82	4
+85	4
+
+sub_species
+!blank	55534
+ST199	53
+ST62	49
+ST439	32
+ST65	32
+ST1692	31
+ST176	21
+ST1635	21
+ST438	17
+ST193	17
+ST433	16
+ST162	16
+ST36	14
+ST452	14
+ST58	13
+ST180	12
+ST63	11
+ST138	11
+ST1262	10
+ST393	10
+ST1714	10
+ST100	9
+ST30	9
+ST698	9
+ST392	8
+ST1877	8
+ST432	7
+ST311	7
+ST191	6
+ST673	6
+ST446	6
+ST1766	5
+ST179	5
+ST2220	5
+ST124	5
+ST402	5
+ST42	5
+ST448	4
+ST449	4
+ST816	4
+ST414	4
+ST97	3
+ST198	3
+ST72	3
+ST66	3
+ST398	3
+ST395	3
+ST2068	3
+ST327	2
+ST235	2
+ST1600	2
+ST15	2
+ST2496	2
+ST422	2
+ST1201	2
+ST177	2
+ST1884	2
+ST8027	2
+ST1497	2
+ST6733	2
+ST444	2
+ST819	2
+ST1862	2
+ST11799	2
+ST411	2
+ST469	2
+ST461	2
+ST3240	1
+ST2457	1
+ST33	1
+ST4696	1
+ST4697	1
+ST242	1
+ST113	1
+ST309	1
+ST6188	1
+ST3460	1
+ST3916	1
+ST2613	1
+ST11800	1
+ST8709	1
+ST1373	1
+ST992	1
+ST9655	1
+ST11213	1
+ST190	1
+ST172	1
+ST227	1
+ST8712	1
+ST8711	1
+ST8710	1
+ST81	1
+ST568	1
+ST3734	1
+ST9685	1
+ST4423	1
+ST4424	1
+ST276	1
+ST4321	1
+ST4325	1
+
+sub_strain
+!blank	56194
+
+tissue_lib
+!blank	56194
+
+tissue_type
+!blank	56160
+cultured monoclonal bacteria	34
+
+variety
+!blank	56194
+
+tax_id
+1313	54915
+170187	849
+373153	106
+171101	56
+561276	15
+760787	9
+760742	8
+760814	8
+1159205	7
+1159206	7
+886289	6
+1159207	5
+1130804	2
+869216	1
+1415763	1
+869215	1
+1415764	1
+760779	1
+760778	1
+760777	1
+760775	1
+760774	1
+760773	1
+760772	1
+760771	1
+760770	1
+760838	1
+926463	1
+926462	1
+760830	1
+760831	1
+760832	1
+760833	1
+760834	1
+926461	1
+760837	1
+926452	1
+926453	1
+926450	1
+926460	1
+926456	1
+926457	1
+760784	1
+926455	1
+926458	1
+926459	1
+760744	1
+760745	1
+1105115	1
+1105116	1
+1105117	1
+1105118	1
+1105119	1
+926464	1
+760827	1
+760826	1
+760825	1
+760824	1
+760823	1
+760822	1
+760821	1
+760820	1
+760829	1
+760828	1
+1415762	1
+869801	1
+760791	1
+760790	1
+760793	1
+760792	1
+760795	1
+760794	1
+760797	1
+926449	1
+760798	1
+760748	1
+760864	1
+1105121	1
+1105120	1
+760852	1
+760850	1
+760851	1
+760856	1
+760854	1
+760855	1
+760858	1
+760859	1
+760781	1
+926470	1
+926471	1
+926472	1
+926473	1
+760786	1
+1131630	1
+760841	1
+760840	1
+760843	1
+760842	1
+760845	1
+760844	1
+
+scientific_name
+Streptococcus pneumoniae	54915
+Streptococcus pneumoniae TIGR4	849
+Streptococcus pneumoniae D39	106
+Streptococcus pneumoniae R6	56
+Streptococcus pneumoniae ATCC 700669	15
+Streptococcus pneumoniae GA17457	9
+Streptococcus pneumoniae GA02254	8
+Streptococcus pneumoniae GA41565	8
+Streptococcus pneumoniae XZ7022	7
+Streptococcus pneumoniae XZ8009	7
+Streptococcus pneumoniae GA17545	6
+Streptococcus pneumoniae XZ8015	5
+Streptococcus pneumoniae ST556	2
+Streptococcus pneumoniae GA11426	1
+Streptococcus pneumoniae GA44500	1
+Streptococcus pneumoniae GA13455	1
+Streptococcus pneumoniae GA13723	1
+Streptococcus pneumoniae GA11663	1
+Streptococcus pneumoniae GA47388	1
+Streptococcus pneumoniae Split 28	1
+Streptococcus pneumoniae 5185-06	1
+Streptococcus pneumoniae GA47033	1
+Streptococcus pneumoniae SPN033038	1
+Streptococcus pneumoniae GA47439	1
+Streptococcus pneumoniae 0711-00	1
+Streptococcus pneumoniae GA17227	1
+Streptococcus pneumoniae GA40183	1
+Streptococcus pneumoniae NP127	1
+Streptococcus pneumoniae Verbist 186	1
+Streptococcus pneumoniae 39366	1
+Streptococcus pneumoniae SPAR27	1
+Streptococcus pneumoniae GA58771	1
+Streptococcus pneumoniae 1719	1
+Streptococcus pneumoniae GA56348	1
+Streptococcus pneumoniae 7879-04	1
+Streptococcus pneumoniae GA08780	1
+Streptococcus pneumoniae GA07643	1
+Streptococcus pneumoniae GA47628	1
+Streptococcus pneumoniae GA18523	1
+Streptococcus pneumoniae GA43265	1
+Streptococcus pneumoniae GA13856	1
+Streptococcus pneumoniae GA60080	1
+Streptococcus pneumoniae GA49447	1
+Streptococcus pneumoniae GA43380	1
+Streptococcus pneumoniae NP141	1
+Streptococcus pneumoniae SPN021198	1
+Streptococcus pneumoniae GA41688	1
+Streptococcus pneumoniae GA11856	1
+Streptococcus pneumoniae GA40410	1
+Streptococcus pneumoniae 27	1
+Streptococcus pneumoniae NP112	1
+Streptococcus pneumoniae GA40028	1
+Streptococcus pneumoniae GA62331	1
+Streptococcus pneumoniae 5787-06	1
+Streptococcus pneumoniae CDC3059-06	1
+Streptococcus pneumoniae 6963-05	1
+Streptococcus pneumoniae SPN061370	1
+Streptococcus pneumoniae GA02270	1
+Streptococcus pneumoniae GA47502	1
+Streptococcus pneumoniae GA13224	1
+Streptococcus pneumoniae CDC1873-00	1
+Streptococcus pneumoniae GA47751	1
+Streptococcus pneumoniae GA49138	1
+Streptococcus pneumoniae 34369/24F	1
+Streptococcus pneumoniae GA43257	1
+Streptococcus pneumoniae 1018-00	1
+Streptococcus pneumoniae 889/96	1
+Streptococcus pneumoniae GA47179	1
+Streptococcus pneumoniae GA47597	1
+Streptococcus pneumoniae GA13637	1
+Streptococcus pneumoniae GA13430	1
+Streptococcus pneumoniae OXC141	1
+Streptococcus pneumoniae GA13338	1
+Streptococcus pneumoniae SPN072838	1
+Streptococcus pneumoniae GA04672	1
+Streptococcus pneumoniae GA47688	1
+Streptococcus pneumoniae GA49542	1
+Streptococcus pneumoniae GA44452	1
+Streptococcus pneumoniae GA19101	1
+Streptococcus pneumoniae GA17328	1
+Streptococcus pneumoniae England14-9	1
+Streptococcus pneumoniae 7102-99	1
+Streptococcus pneumoniae EU-NP05	1
+Streptococcus pneumoniae GA02506	1
+Streptococcus pneumoniae 7720-99	1
+Streptococcus pneumoniae GA54354	1
+Streptococcus pneumoniae GA47760	1
+Streptococcus pneumoniae GA44128	1
+Streptococcus pneumoniae EU-NP04	1
+Streptococcus pneumoniae EU-NP03	1
+Streptococcus pneumoniae Holland 1656	1
+Streptococcus pneumoniae GA19077	1
+Streptococcus pneumoniae EU-NP02	1
+Streptococcus pneumoniae GA02714	1
+Streptococcus pneumoniae GA62681	1
+Streptococcus pneumoniae GA05248	1
+Streptococcus pneumoniae GA41317	1
+Streptococcus pneumoniae EU-NP01	1
+Streptococcus pneumoniae SPAR55	1
+Streptococcus pneumoniae GA04175	1
+
+sample_alias
+M8	2
+1	2
+PHESPD0486	1
+PHESPD0487	1
+PHESPD0484	1
+2071727-sc-2013-11-05T11:56:37Z-1749808	1
+50962y09	1
+PHESPD0483	1
+SMRU445-sc-2011-01-27-1060634	1
+GPS_ZA_1711-sc-2021333	1
+0fb763a0-589f-11e6-9a3d-3c4a9275d6c8	1
+PHESPD0488	1
+GPS_TR_75-sc-2296448	1
+SPAR159	1
+SPAR158	1
+SP5652-06	1
+GPS_MW_1783-sc-2139753	1
+GCID_STREPA_00029	1
+SPAR151	1
+PHESPD0482	1
+SPAR152	1
+SPAR155	1
+SPAR154	1
+SPAR157	1
+SPAR156	1
+GPS_ZA_1047-sc-1951195	1
+GPS_GM_0469-sc-2003341	1
+VICE0670-sc-2013-10-29T08:35:27Z-1737162	1
+VICE0524-sc-1920137	1
+SMRU701-sc-2011-01-27-1060890	1
+AWT10-sc-2011-08-23T21:28:36Z-1262265	1
+GPS_MW_A28426-sc-2295894	1
+PHESPD0481	1
+21518Y09	1
+SMRU2560-sc-2011-01-27-1062773	1
+BAN15R-sc-2011-08-23T15:05:28Z-1261634	1
+7712699c-af2d-11e7-a639-3c4a9275d6c8	1
+UoS4214-sc-2011-02-14-1078426	1
+20172824	1
+0867_99-sc-2012-08-22T19:34:18Z-1472402	1
+d32fdd30-4c55-11e7-acbd-3c4a9275d6c8	1
+UOS_9115-sc-2251539	1
+391_203_6_11_2012-sc-2013-07-15T10:30:23Z-1658777	1
+391_203_6_11_2012-sc-2013-07-15T10:30:23Z-1658776	1
+GPS_MW_150168-sc-2295723	1
+49741bf0-5256-11e6-9a3d-3c4a9275d6c8	1
+GPS_ZA_carriage_SP1508-sc-2278110	1
+5433_99-sc-2013-03-08T14:19:04Z-1580046	1
+2014201763	1
+SN28230-sc-2011-11-03T20:01:56Z-1118256	1
+20172825	1
+PHESPD0489	1
+5670_99-sc-2012-08-22T19:41:35Z-1472549	1
+VICE2146-sc-2383107	1
+SA_serotype1_SP33-sc-2013-08-15T14:26:35Z-1680692	1
+1079_2-sc-2012-11-20T14:10:56Z-1516027	1
+21461Y09	1
+PBCN0473-sc-2012-09-17T11:50:29Z-1481584	1
+SMRU111-sc-2011-01-27-1060300	1
+32005-sc-2011-06-06T16:27:42Z-1160414	1
+4804_00-sc-2013-07-03T13:35:13Z-1659371	1
+GPS_ZA_1882-sc-2021479	1
+101603-sc-2222525	1
+12795a10-b094-11e6-8d8d-3c4a9275d6c8	1
+20172822	1
+2110803_II-sc-1870446	1
+PATH3311-sc-1926171	1
+20091085-sc-2012-11-20T14:08:47Z-1515489	1
+SMRU2457-sc-2011-01-27-1062670	1
+20154488	1
+GPS_TH_11B02394-sc-2296462	1
+SC13-3765-P	1
+572_2-sc-2012-11-20T14:09:05Z-1515915	1
+990937-sc-2013-11-05T12:07:11Z-1750425	1
+2009216679-sc-2012-08-22T19:56:20Z-1473090	1
+NP7400_17F_2011	1
+JHZ1978-sc-2222191	1
+2010201916-sc-1926382	1
+GPS_GM_0243-sc-2003367	1
+4399_98-sc-2013-07-03T13:34:26Z-1659350	1
+GPS_ZA_1678-sc-2021233	1
+VICE0235-sc-2013-08-08T14:13:22Z-1676587	1
+3224-sc-2011-08-01T09:44:52Z-1250094	1
+b96fb300-1f66-11e7-b93e-3c4a9275d6c8	1
+2010220052-sc-2013-10-09T11:50:39Z-1712445	1
+PHESPV1644	1
+PHESPV1647	1
+PHESPV1646	1
+PHESPV1641	1
+PHESPV1640	1
+PHESPV1643	1
+PHESPV1642	1
+PHESPD0158	1
+PHESPD0159	1
+GPS_US_PATH5425-sc-2139277	1
+0e9eab80-1f6f-11e7-b93e-3c4a9275d6c8	1
+PHESPD0150	1
+03e24e10-13c4-11e7-942b-3c4a9275d6c8	1
+PHESPD0152	1
+GPS_MY_564-sc-2206243	1
+
+checklist
+ERC000011	36636
+!blank	19195
+ERC000028	60
+ERC000014	45
+
+center_name
+Wellcome Sanger Institute	8699
+pda|schochua	3136
+pda|taj.azarian	738
+pda|jiangwei10	380
+pda|walty	238
+pda|sarahteatero	236
+J. Craig Venter Institute	195
+pda|florianmauffrey	88
+pda|laurenacowley	69
+pda|agiess	53
+Hospital Universitari de Bellvitge	46
+Center for Biotechnology, Bielefeld University	45
+pda|itsvetkova	38
+pda|pratap	35
+!blank	29
+pda|philippe.leprohon@crchul.ulaval.ca	27
+pda|submission_sengenics	18
+Mississippi State University	16
+European Bioinformatics Institute	16
+pda|jslager	15
+NIID	9
+QLD Health	6
+Institute of Medical Microbiology	6
+pda|stevesal	4
+pda|jingli13	4
+cit|ajohnsto	3
+pda|jlynne87	3
+pda|falcatum	3
+pda|dupengcheng	3
+pda|mcroxen	3
+pda|lilianeconteville@gmail.com	2
+university of bern	2
+pda|ouyangxiangyan	2
+pda|pjens@illinois.edu	1
+Baylor College of Medicine	1
+pda|pchouvarine@gmail.com	1
+pda|wayne.deng09@gmail.com	1
+Tsinghua University	1
+pda|bgoldberg1	1
+Chinese PLA General Hospital	1
+Research Institute of Physical-Chemical Medicine, 	1
+Centro de Investigaciones Biologicas	1
+pda|panfen0811	1
+IMPERIAL COLLEGE LONDON	1
+pda|plho_group	1
+Zhejiang University	1
+pda|mkjos	1
+pda|idepi	1
+The Pennsylvania State University	1
+
+depth
+!blank	14183
+
+elevation
+!blank	14183
+
+altitude
+!blank	14183
+
+environment_biome
+!blank	14046
+Human body	88
+human	37
+Human	8
+blood	3
+terrestrial biome [ENVO:00000446]	1
+
+environment_feature
+!blank	14126
+Blood	14
+CSF	10
+mouth	8
+Nasopharynx	7
+Middle ear fluid	5
+blood	4
+wound	2
+Tracheal secretion	1
+sputum	1
+pharynx	1
+not specified	1
+puncture	1
+Swab nasopharynx	1
+ear	1
+
+environment_material
+!blank	14038
+Blood	50
+not collected	48
+CSF	10
+sputum	9
+Nasopharynx	6
+Middle ear fluid	5
+blood	4
+Pleural fluid	2
+wound	2
+Tracheal secretion	1
+Cerebrospinal fluid	1
+not specified	1
+nasopharynx	1
+Lung	1
+puncture	1
+Swab nasopharynx	1
+ear	1
+aspirate sputum	1
+
+temperature
+!blank	14183
+
+salinity
+!blank	14183
+
+sampling_campaign
+!blank	14183
+
+sampling_site
+!blank	14183
+
+sampling_platform
+!blank	14183
+
+protocol_label
+!blank	14183
+
+project_name
+!blank	14099
+WGS of Streptococcus pneumoniae	29
+Capsule switching and antimicrobial resistance acquired during a repeated Streptococcus pneumoniae pneumonia episodes	9
+Draft genome of Streptococcus pneumoniae isolate 28838	2
+Draft genome of Streptococcus pneumoniae isolate 27401	2
+Draft genome of Streptococcus pneumoniae isolate 40086	2
+Draft genome of Streptococcus pneumoniae isolate 42538	2
+Draft genome of Streptococcus pneumoniae isolate 38301	2
+Draft genome of Streptococcus pneumoniae isolate 27700	2
+Draft genome of Streptococcus pneumoniae isolate 41617	1
+762	1
+Draft genome of Streptococcus pneumoniae isolate 20605	1
+Streptococcus pneumoniae TCH8431/19A	1
+Draft genome of Streptococcus pneumoniae isolate 37752	1
+Draft genome of Streptococcus pneumoniae isolate 46770	1
+Draft genome of Streptococcus pneumoniae isolate 46464	1
+1541	1
+not specified	1
+20253	1
+Draft genome of Streptococcus pneumoniae isolate 23543	1
+Draft genome of Streptococcus pneumoniae isolate 21295	1
+Draft genome of Streptococcus pneumoniae isolate 41844	1
+Draft genome of Streptococcus pneumoniae isolate 41023	1
+Draft genome of Streptococcus pneumoniae isolate 21299	1
+Draft genome of Streptococcus pneumoniae isolate 46048	1
+893	1
+Draft genome of Streptococcus pneumoniae isolate 27516	1
+Draft genome of Streptococcus pneumoniae isolate 44017	1
+Draft Genome of Streptococcus pneumoniae isolate 43003	1
+Draft genome of Streptococcus pneumoniae isolate 36180	1
+20007	1
+246	1
+Draft genome of Streptococcus pneumoniae isolate 48565	1
+Draft genome of Streptococcus pneumoniae isolate 47301	1
+Draft genome of Streptococcus pneumoniae isolate 37666	1
+13827	1
+Draft genome of Streptococcus pneumoniae isolate 42694	1
+Draft genome of Streptococcus pneumoniae isolate 37119	1
+1720	1
+Draft genome of Streptococcus pneumoniae isolate 43985	1
+Draft genome of Streptococcus pneumoniae isolate 44233	1
+Draft genome sequence of Streptococcus pneumoniae isolate 13514	1
+376	1
+
+host
+Homo sapiens	6714
+human	6172
+Human	773
+!blank	76
+homo sapiens	37
+not available: to be reported later	23
+Mus musculus	3
+Not Known	1
+Homo Sapiens	1
+not known	1
+Homo Sapien	1
+
+host_tax_id
+9606	8681
+!blank	101
+
+host_status
+!blank	221
+
+host_sex
+!blank	79
+male	77
+female	65
+
+submitted_host_sex
+!blank	78
+
+host_body_site
+!blank	77
+Respiratory tract	1
+
+host_gravidity
+!blank	78
+
+host_phenotype
+!blank	78
+
+host_genotype
+!blank	78
+
+host_growth_conditions
+!blank	78
+
+environmental_package
+human-associated	45
+!blank	33
+
+investigation_type
+mimarks-survey	45
+!blank	33
+
+experimental_factor
+!blank	78
+
+sample_collection
+!blank	78
+
+sequencing_method
+!blank	32
+
+target_gene
+!blank	32
+
+ph
+!blank	32
+
+broker_name
+

@@ -1,0 +1,1568 @@
+bio_material
+!blank	25234
+
+cell_line
+!blank	25233
+p338D1	1
+
+cell_type
+!blank	25233
+macrophage	1
+
+collected_by
+FDA	6459
+!blank	6236
+CDC	2673
+PHE	2158
+USDA-FSIS	859
+FLAG	685
+Netherlands	363
+Belgium	334
+USDA-ARS	324
+IZS Torino	306
+USDA	300
+NYAG	239
+Sweden	236
+Poland	233
+The Canadian Listeria Detection and Surveillance using Next Generation Genomics (LiDS-NG) Consortium	206
+CDPH FDLB	192
+TX	180
+MDARD	152
+Minnesota Department of Health	142
+Austria	139
+Norway	130
+SC	126
+Dept. Vet. Sciences, UNITO	123
+Finland	120
+UCD-Centre for Food Safety	100
+Florida Department of Agriculture and Consumer Services	97
+Spain	88
+Czech Republic	88
+FERA	83
+Amy Jennison	78
+SENASICA	76
+Slovenia	68
+VA	64
+Department of Comparative Biomedicine and Food Science (University of Padova)	60
+Portugal	59
+NY	56
+Ireland	54
+South Africa	53
+EDLB	51
+Department of Health Sciences, UNIMI	51
+NC	50
+IZS Torino and Dept. Vet. Sciences, UNITO	43
+NSSLRL	42
+Cornell FSL	40
+OARSA	39
+Universidad Andres Bello	38
+Austrian Agency for Health and Food Safety (AGES)	37
+Washington State Dept. of Health	34
+SHL	34
+AGES	31
+Wisconsin State Laboratory of Hygiene	29
+ASPHL	28
+Ohio Department of Agriculture	27
+Bulgaria	23
+NCSU	23
+Lithuania	21
+Romania	21
+Hungary	20
+IEH	20
+Greece	19
+South Dakota State University	18
+RI	18
+WAPHL	18
+CDPHE	17
+WA	16
+CDC/OID/NCEZID EDLB	16
+Texas Department of State Health Services	15
+Germany	15
+Food Safety Net Services San Antonio	15
+Rick Meinersmann	15
+North Carolina Department of Agriculture and Consumer Services	14
+Estonia	14
+Vet Diagnostic Lab (NDSU)	14
+not collected	13
+CT	13
+AK	13
+Michigan Department of Agriculture	12
+Kansas Department of Agriculture	12
+OH	11
+Ohio Dept. of Agriculture	11
+Italy	11
+Iceland	11
+National Institute for Communicable Diseases	10
+MD	10
+KS	10
+WI	9
+NYSDOH	9
+Ohio State University	9
+Luxembourg	9
+Institute of Food Safety &amp; Hygiene, University of Zurich	9
+NSW Enteric Reference Laboratory	9
+FDA: Dwayne Roberson/ Yi Chen	8
+FSL-Cornell	6
+Brigham and Women&apos;&apos;s Hospital	6
+Laboratorio de Diagnostico para la Deteccion de Organismos Patogenos	6
+FDA CFSAN	6
+TX Dept State Health Services, Milk and Dairy Div.	6
+New Hampshire Public Health Lab	5
+Memorial Sloan-Kettering Cancer Center	5
+Kansas Department of Health and Environment	5
+
+collection_date
+!blank	4575
+2014-01-01	1266
+2013-01-01	892
+2015-01-01	835
+2016-01-01	831
+2010-01-01	558
+2011-01-01	552
+2012-01-01	548
+2017-01-01	434
+2018-01-01	261
+2009-01-01	258
+2006-01-01	215
+2016-08-01	164
+2016-06-01	156
+2016-09-01	142
+2015-10-01	134
+2016-07-01	127
+2008-01-01	126
+2002-01-01	121
+2017-12-01	116
+2016-05-01	109
+2007-01-01	108
+2015-02-13	108
+2017-07-01	106
+2017-11-01	104
+2017-05-01	103
+2014-08-01	102
+2016-11-01	95
+2018-02-01	94
+2016-03-01	94
+2015-12-01	92
+2017-08-01	91
+2003-01-01	91
+2015-01-24	90
+2014-07-01	89
+2015-11-01	86
+2016-10-01	82
+2018-06-01	82
+2017-10-01	82
+2017-03-01	79
+2015-09-01	76
+2017-06-01	74
+2014-10-01	71
+2014-09-01	70
+2004-01-01	69
+2015-04-09	67
+2014-12-22	66
+2015-08-01	66
+2018-07-01	65
+2005-01-01	64
+2016-04-01	63
+2014-11-01	59
+2013-01-17	58
+2016-12-01	57
+2018-08-01	56
+2015-04-01	56
+2001-01-01	56
+2017-04-01	55
+2015-05-12	55
+2011-10-11	54
+2014-07-15	53
+1998-01-01	53
+2015-02-01	53
+2017-02-01	53
+2014-07-31	52
+2016-02-01	52
+2013-02-01	50
+2014-12-01	46
+2015-05-01	45
+2015-10-06	44
+2018-05-01	43
+2017-04-26	43
+2017-09-01	42
+2015-06-01	41
+2013-08-01	41
+2015-08-15	40
+2017-02-14	39
+2015-07-01	39
+2017-04-10	38
+2017-03-08	38
+2009-04-09	38
+2015-07-08	38
+2013-10-01	37
+2015-04-21	37
+2017-11-29	36
+2018-03-01	36
+2016-05-18	35
+2009-04-27	34
+2012-05-12	33
+2013-07-01	33
+2012-08-12	32
+2014-06-01	32
+2013-09-01	32
+2013-05-01	31
+2018-04-01	30
+2016-06-14	29
+2013-03-01	29
+2013-09-04	29
+2016-09-12	28
+2014-07-07	28
+
+country
+USA	4877
+!blank	1989
+United Kingdom: United Kingdom	1698
+USA:CA	1077
+USA:NY	935
+USA:FL	908
+USA:WA	851
+Australia	616
+Italy	580
+USA:TX	546
+Netherlands	477
+Germany	477
+Denmark	474
+USA:GA	337
+Belgium	334
+France	322
+USA:MI	319
+not collected	307
+USA:WI	273
+Austria	251
+Poland	241
+Mexico	240
+Sweden	238
+USA:OH	238
+USA: CA	236
+USA:NC	235
+USA:RI	206
+Ireland	196
+USA:MN	183
+USA:IL	180
+United Kingdom: North of England	176
+USA:CO	149
+USA:VA	148
+USA:MD	146
+USA: WA	146
+USA:NJ	142
+USA:NM	137
+Norway	137
+United Kingdom	134
+USA:PA	127
+USA:NE	122
+Finland	120
+USA:SC	115
+USA:IA	112
+USA:CT	98
+Spain	94
+USA:IN	94
+USA:KS	89
+Czech Republic	88
+Canada: Alberta	86
+United Kingdom: Midlands and East of England	86
+USA:MA	83
+United Kingdom: None	79
+USA:MO	78
+Canada	77
+USA:TN	77
+USA: NY	71
+USA:AZ	70
+Slovenia	68
+Chile	67
+USA: TX	67
+South Africa	63
+United Kingdom: South of England	62
+Portugal	61
+Canada: British Columbia	60
+USA: OR	57
+Canada:Quebec:Saint-Hyacinthe	56
+USA:OK	56
+United Kingdom: London	55
+USA:OR	52
+New Zealand	49
+USA:AK	47
+USA: MN	47
+USA:KY	46
+Canada:British Columbia:Vancouver	44
+USA: IL	41
+Switzerland	41
+USA: NJ	39
+Canada:British Columbia:Burnaby	39
+USA: KY	33
+Canada:Alberta:Edmonton	33
+USA: MI	33
+China	32
+USA: WI	32
+USA:NH	29
+USA:LA	28
+USA: MO	28
+Lithuania	24
+USA:SD	24
+USA: IN	23
+Bulgaria	23
+Romania	23
+USA:ID	23
+Greece	23
+USA:Washington	22
+USA: SC	22
+USA:ME	21
+USA: AK	21
+USA:UT	21
+Hungary	20
+
+cultivar
+!blank	25234
+
+culture_collection
+!blank	25215
+FDA:FDAARGOS_57	1
+NCTC:11994	1
+NCTC:7973	1
+NCTC:7974	1
+ATCC:19118	1
+CDC:PNUSAL000413	1
+ATCC:19115	1
+ATCC:19114	1
+ATCC:19117	1
+ATCC:19116	1
+ATCC:19111	1
+ATCC:19113	1
+ATCC:19112	1
+FDA:FDAARGOS_351	1
+FDA:FDAARGOS_405	1
+FDA:FDAARGOS_58	1
+NCTC:10357	1
+NCTC:12480	1
+ATCC:15313	1
+
+description
+Listeria monocytogenes	2421
+This sample has been submitted by CFSAN on 2017-11-08; Listeria monocytogenes	772
+Pathogen sample from Listeria monocytogenes	625
+Australian Listeria monocytogenes	520
+isolate obtained from a human listeriosis case in Germany	425
+This sample has been submitted by pda|retimme on 2015-06-02; Listeria monocytogenes	348
+This sample has been submitted by pda|retimme on 2017-11-08; Listeria monocytogenes	244
+Danish human surveillance isolates	224
+This sample has been submitted by CFSAN on 2016-04-09; Listeria monocytogenes	209
+Food	208
+This sample has been submitted by pda|retimme on 2015-02-17; Listeria monocytogenes	205
+Pathogen bacterial, environmental sample	191
+This sample has been submitted by CFSAN on 2016-12-12; Listeria monocytogenes	175
+This sample has been submitted by pda|100kgenomeproject on 2016-02-25; Listeria monocytogenes	174
+This sample has been submitted by pda|p.a.hingston@gmail.com on 2017-11-08; Listeria monocytogenes	162
+Danish surveillance strain	159
+Missing	155
+This sample has been submitted by CFSAN on 2016-05-12; Listeria monocytogenes	142
+This sample has been submitted by pda|carypirone1 on 2015-07-23; Listeria monocytogenes	135
+This sample has been submitted by pda|retimme on 2015-10-02; Listeria monocytogenes	111
+This sample has been submitted by CFSAN on 2017-03-15; Listeria monocytogenes	103
+This sample has been submitted by CFSAN on 2017-03-08; Listeria monocytogenes	102
+This sample has been submitted by CFSAN on 2016-03-11; Listeria monocytogenes	101
+missing	100
+This sample has been submitted by pda|laura.luquesastre@ucd.ie on 2018-01-11; Listeria monocytogenes	100
+This sample has been submitted by CFSAN on 2016-05-04; Listeria monocytogenes	99
+This sample has been submitted by CFSAN on 2017-04-26; Listeria monocytogenes	96
+This sample has been submitted by UCD-100K on 2015-02-26; Listeria monocytogenes	96
+This sample has been submitted by CFSAN on 2017-02-23; Listeria monocytogenes	95
+This sample has been submitted by CFSAN on 2015-06-02; Listeria monocytogenes	94
+This sample has been submitted by pda|retimme on 2015-02-26; Listeria monocytogenes	90
+This sample has been submitted by pda|carypirone1 on 2015-06-02; Listeria monocytogenes	86
+This sample has been submitted by pda|retimme on 2015-11-14; Listeria monocytogenes	86
+This sample has been submitted by CFSAN on 2017-02-28; Listeria monocytogenes	84
+Pathogen: clinical or host-associated sample from Listeria monocytogenes	81
+This sample has been submitted by CFSAN on 2016-04-19; Listeria monocytogenes	80
+Environment	80
+This sample has been submitted by pda|ajennison on 2017-04-06; Listeria monocytogenes	78
+This sample has been submitted by CFSAN on 2016-11-15; Listeria monocytogenes	77
+This sample has been submitted by CFSAN on 2017-11-30; Listeria monocytogenes	76
+This sample has been submitted by CFSAN on 2016-01-22; Listeria monocytogenes	76
+This sample has been submitted by pda|srthomas on 2015-06-17; Listeria monocytogenes	76
+Illumina Miseq genome sequencing of Listeria monocytogenes isolates for the study of the contamination pattern of the ham processing industry in Northern Italy in 2012.	74
+This sample has been submitted by Health Canada on 2015-03-27; Listeria monocytogenes	72
+This sample has been submitted by CFSAN on 2018-04-08; Listeria monocytogenes	72
+Bacteriophage-resistant mutant	69
+This sample has been submitted by pda|justin.payne on 2014-07-22; Listeria monocytogenes	68
+This sample has been submitted by CFSAN on 2017-01-10; Listeria monocytogenes	66
+This sample has been submitted by pda|justin.payne on 2014-06-30; Listeria monocytogenes	64
+This sample has been submitted by pda|usda_fsis_el on 2017-11-08; Listeria monocytogenes	60
+This sample has been submitted by pda|retimme on 2015-10-10; Listeria monocytogenes	59
+This sample has been submitted by EDLB-CDC on 2015-04-08; Listeria monocytogenes	56
+This sample has been submitted by CFSAN on 2017-03-11; Listeria monocytogenes	56
+This sample has been submitted by CFSAN on 2017-10-27; Listeria monocytogenes	55
+This sample has been submitted by pda|mariannapauletto@gmail.com on 2016-05-12; Listeria monocytogenes	54
+This sample has been submitted by pda|retimme on 2014-04-08; Listeria monocytogenes	54
+This sample has been submitted by CDC on 2015-06-02; Listeria monocytogenes	53
+This sample has been submitted by CFSAN on 2017-10-31; Listeria monocytogenes	51
+This sample has been submitted by pda|hacarlet on 2015-01-08; Listeria monocytogenes	50
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-27; Listeria monocytogenes	50
+This sample has been submitted by pda|carypirone1 on 2015-11-19; Listeria monocytogenes	48
+This sample has been submitted by CFSAN on 2017-03-18; Listeria monocytogenes	46
+This sample has been submitted by pda|retimme on 2017-11-30; Listeria monocytogenes	46
+This sample has been submitted by pda|justin.payne on 2014-01-17; Listeria monocytogenes	45
+This sample has been submitted by CFSAN on 2017-06-12; Listeria monocytogenes	44
+This sample has been submitted by CDC on 2015-03-10; Listeria monocytogenes	44
+Sample from culture collection Plant and Food Research, Auckland	44
+This sample has been submitted by CFSAN on 2016-02-19; Listeria monocytogenes	44
+This sample has been submitted by CFSAN on 2016-06-01; Listeria monocytogenes	44
+This sample has been submitted by CFSAN on 2016-11-24; Listeria monocytogenes	44
+This sample has been submitted by pda|justin.payne on 2014-05-14; Listeria monocytogenes	43
+This sample has been submitted by CDC on 2015-02-05; Listeria monocytogenes	43
+This sample has been submitted by CFSAN on 2016-04-26; Listeria monocytogenes	42
+This sample has been submitted by CFSAN on 2016-01-05; Listeria monocytogenes	41
+This sample has been submitted by pda|justin.payne on 2014-07-02; Listeria monocytogenes	41
+This sample has been submitted by pda|hacarlet on 2015-06-02; Listeria monocytogenes	41
+This sample has been submitted by pda|justin.payne on 2015-06-02; Listeria monocytogenes	41
+This sample has been submitted by pda|justin.payne on 2014-01-28; Listeria monocytogenes	40
+This sample has been submitted by CFSAN on 2016-02-16; Listeria monocytogenes	40
+GMI16-004 purified DNA of Listeria monocytogenes strain	39
+This sample has been submitted by CFSAN on 2016-01-23; Listeria monocytogenes	39
+GMI16-003 purified DNA of Listeria monocytogenes strain	39
+Sheep brain	39
+This sample has been submitted by pda|retimme on 2015-02-12; Listeria monocytogenes	39
+This sample has been submitted by CFSAN on 2016-05-10; Listeria monocytogenes	39
+Cattle brain	39
+This sample has been submitted by EDLB-CDC on 2015-06-02; Listeria monocytogenes	38
+This sample has been submitted by pda|carypirone1 on 2016-04-16; Listeria monocytogenes	38
+GMI16-004 bacterial culture of Listeria monocytogenes strain	38
+This sample has been submitted by CDC on 2014-07-29; Listeria monocytogenes	38
+GMI16-003 bacterial culture of Listeria monocytogenes strain	38
+This sample has been submitted by pda|retimme on 2014-04-24; Listeria monocytogenes	37
+This sample has been submitted by CFSAN on 2017-09-29; Listeria monocytogenes	37
+This sample has been submitted by CFSAN on 2016-04-16; Listeria monocytogenes	37
+This sample has been submitted by CFSAN on 2016-10-25; Listeria monocytogenes	37
+Genomic DNA from of Listeria monocytogenes sampled from food - raw or finished product - in Denmark	37
+This sample has been submitted by CFSAN on 2016-03-03; Listeria monocytogenes	37
+This sample has been submitted by CFSAN on 2016-03-22; Listeria monocytogenes	36
+This sample has been submitted by CFSAN on 2018-08-14; Listeria monocytogenes	35
+This sample has been submitted by pda|apightling@gmail.com on 2015-03-27; Listeria monocytogenes	35
+
+dev_stage
+!blank	25232
+4 hours post infection	1
+exponential growth phase	1
+
+ecotype
+!blank	25234
+
+environmental_sample
+false	25228
+true	6
+
+first_public
+2018-07-02	2083
+2017-11-08	1521
+2015-06-02	786
+2018-09-18	583
+2015-12-01	520
+2018-03-26	424
+2015-06-08	336
+2016-08-26	269
+2018-09-15	258
+2018-09-16	256
+2016-09-02	246
+2018-09-17	235
+2017-11-19	231
+2016-05-12	217
+2018-01-30	212
+2016-04-09	210
+2015-02-17	205
+2017-11-30	199
+2016-12-12	192
+2014-08-14	192
+2016-01-28	184
+2015-06-17	182
+2015-03-12	182
+2016-02-25	177
+2017-11-06	156
+2017-10-27	150
+2015-07-23	147
+2018-04-17	132
+2014-07-16	125
+2016-05-04	122
+2018-03-04	119
+2016-03-11	116
+2017-03-15	115
+2014-07-08	112
+2016-09-04	112
+2015-10-02	112
+2018-01-11	111
+2015-03-28	110
+2014-01-17	108
+2017-03-08	105
+2016-01-15	104
+2016-11-15	101
+2016-06-01	100
+2017-02-23	100
+2015-03-13	100
+2014-07-01	99
+2017-04-26	96
+2016-11-17	95
+2018-05-16	93
+2014-07-23	92
+2014-05-15	91
+2015-04-09	90
+2018-06-26	89
+2017-04-19	88
+2017-02-28	87
+2015-11-14	86
+2016-03-27	86
+2016-01-23	86
+2017-09-29	84
+2018-05-18	82
+2014-04-29	81
+2016-01-22	81
+2016-07-04	80
+2016-04-19	80
+2018-04-08	79
+2016-02-19	78
+2017-04-06	78
+2018-05-19	77
+2015-10-10	76
+2016-04-16	75
+2015-12-17	74
+2018-08-14	74
+2013-11-07	74
+2017-04-25	73
+2018-05-17	73
+2016-03-08	72
+2017-10-31	69
+2017-01-10	67
+2016-11-24	67
+2018-05-21	67
+2015-11-24	63
+2016-03-03	63
+2015-03-10	63
+2015-01-09	62
+2017-06-12	61
+2016-04-26	60
+2018-02-20	60
+2015-08-11	59
+2018-09-13	58
+2014-07-28	58
+2013-09-19	58
+2017-03-16	58
+2015-10-15	57
+2017-03-11	56
+2016-06-23	56
+2018-03-14	56
+2016-05-10	55
+2016-06-09	55
+2014-04-08	54
+2018-03-07	52
+
+germline
+false	25234
+
+identified_by
+!blank	25234
+
+isolate
+!blank	9224
+Listeria monocytogenes	520
+INPUT	18
+human	4
+ST6	3
+CFSAN030960	2
+CFSAN063697	2
+HE999705.1, AM113977, CP000139, CP003108, ATXY00000000, AE017354, HE999705.1, CP001743, AE017283, NC_009656, CP001769	2
+08CEB244LM	2
+HE999705.1	2
+10	2
+13	2
+CFSAN063699	2
+CFSAN072282	2
+DBK0000221	2
+8/28/2015	2
+sam_F63CF88D-E168-4E29-91A1-AEA4CF82B6E5	1
+CFSAN039335	1
+CFSAN055323	1
+sam_AC498A14-819B-419B-B6A0-0D1CD832272C	1
+CFSAN018336	1
+CFSAN071149	1
+CFSAN071145	1
+CFSAN071144	1
+H122180601	1
+CFSAN071141	1
+CFSAN071140	1
+CFSAN071143	1
+CFSAN071142	1
+CFS099	1
+gmi_113.GMI16-004-DNA	1
+15-01385	1
+NRRL B-57300	1
+CFSAN081891	1
+sam_62AD29FB-83EB-40AA-9F0B-42B8418EAC89	1
+NRRL B-33853	1
+CFSAN070812	1
+CFSAN053418	1
+CFSAN070814	1
+NRRL B-33857	1
+CFSAN070816	1
+CFSAN070817	1
+CFSAN070818	1
+CFSAN070819	1
+sam_45EB4B3B-B206-4861-B7AC-CC3369CDE662	1
+CFSAN069124	1
+CFSAN069122	1
+sam_1157C820-3688-4A98-B15B-9DEE8B655468	1
+CFSAN069120	1
+CFSAN069121	1
+20120245	1
+CFSAN027294; FNW19j72	1
+U2, 449	1
+CFSAN065812	1
+CFSAN065810	1
+CFSAN053412	1
+sam_382E8890-57D9-4D3E-8419-810B0D222AAB	1
+CFSAN059524	1
+CFSAN063809	1
+sam_E4712040-ECE4-43EF-B3D0-EA7DC4382AB4	1
+CFSAN053410	1
+sam_5897D082-90E3-452C-9612-E3839D7DFA4A	1
+CFSAN053415	1
+16H02	1
+sam_3C1B6B83-EBAB-42A1-87A7-CC285CB53AB7	1
+CFS087	1
+sam_611C14AE-B342-48B8-B716-76B47BB95B7E	1
+378632	1
+25734-97; BCW_3827	1
+CFSAN060837	1
+CFSAN029670; FNW19K18	1
+sam_5B05667E-C1B3-49E9-9638-19EF70D490F0	1
+sam_208C0FBC-027B-43A7-87EB-52385C9401DB	1
+2362; BCW_3928	1
+CFSAN059326	1
+15-01137	1
+15-01132	1
+15-01133	1
+15-01130	1
+15-01131	1
+sam_252AA534-190B-477E-9FC1-593241DA69E6	1
+CFSAN012473	1
+CFSAN012470	1
+CFSAN012471	1
+CFSAN063151	1
+CFSAN063626;S075-0AR	1
+CFSAN063150	1
+CFSAN061949	1
+IZS211, 60961	1
+516225	1
+CFSAN056069	1
+CFSAN056068	1
+CFSAN068867	1
+sam_741BE5B0-9676-4D78-94AE-D48F577C5DB2	1
+CFSAN056061	1
+IZS-G50	1
+CFSAN056063	1
+09CEB19LM	1
+CFSAN056065	1
+CFSAN056064	1
+
+isolation_source
+!blank	6354
+environmental swab	1533
+Blood	1360
+food	1348
+human	671
+Human	573
+blood	546
+swab	530
+environmental	510
+Food	495
+human listeriosis	425
+environmental swabs	395
+not provided	391
+Environmental	382
+Environmental sponge	351
+Environmental swab	338
+Environmental Swab	274
+Environmental Swabs	241
+CSF	240
+Environmental: non-food-contact surface	198
+avocado	188
+Retail Deli	177
+environmental: non-food-contact surface	154
+ice cream	104
+culture	102
+Environmental: food-contact surface	101
+RTE Product	99
+Dairy_Ice cream	99
+cheese	88
+Milk	85
+Retail Meat	83
+Placenta	81
+sponge	80
+Environmental Sponge	75
+phage-infected culture	69
+environmental sample	66
+smoked salmon	66
+cantaloupe	61
+clinical sample	60
+cuban sandwich	59
+enviornmental swabs	57
+clinical	56
+environmental sponge	48
+Environ	46
+Environmental swabs	45
+clinical isolate	43
+Sponge	42
+salami	40
+Petri dish of live culture	38
+BLOOD	38
+Product-Swab-Non meat	38
+environmental: food-contact surface	36
+hass avocados	35
+raw milk	34
+salami paste (production)	34
+Surface wipe	33
+Enviornmental Swab	33
+soil	32
+Environmentla Swab	31
+ham, cheese sandwich	30
+Papa	28
+fresh cheese curd	26
+food processing environment	26
+Ice Cream	26
+avocado pulp	25
+Ice cream	25
+Blood, NOS	24
+Cerebral spinal fluid	24
+raw, cut vegetables	24
+environmental/food	24
+egg salad	24
+meat	23
+Environmental, Swab or Sampling; building - abattoir or meat processing	23
+Milk filter	22
+white peach	22
+granny smith apples	22
+Lettuce	21
+Swab	21
+Fluid - Blood; Clinical; Human (Homo Sapiens); animal - blood	21
+Black Bear Feces (Ursus americanus )	21
+Milk Filter	21
+Avocado	20
+salmon, hot smoked, pacific spp.	20
+ham sandwich	20
+roast beef sandwich	20
+minced meat	20
+Plain Cream Cheese spread	19
+Cheese	19
+patient	19
+environment	18
+Dairy products	18
+placenta	18
+potato	17
+Factory	17
+stool	17
+cooked peeled shrimp	17
+sandwich	17
+potato salad	17
+Apples	16
+chicken salad	16
+
+location
+!blank	24776
+53.3077 N 6.2243 W	100
+25.27 S 133.78 E	78
+45.6167 N 72.95 W	56
+49.2827 N 123.1207 W	44
+49.2667 N 122.9667 W	39
+53.5333 N 113.5 W	33
+44.6667 N 63.5667 W	17
+45.4039 N 73.9525 W	13
+30.5595 S 22.9375 E	10
+33.86 S 151.2094 E	9
+46.8182 N 8.2275 E	9
+33.947 N 83.20069 W	5
+52.1326 N 5.2913 E	3
+25.282 N 82.9563 E	3
+44.85 N 63.2 W	2
+34.064415 N 83.21283 W	2
+43.8 N 120.55 W	2
+35.68 N 139.77 W	2
+34.050694 N 83.30464 W	2
+34.158 N 83.30019 W	2
+40.69 N 89.59 W	1
+52.205 N 0.119 E	1
+41.2 N 77.19 W	1
+31.47 N 35.13 E	1
+43.7 N 79.4 W	1
+43.26 N 13.76 E	1
+33.935 N 83.11114 W	1
+34.185833 N 83.2963 W	1
+44.73 N 10.35 E	1
+34.00728 N 83.27417 W	1
+32.16 N 82.9 W	1
+34.09375 N 83.20172 W	1
+43.7737 N 79.2446 W	1
+45.46 N 9.19 E	1
+51.0486 N 114.0708 W	1
+52.132633 N 5.291266 E	1
+44.5075 N 11.3514 E	1
+30.2911 S 51.0445 W	1
+43.36635 N 13.62249 E	1
+59.3293 N 18.0686 E	1
+31.05 N 121.76 E	1
+44.31 N 85.6 W	1
+43.6 N 13.27 E	1
+45.42 N 75.69 W	1
+40.18 N 116.17 E	1
+40.69 N 89.58 W	1
+43.834526 N 79.62888 W	1
+
+mating_type
+!blank	25234
+
+serotype
+!blank	18622
+1/2a	2073
+4b	1341
+not typed	852
+4	721
+1/2b	557
+1/2c	244
+2a	180
+IIa	134
+1	116
+2b	54
+4c	52
+IVb	50
+IIc	31
+3b	25
+3a	22
+4bde	22
+IIb	21
+untypeable	18
+4a	18
+4ut	9
+4d	9
+1/2b, 3b, 7	7
+nd	6
+4e	5
+3c	4
+not available: to be reported later	4
+other	3
+1/2	2
+Repeat	2
+4ut/4c	2
+7	2
+4b, 4d, 4e	2
+1/2ut	2
+Typhimurium	2
+4b-v1	2
+4bx	1
+1/2b,3b,7 (isolate not available for re-typing)	1
+1a/3a	1
+untypebale	1
+Saintpaul	1
+1/2 B	1
+Heidelberg	1
+Indeterminate (4c)	1
+1a	1
+?	1
+4b complex	1
+Iic	1
+1/2a, 1/2c (untypable)	1
+Muenster	1
+4e/d	1
+Listeria monocytogenes	1
+2c	1
+S.typhimurium	1
+
+serovar
+!blank	18622
+1/2a	2073
+4b	1341
+not typed	852
+4	721
+1/2b	557
+1/2c	244
+2a	180
+IIa	134
+1	116
+2b	54
+4c	52
+IVb	50
+IIc	31
+3b	25
+3a	22
+4bde	22
+IIb	21
+untypeable	18
+4a	18
+4ut	9
+4d	9
+1/2b, 3b, 7	7
+nd	6
+4e	5
+3c	4
+not available: to be reported later	4
+other	3
+1/2	2
+Repeat	2
+4ut/4c	2
+7	2
+4b, 4d, 4e	2
+1/2ut	2
+Typhimurium	2
+4b-v1	2
+4bx	1
+1/2b,3b,7 (isolate not available for re-typing)	1
+1a/3a	1
+untypebale	1
+Saintpaul	1
+1/2 B	1
+Heidelberg	1
+Indeterminate (4c)	1
+1a	1
+?	1
+4b complex	1
+Iic	1
+1/2a, 1/2c (untypable)	1
+Muenster	1
+4e/d	1
+Listeria monocytogenes	1
+2c	1
+S.typhimurium	1
+
+sex
+!blank	25234
+
+submitted_sex
+!blank	25234
+
+specimen_voucher
+!blank	25224
+MQ140011	1
+MQ140012	1
+MQ140029	1
+MQ140034	1
+MQ140035	1
+MQ140025	1
+MQ140030	1
+MQ140031	1
+MQ140032	1
+MQ140033	1
+
+strain
+!blank	4114
+clinical isolate of L. monocytogenes	425
+4b	34
+EGD	33
+Listeria	31
+H7858	24
+10403S	20
+EGD-e	19
+Lm1	10
+Listeria monocytogenes 4b	10
+Listeria monocytogenes 1/2a	5
+BUG1600	4
+4b NCTC19944	4
+N53-1	3
+ATCC 19115	3
+10403S::&lt;delta&gt;BCHL Prha-sigB	3
+10403S::deltaBCHL Prha	3
+10403S::deltaBCHL Prha-sigH	3
+10403S::&lt;delta&gt;BCHL Prha	3
+N11-1584	3
+CFSAN002288	2
+CFSAN002284	2
+CFSAN002285	2
+CFSAN002286	2
+CFSAN002281	2
+CFSAN002283	2
+PNUSAL000499	2
+PNUSAL001751	2
+PNUSAL001590	2
+PNUSAL001593	2
+PNUSAL001594	2
+PNUSAL001595	2
+PNUSAL001596	2
+J0161	2
+WAPHL-LIS-A00045	2
+PNUSAL001245	2
+PNUSAL000650	2
+PNUSAL000001	2
+PNUSAL001970	2
+CFSAN002316	2
+CFSAN002314	2
+CFSAN002315	2
+PNUSAL002272	2
+PNUSAL000864	2
+PNUSAL000863	2
+10403S wild type	2
+PNUSAL003928	2
+PNUSAL000848	2
+PNUSAL000829	2
+PNUSAL000791	2
+PNUSAL000792	2
+CFSAN002253	2
+CFSAN002251	2
+CFSAN002250	2
+CFSAN002257	2
+CFSAN002256	2
+PNUSAL001601	2
+PNUSAL002987	2
+PNUSAL000773	2
+PNUSAL000772	2
+CFSAN002278	2
+CFSAN002277	2
+BUG3558	2
+BUG3559	2
+PNUSAL001600	2
+PNUSAL001602	2
+PNUSAL001603	2
+PNUSAL001609	2
+10403S lacking sigB	2
+PNUSAL001599	2
+PNUSAL000507	2
+PNUSAL000500	2
+PNUSAL000508	2
+PNUSAL001920	2
+PNUSAL001597	2
+CFSAN002298	2
+CFSAN002297	2
+CFSAN002296	2
+CFSAN002295	2
+CFSAN002292	2
+CFSAN002291	2
+PNUSAL001591	2
+PNUSAL001598	2
+PNUSAL001684	2
+PNUSAL002604	2
+PNUSAL000429	2
+PNUSAL000649	2
+CFSAN002309	2
+CFSAN002308	2
+PNUSAL001554	2
+N12-0794	2
+PHLUSALM00001	2
+PNUSAL000810	2
+PNUSAL000769	2
+CFSAN002249	2
+CFSAN002240	2
+CFSAN008100	2
+CFSAN002263	2
+CFSAN002265	2
+PNUSAL000774	2
+
+sub_species
+!blank	25234
+
+sub_strain
+!blank	25234
+
+tissue_lib
+!blank	25234
+
+tissue_type
+!blank	25234
+
+variety
+!blank	25234
+
+tax_id
+1639	24927
+169963	107
+1906951	34
+393133	30
+2065118	27
+1334565	21
+2291966	7
+1344576	4
+176281	2
+393128	1
+1196161	1
+1196160	1
+882020	1
+393125	1
+393126	1
+393127	1
+1399005	1
+2291968	1
+1273540	1
+2049008	1
+930781	1
+568819	1
+702458	1
+930782	1
+2291967	1
+1403330	1
+882097	1
+882096	1
+882095	1
+882094	1
+1134674	1
+1134677	1
+1399000	1
+1299888	1
+2291970	1
+1398999	1
+393131	1
+393130	1
+265669	1
+1398998	1
+879088	1
+879089	1
+1299886	1
+1399010	1
+1299885	1
+1403329	1
+393119	1
+1403327	1
+863767	1
+1403328	1
+393116	1
+1125686	1
+1399009	1
+1288293	1
+1288295	1
+1288294	1
+563174	1
+1288296	1
+1299903	1
+1299902	1
+1299901	1
+1437838	1
+1399001	1
+1398997	1
+2291969	1
+1134668	1
+1134669	1
+1134667	1
+1196159	1
+1399008	1
+1230340	1
+879090	1
+1399003	1
+1399002	1
+1299899	1
+1399004	1
+1399007	1
+1399006	1
+1299895	1
+1299891	1
+1299897	1
+1299896	1
+1234142	1
+1299892	1
+
+scientific_name
+Listeria monocytogenes	24927
+Listeria monocytogenes EGD-e	107
+Listeria monocytogenes serotype 1/2a	34
+Listeria monocytogenes 10403S	30
+Listeria monocytogenes serotype 4b	27
+Listeria monocytogenes EGD	21
+Listeria monocytogenes serotype 1/2b	7
+Listeria monocytogenes serotype 4b str. NCTC 11994	4
+Listeria monocytogenes ATCC 19115	2
+Listeria monocytogenes Lm26686	1
+Listeria monocytogenes LIS0102	1
+Listeria monocytogenes J1816	1
+Listeria monocytogenes J2818	1
+Listeria monocytogenes Lm19860	1
+Listeria monocytogenes FSL F2-515	1
+Listeria monocytogenes CFSAN002355	1
+Listeria monocytogenes CFSAN002356	1
+Listeria monocytogenes FSL J1-208	1
+Listeria monocytogenes CFSAN002350	1
+Listeria monocytogenes CFSAN002351	1
+Listeria monocytogenes CFSAN002353	1
+Listeria monocytogenes SLCC5850	1
+Listeria monocytogenes CFSAN003809	1
+Listeria monocytogenes 4423	1
+Listeria monocytogenes CFSAN002357	1
+Listeria monocytogenes SLCC2540	1
+Listeria monocytogenes J0161	1
+Listeria monocytogenes R479a	1
+Listeria monocytogenes QOC2	1
+Listeria monocytogenes QOC1	1
+Listeria monocytogenes LIS0063	1
+Listeria monocytogenes CFSAN003806	1
+Listeria monocytogenes serotype 3c	1
+Listeria monocytogenes CFSAN002184	1
+Listeria monocytogenes CFSAN003728	1
+Listeria monocytogenes serotype 4b str. LIS0087	1
+Listeria monocytogenes CFSAN003826	1
+Listeria monocytogenes SLCC2378	1
+Listeria monocytogenes CFSAN003807	1
+Listeria monocytogenes SLCC2376	1
+Listeria monocytogenes CFSAN003726	1
+Listeria monocytogenes CFSAN003727	1
+Listeria monocytogenes CFSAN003725	1
+Listeria monocytogenes serotype 4b str. 81-0861	1
+Listeria monocytogenes FSL F2-208	1
+Listeria monocytogenes serotype 4b str. 81-0558	1
+Listeria monocytogenes L99	1
+Listeria monocytogenes J1-220	1
+Listeria monocytogenes LIS0071	1
+Listeria monocytogenes 6179	1
+Listeria monocytogenes CFSAN002346	1
+Listeria monocytogenes serotype 4b str. LL195	1
+Listeria monocytogenes serotype 1/2c	1
+Listeria monocytogenes serotype 4b str. CLIP 80459	1
+Listeria monocytogenes FSL R2-503	1
+Listeria monocytogenes CFSAN002345	1
+Listeria monocytogenes LIS0077	1
+Listeria monocytogenes serotype 4b str. 81-0592	1
+Listeria monocytogenes FSL R2-561	1
+Listeria monocytogenes CFSAN003808	1
+Listeria monocytogenes CFSAN003729	1
+Listeria monocytogenes CFSAN003810	1
+Listeria monocytogenes CFSAN003811	1
+Listeria monocytogenes SLCC7179	1
+Listeria monocytogenes Lm21045	1
+Listeria monocytogenes Lm25180	1
+Listeria monocytogenes SLCC2479	1
+Listeria monocytogenes FSL F6-684	1
+Listeria monocytogenes serotype 3b	1
+Listeria monocytogenes serotype 4b str. F2365	1
+Listeria monocytogenes serotype 4c	1
+Listeria monocytogenes CFSAN002191	1
+Listeria monocytogenes CC70B	1
+Listeria monocytogenes serotype 4a	1
+Listeria monocytogenes serotype 7 str. SLCC2482	1
+Listeria monocytogenes Finland 1998	1
+Listeria monocytogenes L312	1
+Listeria monocytogenes N53-1	1
+Listeria monocytogenes CFSAN002208	1
+Listeria monocytogenes F6900	1
+Listeria monocytogenes CFSAN003825	1
+Listeria monocytogenes CFSAN002349	1
+Listeria monocytogenes ATCC 19117	1
+Listeria monocytogenes CFSAN003824	1
+
+sample_alias
+2	6
+1	5
+4	3
+6	3
+L20	3
+L4	2
+L9	2
+L6	2
+PNUSAL000864	2
+PNUSAL000863	2
+PNUSAL000773	2
+PNUSAL000772	2
+L17	2
+L10	2
+L11	2
+PNUSAL000810	2
+PNUSAL000770	2
+PNUSAL000499	2
+LS20	2
+PNUSAL001245	2
+PNUSAL000650	2
+LS4	2
+PNUSAL000769	2
+PNUSAL001970	2
+PNUSAL000829	2
+PNUSAL002987	2
+PNUSAL001668	2
+PNUSAL000507	2
+PNUSAL000500	2
+PNUSAL000508	2
+PNUSAL001920	2
+PNUSAL002272	2
+PNUSAL001917	2
+PNUSAL000791	2
+PNUSAL000792	2
+L23	2
+3	2
+PNUSAL001684	2
+PNUSAL002604	2
+PNUSAL000649	2
+PNUSAL003004	2
+5	2
+329786.biosample	1
+Farm2Fork_Listeria_C5	1
+Farm2Fork_Listeria_C4	1
+Farm2Fork_Listeria_C6	1
+SLCC187	1
+Farm2Fork_Listeria_C3	1
+Farm2Fork_Listeria_C2	1
+sam_62AD29FB-83EB-40AA-9F0B-42B8418EAC89	1
+L. monocytogenes EGD-e hfq	1
+sam_1157C820-3688-4A98-B15B-9DEE8B655468	1
+CFSAN002281	1
+Y19	1
+Y18	1
+Y15	1
+Y14	1
+Y17	1
+Y16	1
+Y11	1
+Y10	1
+Y13	1
+Y12	1
+FDA00006951	1
+FDA00006952	1
+FDA00006953	1
+FDA00006954	1
+FDA00006955	1
+FDA00006956	1
+FDA00006958	1
+FDA00006959	1
+A51	1
+PNUSAL000945	1
+PNUSAL000946	1
+PNUSAL000947	1
+PNUSAL000940	1
+PNUSAL000941	1
+PNUSAL000942	1
+PNUSAL000943	1
+ef3d4e20-9447-11e6-95da-3c4a9275d6c8	1
+A58	1
+PNUSAL000948	1
+PNUSAL000949	1
+271245.biosample	1
+PNUSAL000668	1
+sam_252AA534-190B-477E-9FC1-593241DA69E6	1
+Farm2Fork_Listeria_C1	1
+PNUSAL001011	1
+PNUSAL001010	1
+PNUSAL001013	1
+PNUSAL001012	1
+PNUSAL001015	1
+PNUSAL001014	1
+PNUSAL001017	1
+PNUSAL001016	1
+PNUSAL001019	1
+PNUSAL001018	1
+sam_741BE5B0-9676-4D78-94AE-D48F577C5DB2	1
+CFSAN060802	1
+CFSAN060803	1
+
+checklist
+!blank	19704
+ERC000011	3500
+ERC000028	1719
+ERC000041	154
+ERC000029	6
+
+center_name
+PHE	2157
+European Centre for Disease Prevention and Control	2082
+Doherty Institute	520
+ROBERT KOCH INSTITUT	425
+CFSAN	239
+STATENS SERUM INSTITUT	224
+pda|retimme	212
+Statens Serum Institut	167
+CGE	154
+pda|kweedmark	117
+Wellcome Sanger Institute	101
+pda|srthomas	76
+University Hospital Muenster	66
+Institut Pasteur	60
+pda|jaxmolecular1	46
+pda|nialldelappe	42
+pda|ajennison	41
+pda|apightling@gmail.com	35
+pda|dlgriffin	32
+pda|100kgenomeproject	25
+European Bioinformatics Institute	23
+pda|carypirone1	22
+EDLB-CDC	17
+pda|agoncalves	13
+pda|p.a.hingston@gmail.com	12
+pda|robbiehall	10
+UNIVERSITY OF MILAN	9
+!blank	7
+pda|mushal	7
+pda|ariane76	7
+CIDM-Public Health, ICPMR, Westmead Hospital	6
+JUSTUS LIEBIG UNIVERSITY	6
+pda|xz060	6
+ANSES	5
+CDC	5
+The department of Oncogenomics at the Academic Medical Center	4
+UNIVERSITY OF GLASGOW	4
+pda|dima.ignatov	4
+pda|hsichtig	3
+pda|orsini_izsam	3
+UCD-100K	2
+FDA/CFSAN	2
+Eurofins MWG operon	2
+pda|jen_ronholm	2
+GenBank	2
+pda|jfpombert	2
+pda|matthew.walker	2
+NIHS_BFR	2
+pda|zhanglumrswang	1
+Banaras Hindu University	1
+pda|jl3374@cornell.edu	1
+NORWEGIAN INSTITUTE OF PUBLIC HEALTH	1
+pda|orsinicrs4	1
+pda|assafrokney	1
+pda|yan.luo	1
+pda|wangxu1017	1
+Austrian Agency for Health and Food Safety	1
+pda|hacarlet	1
+Centers for Disease Control and Prevention	1
+Broad Institute, Cambridge, MA, USA	1
+pda|ct_wgs	1
+University of Surrey	1
+pda|wamanley	1
+Food safety laboratory	1
+Justus Liebig Universitat	1
+Public Health Sweden	1
+pda|cjboner	1
+pda|asiaxu	1
+pda|lskatz	1
+pda|moritzf	1
+pda|patriciacroscutt	1
+
+depth
+!blank	7031
+0.0	2
+
+elevation
+!blank	7033
+
+altitude
+!blank	7033
+
+environment_biome
+!blank	7030
+chicken meat	1
+human and food	1
+human	1
+
+environment_feature
+!blank	6961
+building - abattoir or meat processing	23
+building - food processing factory	11
+agricultural - dairy	5
+building - dairy processing	2
+building - waste treatment plant	2
+building - fish processing	2
+building	1
+human-associated habitat	1
+chicken meat product	1
+maket	1
+
+environment_material
+!blank	6956
+pork	1
+cerebrospinal fluid	1
+animal food product	1
+a helthy sheep feces	1
+raw milk associated with outbreak in Massachusetts	1
+
+temperature
+!blank	6947
+
+salinity
+!blank	6947
+
+sampling_campaign
+!blank	6947
+
+sampling_site
+!blank	6947
+
+sampling_platform
+!blank	6947
+
+protocol_label
+!blank	6947
+
+project_name
+!blank	6937
+Listeria monocytogenes Lm21045	1
+Listeria monocytogenes Lm25180	1
+
+host
+Homo sapiens	4553
+natural / free-living	520
+Human	228
+!blank	188
+human	35
+bovine	30
+equine	14
+Bos taurus	8
+homo sapiens	6
+Animal	3
+Gallus gallus	2
+Guinea pig	2
+Chicken	2
+Sheep	1
+Oryx leucoryx	1
+Monkey	1
+monkey	1
+caecum	1
+Rabbit	1
+not available: to be reported later	1
+Equine	1
+Cow	1
+environmental	1
+Capra hircus	1
+Fish	1
+Bovine	1
+Oryctolagus cuniculus	1
+
+host_tax_id
+9606	997
+!blank	713
+10141	1
+761541	1
+
+host_status
+!blank	191
+
+host_sex
+!blank	181
+female	6
+male	4
+
+submitted_host_sex
+!blank	181
+
+host_body_site
+!blank	181
+
+host_gravidity
+!blank	181
+
+host_phenotype
+!blank	181
+
+host_genotype
+!blank	181
+
+host_growth_conditions
+!blank	181
+
+environmental_package
+!blank	181
+
+investigation_type
+!blank	179
+bacteria_archaea	2
+
+experimental_factor
+!blank	181
+
+sample_collection
+!blank	181
+
+sequencing_method
+!blank	179
+
+target_gene
+!blank	179
+
+ph
+!blank	179
+
+broker_name
+

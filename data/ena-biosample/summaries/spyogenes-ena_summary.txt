@@ -1,0 +1,1580 @@
+bio_material
+!blank	26299
+
+cell_line
+!blank	26299
+
+cell_type
+!blank	26299
+
+collected_by
+!blank	20862
+Houston Methodist Research Institute	2954
+CDC Active Bacterial Core Surveillance	1208
+National Public Health Laboratory	873
+Scottish Haemophilus Legionella Meningococcus Pneumococcus Reference Laboratory	122
+Arctic Investigation Program	100
+Norwegian Institute of Public Health	70
+Menzies School of Health Research	31
+University of Iceland	29
+Translational Genomics North	18
+Yoann Le Breton	18
+Reference laboratory	3
+Duke University Medical Center	2
+Children&apos;&apos;s National Hospital	2
+Universidad de Camerino	1
+LACEN	1
+National Institute for Health and Welfare	1
+Wenchao Feng	1
+UW clinical laboratory	1
+Ministry of Health Streptococcal Reference Laboratory, Jerusalem, Israel	1
+National Institute for Communicable Disease Control and Prevention, China CDC	1
+
+collection_date
+!blank	13236
+2015-03-01	2954
+2017-01-01	1967
+2016-01-01	1921
+2015-01-01	1649
+2014-01-01	543
+2012-01-01	501
+2005-01-01	437
+2011-01-01	398
+1998-01-01	351
+2013-01-01	306
+2009-01-01	262
+2010-01-01	244
+2008-01-01	235
+2003-01-01	180
+2004-01-01	167
+2007-01-01	145
+2006-01-01	122
+2002-01-01	68
+2000-01-01	61
+1900-01-01	46
+1999-01-01	40
+2001-01-01	34
+2011-06-24	13
+1995-01-01	10
+2011-11-09	10
+1997-01-01	9
+2011-06-25	9
+2015-07-23	8
+2018-01-01	7
+2015-07-22	7
+2016-12-05	7
+2011-11-14	7
+2011-06-27	7
+2016-06-16	7
+2017-02-17	5
+2011-11-10	4
+1967-01-01	4
+2017-03-14	3
+2011-05-17	3
+1994-01-01	3
+2016-07-01	3
+2017-02-16	3
+2011-06-23	3
+2011-11-08	3
+2016-01-24	3
+2011-11-17	3
+2011-11-11	3
+2011-01-14	2
+2010-06-26	2
+2011-02-16	2
+2011-06-01	2
+2011-03-22	2
+2011-02-28	2
+2016-11-04	2
+2015-12-17	2
+2016-02-25	2
+2015-12-18	2
+2011-06-14	2
+2011-06-17	2
+2011-04-19	2
+2017-11-09	2
+2016-04-13	2
+2016-11-03	2
+2016-11-02	2
+2013-08-09	2
+2011-05-18	2
+1932-01-01	2
+2017-02-14	2
+2016-12-13	2
+1931-01-01	2
+1927-01-01	2
+2011-06-28	2
+2011-05-04	2
+2011-06-21	2
+1996-01-01	2
+1950-01-01	2
+2016-10-29	2
+2004-04-14	2
+2006-06-22	2
+2011-03-14	2
+2011-03-11	2
+2004-01-12	2
+2011-03-25	2
+2016-07-24	2
+2016-12-18	2
+2011-02-08	2
+2016-03-26	1
+2004-05-06	1
+2003-07-31	1
+2003-07-02	1
+2005-01-04	1
+2013-04-24	1
+2010-06-27	1
+2017-11-06	1
+2017-11-07	1
+2003-09-02	1
+2017-06-25	1
+2016-01-04	1
+2004-02-05	1
+
+country
+!blank	13365
+USA	5513
+USA: Houston, TX	2954
+Finland	874
+Japan: Tokyo	485
+Fiji	347
+Kenya	328
+USA: Minnesota	254
+Canada	204
+USA: Maryland	163
+USA: Georgia	150
+USA: New York	149
+USA: Colorado	137
+Hong Kong	134
+CA	131
+USA: Tennesse	109
+United Kingdom	102
+USA: California	98
+USA: Connecticut	78
+USA: New Mexico	72
+USA: Oregon	70
+Norway	70
+USA: Alaska	51
+United Kingdom: Scotland: Glasgow	41
+United Kingdom: England, London	37
+USA: Alaska, Anchorage	32
+Australia: Darwin, Northern Territory	31
+Iceland	29
+USA: Tennessee	27
+United Kingdom: Scotland: Edinburgh	18
+USA:AZ	18
+USA: College Park	16
+USA: Alaska, Fairbanks	11
+USA: Ohio	11
+Switzerland	11
+United Kingdom: Scotland: Airdrie	10
+USA: Alabama	10
+United Kingdom: London	10
+USA: Houston	8
+United Kingdom: Scotland: Kilmarnock	8
+United Kingdom: Scotland: Kirkcaldy	8
+United Kingdom: Scotland: Aberdeen	7
+Germany	7
+United Kingdom: Scotland: Larbert	6
+United Kingdom: Scotland: Paisley	6
+Italy:Bologna	6
+Australia	5
+United Kingdom: Scotland: Dundee	4
+not provided	4
+not collected	3
+United Kingdom: Scotland: Dumfries	3
+USA: Berkeley	3
+United Kingdom: Scotland: Inverness	3
+United Kingdom: Wales	3
+United Kingdom: Scotland: Wishaw	2
+USA: Indiana State: Terre Haute	2
+Japan: Chiba	2
+United Kingdom: Aberdeen	2
+USA:DC	2
+U.S.	2
+Russia	2
+USA: North Carolina	2
+DE	2
+United Kingdom: Scotland: Oban	2
+USA: Alaska, Stebbins	2
+Japan: Kanagawa	2
+United Kingdom: Telford	1
+Egypt: Cairo	1
+United Kingdom: Stockton	1
+United Kingdom: Salisbury	1
+China	1
+Netherlands: Leiden	1
+Netherlands:Leiden	1
+USA: Alaska, Chugiak	1
+Japan:Aichi	1
+USA: Alaska, Kake	1
+USA: Bozeman	1
+England	1
+USA: Texas	1
+United Kingdom: Scotland: Livingston	1
+United Kingdom: Blackpool	1
+USA: Atlanta	1
+Brazil: Brasilia	1
+United Kingdom: Scotland: Falkirk	1
+United Kingdom: Scotland: Perth	1
+USA: Alaska, Gambell, Alaska	1
+USA: Texas (State)	1
+USA: Maryland (State)	1
+USA: Alaska, Eagle River	1
+United Kingdom: Exeter	1
+Japan	1
+United Kingdom: Shrewsbury	1
+USA: New York City	1
+Wales	1
+USA: Alaska, Savoonga	1
+USA: Alaska, Kobuk	1
+United Kingdom: Winchester	1
+Australia: South-East Queensland	1
+Japan: Hiroshima	1
+United Kingdom: Nottingham	1
+
+cultivar
+!blank	26299
+
+culture_collection
+!blank	26217
+NCTC:13737	1
+NCTC:10880	1
+NCTC:10866	1
+NCTC:2366	1
+NCTC:13744	1
+FDA:FDAARGOS_190	1
+NCTC:12840	1
+NCTC:8332	1
+NCTC:8229	1
+NCTC:13736	1
+NCTC:13745	1
+NCTC:8225	1
+NCTC:5164	1
+NCTC:8227	1
+NCTC:8316	1
+NCTC:8308	1
+NCTC:5163	1
+NCTC:13738	1
+NCTC:13739	1
+NCTC:8305	1
+NCTC:8370	1
+NCTC:12058	1
+NCTC:12059	1
+NCTC:12057	1
+NCTC:12054	1
+NCTC:12052	1
+NCTC:8314	1
+NCTC:12050	1
+NCTC:12051	1
+NCTC:8224	1
+NCTC:8330	1
+NCTC:2218	1
+NCTC:12044	1
+NCTC:8326	1
+NCTC:12842	1
+NCTC:13751	1
+NCTC:12696	1
+NCTC:10876	1
+NCTC:10877	1
+NCTC:10874	1
+NCTC:10875	1
+NCTC:10872	1
+NCTC:10085	1
+NCTC:10870	1
+NCTC:10871	1
+NCTC:8324	1
+NCTC:8322	1
+NCTC:10879	1
+NCTC:8302	1
+NCTC:8304	1
+NCTC:12064	1
+FDA:FDAARGOS_149	1
+NCTC:12049	1
+NCTC:8232	1
+NCTC:13743	1
+NCTC:8230	1
+NCTC:8231	1
+NCTC:12067	1
+NCTC:12066	1
+NCTC:12065	1
+NCTC:12062	1
+NCTC:12841	1
+NCTC:12048	1
+NCTC:12061	1
+NCTC:12060	1
+NCTC:12045	1
+NCTC:8303	1
+NCTC:8300	1
+NCTC:12046	1
+NCTC:12069	1
+NCTC:12068	1
+NCTC:8328	1
+NCTC:8320	1
+NCTC:4001	1
+NCTC:8199	1
+NCTC:8198	1
+NCTC:13741	1
+NCTC:13740	1
+NCTC:8195	1
+NCTC:13742	1
+NCTC:8193	1
+NCTC:12047	1
+
+description
+Not provided	3615
+emm-typing-tool validation set	3047
+This sample has been submitted by pda|sbberes on 2016-09-09; Streptococcus pyogenes	2953
+This sample has been submitted by pda|schochua on 2017-10-27; Streptococcus pyogenes	1442
+This sample has been submitted by pda|schochua on 2018-03-16; Streptococcus pyogenes	1305
+This sample has been submitted by pda|sbberes on 2015-08-12; Streptococcus pyogenes	1181
+This sample has been submitted by pda|sbberes on 2018-02-18; Streptococcus pyogenes	1000
+This sample has been submitted by pda|schochua on 2018-08-18; Streptococcus pyogenes	1000
+This sample has been submitted by pda|schochua on 2018-03-15; Streptococcus pyogenes	986
+Streptococcus pyogenes	523
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-21; Streptococcus pyogenes	485
+This sample has been submitted by pda|schochua on 2018-03-17; Streptococcus pyogenes	446
+Scarlet Fever Sample	303
+invasive GAS sample	252
+GAS outbreak paper	238
+This sample has been submitted by Wellcome Sanger Institute on 2014-06-11; Streptococcus pyogenes	219
+invasive-sterile site isolate	214
+This sample has been submitted by Wellcome Sanger Institute on 2011-03-02; Streptococcus pyogenes	200
+Keywords: GSC:MIxS;MIMARKS:3.0	191
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-01; Streptococcus pyogenes	187
+Pool of linked samples. See links for individual sample information.	186
+in vivo spontaneous mutant of M1 476	168
+This sample has been submitted by HMRI-DID on 2015-06-02; Streptococcus pyogenes	163
+This sample has been submitted by Wellcome Sanger Institute on 2013-06-18; Streptococcus pyogenes	154
+This sample has been submitted by pda|sarahteatero on 2018-09-02; Streptococcus pyogenes	146
+This sample has been submitted by Wellcome Sanger Institute on 2011-11-30; Streptococcus pyogenes	141
+This sample has been submitted by Wellcome Sanger Institute on 2014-12-18; Streptococcus pyogenes	131
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-19; Streptococcus pyogenes	123
+This sample has been submitted by pda|sbberes on 2017-11-02; Streptococcus pyogenes	122
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-13; Streptococcus pyogenes	96
+in vivo spontaneous mutant of csn1-deletion mutant of M1 476	89
+This sample has been submitted by Wellcome Sanger Institute on 2012-10-10; Streptococcus pyogenes	89
+This sample has been submitted by Wellcome Sanger Institute on 2010-12-16; Streptococcus pyogenes	81
+This sample has been submitted by pda|schochua on 2018-02-17; Streptococcus pyogenes	80
+pharyngitis isolate	51
+in vivo spontaneous mutant of M3-b	48
+in vivo spontaneous mutant of SF370	48
+Streptococcus pyogenes sample from Liverpool, UK outbreak	48
+This sample has been submitted by Wellcome Sanger Institute on 2013-11-05; Streptococcus pyogenes	41
+GAS M3 pharyngitis isolate	35
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-22; Streptococcus pyogenes	33
+This sample has been submitted by pda|lerhuna on 2017-11-07; Streptococcus pyogenes	30
+This sample has been submitted by Wellcome Sanger Institute on 2012-01-18; Streptococcus pyogenes	29
+This sample has been submitted by pda|arflores on 2017-11-08; Streptococcus pyogenes	27
+This sample has been submitted by pda|snora on 2016-05-12; Streptococcus pyogenes	27
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-08; Streptococcus pyogenes	24
+in vivo spontaneous mutant of int2-deletion mutant of M1 476	24
+in vivo spontaneous mutant of int1-deletion mutant of M1 476	23
+454 Titanium Fragments	21
+This sample has been submitted by pda|schochua on 2018-02-22; Streptococcus pyogenes	20
+This sample has been submitted by pda|mbobbyv1 on 2017-09-29; Streptococcus pyogenes	18
+Protocols: Overnight cultures of S. pyogenes 2001 were 1:30 diluted in a total volume of 4 ml THY in a 6 well plate (TPP Tissue culture plates, Sigma) Cultures were supplemented with 50 Âµg/ml SpeA or the same volume of PBS (pH 7.4) respectively and incubated for 2 hours at 37Â°C in the presence of 5% CO2.  Eight ml of RNAprotect (Qiagen) was subsequently added followed by incubation at room temperature for 10 min. The bacterial cells were pelleted by centrifugation at 5000Ãg for 6 minutes and RNA was isolated using TRIzolÂ® (Thermo Fischer) as per manufacturerâs instruction. DNA was removed using DNase treatment (Turbo DNA-freeâ¢ Kit, Ambion, Life Technologies). Quality and concentration of the isolated RNA was estimated using Bio-Analyzer (Agilent 2001, BioRad). rRNA was then removed using the Ribo-Zero rRNA removal kit (Epicentre, Illumina) as per the instructions in the kit. The cDNA library was generated using Script SeqTM  (Epicentre, Illumina) as per manufacturerâs instructions.	18
+This sample has been submitted by Wellcome Sanger Institute on 2015-08-14; Streptococcus pyogenes serotype M1	16
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-09; Streptococcus pyogenes	16
+pharyngeal-throat swab isolate	12
+This sample has been submitted by pda|lerhuna on 2017-10-03; Streptococcus pyogenes	12
+Denovo assembly of Miseq genome sequencing of Streptococcus Pyogenes, group A (GAS) strains associated to a primary schools of Bologna (ITALY).	11
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-06; Streptococcus pyogenes	10
+This sample has been submitted by Wellcome Sanger Institute on 2014-05-21; Streptococcus pyogenes	8
+This sample has been submitted by pda|jeffms66 on 2017-11-08; Streptococcus pyogenes	8
+This sample has been submitted by Wellcome Sanger Institute on 2011-08-23; Streptococcus pyogenes	6
+This sample has been submitted by pda|lerhuna on 2016-10-01; Streptococcus pyogenes	6
+Compartive genomics of M3 GAS	5
+in vivo 2hr culture of rocA-deletion mutant of M1 476	5
+in vivo 4hr culture of covRS-deletion mutant of M1 476	4
+This sample has been submitted by pda|snora on 2016-05-13; Streptococcus pyogenes	4
+source: MGAS2221	4
+in vivo 4hr culture of rnc-deletion mutant of M1 476	3
+iGAS cluster	3
+in vivo 2hr culture of rnc-deletion mutant of M1 476	3
+in vivo 0hr culture of rocA-deletion mutant of M1 476	3
+MGAS2221 B	2
+in vivo 0hr culture of rnc-deletion mutant of M1 476	2
+in vivo 0hr culture of rgg-deletion mutant of M1 476	2
+in vivo 0hr culture of cvfA-deletion mutant of M1 476	2
+in vivo 0hr culture of pnpA-deletion mutant of M1 476	2
+in vitro midlog culture of rocA-deletion mutant of M1 476	2
+in vivo 2hr culture of rgg-deletion mutant of M1 476	2
+in vivo 2hr culture of csn1-deletion mutant of M1 476	2
+in vivo 2hr culture	2
+in vitro midlog culture of pnpA-deletion mutant of M1 476	2
+in vivo 0hr culture of covRS-deletion mutant of M1 476	2
+26	2
+Streptococcus pyogenes high quantity capsule producer	2
+in vitro midlog culture of csn1-deletion mutant of M1 476	2
+14GA1136	2
+14GA1137	2
+in vivo 4hr culture of pnpA-deletion mutant of M1 476	2
+14GA1044	2
+in vitro midlog culture of rnc-deletion mutant of M1 476	2
+in vivo 2hr culture of cvfA-deletion mutant of M1 476	2
+in vitro midlog culture of cvfA-deletion mutant of M1 476	2
+GAS131275	2
+in vitro midlog culture	2
+Isolated from a patient with pneumonia complicated by pleural effusion and toxic shock syndrome	2
+14GA1101	2
+GAS11426	2
+MGAS2221 A	2
+33	2
+32	2
+
+dev_stage
+!blank	26299
+
+ecotype
+!blank	26299
+
+environmental_sample
+false	26299
+
+first_public
+2014-04-29	3615
+2016-11-15	3047
+2016-09-09	2953
+2017-10-27	1442
+2018-03-16	1305
+2015-08-12	1181
+2018-08-18	1000
+2018-02-18	1000
+2018-03-15	986
+2018-06-19	706
+2016-07-05	704
+2017-02-21	555
+2018-06-02	546
+2017-04-05	533
+2018-04-24	451
+2018-03-17	446
+2012-01-02	418
+2013-04-22	283
+2014-04-07	279
+2013-02-11	258
+2017-07-19	237
+2015-06-02	223
+2014-04-22	220
+2014-11-20	197
+2014-03-26	191
+2011-09-20	177
+2012-09-25	177
+2014-02-21	167
+2013-11-18	154
+2018-09-02	146
+2012-04-23	143
+2011-12-13	138
+2015-06-09	133
+2014-10-28	123
+2017-11-02	122
+2013-02-04	96
+2012-06-25	96
+2010-09-11	95
+2014-10-15	95
+2014-03-25	93
+2010-02-26	85
+2011-03-30	82
+2014-03-03	82
+2014-02-20	81
+2018-02-17	80
+2011-04-28	70
+2017-03-07	66
+2014-03-04	62
+2018-03-13	57
+2017-11-08	51
+2012-05-28	48
+2016-05-13	40
+2015-06-19	37
+2010-08-10	36
+2017-11-07	30
+2016-11-04	29
+2016-05-12	27
+2014-02-24	25
+2010-03-08	24
+2013-05-28	24
+2016-09-15	24
+2011-08-03	23
+2012-03-29	21
+2018-02-22	20
+2018-07-01	18
+2015-04-20	18
+2017-09-29	18
+2013-02-12	17
+2015-09-07	16
+2015-12-15	16
+2018-09-13	15
+2018-08-28	14
+2016-01-12	13
+2017-10-03	12
+2011-05-05	12
+2015-03-30	11
+2017-01-24	11
+2012-07-26	10
+2018-07-10	9
+2017-01-31	9
+2014-08-20	9
+2016-12-31	8
+2018-07-03	8
+2015-08-06	8
+2016-01-19	8
+2015-12-04	7
+2017-08-09	7
+2016-10-01	6
+2015-03-07	6
+2018-06-05	6
+2016-07-27	6
+2018-06-12	6
+2017-11-30	6
+2012-05-15	5
+2016-05-10	5
+2017-06-07	4
+2013-03-27	4
+2016-05-03	4
+2018-04-10	4
+2018-08-07	4
+
+germline
+false	26299
+
+identified_by
+!blank	26299
+
+isolate
+!blank	17598
+NHP ID# 311	760
+NHP ID# 261	753
+NHP ID# 5878	743
+NHP ID# 666	698
+SF370	42
+invasive infection isolate	36
+M18BO	11
+ISS3348	6
+344	2
+345	2
+346	2
+347	2
+340	2
+341	2
+342	2
+343	2
+348	2
+349	2
+960	2
+961	2
+963	2
+868	2
+298	2
+299	2
+296	2
+297	2
+294	2
+295	2
+292	2
+293	2
+290	2
+291	2
+586	2
+587	2
+968	2
+584	2
+270	2
+271	2
+272	2
+273	2
+274	2
+275	2
+276	2
+277	2
+279	2
+108	2
+109	2
+102	2
+103	2
+100	2
+101	2
+106	2
+107	2
+104	2
+105	2
+541	2
+1000	2
+99	2
+98	2
+91	2
+90	2
+93	2
+92	2
+95	2
+94	2
+97	2
+96	2
+559	2
+558	2
+555	2
+554	2
+557	2
+556	2
+551	2
+550	2
+553	2
+552	2
+818	2
+623	2
+875	2
+872	2
+870	2
+871	2
+407	2
+406	2
+405	2
+404	2
+403	2
+402	2
+401	2
+400	2
+452	2
+409	2
+408	2
+453	2
+454	2
+455	2
+9	2
+456	2
+
+isolation_source
+!blank	14442
+sterile site	5281
+nonhuman primate NF model infection	2954
+normally sterile site	2179
+Swab	250
+blood	220
+swab	186
+Throat swab	110
+human carrier	81
+Throat	58
+not available: to be reported later	57
+Scotland: Glasgow	41
+skin	33
+not collected	27
+Non-Invasive	27
+skin or soft tissue infection	24
+Oropharyngeal swab	18
+Scotland: Edinburgh	18
+Bacteremia	16
+Soft tissue	15
+Blood culture	11
+SKH1 mice subcutaneous model infection (neck)	11
+Scotland: Airdrie	10
+Blood Culture	10
+Tissue	10
+Scotland: Kilmarnock	8
+CSF	8
+Scotland: Kirkcaldy	8
+throat	8
+aspirate	8
+recombinant	7
+Wound swab	7
+Invasive; Blood	7
+not known	7
+Scotland: Aberdeen	7
+Scotland: Paisley	6
+respiratory tract	6
+Scotland: Larbert	6
+wound	6
+Sputum	5
+THY broth	5
+Scotland: Dundee	4
+Surg Spec	4
+Necrotising fasciitis	4
+Arthritis	4
+High vaginal swab	3
+Drainage	3
+Scotland: Inverness	3
+Pneumonia	3
+Joint Fl	3
+Scotland: Dumfries	3
+Vulval swab	2
+Scotland: Oban	2
+pharynx	2
+laboratory	2
+left forearm	2
+Blood in broth	2
+Scotland: Wishaw	2
+Urine	2
+bone	2
+Surg Aspir	2
+Low vaginal swab	2
+Blood	2
+Skin Lesions	2
+Vaginal swab	2
+Aspir	1
+urine	1
+human	1
+Scotland: East Kilbride	1
+Mouse skin lesions	1
+Deep wound swab	1
+soft tissue	1
+This is derivative of strain MGAS10870 in which Thr-65 has been replaced with Glu	1
+throat swab	1
+Invasive; Knee fluid	1
+Upper Respiratory Tract	1
+R knee pus	1
+Ear swab	1
+UC Berkeley	1
+This is derivative of strain MGAS10870 in which Thr-65 has been replaced with Ala	1
+Foot Lesion	1
+peripheral blood	1
+derivative of strain MGAS10870	1
+Sterile site	1
+Aspirate	1
+Urethral swab	1
+Skin Lesion	1
+Finger	1
+Pharynx	1
+human soft tissue	1
+bone or joint	1
+This is a derivative of strain MGAS10870 in which CovR Asp-53 has been replaced with Ala	1
+This is a derivative of strain MGAS10870 in which the covS gene has been inactivated	1
+Invasive; Muscle	1
+Invasive; Pleural fluid	1
+Pleural Fluid	1
+Joint FL	1
+Scotland: Livingston	1
+Scotland: Falkirk	1
+Scotland: Perth	1
+
+location
+!blank	24572
+35.7 N 139.7 E	485
+64.0 N 26.0 E	281
+39.265 N 77.223 W	128
+32.428 N 83.297 W	112
+35.477 N 86.373 W	109
+46.15 N 95.196 W	108
+42.579 N 76.1 W	106
+38.599 N 105.385 W	91
+36.579 N 120.498 W	62
+41.357 N 72.424 W	60
+34.301 N 106.67 W	48
+43.521 N 120.587 W	45
+12.45 S 130.83 E	31
+65.0 N 18.0 W	29
+35.6648 N 111.4753 W	18
+35.3 N 139.4 E	2
+38.8951 N 77.0367 W	2
+35.6 N 140.1 E	2
+42.0 N 88.0 W	1
+34.4 N 132.5 E	1
+35.1 N 136.5 E	1
+31.146 N 99.275 W	1
+35.0 N 103.0 E	1
+31.046051 N 34.851612 E	1
+43.14 N 13.069 E	1
+46.70773 N 112.13672 W	1
+
+mating_type
+!blank	26299
+
+serotype
+!blank	22355
+M89	1218
+Emm28	1000
+M1	440
+Not known	138
+not recorded	93
+emm59	84
+Lancefield Group A	51
+EMM70.0	28
+M87	27
+emm1	24
+emm3.4	20
+EMM44.0	19
+101	18
+EMM11.0	18
+EMM65.4	18
+emm6.4	17
+M1T1	16
+EMM56.0	16
+EMM103.0	15
+EMM73.0	15
+EMM82.1	15
+emm3.1	15
+emm89	14
+STG866.1	13
+EMM92.0	11
+EMM18.21	11
+EMM25.1	11
+EMM25.0	11
+EMM202.1	11
+EMM205.0	10
+M3	10
+emm12	10
+EMM174.1	10
+not available: to be reported later	10
+EMM137.0	9
+EMM159.0	9
+EMM77.0	9
+EMM93.4	9
+EMM89.14	9
+EMM74.0	9
+EMM90.5	8
+EMM4.5	8
+EMM71.0	8
+EMM179.0	8
+EMM8.3	8
+EMM49.0	7
+EMM65.0	7
+EMM124.2	7
+EMM55.0	7
+EMM105.0	7
+EMM183.2	7
+83	7
+EMM60.7	7
+EMM75.1	6
+EMM97.1	6
+EMM64.3	6
+EMM99.5	6
+EMM86.2	6
+EMM39.4	6
+EMM33.0	6
+EMM22.5	6
+EMM57.0	6
+4	5
+EMM65.5	5
+EMM85.1	5
+EMM230.1	5
+114	5
+EMM167.0	5
+EMM174.0	5
+EMM138.0	5
+87	5
+EMM236.2	5
+EMM169.1	5
+EMM111.2	4
+EMM166.2	4
+EMM232.1	4
+EMM81.3	4
+EMM112.5	4
+80	4
+EMM9.0	4
+EMM218.1	4
+EMM89.8	4
+EMM165.0	4
+EMM82.5	4
+EMM209.0	4
+EMM80.0	4
+EMM50.3	4
+EMM19.4	4
+EMM83.12	4
+EMM63.5	4
+STG1750.0	4
+EMM109.1	4
+EMM101.0	3
+EMM217.0	3
+EMM177.0	3
+EMM118.2	3
+EMM79.5	3
+EMM81.2	3
+EMM84.1	3
+
+serovar
+!blank	22355
+M89	1218
+Emm28	1000
+M1	440
+Not known	138
+not recorded	93
+emm59	84
+Lancefield Group A	51
+EMM70.0	28
+M87	27
+emm1	24
+emm3.4	20
+EMM44.0	19
+101	18
+EMM11.0	18
+EMM65.4	18
+emm6.4	17
+M1T1	16
+EMM56.0	16
+EMM103.0	15
+EMM73.0	15
+EMM82.1	15
+emm3.1	15
+emm89	14
+STG866.1	13
+EMM92.0	11
+EMM18.21	11
+EMM25.1	11
+EMM25.0	11
+EMM202.1	11
+EMM205.0	10
+M3	10
+emm12	10
+EMM174.1	10
+not available: to be reported later	10
+EMM137.0	9
+EMM159.0	9
+EMM77.0	9
+EMM93.4	9
+EMM89.14	9
+EMM74.0	9
+EMM90.5	8
+EMM4.5	8
+EMM71.0	8
+EMM179.0	8
+EMM8.3	8
+EMM49.0	7
+EMM65.0	7
+EMM124.2	7
+EMM55.0	7
+EMM105.0	7
+EMM183.2	7
+83	7
+EMM60.7	7
+EMM75.1	6
+EMM97.1	6
+EMM64.3	6
+EMM99.5	6
+EMM86.2	6
+EMM39.4	6
+EMM33.0	6
+EMM22.5	6
+EMM57.0	6
+4	5
+EMM65.5	5
+EMM85.1	5
+EMM230.1	5
+114	5
+EMM167.0	5
+EMM174.0	5
+EMM138.0	5
+87	5
+EMM236.2	5
+EMM169.1	5
+EMM111.2	4
+EMM166.2	4
+EMM232.1	4
+EMM81.3	4
+EMM112.5	4
+80	4
+EMM9.0	4
+EMM218.1	4
+EMM89.8	4
+EMM165.0	4
+EMM82.5	4
+EMM209.0	4
+EMM80.0	4
+EMM50.3	4
+EMM19.4	4
+EMM83.12	4
+EMM63.5	4
+STG1750.0	4
+EMM109.1	4
+EMM101.0	3
+EMM217.0	3
+EMM177.0	3
+EMM118.2	3
+EMM79.5	3
+EMM81.2	3
+EMM84.1	3
+
+sex
+!blank	26299
+
+submitted_sex
+!blank	26299
+
+specimen_voucher
+!blank	26299
+
+strain
+!blank	16435
+derived from parental emm-type 1 strain MGAS2221	2954
+476	389
+M3-b	50
+SF370	48
+M1 GAS	48
+5448	37
+M1T15448	16
+M1GAS2221&lt;delta&gt;fabT	12
+M1GAS2221	12
+MGAS2221	10
+M23ND	8
+MGAS28426	6
+MGAS28426 delta rocA	6
+HKU30	6
+Streptococcus pyogenes	4
+HKU16	4
+31002	3
+MGAS15249:delta-mga:pdc_mgaH207D	3
+MGAS315	3
+MGAS15249:delta-mga:pdc_mgaH273A	3
+MGAS15249:delta-mga:pdc_mgaH273D	3
+Parental M1 GAS isolate	3
+MGAS5005	3
+MGAS15249:delta-mga:pdc_mgaH207A	3
+MGAS15249:delta-mga:pdc_mga	3
+MGAS15249:delta-mga:pdc	3
+31056	3
+NS488	3
+Parental M3 GAS isolate	3
+31004	2
+31006	2
+31049	2
+83236	2
+63405	2
+31168	2
+emm-4	2
+MGAS10870	2
+31039	2
+HSC5	2
+H293	2
+31072	2
+31138	2
+31136	2
+31114	2
+GASAR0074	2
+bs2377	2
+ATCC 19615	2
+BHS0297	1
+BHS0296	1
+BHS0295	1
+BHS0294	1
+BHS0293	1
+BHS0292	1
+BHS0291	1
+BHS0290	1
+BHS0299	1
+BHS0298	1
+MGAS27521	1
+GA06023	1
+MGAS27520	1
+MGAS27523	1
+MGAS27250	1
+MGAS27257	1
+MGAS27629	1
+MGAS27256	1
+MGAS27626	1
+AA216	1
+MGAS27255	1
+MGAS27254	1
+BHS0121	1
+BHS0120	1
+BHS0123	1
+BHS0122	1
+BHS0125	1
+BHS0124	1
+BHS0127	1
+BHS0126	1
+BHS0129	1
+BHS0128	1
+MGAS31669	1
+MGAS31665	1
+MGAS31664	1
+MGAS31667	1
+MGAS31666	1
+MGAS31661	1
+MGAS31660	1
+MGAS31663	1
+MGAS31662	1
+11791_7#79	1
+11791_7#78	1
+11791_7#77	1
+GL212	1
+11791_7#75	1
+11791_7#74	1
+11791_7#73	1
+11791_7#72	1
+11791_7#71	1
+270	1
+279	1
+
+sub_species
+!blank	26299
+
+sub_strain
+!blank	26298
+[Delta]SSR21cat&quot;	1
+
+tissue_lib
+!blank	26299
+
+tissue_type
+!blank	26299
+
+variety
+!blank	26299
+
+tax_id
+1314	24993
+1207470	389
+160490	49
+410076	36
+301447	28
+798300	18
+301451	11
+301448	8
+198466	3
+1444847	1
+370552	1
+881052	1
+881053	1
+881050	1
+881051	1
+881056	1
+881057	1
+881054	1
+881055	1
+881058	1
+881059	1
+529989	1
+872663	1
+1115828	1
+872661	1
+872660	1
+872667	1
+872666	1
+872665	1
+872664	1
+1115821	1
+1115820	1
+1115823	1
+872668	1
+1115825	1
+1115824	1
+1115827	1
+1115826	1
+1444842	1
+529988	1
+1439312	1
+1439098	1
+1439310	1
+1439311	1
+1439314	1
+1439315	1
+1439091	1
+1439090	1
+1439093	1
+1439092	1
+1439095	1
+1439094	1
+1439097	1
+1439096	1
+1439130	1
+1439264	1
+1439226	1
+1439227	1
+1439224	1
+1439225	1
+1439222	1
+1439223	1
+1439220	1
+1439221	1
+1439228	1
+1439229	1
+1439165	1
+1439164	1
+1439167	1
+1439166	1
+1439161	1
+1439160	1
+1439163	1
+1439162	1
+1439169	1
+1439168	1
+1444828	1
+1444829	1
+1439008	1
+1439009	1
+1439006	1
+1439007	1
+1439004	1
+1439005	1
+1439002	1
+1439003	1
+1439000	1
+1439001	1
+1444947	1
+1444946	1
+1444945	1
+1444944	1
+1444918	1
+1444943	1
+1444942	1
+1444941	1
+1444940	1
+1444954	1
+1444955	1
+1444956	1
+
+scientific_name
+Streptococcus pyogenes	24993
+Streptococcus pyogenes M1 476	389
+Streptococcus pyogenes M1 GAS	49
+Streptococcus pyogenes serotype M89	36
+Streptococcus pyogenes serotype M1	28
+Streptococcus pyogenes MGAS15252	18
+Streptococcus pyogenes serotype M18	11
+Streptococcus pyogenes serotype M3	8
+Streptococcus pyogenes MGAS315	3
+Streptococcus pyogenes MGAS15025	1
+Streptococcus pyogenes MGAS15024	1
+Streptococcus pyogenes MGAS15026	1
+Streptococcus pyogenes MGAS15021	1
+Streptococcus pyogenes MGAS15020	1
+Streptococcus pyogenes MGAS15188	1
+Streptococcus pyogenes MGAS15189	1
+Streptococcus pyogenes MGAS15186	1
+Streptococcus pyogenes MGAS15187	1
+Streptococcus pyogenes MGAS15184	1
+Streptococcus pyogenes MGAS15185	1
+Streptococcus pyogenes MGAS15029	1
+Streptococcus pyogenes ABC020035189	1
+Streptococcus pyogenes ABC020064181	1
+Streptococcus pyogenes MGAS10024	1
+Streptococcus pyogenes MGAS10025	1
+Streptococcus pyogenes MGAS15023	1
+Streptococcus pyogenes ABC020051934	1
+Streptococcus pyogenes ABC020034012	1
+Streptococcus pyogenes NGAS266	1
+Streptococcus pyogenes MGAS15022	1
+Streptococcus pyogenes NGAS260	1
+Streptococcus pyogenes MGAS15011	1
+Streptococcus pyogenes GA06023	1
+Streptococcus pyogenes ABC020063685	1
+Streptococcus pyogenes ABC020029793	1
+Streptococcus pyogenes ABC020046470	1
+Streptococcus pyogenes MGAS15013	1
+Streptococcus pyogenes ABC020054162	1
+Streptococcus pyogenes ABC020053777	1
+Streptococcus pyogenes ABC020029706	1
+Streptococcus pyogenes ABC020014530	1
+Streptococcus pyogenes ABC020051772	1
+Streptococcus pyogenes ABC020052553	1
+Streptococcus pyogenes ABC020014925	1
+Streptococcus pyogenes MGAS15050	1
+Streptococcus pyogenes MGAS15052	1
+Streptococcus pyogenes MGAS15053	1
+Streptococcus pyogenes MGAS15054	1
+Streptococcus pyogenes MGAS15055	1
+Streptococcus pyogenes MGAS15056	1
+Streptococcus pyogenes MGAS15057	1
+Streptococcus pyogenes MGAS15059	1
+Streptococcus pyogenes ABC020021254	1
+Streptococcus pyogenes NGAS450	1
+Streptococcus pyogenes ABC020038555	1
+Streptococcus pyogenes ABC020005773	1
+Streptococcus pyogenes ABC020034223	1
+Streptococcus pyogenes MGAS9911	1
+Streptococcus pyogenes MGAS9910	1
+Streptococcus pyogenes MGAS9913	1
+Streptococcus pyogenes ABC020046986	1
+Streptococcus pyogenes MGAS9914	1
+Streptococcus pyogenes MGAS9917	1
+Streptococcus pyogenes ABC020031898	1
+Streptococcus pyogenes NGAS599	1
+Streptococcus pyogenes ABC020014327	1
+Streptococcus pyogenes NGAS592	1
+Streptococcus pyogenes NGAS596	1
+Streptococcus pyogenes NGAS597	1
+Streptococcus pyogenes NGAS594	1
+Streptococcus pyogenes NGAS595	1
+Streptococcus pyogenes ABC020046559	1
+Streptococcus pyogenes ABC020022523	1
+Streptococcus pyogenes ABC020048387	1
+Streptococcus pyogenes ABC020044203	1
+Streptococcus pyogenes ABC020048389	1
+Streptococcus pyogenes ABC020047993	1
+Streptococcus pyogenes ABC020038011	1
+Streptococcus pyogenes str. Manfredo	1
+Streptococcus pyogenes ABC020055742	1
+Streptococcus pyogenes MGAS9986	1
+Streptococcus pyogenes MGAS10874	1
+Streptococcus pyogenes MGAS10871	1
+Streptococcus pyogenes MGAS9983	1
+Streptococcus pyogenes ABC020054955	1
+Streptococcus pyogenes ABC020032182	1
+Streptococcus pyogenes ABC020014690	1
+Streptococcus pyogenes NGAS609	1
+Streptococcus pyogenes ABC020053240	1
+Streptococcus pyogenes NGAS165	1
+Streptococcus pyogenes ABC020024484	1
+Streptococcus pyogenes NGAS603	1
+Streptococcus pyogenes NGAS169	1
+Streptococcus pyogenes NGAS601	1
+Streptococcus pyogenes NGAS606	1
+Streptococcus pyogenes NGAS604	1
+Streptococcus pyogenes NGAS605	1
+Streptococcus pyogenes MGAS15209	1
+Streptococcus pyogenes ABC020039391	1
+Streptococcus pyogenes ABC020052203	1
+
+sample_alias
+NGAS664	2
+Streptococcus pyogenes	2
+2	2
+1	2
+185b7b20-9e57-11e5-bdcf-3c4a9275d6c6	1
+33107_V1S1-sc-2012-12-19T14:41:32Z-1529117	1
+20057_V1I1-sc-2012-05-22T08:51:11Z-1419699	1
+GT950753M1-sc-1665238	1
+H705_sample	1
+311_L3_G6	1
+311_L3_G7	1
+311_L3_G4	1
+311_L3_G5	1
+311_L3_G2	1
+311_L3_G3	1
+NS578GAS-sc-2010-12-16-1008647	1
+311_L3_G1	1
+H111400074-sc-2013-06-18T13:28:39Z-1648850	1
+311_L3_G8	1
+311_L3_G9	1
+H073180054-sc-2013-06-18T13:27:54Z-1648811	1
+GL11M1-sc-1665074	1
+20173858	1
+20173859	1
+H080700014-sc-2011-03-02-1091884	1
+20173854	1
+20173855	1
+20174800	1
+20173857	1
+39ce0b70-e9e7-11e5-bc69-3c4a9275d6c6	1
+20173851	1
+20173852	1
+20173853	1
+33181_V6T1_02-sc-2012-12-19T15:24:57Z-1529613	1
+ABC020059502	1
+KIA53465-sc-2012-10-10T15:18:56Z-1497431	1
+33623ff0-f594-11e5-bd92-3c4a9275d6c8	1
+69179	1
+MGAS31881	1
+MGAS31880	1
+MGAS31883	1
+MGAS31882	1
+MGAS31885	1
+MGAS31884	1
+MGAS31887	1
+MGAS31886	1
+MGAS31889	1
+MGAS31888	1
+311_L7_D7	1
+311_L7_D6	1
+311_L7_D5	1
+311_L7_D4	1
+311_L7_D3	1
+ABC020013256	1
+311_L7_D1	1
+KIA110329-sc-2012-10-10T15:19:57Z-1497497	1
+0b765720-fcf9-11e6-942e-3c4a9275d6c8	1
+311_L7_D9	1
+311_L7_D8	1
+20170033	1
+20170032	1
+20170031	1
+20170030	1
+20170037	1
+20170036	1
+20170035	1
+20170034	1
+20170039	1
+20170038	1
+MGAS25823	1
+M89_MGAS26606	1
+M89_MGAS26607	1
+M89_MGAS26604	1
+M89_MGAS26605	1
+M89_MGAS26602	1
+M89_MGAS26600	1
+M89_MGAS26601	1
+6722ffa0-f594-11e5-bc99-3c4a9275d6c8	1
+ABC020056885	1
+ABC020056884	1
+M89_MGAS26608	1
+M89_MGAS26609	1
+65d1c780-f594-11e5-bc99-3c4a9275d6c8	1
+NGAS465	1
+MGAS23470	1
+1177	1
+1179	1
+1178	1
+20176485	1
+3262d770-9e57-11e5-b71d-3c4a9275d6c6	1
+9c0f3e30-e9e7-11e5-bc69-3c4a9275d6c6	1
+20173072	1
+20173073	1
+12839	1
+20173071	1
+20173076	1
+20173077	1
+20173074	1
+20173075	1
+M89_MGAS27268	1
+
+checklist
+!blank	17685
+ERC000011	8456
+ERC000028	19
+
+center_name
+pda|schochua	5279
+pda|sbberes	5257
+Wellcome Sanger Institute	984
+!blank	496
+Broad Institute	330
+Public Health Ontario	248
+pda|sarahteatero	146
+HMRI-DID	81
+Imperial College London	37
+pda|snora	31
+pda|arflores	29
+pda|mbobbyv1	18
+Institute for Biostatistics and Informatics in Medicine and Ageing Research Rostock University Medical Center	18
+pda|nelsayed@era commons	16
+University of Queensland	15
+University Hospital Center and University of Lausanne	11
+Institute of Medical Microbiology	8
+NCGM	5
+pda|claireyt	3
+NAGOYAC_U	3
+European Bioinformatics Institute	3
+pda|kyuhongcho	2
+pda|hsichtig	2
+Institut fÃ¼r Klinische und Molekulare Virologie, Friedrich Alexander UniversitÃ¤t und UniversitÃ¤tsklinikum Erlangen	2
+pda|arumugamlab	2
+University of Maryland, College Park	2
+MD Anderson Cancer Center	1
+HELMHOLTZ CENTER FOR INFECTION RESEARCH	1
+pda|carlcarlcarl	1
+pda|stevesal	1
+pda|beatson_lab	1
+pda|slchen@orcid	1
+pda|lkhachatryan	1
+pda|randalljamesolsen	1
+pda|youyuanhai	1
+Universidade CatÃ³lica de BrasÃ­lia	1
+pda|fordeb	1
+
+depth
+!blank	13039
+
+elevation
+!blank	13039
+
+altitude
+!blank	13039
+
+environment_biome
+!blank	13031
+clinical	6
+not provided	1
+terrestrial biome [ENVO:00000446]	1
+
+environment_feature
+!blank	13031
+streptococcal toxic shock syndrome	3
+Pharyngitis	3
+not provided	1
+trachea	1
+
+environment_material
+!blank	12546
+Brain-Heart-Infusion broth	485
+pharynx	3
+Human blood	3
+endotracheal aspirates	1
+not provided	1
+
+temperature
+!blank	13031
+
+salinity
+!blank	13031
+
+sampling_campaign
+!blank	13031
+
+sampling_site
+!blank	13031
+
+sampling_platform
+!blank	13031
+
+protocol_label
+!blank	13031
+
+project_name
+!blank	12344
+Streptococcus Pyogenes Whole Genome Sequencing	191
+Complete whole genome sequence of Streptococcus pyogenes	6
+Streptococcus pyogenes ATCC 10782	1
+complete genome sequence of emm3/ST15 invasive Streptococcus pyogenes str. KS030 isolated from a patient with streptococcal toxic shock syndrome (STSS)	1
+
+host
+Homo sapiens	11261
+human	768
+Human	241
+!blank	226
+not available: to be reported later	43
+homo sapiens	1
+Human (Child)	1
+Human Child	1
+Mouse	1
+
+host_tax_id
+9606	996
+!blank	271
+
+host_status
+!blank	232
+
+host_sex
+!blank	228
+male	2
+female	2
+
+submitted_host_sex
+!blank	228
+
+host_body_site
+!blank	227
+Nasal	1
+
+host_gravidity
+!blank	228
+
+host_phenotype
+!blank	228
+
+host_genotype
+!blank	228
+
+host_growth_conditions
+!blank	228
+
+environmental_package
+!blank	228
+
+investigation_type
+!blank	37
+
+experimental_factor
+!blank	37
+
+sample_collection
+!blank	37
+
+sequencing_method
+!blank	36
+
+target_gene
+!blank	36
+
+ph
+!blank	36
+
+broker_name
+

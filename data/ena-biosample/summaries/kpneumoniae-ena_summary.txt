@@ -1,0 +1,1898 @@
+bio_material
+!blank	15969
+
+cell_line
+!blank	15969
+
+cell_type
+!blank	15946
+Bacteria	8
+planktonic cells	6
+sessile cells	6
+biofilm-dispersed cells	3
+
+collected_by
+!blank	11216
+Houston Methodist Hospital	1953
+CDC	306
+Microbiology laboratory, John Radcliffe Hospital, Oxford	176
+Clinical Microbiology University of Virginia Health System	141
+Microbiological Diagnostic Unit Public Health Laboratory	129
+Rebekah Martin	118
+Angkor Hospital for Children - Siem Reap	93
+not available	89
+David van Duin	86
+Brigham and Women&apos;&apos;s Hospital	79
+Stephen Obaro	79
+CaPES	79
+University of Pittsburgh Medical Center	75
+Price Lab	71
+Rush University Medical Center	69
+Not Collected	66
+Columbia University Division of Infectious Diseases	62
+Maryland Department of Health and Mental Hygiene	57
+PED Study Team	55
+not collected	54
+University of Melbourne	48
+National Microbiology Laboratory (NML)	46
+Columbia University Medical Center	44
+UW clinical laboratory	40
+Norwegian National Advisory Unit on Detection of Antimicrobial Resistance	38
+UQCCR	36
+Barry Kreiswirth	33
+Centers for Disease Control and Prevention	32
+University of Michigan	31
+KCMC-KCRI	28
+National University of Singapore	27
+MDACC	24
+PRCCID	22
+Massachusetts General Hospital	22
+Ruth Hall	22
+Lancet Laboratories	21
+Stanford Healthcare Clinical Microbiology Laboratory	18
+Lloyd Einsiedel	18
+Laboratory Sciences of Arizona, LLC	18
+Cornell AHDC	16
+Dr Randall Wolcott	16
+Pasteur Institute	15
+Frickmann	15
+University of California, Irvine	14
+JHMI	12
+Jun Lu	12
+Aga Khan University	11
+BC Centre for Disease Control	10
+CA State Health Department	9
+Dr. Jesus Mingorance, Ph. D. Hospital Universitario La Paz. Madrid (Spain)	9
+Human host	8
+CA	8
+Ana Gales (ana.gales@gmail.com)	8
+Columbia University	7
+Bacterial Molecular Genetics Laboratory	6
+Chinese PLA General Hospital	6
+Arizona hospital	6
+Targu Mures	6
+Anette M. Hammerum	6
+United States Army	6
+Australian Group on Antimicrobial Resistance (AGAR)	6
+University of Pittsburgh	4
+Sharmi Naha	4
+Hygeia General Hospital	4
+Children&apos;&apos;s National Hospital	4
+Department of Bacteriology, Mohammed V Military Teaching Hospital, Research Unit, Epidemiology and Bacterial Resistance, Rabat Medical and Pharmacy School, Mohammed V University, Rabat, Morocco.	4
+Yonsei University College of Medicine	4
+IL State Health Department	4
+Meritxell Cubero	3
+Sun-Yat Sen Memorial Hospital	3
+AL State Health Department	3
+Froedtert Hospital	3
+Minnesota Department of Health	3
+Xiaoli Cao (cao-xiao-li@163.com)	3
+FFUL	3
+Mattias Larsson	3
+Sara Rimoldi (sara.rimoldi@asst-fbf-sacco.it)	2
+Tzaneio Prefecture General Hospital of Piraeus	2
+Michael Bachman	2
+Medical Professional	2
+Xiaomin Zhao	2
+OK State Health Department	2
+Carolinas HealthCare System	2
+Stanford Hospital	2
+Zhihong Yao	2
+MN State Health Department	2
+Tolmasky	2
+PA State Health Department	2
+Chinese PLA General Hospital, Medical School of Chinese PLA	2
+Remi Le Guern	2
+IN State Health Department	2
+Microbiology Service, Department of Laboratory Medicine, Clinical Center, NIH	2
+Peking University People&apos;&apos;s Hospital	2
+Clinical Microbiology Laboratory, Sahlgrenska University Hospital	2
+CT State Health Department	1
+BWH	1
+Mohammad Ali Boroumand	1
+NY State Health Department	1
+Washoe County Health District	1
+
+collection_date
+!blank	4901
+2014-01-01	1565
+2013-01-01	1181
+2015-01-01	532
+2011-01-01	413
+2012-01-01	381
+2016-01-01	363
+2010-01-01	362
+2008-01-01	316
+2017-01-01	220
+1800-01-01	192
+2009-01-01	138
+2005-01-01	114
+2007-01-01	113
+2006-01-01	91
+2018-01-01	75
+2004-01-01	52
+1900-01-01	51
+2002-01-01	47
+2012-02-01	26
+2003-01-01	22
+2014-01-20	20
+2014-10-01	20
+2008-06-01	19
+2014-06-09	19
+2014-06-01	19
+2012-08-01	19
+2014-02-01	19
+2014-03-03	18
+2011-08-07	18
+2015-10-01	18
+2014-01-27	18
+2012-10-05	17
+2014-01-06	17
+2001-01-01	17
+2014-02-03	17
+2014-01-30	17
+2012-03-01	17
+2014-08-01	16
+2013-07-01	16
+2014-01-02	16
+2014-02-05	16
+2013-05-01	16
+2012-12-01	15
+2014-11-01	15
+2012-09-01	15
+2012-10-01	15
+2016-04-20	15
+2014-05-07	15
+2016-06-07	15
+2013-10-14	13
+2014-04-01	13
+2014-03-10	13
+2017-02-27	13
+2013-08-13	13
+2013-11-01	13
+2014-01-14	13
+2014-01-23	13
+1917-01-01	13
+2013-06-01	12
+2015-09-01	12
+2014-01-16	12
+2014-09-10	12
+2013-02-01	12
+2014-12-08	12
+2017-04-11	11
+2013-10-21	11
+2017-05-08	11
+2012-01-27	11
+2013-12-01	11
+2015-04-01	11
+2014-01-11	11
+2014-09-01	11
+2013-09-23	11
+2013-10-10	10
+2013-10-16	10
+2012-05-24	10
+2014-02-17	10
+2014-03-01	10
+2014-02-24	10
+2012-02-23	10
+2016-08-01	10
+2013-10-07	9
+2015-02-01	9
+2014-07-01	9
+2013-08-07	9
+2017-02-22	9
+2013-03-01	9
+2008-08-01	9
+2017-02-13	9
+2008-07-01	9
+2011-09-01	9
+2014-02-06	9
+2017-08-01	9
+2014-08-18	9
+2016-02-01	9
+2017-04-17	8
+2017-03-01	8
+2014-08-06	8
+2015-05-01	8
+
+country
+!blank	4706
+USA: Houston	1977
+USA	966
+Israel	562
+Germany	480
+UK	416
+Italy	328
+Netherlands	309
+United Kingdom	290
+Thailand	284
+Spain	269
+USA: Ohio	268
+China: Chengdu, Sichuan	268
+Cambodia	225
+Nepal	202
+United Kingdom: Oxford	176
+Turkey	170
+Singapore	145
+USA:Virginia	141
+Greece	141
+Pakistan	137
+Serbia	132
+Australia: Victoria	130
+Ireland	123
+Romania	99
+China: Sichuan, Chengdu	95
+Cambodia: Siem Reap	93
+Viet Nam	83
+Belgium	81
+Portugal	80
+Nigeria	79
+Croatia	79
+Thailand:Bangkok	79
+Norway	74
+USA: Flagstaff:AZ	71
+France	70
+USA: Midwest	69
+Vietnam	65
+USA: New York City, NY	62
+USA:Boston	61
+Poland	61
+not provided	59
+United Kingdom (England, Wales &amp; N. Ireland)	53
+Canada	51
+Brazil	50
+Hungary	49
+Australia: Melbourne	49
+Thailand: Bangkok	48
+Australia	47
+USA: Michigan	46
+USA:New York City	45
+China: Sichuan	41
+Czech Republic	40
+Slovakia	40
+USA: WA	40
+USA: Massachusetts, Boston	38
+USA: Pennsylvania	36
+USA: North Carolina	32
+Tanzania	28
+Austria	28
+Viet Nam:Ho Chi Minh	27
+USA: Arizona	26
+USA:NJ	25
+Denmark	23
+Indonesia	22
+Laos	21
+South Africa: Durban	21
+Russia: St. Petersburg	21
+USA: Boston	20
+USA:NYC	20
+USA:NY	19
+Montenegro	19
+Luxembourg	19
+Pakistan: Islamabad	19
+USA: Palo Alto, California	18
+Myanmar:Yangon	18
+Australia: Alice Springs	18
+USA:Calif	17
+Malta	17
+USA: Lubbock, TX	16
+USA: California	15
+Estonia	15
+USA: Saint Louis, Missouri	15
+Philippines	14
+USA:PA	14
+Slovenia	13
+China	13
+USA: New York	13
+Germany: Hamburg	12
+China: Quzhou	12
+USA: Baltimore	12
+South Korea: Seoul	12
+Japan	12
+Thailand: Lamphun	11
+Spain: Madrid	11
+New Zealand	10
+Canada:BC	10
+USA: Unknown	10
+USA:IN	10
+USA: Colorado	9
+
+cultivar
+!blank	15969
+
+culture_collection
+!blank	15799
+Robert Koch Institute, Division of Nosocomial Pathogens and Antimicrobial Resistance, Wernigerod...	46
+MRSN&lt;USA&gt;:1319	4
+NCTC:9158	1
+NCTC:9504	1
+NCTC:9151	1
+NCTC:9153	1
+NCTC:9154	1
+NCTC:13687	1
+NCTC:13675	1
+NCTC:13465	1
+NCTC:13676	1
+NCTC:13671	1
+NCTC:13673	1
+NCTC:8895	1
+NCTC:13685	1
+FDA:FDAARGOS_445	1
+FDA:FDAARGOS_444	1
+FDA:FDAARGOS_447	1
+FDA:FDAARGOS_446	1
+NCTC:7427	1
+FDA:FDAARGOS_443	1
+FDA:FDAARGOS_442	1
+FDA:FDAARGOS_91	1
+NCTC:10314	1
+NCTC:10313	1
+NCTC:9128	1
+ATCC:43816	1
+NCTC:9127	1
+NCTC:9617	1
+NCTC:10262	1
+NCTC:13809	1
+NCTC:8849	1
+FDA:FDAARGOS_84	1
+NCTC:9139	1
+FDA:FDAARGOS_89	1
+NCTC:9134	1
+NCTC:9132	1
+NCTC:9601	1
+NCTC:9130	1
+NCTC:13810	1
+NCTC:13368	1
+NCTC:12463	1
+FDA:FDAARGOS_439	1
+FDA:FDAARGOS_435	1
+FDA:FDAARGOS_436	1
+ATCC:13883	1
+NCTC:5051	1
+NCTC:5050	1
+NCTC:5053	1
+NCTC:5052	1
+NCTC:5055	1
+NCTC:5056	1
+NCTC:9181	1
+NCTC:9180	1
+NCTC:7799	1
+NCTC:9184	1
+ATCC:BAA-2146	1
+NCTC:13701	1
+NCTC:13700	1
+NCTC:11679	1
+NCTC:11678	1
+NCTC:11676	1
+NCTC:11674	1
+NCTC:5046	1
+NCTC:5047	1
+NCTC:13674	1
+NCTC:9662	1
+NCTC:5048	1
+NCTC:9661	1
+NCTC:11682	1
+NCTC:11680	1
+NCTC:11684	1
+NCTC:11685	1
+NCTC:11688	1
+NCTC:13635	1
+NCTC:13672	1
+NCTC:9145	1
+NCTC:9636	1
+NCTC:8172	1
+NCTC:13684	1
+NCTC:9494	1
+NCTC:13686	1
+NCTC:9162	1
+NCTC:9166	1
+NCTC:9657	1
+NCTC:9140	1
+NCTC:13688	1
+NCTC:9498	1
+NCTC:13439	1
+NCTC:13438	1
+NCTC:11693	1
+NCTC:11357	1
+NCTC:11695	1
+NCTC:11358	1
+NCTC:11359	1
+FDA:FDAARGOS_127	1
+NCTC:13698	1
+NCTC:13691	1
+NCTC:13697	1
+
+description
+This sample has been submitted by pda|swlong on 2017-08-12; Klebsiella pneumoniae	985
+This sample has been submitted by Wellcome Sanger Institute on 2015-04-23; Klebsiella pneumoniae	467
+This sample has been submitted by pda|zivlif on 2017-11-08; Klebsiella pneumoniae	246
+This sample has been submitted by pda|zivlif on 2016-09-09; Klebsiella pneumoniae	240
+missing	239
+This sample has been submitted by Wellcome Sanger Institute on 2010-06-22; Klebsiella pneumoniae	238
+clinical isolate	183
+This sample has been submitted by pda|janepipistrelle@googlemail.com on 2015-12-25; Klebsiella pneumoniae	176
+This sample has been submitted by sc on 2015-11-09; Klebsiella pneumoniae	171
+This sample has been submitted by Translational Genomics North on 2015-02-22; Klebsiella pneumoniae	163
+This sample has been submitted by pda|kqj9 on 2017-11-08; Klebsiella pneumoniae	152
+This sample has been submitted by pda|kwongj on 2017-11-08; Klebsiella pneumoniae	129
+Klebsiella pneumoniae	123
+This sample has been submitted by pda|rrwick@gmail.com on 2016-12-07; Klebsiella pneumoniae	115
+Carbapenemase-producing Klebsiella pneumoniae isolated in Germany	105
+This sample has been submitted by sc on 2015-09-11; Klebsiella pneumoniae	103
+Klebsiella pneumoniae isolate	98
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-07; Klebsiella pneumoniae	95
+WGS of Klebsiella pneumoniae in a Cambodian neonatal unit	93
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-15; Klebsiella pneumoniae	93
+This sample has been submitted by Wellcome Sanger Institute on 2013-03-05; Klebsiella pneumoniae	90
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-03; Klebsiella pneumoniae	88
+This sample has been submitted by pda|suhamil on 2015-08-26; Klebsiella pneumoniae	84
+This sample has been submitted by pda|martensc@niaid.nih.gov on 2014-02-24; Klebsiella pneumoniae subsp. pneumoniae	84
+RNASeq: transcriptional response to antibiotic and serum exposure	83
+This sample has been submitted by pda|weixindec on 2017-01-02; Klebsiella pneumoniae	79
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-09; Klebsiella pneumoniae	70
+This sample has been submitted by pda|lprice_lab on 2015-09-02; Klebsiella pneumoniae	69
+Predicting antimicrobial susceptibilities for Escherichia coli and Klebsiella pneumoniae isolates using whole genomic sequence data	69
+Gram-negative MDR clinical isolates from Thailand	66
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-20; Klebsiella pneumoniae	65
+573	63
+This sample has been submitted by pda|nmacesic on 2018-03-25; Klebsiella pneumoniae	62
+MIC of MEPM, &gt;16 mg/L, determined by a microdilution method	58
+Klebsiella pneumoniae genomic DNA	56
+This sample has been submitted by pda|juliehaendiges on 2016-10-12; Klebsiella pneumoniae	55
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-03; Klebsiella pneumoniae	54
+This sample has been submitted by pda|tomdeman on 2016-08-11; Klebsiella pneumoniae	52
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-11; Klebsiella pneumoniae	48
+This sample has been submitted by University of Oxford on 2015-06-02; Klebsiella pneumoniae	48
+Whole-genome sequencing of KPC-producing organisms	47
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-28; Klebsiella pneumoniae	46
+This sample has been submitted by pda|lmataseje on 2017-11-08; Klebsiella pneumoniae	46
+This sample has been submitted by pda|annasheppard on 2015-12-01; Klebsiella pneumoniae	46
+This sample has been submitted by pda|mattia_palmieri on 2018-04-21; Klebsiella pneumoniae	45
+Analysis of ESBL-producing Klebsiella pneumoniae	45
+This sample has been submitted by pda|agomezsimmonds on 2018-06-05; Klebsiella pneumoniae	44
+This sample has been submitted by pda|mkrauland on 2016-05-02; Klebsiella pneumoniae	39
+ESBL-producing Enterobacteriaceae from neonates in Tanzania	38
+This sample has been submitted by sc on 2015-08-25; Klebsiella pneumoniae	38
+This sample has been submitted by Helmholtz Center for Infection Research on 2014-12-18; Klebsiella pneumoniae	37
+Patient with bloodstream infection	36
+This sample has been submitted by Wellcome Sanger Institute on 2014-06-23; Klebsiella pneumoniae subsp. pneumoniae	36
+GMI16-005 purified DNA of Klebsiella penumoniae strain	35
+GMI16-006 purified DNA of Klebsiella penumoniae strain	35
+GMI16-005 bacterial culture of Klebsiella penumoniae strain	34
+Klebsiella KPC	34
+This sample has been submitted by pda|m.w.pesesky@gmail.com on 2015-10-02; Klebsiella pneumoniae	34
+GMI16-006 bacterial culture of Klebsiella penumoniae strain	34
+This sample has been submitted by pda|stevesal on 2015-07-08; Klebsiella pneumoniae	32
+This sample has been submitted by pda|chrisgulvik on 2016-03-25; Klebsiella pneumoniae	32
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-04; Klebsiella pneumoniae	32
+This sample has been submitted by pda|mlabors on 2015-10-20; Klebsiella pneumoniae	31
+RNASeq data from samples subjected to iron limitation	29
+This sample has been submitted by pda|darwinw13 on 2016-09-02; Klebsiella pneumoniae	29
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-04; Klebsiella pneumoniae	28
+This sample has been submitted by Wellcome Sanger Institute on 2013-05-22; Klebsiella pneumoniae	28
+This sample has been submitted by pda|liberica on 2016-01-22; Klebsiella pneumoniae	27
+This sample has been submitted by pda|sshelburne on 2017-11-08; Klebsiella pneumoniae	24
+This sample has been submitted by pda|tomdeman on 2016-09-27; Klebsiella pneumoniae	24
+This sample has been submitted by pda|tomdeman on 2016-03-12; Klebsiella pneumoniae	23
+Pathogen: clinical or host-associated sample from Klebsiella pneumoniae	22
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-06; Klebsiella pneumoniae	22
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-07; Klebsiella pneumoniae	22
+This sample has been submitted by pda|yoheidoi@era commons on 2017-02-25; Klebsiella pneumoniae	21
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-08; Klebsiella pneumoniae	20
+This sample has been submitted by pda|xz060 on 2015-06-02; Klebsiella pneumoniae	20
+This sample has been submitted by Wellcome Sanger Institute on 2013-12-19; Klebsiella pneumoniae	20
+This sample has been submitted by pda|tomdeman on 2016-08-04; Klebsiella pneumoniae	19
+This sample has been submitted by pda|liberica on 2016-08-13; Klebsiella pneumoniae	19
+This sample has been submitted by sc on 2015-08-06; Klebsiella pneumoniae	19
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-12; Klebsiella pneumoniae	18
+This sample has been submitted by pda|tamburinifb on 2018-03-30; Klebsiella pneumoniae	18
+Extraction comparison for Miseq sequencing	18
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-15; Klebsiella pneumoniae	17
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-28; Klebsiella pneumoniae	16
+This sample has been submitted by CFSAN on 2018-07-25; Klebsiella pneumoniae	16
+Klebsiella pneumoniae KPC isolated in Varese (Italy)	16
+This sample has been submitted by pda|tomdeman on 2016-07-30; Klebsiella pneumoniae	15
+This sample has been submitted by pda|kelly.wyres on 2017-11-08; Klebsiella pneumoniae	15
+K. pneumoniae stool isolate	15
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-03; Klebsiella pneumoniae	15
+This sample has been submitted by pda|crueckert on 2017-11-09; Klebsiella pneumoniae	15
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-02; Klebsiella pneumoniae	14
+MIC of MEPM, 8 mg/L, determined by a microdilution method	14
+This sample has been submitted by pda|zzon6681 on 2018-04-08; Klebsiella pneumoniae	14
+Klebsiella pneumoniae isolates ST11 or ST442	13
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-02; Klebsiella pneumoniae	12
+MIC of MEPM, 16 mg/L, determined by a microdilution method	12
+This sample has been submitted by Wellcome Sanger Institute on 2014-08-12; Klebsiella pneumoniae	12
+
+dev_stage
+!blank	15969
+
+ecotype
+!blank	15969
+
+environmental_sample
+false	15937
+true	32
+
+first_public
+2017-08-12	1778
+2017-11-08	874
+2016-01-19	583
+2017-02-21	342
+2015-09-22	313
+2016-03-22	312
+2016-05-17	307
+2016-07-19	274
+2016-10-13	271
+2016-07-05	252
+2016-01-12	244
+2016-09-09	240
+2011-02-14	238
+2014-04-22	236
+2018-02-14	224
+2016-01-26	210
+2013-07-15	206
+2018-03-13	205
+2018-07-28	177
+2015-12-25	176
+2015-03-09	171
+2015-09-08	167
+2015-03-03	162
+2015-08-02	158
+2016-02-23	157
+2018-04-08	152
+2017-11-06	138
+2018-07-10	128
+2017-01-16	124
+2016-09-20	124
+2018-05-08	118
+2018-07-03	117
+2016-04-26	117
+2017-10-30	116
+2016-12-07	115
+2015-07-28	114
+2013-10-07	113
+2016-06-01	112
+2018-02-23	109
+2018-07-11	107
+2017-10-27	105
+2016-08-16	95
+2013-04-08	95
+2018-04-05	95
+2017-07-29	93
+2016-08-23	92
+2013-07-31	90
+2016-12-13	89
+2014-11-03	89
+2017-01-02	89
+2014-03-02	84
+2017-03-21	84
+2015-08-26	84
+2018-06-29	83
+2014-04-07	79
+2015-06-02	78
+2013-04-22	77
+2018-04-25	77
+2018-02-13	76
+2013-06-11	76
+2014-03-18	74
+2015-07-07	72
+2018-04-18	71
+2013-06-03	70
+2015-09-02	69
+2018-07-20	68
+2017-01-28	67
+2017-03-09	65
+2014-07-16	65
+2018-03-25	62
+2017-03-24	61
+2016-04-12	60
+2018-04-07	58
+2013-05-29	56
+2018-07-29	55
+2016-10-12	55
+2013-05-27	54
+2014-10-22	54
+2016-08-11	52
+2015-03-24	48
+2015-09-15	47
+2015-12-01	47
+2015-05-11	46
+2018-02-18	45
+2018-06-05	45
+2018-04-21	45
+2014-07-23	43
+2018-08-20	43
+2010-03-08	42
+2018-08-18	42
+2015-07-08	40
+2015-12-17	39
+2016-05-02	39
+2015-08-01	39
+2014-12-19	37
+2014-03-10	37
+2015-10-02	37
+2018-09-15	36
+2015-10-20	34
+2017-06-20	33
+
+germline
+false	15969
+
+identified_by
+!blank	15969
+
+isolate
+!blank	10803
+Klebsiella pneumoniae	365
+clonal isolate	116
+clinical isolate	18
+culture	12
+ST258	8
+clinical	8
+6	4
+24	4
+8	4
+109	3
+50	3
+KP27	3
+KP42	3
+11	3
+10	3
+15	3
+69	3
+26	3
+21	3
+7	3
+9	3
+CNR48	3
+36	3
+KP26	3
+KP25	3
+KP20	3
+KP28	3
+351	3
+KP16	3
+KP18	3
+83	3
+104	2
+101	2
+MUGSI_318	2
+MUGSI_314	2
+MUGSI_317	2
+MUGSI_316	2
+MUGSI_311	2
+MUGSI_310	2
+MUGSI_312	2
+52	2
+37	2
+34	2
+225	2
+223	2
+Hematopoietic stem cell transplant recipient	2
+Kp2	2
+Kp6	2
+KP22	2
+KP40	2
+13	2
+12	2
+14	2
+17	2
+16	2
+19	2
+201	2
+29	2
+Kp2146	2
+3	2
+MUGSI_320	2
+60	2
+66	2
+Kp1950	2
+212	2
+211	2
+4	2
+HBG-2 room 3	2
+Kp728	2
+Kp1946	2
+5	2
+Kp733	2
+Kp735	2
+25	2
+27	2
+22	2
+28	2
+Kp2005	2
+Kp1637	2
+HBG-L2	2
+HBG-2 room 4	2
+31	2
+K. pneumoniae	2
+KP34	2
+KP30	2
+KP31	2
+KP32	2
+KP33	2
+KP24	2
+KP23	2
+KP21	2
+KP29	2
+KP17	2
+KP15	2
+KP19	2
+110	2
+48	2
+49	2
+40	2
+
+isolation_source
+!blank	6527
+Urine	1050
+Blood	1022
+URINE	946
+urine	847
+blood	588
+RESPIRATORY	384
+not available	366
+swab	228
+Lower Respiratory Tract Secrection	223
+Wound Secretion	171
+not collected	169
+faeces	155
+BLOOD	148
+stool	140
+WOUND	138
+Rectal swab	123
+fecal samples	116
+respiratory	103
+rectal swab	102
+Human	97
+sterile	94
+sputum	90
+Clinical or carriage sample	87
+cultured	84
+not available: to be reported later	64
+sewage	59
+human	58
+wound	46
+intestinal	45
+Sputum	43
+TISSUE	42
+DRAIN	41
+Perirectal	41
+wound swab	37
+Facility A	36
+Puncture Fluids	35
+de-identified patient sample	34
+blood culture	34
+ABSCESS	31
+environment	30
+tracheal secretion	29
+Peri-rectal	28
+liver abscess	27
+Canal	25
+bacteremia	24
+ULCER	24
+feces	21
+miscellaneous body fluid	18
+bloodstream	18
+Other (unknown)	17
+Retail Turkey	17
+indwelling urinary catheter	16
+Retail Chicken	14
+pus	14
+respiratory tract	14
+SPUTM	14
+traqueal aspirate	13
+Stool	12
+environmental swab	12
+Blood culture	12
+FLUID	11
+Endotracheal tube	11
+hospital, patient	10
+Peritoneal dialysis catheter	10
+intestinal biopsy	10
+Rectal	10
+PUS	9
+intra-abdominal	9
+ET Tip	9
+Retail Pork	9
+Laboratory	9
+human urine	9
+Hosptial waste water	9
+throat swab	8
+wound exudate	8
+Pus	8
+BAL	8
+Tissue	8
+brain	8
+Milk from quarters (bos taurus)	8
+BLOOD CULTURE	8
+Facility B	8
+Respiratory	8
+urinary catheter	8
+hospital patients	7
+peritoneal fluid	7
+BONE	7
+Other (pus)	7
+genital tract	7
+CSF	7
+Cerebrospinal fluid	7
+rectal	7
+bile	7
+combined swab	7
+catheter	7
+bronchoalveolar lavage	7
+Facility I	7
+not provided	7
+BILE	6
+
+location
+!blank	12135
+29.71069 N 95.40059 W	1949
+51.75 N 1.26 W	176
+42.2808 N 83.743 W	149
+38.14 N 78.45 W	141
+37.81 S 144.96 E	131
+13.37 N 103.84 E	93
+41.4822 N 81.6697 W	86
+1.17 N 103.5 E	79
+40.84067 N 73.942 W	62
+27.4 N 85.19 E	55
+13.766619 N 100.52679 E	53
+37.8457 S 144.9821 E	48
+40.4397 N 79.9764 W	40
+13.7579 N 100.4858 E	35
+38.1167 N 13.3667 E	28
+3.32 S 37.327 E	28
+11.0 N 107.0 E	27
+1.2941 N 103.783 E	27
+13.766 N 100.5268 E	26
+40.44 N 79.96 W	26
+59.939095 N 30.315868 E	22
+29.83432 S 30.99865 E	21
+42.3601 N 71.0589 W	20
+37.4335 N 122.1754 W	20
+38.984653 N 77.09471 W	20
+33.4423 N 111.9617 W	18
+23.698 S 133.8807 E	18
+33.58 N 101.86 W	16
+16.7788 N 96.149 E	16
+42.3314 N 83.0458 W	14
+13.7584 N 100.4855 E	13
+53.35 N 10.04 E	12
+15.7833 S 47.8667 W	12
+39.2967 N 76.5927 W	12
+53.3397 N 6.295 W	11
+18.5745 N 99.0086 E	11
+40.7127 N 74.0059 W	10
+13.75 N 100.4833 E	10
+40.48 N 3.68 W	9
+40.0 N 74.5 W	8
+14.235004 S 51.92528 W	8
+37.498096 N 127.0761 E	8
+33.755 N 84.39 W	7
+38.03 N 23.79 E	6
+35.2093 N 111.644 W	6
+46.542 N 24.557 E	6
+13.8199 N 100.0622 E	6
+52.2167 N 21.0333 E	6
+39.0 N 22.0 E	5
+21.0 N 78.0 E	5
+41.9 N 12.4833 E	5
+13.7583 N 100.4854 E	5
+34.8194 N 135.5285 E	4
+55.666 N 12.5853 E	4
+32.0833 N 34.8 E	4
+22.53 N 88.34 E	4
+45.5 N 73.5667 W	4
+29.7107 N 95.4006 W	4
+35.86166 N 104.1954 E	3
+21.02 N 105.8 E	3
+41.3818 N 2.1685 E	3
+46.7296 N 94.6859 W	3
+1.3666667 N 103.8 E	3
+44.49361 N 11.338611 E	3
+37.57 N 126.98 E	3
+38.7222 N 9.1398 W	3
+64.0 N 26.0 E	3
+43.04 N 88.02 W	3
+53.15 N 7.55 E	3
+39.9943 N 74.1662 W	2
+33.45 N 112.0667 W	2
+39.54567 N 116.16646 E	2
+57.6823 N 11.9613 E	2
+37.93423 N 23.64575 E	2
+32.7758 N 96.7967 W	2
+40.2237 N 74.764 W	2
+45.517815 N 9.119829 E	2
+35.01988 N 135.7778 E	2
+39.54567 N 116.16645 E	2
+4.5833 N 74.0667 W	2
+38.0299 N 78.479 W	2
+59.858055 N 17.644722 E	2
+34.05 N 118.25 W	2
+41.0 N 77.5 W	2
+42.2814 N 83.7483 W	2
+3.1333 N 101.7 E	2
+39.54 N 116.23 E	2
+45.5578 N 18.7155 E	2
+50.6292 N 3.0573 E	2
+39.4592 N 77.9678 W	2
+39.54567 N 116.16647 E	2
+39.0 N 77.1 W	2
+39.2833 N 76.6167 W	2
+41.8819 N 87.6278 W	2
+30.64155 N 104.06054 E	2
+39.2969 N 75.6078 W	2
+55.72 N 12.57 E	2
+33.8683 S 151.2086 E	2
+35.1107 N 106.61 W	1
+
+mating_type
+!blank	15969
+
+serotype
+!blank	12949
+not available	2013
+Not known	105
+ST258	75
+not available: to be reported later	62
+multilocus sequence type (ST) 15	36
+multilocus sequence type (ST) 258	31
+novel Ktype	28
+15	21
+multilocus sequence type (ST) 512	21
+K14	19
+multilocus sequence type (ST) 514	18
+multilocus sequence type (ST) 101	17
+multilocus sequence type (ST) 147	13
+K2	13
+43	8
+multilocus sequence type (ST) 405	7
+14	5
+K52	5
+711	4
+ST512	4
+Capsular serotype 4	4
+NK29 (unidentified K type)	4
+ST379	4
+multilocus sequence type (ST) 395	3
+K6 [CCUG 45421, LMG 20218, MCV37]	3
+multilocus sequence type (ST) 1399	3
+NCTC 9633 [NCDC 298-53, NCDC 410-68]	3
+K. oxytoca E718	3
+K24	3
+K10	3
+1000527, 7561	3
+Capsular serotype 5	3
+Capsular serotype 3	3
+307	3
+Capsular Serotype 3	3
+pneumoniae	2
+multilocus sequence type (ST) 37	2
+untypeable (70% ID to K23)	2
+11	2
+17	2
+ST-11	2
+K28	2
+untypeable	2
+K12	2
+K17	2
+K19	2
+multilocus sequence type (ST) 48	2
+1035	2
+multilocus sequence type (ST) 340	2
+Capsular serotype 1	2
+multilocus sequence type (ST) 16	2
+158	2
+Non-K1/1K2	2
+K262N	1
+3189STDY5864878	1
+3189STDY5864876	1
+3189STDY5864877	1
+3189STDY5864874	1
+3189STDY5864875	1
+3189STDY5864872	1
+3189STDY5864873	1
+3189STDY5864870	1
+D-026-I-b-1	1
+DM11825/05	1
+AJ278	1
+K113N	1
+Serotype: 2	1
+QMP M1-559	1
+QMP M1-557	1
+D-022-I-b-1	1
+AJ170	1
+QMP M1-414	1
+QMP M1-415	1
+340	1
+QMP M1-413	1
+QMP B2-252	1
+DU4033/04	1
+71B	1
+QMP M1-418	1
+multilocus sequence type (ST) 2382	1
+DU33062/05	1
+QMP Z4-716	1
+DX259/08	1
+3189STDY5864883	1
+3189STDY5864881	1
+3189STDY5864886	1
+3189STDY5864884	1
+3189STDY5864889	1
+3189STDY5864888	1
+AJ303	1
+QMP Z4-712	1
+QMP B2-223	1
+3189STDY5864796	1
+3189STDY5864795	1
+3189STDY5864794	1
+3189STDY5864793	1
+3189STDY5864792	1
+3189STDY5864791	1
+3189STDY5864790	1
+
+serovar
+!blank	12949
+not available	2013
+Not known	105
+ST258	75
+not available: to be reported later	62
+multilocus sequence type (ST) 15	36
+multilocus sequence type (ST) 258	31
+novel Ktype	28
+15	21
+multilocus sequence type (ST) 512	21
+K14	19
+multilocus sequence type (ST) 514	18
+multilocus sequence type (ST) 101	17
+multilocus sequence type (ST) 147	13
+K2	13
+43	8
+multilocus sequence type (ST) 405	7
+14	5
+K52	5
+711	4
+ST512	4
+Capsular serotype 4	4
+NK29 (unidentified K type)	4
+ST379	4
+multilocus sequence type (ST) 395	3
+K6 [CCUG 45421, LMG 20218, MCV37]	3
+multilocus sequence type (ST) 1399	3
+NCTC 9633 [NCDC 298-53, NCDC 410-68]	3
+K. oxytoca E718	3
+K24	3
+K10	3
+1000527, 7561	3
+Capsular serotype 5	3
+Capsular serotype 3	3
+307	3
+Capsular Serotype 3	3
+pneumoniae	2
+multilocus sequence type (ST) 37	2
+untypeable (70% ID to K23)	2
+11	2
+17	2
+ST-11	2
+K28	2
+untypeable	2
+K12	2
+K17	2
+K19	2
+multilocus sequence type (ST) 48	2
+1035	2
+multilocus sequence type (ST) 340	2
+Capsular serotype 1	2
+multilocus sequence type (ST) 16	2
+158	2
+Non-K1/1K2	2
+K262N	1
+3189STDY5864878	1
+3189STDY5864876	1
+3189STDY5864877	1
+3189STDY5864874	1
+3189STDY5864875	1
+3189STDY5864872	1
+3189STDY5864873	1
+3189STDY5864870	1
+D-026-I-b-1	1
+DM11825/05	1
+AJ278	1
+K113N	1
+Serotype: 2	1
+QMP M1-559	1
+QMP M1-557	1
+D-022-I-b-1	1
+AJ170	1
+QMP M1-414	1
+QMP M1-415	1
+340	1
+QMP M1-413	1
+QMP B2-252	1
+DU4033/04	1
+71B	1
+QMP M1-418	1
+multilocus sequence type (ST) 2382	1
+DU33062/05	1
+QMP Z4-716	1
+DX259/08	1
+3189STDY5864883	1
+3189STDY5864881	1
+3189STDY5864886	1
+3189STDY5864884	1
+3189STDY5864889	1
+3189STDY5864888	1
+AJ303	1
+QMP Z4-712	1
+QMP B2-223	1
+3189STDY5864796	1
+3189STDY5864795	1
+3189STDY5864794	1
+3189STDY5864793	1
+3189STDY5864792	1
+3189STDY5864791	1
+3189STDY5864790	1
+
+sex
+!blank	15930
+male	25
+female	14
+
+submitted_sex
+!blank	15930
+male	24
+female	14
+Male	1
+
+specimen_voucher
+!blank	15969
+
+strain
+!blank	7256
+KPC	465
+clinical isolate	150
+Klebsiella pneumoniae	84
+Klebsiella pneumoniae Ecl8	75
+Ecl8	48
+ST514	44
+258	28
+Klebsiella pneuomoniae Ecl8	22
+Ec18	20
+Klebsiella pneumoniae RH201207	20
+Klebsiella pneumoniae RH201202	20
+CH1034	16
+UHKPC67	15
+DMC1097	15
+UHKPC33	15
+UHKPC18	15
+UHKPC07	14
+5001420	14
+O3	13
+ST405	9
+JE01	9
+MLST-147	8
+NJST258-1	7
+UHKPC48	7
+UHKPC05	7
+ST307	7
+KP4	6
+VAKPC297	6
+KCTC2242	5
+MRSN 1319	4
+392	3
+Ecl8 deltaramR	3
+Ecl8 deltaramA	3
+ATCC BAA-2146	3
+17	3
+307	3
+VRCO0013	2
+1591/2529	2
+RH2010207	2
+VRCO0077	2
+VRCO0079	2
+VRES0216	2
+NEW	2
+ATCC 43816 KPPR1	2
+VRES0419	2
+VRCO0117	2
+VRCO0118	2
+col9mutant_col	2
+573	2
+K26M	2
+K26	2
+08-049B	2
+KPNIH1	2
+K56	2
+VRCO0023	2
+VRCO0024	2
+VRCO0025	2
+VRCO0026	2
+KPNIH27	2
+KPNIH24	2
+1108/1989	2
+VRCO0062	2
+VRCO0048	2
+VRCO0041	2
+M414	2
+MS6671	2
+1545/2475	2
+PB12	2
+Kpn2146T	2
+Kpn2146M	2
+Kpn2146D	2
+ST35	2
+MGH78578	2
+ATCC 13883	2
+SCPM-O-B-7851	2
+1546/2500	2
+VRCO0037	2
+VRCO0035	2
+FDAARGOS_91	1
+EuSCAPE_IT005	1
+EuSCAPE_IT004	1
+EuSCAPE_IT007	1
+EuSCAPE_IT006	1
+EuSCAPE_IT001	1
+EuSCAPE_IT002	1
+HB_2044	1
+EuSCAPE_IT009	1
+DMC1316	1
+KPCTRPRTH04	1
+EuSCAPE_GR171	1
+WCHKP095845	1
+1290/2167	1
+Klebsiella pneumoniae Ecl8 Amk1_0.1_Kp	1
+CRE07	1
+270	1
+273	1
+KP09	1
+KP08	1
+276	1
+
+sub_species
+!blank	15422
+pneumoniae	528
+ozaenae	17
+rhinoscleromatis	2
+
+sub_strain
+!blank	15969
+
+tissue_lib
+!blank	15969
+
+tissue_type
+!blank	15969
+
+variety
+!blank	15969
+
+tax_id
+573	14708
+72407	861
+574	26
+1316938	20
+1263871	7
+1049565	5
+272620	4
+1267512	4
+39831	3
+1392499	3
+1276653	3
+1316582	2
+1460422	2
+1328324	2
+1087440	2
+667127	2
+1225181	2
+1328388	2
+1328373	1
+1328372	1
+1328371	1
+1328370	1
+1328377	1
+1328375	1
+1438738	1
+1438737	1
+1284804	1
+1328379	1
+1328378	1
+1438733	1
+1438732	1
+1438731	1
+1203545	1
+1284806	1
+1438808	1
+1438780	1
+1284807	1
+1438725	1
+1284787	1
+1308686	1
+1400181	1
+1400180	1
+1438739	1
+1400185	1
+1400184	1
+1438710	1
+1438762	1
+1284789	1
+1284788	1
+1304920	1
+1328401	1
+1304922	1
+1304923	1
+1304924	1
+1438736	1
+1438742	1
+1438743	1
+1438740	1
+1438741	1
+1438746	1
+1328403	1
+1438744	1
+1438745	1
+1328362	1
+1328363	1
+1328364	1
+1438729	1
+1328366	1
+1328367	1
+1328368	1
+1328369	1
+1438726	1
+1438727	1
+1284819	1
+1438722	1
+1438723	1
+1438800	1
+1438803	1
+1284797	1
+1438805	1
+1438804	1
+1438807	1
+1438806	1
+1438809	1
+1284790	1
+1328406	1
+1438714	1
+1438713	1
+1284794	1
+1284805	1
+1284796	1
+1284818	1
+1212766	1
+1284791	1
+1284792	1
+1284823	1
+1284813	1
+1284812	1
+1284811	1
+1284810	1
+
+scientific_name
+Klebsiella pneumoniae	14708
+Klebsiella pneumoniae subsp. pneumoniae	861
+Klebsiella pneumoniae subsp. ozaenae	26
+Klebsiella pneumoniae ATCC 25955	20
+Klebsiella pneumoniae ATCC BAA-2146	7
+Klebsiella pneumoniae KCTC 2242	5
+Klebsiella pneumoniae subsp. pneumoniae MGH 78578	4
+Klebsiella pneumoniae subsp. pneumoniae B5055	4
+Klebsiella pneumoniae 700603	3
+Klebsiella pneumoniae subsp. pneumoniae 1158	3
+Klebsiella pneumoniae subsp. rhinoscleromatis	3
+Klebsiella pneumoniae subsp. pneumoniae ST258	2
+Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884	2
+Klebsiella pneumoniae subsp. pneumoniae KPNIH1	2
+Klebsiella pneumoniae MGH 78578	2
+Klebsiella pneumoniae ATCC 43816	2
+Klebsiella pneumoniae subsp. pneumoniae KPNIH24	2
+Klebsiella pneumoniae subsp. pneumoniae KPNIH27	2
+Klebsiella pneumoniae subsp. pneumoniae KPNIH11	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH10	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH13	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH12	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH15	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH14	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH17	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH16	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH19	1
+Klebsiella pneumoniae subsp. pneumoniae KPNIH18	1
+Klebsiella pneumoniae UHKPC05	1
+Klebsiella pneumoniae UCI 25	1
+Klebsiella pneumoniae BIDMC 31	1
+Klebsiella pneumoniae JHCK1	1
+Klebsiella pneumoniae 500_1420	1
+Klebsiella pneumoniae BIDMC 32	1
+Klebsiella pneumoniae BIDMC 35	1
+Klebsiella pneumoniae BIDMC 34	1
+Klebsiella pneumoniae CHS 07	1
+Klebsiella pneumoniae BIDMC 36	1
+Klebsiella pneumoniae BWH 28	1
+Klebsiella pneumoniae BWH 48	1
+Klebsiella pneumoniae UCICRE 1	1
+Klebsiella pneumoniae UCICRE 2	1
+Klebsiella pneumoniae CHS 33	1
+Klebsiella pneumoniae UCICRE 4	1
+Klebsiella pneumoniae CHS 65	1
+Klebsiella pneumoniae UCICRE 6	1
+Klebsiella pneumoniae UCICRE 7	1
+Klebsiella pneumoniae UCICRE 8	1
+Klebsiella pneumoniae BWH 41	1
+Klebsiella pneumoniae IS53	1
+Klebsiella pneumoniae BWH 45	1
+Klebsiella pneumoniae BWH 46	1
+Klebsiella pneumoniae UHKPC02	1
+Klebsiella pneumoniae CHS 15	1
+Klebsiella pneumoniae CHS 28	1
+Klebsiella pneumoniae UCI 56	1
+Klebsiella pneumoniae UHKPC77	1
+Klebsiella pneumoniae UHKPC01	1
+Klebsiella pneumoniae VAKPC309	1
+Klebsiella pneumoniae subsp. pneumoniae SA1	1
+Klebsiella pneumoniae subsp. pneumoniae WGLW5	1
+Klebsiella pneumoniae CHS 37	1
+Klebsiella pneumoniae subsp. pneumoniae WGLW1	1
+Klebsiella pneumoniae VAKPC269	1
+Klebsiella pneumoniae subsp. pneumoniae WGLW3	1
+Klebsiella pneumoniae subsp. pneumoniae WGLW2	1
+Klebsiella pneumoniae CHS 74	1
+Klebsiella pneumoniae CHS 36	1
+Klebsiella pneumoniae UHKPC48	1
+Klebsiella pneumoniae CHS 70	1
+Klebsiella pneumoniae MGH 79	1
+Klebsiella pneumoniae CHS 73	1
+Klebsiella pneumoniae BIDMC 1	1
+Klebsiella pneumoniae UHKPC40	1
+Klebsiella pneumoniae UHKPC47	1
+Klebsiella pneumoniae BIDMC 7A	1
+Klebsiella pneumoniae BIDMC 5	1
+Klebsiella pneumoniae BIDMC 4	1
+Klebsiella pneumoniae MGH 70	1
+Klebsiella pneumoniae UCICRE 13	1
+Klebsiella pneumoniae MGH 72	1
+Klebsiella pneumoniae IS39	1
+Klebsiella pneumoniae MGH 74	1
+Klebsiella pneumoniae MGH 75	1
+Klebsiella pneumoniae CHS 80	1
+Klebsiella pneumoniae IS33	1
+Klebsiella pneumoniae DMC1316	1
+Klebsiella pneumoniae VAKPC280	1
+Klebsiella pneumoniae CHS 01	1
+Klebsiella pneumoniae CHS 35	1
+Klebsiella pneumoniae UCI 59	1
+Klebsiella pneumoniae UCI 17	1
+Klebsiella pneumoniae CHS 56	1
+Klebsiella pneumoniae UCI 55	1
+Klebsiella pneumoniae IS46	1
+Klebsiella pneumoniae BIDMC 18B	1
+Klebsiella pneumoniae BIDMC 18C	1
+Klebsiella pneumoniae IS43	1
+Klebsiella pneumoniae BWH 15	1
+Klebsiella pneumoniae VAKPC270	1
+
+sample_alias
+1	7
+2	6
+6	5
+3	5
+7	5
+11	5
+10	5
+15	5
+17	5
+16	5
+19	5
+18	5
+4	5
+25	5
+26	5
+27	5
+20	5
+21	5
+22	5
+28	5
+8	5
+30	5
+24	5
+23	5
+5	5
+9	5
+13	4
+12	4
+14	4
+29	4
+32	4
+31	4
+34	4
+47	4
+40	4
+238	3
+234	3
+235	3
+236	3
+237	3
+230	3
+215	3
+38	3
+101	3
+241	3
+240	3
+242	3
+39	3
+33	3
+48	3
+46	3
+44	3
+42	3
+43	3
+58	3
+55	3
+54	3
+56	3
+51	3
+50	3
+53	3
+52	3
+60	3
+64	3
+66	3
+92	2
+95	2
+97	2
+177	2
+1765	2
+258	2
+259	2
+253	2
+250	2
+251	2
+256	2
+257	2
+254	2
+255	2
+SB42	2
+150	2
+153	2
+154	2
+157	2
+156	2
+159	2
+98	2
+239	2
+231	2
+232	2
+233	2
+DHQP1402223	2
+1133	2
+1136	2
+216	2
+214	2
+212	2
+213	2
+210	2
+211	2
+
+checklist
+!blank	7678
+ERC000011	7131
+ERC000028	978
+ERC000041	138
+ERC000029	18
+ERC000014	2
+ERC000026	1
+
+center_name
+Wellcome Sanger Institute	3174
+pda|swlong	1955
+pda|zivlif	490
+pda|zzon6681	407
+J. Craig Venter Institute	374
+Oxford University Clinical Research Unit, Viet Nam	365
+pda|pratap	280
+Amphia Hospital	270
+!blank	206
+pda|suhamil	197
+pda|tomdeman	182
+pda|janepipistrelle@googlemail.com	176
+ROBERT KOCH-INSTITUTE	168
+Translational Genomics North	163
+University of Oxford	153
+pda|kqj9	152
+pda|bachmanm	149
+CGE	138
+ModMedMicOxford	134
+pda|kwongj	123
+UNIVERSITY OF LEIPZIG	116
+pda|rrwick@gmail.com	97
+Saolta	95
+pda|martensc@niaid.nih.gov	84
+pda|weixindec	79
+pda|xz060	77
+pda|apirani	69
+pda|nmacesic	62
+pda|juliehaendiges	57
+pda|annasheppard	46
+pda|lmataseje	46
+Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Germany	46
+pda|mattia_palmieri	45
+pda|agomezsimmonds	44
+pda|carolinecusick	44
+pda|stevesal	40
+pda|mkrauland	40
+pda|mlabors	38
+pda|padstock	36
+Department of Medical Microbiology, Stavanger University Hospital	32
+pda|chrisgulvik	32
+Universidade Federal da Grande Dourados	30
+pda|lprice_lab	30
+Kilimanjaro Clinical Research Institute	28
+pda|darwinw13	25
+pda|sshelburne	24
+pda|yoheidoi@era commons	24
+pda|irinalazareva	22
+pda|kelly.wyres	22
+pda|jod1439	21
+pda|tamburinifb	20
+pda|conlans	19
+Animal and Plant Health Agency	19
+European Bioinformatics Institute	19
+pda|knguyenjcvi	16
+Universita' degli Studi di Milano	15
+pda|crueckert	15
+pda|hsichtig	14
+pda|gatcbiotech	13
+PUBLIC HEALTH ENGLAND	12
+pda|jy970311	12
+pda|evamariya	11
+pda|daniel.hurley	11
+CFSAN	10
+pda|wtimp1@era	10
+pda|ken86	10
+pda|pagomez	9
+INSTITUTE FOR MOLECULAR BIOSCIENCE UQ	8
+Harvard School of Public Health	8
+pda|nvlachos	8
+pda|haejeonglee	8
+UCA	8
+UNI_NORTH_CAROLINA	7
+pda|mka2136@cumc.columbia.edu	7
+WRAIR-MRSN	6
+pda|ramarquezor	6
+Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark	6
+IM	6
+Faculty of medecine and pharmacy RABAT	5
+Sogang University	5
+pda|alexanna	4
+pda|dfouts8	4
+pda|sharminaha	4
+pda|seranjy	4
+pda|iovlevaa@pitt.edu	4
+University Hospital Muenster	4
+pda|mbobbyv1	4
+pda|minhduc	4
+pda|joh04207	3
+pda|misterb	3
+pda|jingxian_liu	3
+Hospital Universitari de Bellvitge	3
+pda|bioinformatica_ddi	3
+pda|ice1110	3
+Istituto Zooprofilattico Sperimentale della Lombardia e del Emilia Romagna (IZSLER)	3
+AOUP	3
+pda|rossolab	3
+INSTITUTO NACIONAL DE SALUD	3
+National University of Singapore	3
+Institute for Molecular Bioscience, The University of Queensland	3
+
+depth
+!blank	11173
+
+elevation
+!blank	11173
+
+altitude
+!blank	11173
+
+environment_biome
+!blank	11147
+human-associated habitat	12
+wastewater/sludge	4
+city	2
+ENVO:00009003	2
+hospital	2
+waste water	1
+not collected	1
+water	1
+terrestrial biome [ENVO:00000446]	1
+
+environment_feature
+!blank	11071
+urine	27
+not collected	20
+human urine	11
+human sputum	6
+urinary catheter	5
+human blood	4
+rectal swab	4
+perianal swab	3
+blood	3
+ascites	2
+hospital	2
+human skin	2
+ENVO:02000020	2
+sputum	2
+Pus in the pleural cavity	1
+waste water	1
+human body cavity	1
+penis	1
+bile	1
+nasal fluid	1
+bronchoalveolar lavage fluid	1
+human ascite	1
+wastewater treatment plant	1
+
+environment_material
+!blank	11118
+sewage	8
+human blood	6
+blood	3
+ENVO:02000020	2
+waste water	2
+human wound	2
+rectal swab	2
+human urine	2
+human sputum	2
+sputum	1
+pharynx	1
+not collected	1
+autopsied cardiac valve	1
+body fluid	1
+wastewater	1
+
+temperature
+!blank	11149
+37.0	4
+
+salinity
+!blank	11153
+
+sampling_campaign
+!blank	11153
+
+sampling_site
+!blank	11153
+
+sampling_platform
+!blank	11153
+
+protocol_label
+!blank	11153
+
+project_name
+!blank	10934
+Molecular epidemiology of carbapenem-resistant Enterobacteriaceae	93
+Molecular epidemiology of MBL-producing Enterobacteriaceae	67
+Carbapenem-resistant Klebsiella pneumoniae in a medical setting in Vietnam	27
+Sequence analysis of clinical isolates	7
+SNVs analysis of Crabapenem-resistant K. pneumoniae	4
+plasmid transfer	2
+SciLifeLab, Uppsala, Sweden	2
+Molecular epidemiology of mcr-1-positive Enterobacteriaceae	2
+Molecular epidemiology of carbapenem-resistant Enterobacteriaceae in Osaka, Japan	1
+Klebsiella pneumoniae	1
+Klebsiella pneumoniae rhinoscleromatis ATCC 13884	1
+
+host
+Homo sapiens	7673
+Human	2186
+human	700
+!blank	212
+not available: to be reported later	86
+Bovine	49
+homo sapiens	42
+Meleagris gallopavo	30
+Porcine	13
+not provided	12
+Equus caballus	12
+Mus musculus	10
+Swine	10
+Phocarctos hookeri	7
+environmental	5
+Bacteria	5
+Monkey	4
+Chicken	3
+Stercorarius antarcticus	2
+Sea mammal	2
+Bos taurus	2
+pig	1
+Avian	1
+free-living	1
+Megadyptes antipodes	1
+swine	1
+Human (42 Year old male)	1
+Mouse	1
+
+host_tax_id
+9606	3795
+!blank	332
+9913	51
+9103	30
+9479	4
+10088	1
+8782	1
+
+host_status
+!blank	427
+
+host_sex
+!blank	222
+male	125
+female	80
+
+submitted_host_sex
+!blank	222
+
+host_body_site
+!blank	221
+Nasal	1
+
+host_gravidity
+!blank	222
+
+host_phenotype
+!blank	222
+
+host_genotype
+!blank	222
+
+host_growth_conditions
+!blank	222
+
+environmental_package
+!blank	220
+human-associated	2
+
+investigation_type
+!blank	219
+metagenome	2
+
+experimental_factor
+!blank	221
+
+sample_collection
+!blank	219
+Sample collected from &gt;10^7 cfu.ml-1 heavily infected urine in boric acid containers for routine analysis, then cultured for DNA extraction	2
+
+sequencing_method
+!blank	218
+
+target_gene
+!blank	218
+
+ph
+!blank	218
+
+broker_name
+
