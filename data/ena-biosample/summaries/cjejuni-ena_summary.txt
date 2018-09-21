@@ -1,0 +1,1386 @@
+bio_material
+!blank	21939
+
+cell_line
+!blank	21939
+
+cell_type
+!blank	21939
+
+collected_by
+!blank	8491
+CDC	4975
+USDA-FSIS	4507
+FDA	1813
+DTU	502
+Anses	211
+Helsinki University	138
+NML@Lethbridge	120
+National Reference Center for Campylobacter	119
+NARMS	100
+Not collected	99
+WY	77
+CDPH FDLB	76
+FERA	72
+Finnish Food Safety Authority Evira	64
+TX	62
+Enteric Diseases Department, Naval Medical Research Center, Silver Spring, MD	52
+IFREMER	46
+National Institute of Health Doutor Ricardo Jorge INSA	42
+State of Alaska Public Health Laboratory	35
+University of Veterinary Medicine (Vetmeduni Vienna)	32
+Calgary Health Region	26
+Torey Looft	25
+Amanda Kreuder and Paul Plummer	21
+FoodNet Canada	19
+USDA	14
+Zuowei Wu	14
+Naval Medical Research Unit-6, Lima, Peru	13
+CReSA - IRTA	12
+Brigham and Women&apos;&apos;s Hospital	11
+Prof Tim Blackmore	10
+Sheppard Lab	10
+Chinook Health Region	10
+University of Texas at Austin	9
+Ximin Zeng	8
+CDC:WY	8
+Minnesota Department of Health	8
+TTU	7
+MT	7
+CA	7
+Patrik Ellstrom, Jonas Waldenstrom	7
+PHE	5
+French Reference Laboratory for Campylobacter	4
+ICDDR	3
+Ohio ADDL	3
+VT	3
+RI	3
+ATCC &lt; RE Mandrell	2
+CVM	2
+The Ohio Department of Agriculture, ADDL	2
+NE	2
+Xiaomin Zhao	2
+National Institute for Health and Welfare	2
+SHL	2
+Rabindra Mandal	2
+Dr Anne Midwinter	1
+Dr. Robert Mandrell	1
+Laboratoire SantÃ© Publique de QuÃ©bec/Provincial Public Health Laboratory (LSPQ)	1
+ATCC &lt; RE Mandrell, A Lastovica	1
+ATCC &lt; NCTC	1
+ATCC &lt; CIP	1
+ATCC &lt; DE Taylor &lt; E. Lee	1
+Ohio Department of Agriculture	1
+Robert E. Mandrell	1
+MN	1
+ATCC &lt; PG Martin &lt; WLL Wang	1
+GA	1
+Alberta Provincial Public Health Laboratory	1
+CO	1
+New Brunswick provincial laboratory	1
+Ontario Provincial Public Health Laboratory	1
+ATCC &lt; bioMerieux	1
+CVM, FDA	1
+WAPHL	1
+NYAG	1
+MA	1
+The Ohio Department Of Agriculture, ADDL	1
+SD	1
+
+collection_date
+!blank	9109
+2017-01-01	2314
+2018-01-01	1608
+2016-01-01	1546
+2015-01-01	831
+2014-01-01	596
+2011-01-01	450
+2003-01-01	276
+2002-01-01	210
+2017-07-01	171
+2016-07-01	161
+2017-09-01	147
+2017-06-01	145
+2017-08-01	143
+2016-06-01	132
+2016-08-01	126
+2017-10-01	117
+2009-01-01	116
+2017-05-01	114
+2010-01-01	113
+2016-09-01	111
+2016-11-01	108
+2016-10-01	100
+2016-05-01	95
+2017-11-01	94
+2017-04-01	85
+2016-12-01	81
+2018-02-01	78
+2013-01-01	76
+2017-03-01	76
+2017-12-01	76
+2008-01-01	72
+2014-11-01	70
+2017-02-01	61
+1999-01-01	57
+2016-04-01	55
+2016-02-01	51
+2004-01-01	49
+2012-01-01	48
+2016-03-01	46
+2003-04-01	45
+2006-01-01	43
+2015-04-01	40
+1996-01-01	40
+2012-05-01	39
+2015-09-01	38
+2014-07-01	33
+2015-10-01	33
+2014-10-01	32
+2015-07-01	28
+2014-08-01	28
+2015-08-01	28
+1998-01-01	28
+2007-01-01	28
+2014-06-01	28
+2015-06-01	27
+2014-12-01	27
+2014-07-25	25
+2005-01-01	24
+2015-11-01	23
+2003-07-01	23
+2015-05-01	22
+2012-04-01	22
+2015-05-19	22
+2011-06-23	22
+2014-05-01	21
+2000-01-01	19
+1900-01-01	19
+2011-06-01	18
+2003-05-01	17
+2015-03-01	16
+1997-01-01	16
+2014-09-01	16
+2007-06-01	15
+2007-07-01	15
+1905-07-01	15
+2003-02-01	15
+2011-03-01	14
+2013-04-01	14
+2013-05-01	14
+2014-03-01	13
+2007-08-01	13
+2007-10-01	12
+2014-04-01	12
+1993-01-01	12
+2013-08-01	11
+2013-07-01	11
+2010-06-23	10
+2007-11-01	10
+1980-01-01	10
+2013-03-01	10
+2009-02-13	10
+2001-01-01	10
+2012-06-01	10
+2016-01-29	10
+2011-05-01	9
+2011-04-01	9
+2015-12-01	9
+2013-06-01	9
+2010-06-17	9
+
+country
+!blank	6269
+USA	5191
+USA:CA	618
+USA:WY	596
+not collected	547
+USA:GA	525
+United Kingdom	490
+USA:TX	482
+France	440
+USA:PA	361
+Finland	330
+USA:NE	311
+USA:CO	252
+USA:WA	249
+USA:MN	241
+USA:NY	215
+USA:KS	205
+USA:WI	202
+USA:MD	194
+United Kingdom: Nottingham	188
+USA:TN	184
+USA:MO	171
+USA:OR	165
+USA:LA	161
+USA:CT	152
+USA:AL	145
+USA:MI	137
+USA:AR	127
+USA:IA	127
+Brazil	116
+USA:IL	111
+USA:NM	109
+USA:NC	102
+Spain	97
+USA:NJ	96
+USA:MS	87
+USA:OH	81
+USA:VA	72
+United Kingdom: Isle of May: Scotland	71
+USA:AZ	69
+USA:SD	67
+USA:SC	65
+Botswana	64
+USA:UT	62
+USA:ID	62
+New Zealand	60
+Italy	58
+USA: Baltimore, Maryland	52
+Portugal	52
+Poland	52
+USA:FL	51
+Romania	45
+USA:KY	42
+USA: Iowa	39
+Germany	39
+Netherlands	38
+Belgium	38
+USA:VT	38
+USA:IN	37
+Canada: Lethbridge, Alberta	35
+USA:AK	35
+USA:DE	34
+Austria	32
+Luxembourg	27
+Canada: Alberta	26
+USA: Ames, IA	25
+Canada: Calgary, Alberta	25
+Latvia	22
+USA: Ames Iowa	21
+USA:ME	20
+USA:Idaho	20
+Canada: South Nation Watershed, Ontario	18
+Canada: Waterloo, Ontario	17
+USA: California	16
+Canada: Oldman River, Alberta	15
+USA:MA	14
+Sweden	14
+USA:OK	14
+Peru	13
+USA:Boston	13
+Canada	12
+USA:WV	12
+Spain: Catalonia	12
+New Zealand: Wellington	10
+United Kingdom: Great Britain	9
+USA:RI	9
+USA: Austin, Texas	9
+USA:NH	8
+USA: Knoxville, TN	8
+USA:PR	8
+not provided	7
+USA:MT	6
+Canada: Pincher Creek, Alberta	6
+Canada: Sumas River, British Columbia	6
+Canada: Fort Macleod, Alberta	6
+Canada: Stirling, Alberta	6
+USA: Minnesota	5
+United Kingdom: South of England	5
+Canada: Ottawa	4
+France: Bordeaux	4
+
+cultivar
+!blank	21939
+
+culture_collection
+!blank	21909
+NCTC:11925	1
+NCTC:11924	1
+NCTC:13257	1
+NCTC:13255	1
+NCTC:11848	1
+NCTC:13259	1
+NCTC:12208	1
+FDA:FDAARGOS_263	1
+FDA:FDAARGOS_265	1
+NCTC:11827	1
+NCTC:13362	1
+NCTC:12851	1
+NCTC:12543	1
+NCTC:13268	1
+NCTC:13105	1
+NCTC:13263	1
+NCTC:13261	1
+NCTC:13266	1
+NCTC:13265	1
+NCTC:11951	1
+FDA:FDAARGOS_422	1
+NCTC:13357	1
+NCTC:10983	1
+NCTC:12109	1
+FDA:FDAARGOS_262	1
+NCTC:11351	1
+FDA:FDAARGOS_295	1
+FDA:FDAARGOS_421	1
+NCTC:11168	1
+FDA:FDAARGOS_264	1
+
+description
+Campylobacter jejuni	2745
+iCaMPS-4 study clinical/human isolate	648
+This sample has been submitted by pda|usda_fsis_el on 2017-11-08; Campylobacter jejuni	634
+iCaMPS-4 study chicken isolate	599
+This sample has been submitted by Wellcome Sanger Institute on 2012-06-08; Campylobacter jejuni	596
+This sample has been submitted by Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark on 2017-11-17; Campylobacter jejuni	502
+This sample has been submitted by pda|fdacvm on 2017-04-09; Campylobacter jejuni	386
+This sample has been submitted by Wellcome Sanger Institute on 2012-06-07; Campylobacter jejuni	384
+This sample has been submitted by pda|fdacvm on 2017-09-29; Campylobacter jejuni	373
+This sample has been submitted by pda|fdacvm on 2018-07-11; Campylobacter jejuni	310
+Campylobacter jejuni; Campylobacter jejuni	247
+This sample has been submitted by pda|100kgenomeproject on 2016-02-25; Campylobacter jejuni	235
+This sample has been submitted by pda|fdacvm on 2018-08-16; Campylobacter jejuni	230
+This sample has been submitted by pda|100kgenomeproject on 2016-09-04; Campylobacter jejuni	228
+This sample has been submitted by pda|a_thepault on 2016-12-23; Campylobacter jejuni	211
+This sample has been submitted by Wellcome Sanger Institute on 2012-07-30; Campylobacter jejuni	192
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-21; Campylobacter jejuni	192
+This sample has been submitted by Wellcome Sanger Institute on 2012-07-16; Campylobacter jejuni	192
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-27; Campylobacter jejuni	192
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-22; Campylobacter jejuni	192
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-15; Campylobacter jejuni	192
+This sample has been submitted by pda|steven.mutschall@gmail.com on 2017-01-28; Campylobacter jejuni	165
+This sample has been submitted by pda|a_thepault on 2018-03-30; Campylobacter jejuni	164
+Genome shotgun sequencing of Campylobacter isolate	159
+This sample has been submitted by pda|dunnsj on 2017-12-05; Campylobacter jejuni	159
+This sample has been submitted by pda|usda_fsis_el on 2018-06-26; Campylobacter jejuni	140
+This sample has been submitted by pda|wuzw on 2016-01-09; Campylobacter jejuni	112
+This sample has been submitted by pda|usda_fsis_el on 2018-01-25; Campylobacter jejuni	100
+MOST - Development Set	98
+This sample has been submitted by CFSAN on 2017-11-30; Campylobacter jejuni subsp. jejuni	98
+This sample has been submitted by Wellcome Sanger Institute on 2013-06-06; Campylobacter jejuni	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-21; Campylobacter jejuni	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-01-16; Campylobacter jejuni	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-15; Campylobacter jejuni	95
+This sample has been submitted by pda|usda_fsis_el on 2018-02-01; Campylobacter jejuni	91
+Campylobacter jejuni; Campylobacter jejuni; Campylobacter jejuni	83
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-20; Campylobacter jejuni	82
+This sample has been submitted by pda|juliehaendiges on 2017-11-08; Campylobacter jejuni	81
+This sample has been submitted by pda|usda_fsis_el on 2016-11-24; Campylobacter jejuni	81
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-09; Campylobacter jejuni	80
+This sample has been submitted by pda|usda_fsis_el on 2017-10-27; Campylobacter jejuni	80
+This sample has been submitted by pda|wamanley on 2017-10-27; Campylobacter jejuni	77
+This sample has been submitted by pda|uphl on 2017-11-08; Campylobacter jejuni	74
+This sample has been submitted by University of Glasgow on 2015-03-27; Campylobacter jejuni	74
+This sample has been submitted by pda|usda_fsis_el on 2018-01-31; Campylobacter jejuni	68
+This sample has been submitted by pda|usda_fsis_el on 2018-07-17; Campylobacter jejuni	63
+Campylobacter Isolate from Madrid, Spain	63
+This sample has been submitted by pda|usda_fsis_el on 2018-07-29; Campylobacter jejuni	62
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-30; Campylobacter jejuni	59
+This sample has been submitted by pda|usda_fsis_el on 2018-07-14; Campylobacter jejuni	55
+This sample has been submitted by pda|usda_fsis_el on 2017-12-08; Campylobacter jejuni	50
+This sample has been submitted by pda|usda_fsis_el on 2018-03-16; Campylobacter jejuni	50
+This sample has been submitted by CFSAN on 2016-09-29; Campylobacter jejuni	49
+Human Infection Isolate Population	48
+This sample has been submitted by pda|usda_fsis_el on 2017-11-09; Campylobacter jejuni	47
+This sample has been submitted by pda|100kgenomeproject on 2016-09-21; Campylobacter jejuni	46
+This sample has been submitted by pda|usda_fsis_el on 2018-09-12; Campylobacter jejuni	43
+This sample has been submitted by pda|uphl on 2017-10-27; Campylobacter jejuni	43
+This sample has been submitted by pda|usda_fsis_el on 2016-05-20; Campylobacter jejuni	43
+This sample has been submitted by pda|usda_fsis_el on 2018-02-17; Campylobacter jejuni	42
+This sample has been submitted by pda|usda_fsis_el on 2016-02-04; Campylobacter jejuni	41
+This sample has been submitted by pda|lisawingerter on 2017-11-08; Campylobacter jejuni	41
+This sample has been submitted by Wellcome Sanger Institute on 2010-05-14; Campylobacter jejuni	40
+This sample has been submitted by pda|usda_fsis_el on 2017-12-22; Campylobacter jejuni	40
+This sample has been submitted by pda|robchristensen on 2017-10-27; Campylobacter jejuni	40
+This sample has been submitted by pda|usda_fsis_el on 2017-11-30; Campylobacter jejuni	40
+GMI16-002 purified DNA of Campylobacter jejuni strain	39
+This sample has been submitted by pda|usda_fsis_el on 2017-12-14; Campylobacter jejuni	39
+This sample has been submitted by pda|uphl on 2017-01-20; Campylobacter jejuni	39
+This sample has been submitted by pda|usda_fsis_el on 2016-04-02; Campylobacter jejuni	39
+This sample has been submitted by pda|juliehaendiges on 2017-08-08; Campylobacter jejuni	38
+This sample has been submitted by pda|usda_fsis_el on 2016-09-29; Campylobacter jejuni	38
+This sample has been submitted by CFSAN on 2016-10-04; Campylobacter jejuni	38
+This sample has been submitted by pda|usda_fsis_el on 2018-05-01; Campylobacter jejuni	38
+This sample has been submitted by pda|usda_fsis_el on 2016-06-02; Campylobacter jejuni	37
+This sample has been submitted by pda|usda_fsis_el on 2018-07-31; Campylobacter jejuni	36
+This sample has been submitted by pda|usda_fsis_el on 2016-10-27; Campylobacter jejuni	36
+This sample has been submitted by pda|samwirth on 2017-07-04; Campylobacter jejuni	36
+This sample has been submitted by pda|usda_fsis_el on 2018-03-01; Campylobacter jejuni	36
+This sample has been submitted by pda|usda_fsis_el on 2017-03-17; Campylobacter jejuni	36
+This sample has been submitted by CFSAN on 2016-09-15; Campylobacter jejuni	35
+This sample has been submitted by pda|usda_fsis_el on 2018-07-01; Campylobacter jejuni	34
+This sample has been submitted by pda|usda_fsis_el on 2018-08-23; Campylobacter jejuni	34
+GMI16-002 bacterial culture of Campylobacter jejuni strain	34
+This sample has been submitted by CFSAN on 2016-09-16; Campylobacter jejuni	34
+Define gene deletion mutant in C. jejuni M1cam	34
+This sample has been submitted by pda|usda_fsis_el on 2018-05-17; Campylobacter jejuni	33
+This sample has been submitted by pda|juliehaendiges on 2017-02-07; Campylobacter jejuni	33
+This sample has been submitted by pda|uphl on 2017-08-08; Campylobacter jejuni	32
+This sample has been submitted by pda|uphl on 2016-09-22; Campylobacter jejuni	32
+This sample has been submitted by pda|usda_fsis_el on 2017-01-07; Campylobacter jejuni	31
+This sample has been submitted by pda|usda_fsis_el on 2018-07-03; Campylobacter jejuni	31
+This sample has been submitted by pda|drdiran on 2018-01-01; Campylobacter jejuni	31
+This sample has been submitted by pda|usda_fsis_el on 2016-12-12; Campylobacter jejuni	31
+This sample has been submitted by pda|usda_fsis_el on 2018-08-15; Campylobacter jejuni	31
+This sample has been submitted by pda|usda_fsis_el on 2017-03-01; Campylobacter jejuni	31
+This sample has been submitted by pda|usda_fsis_el on 2018-05-09; Campylobacter jejuni	30
+This sample has been submitted by pda|usda_fsis_el on 2018-08-02; Campylobacter jejuni	30
+This sample has been submitted by CFSAN on 2016-09-27; Campylobacter jejuni	30
+Isolate from free range chicken	30
+
+dev_stage
+!blank	21939
+
+ecotype
+!blank	21939
+
+environmental_sample
+false	21158
+true	781
+
+first_public
+2017-11-08	1028
+2012-11-19	576
+2017-01-25	512
+2018-07-05	502
+2012-12-18	458
+2017-10-27	444
+2017-09-29	433
+2016-09-26	431
+2017-04-09	386
+2018-07-11	360
+2014-09-04	355
+2017-03-17	336
+2017-11-30	303
+2018-06-26	298
+2018-08-16	296
+2018-05-29	278
+2012-07-16	256
+2012-02-07	248
+2016-02-25	247
+2016-09-04	228
+2016-12-23	221
+2017-01-31	215
+2017-01-28	193
+2013-02-04	192
+2013-01-21	192
+2012-07-02	192
+2012-11-12	191
+2013-01-16	191
+2015-04-24	189
+2016-03-11	182
+2018-03-30	180
+2014-07-09	173
+2017-12-05	169
+2017-05-27	159
+2015-02-13	148
+2017-11-09	140
+2016-10-21	140
+2018-02-01	131
+2016-01-09	127
+2018-05-27	118
+2018-05-25	111
+2017-12-16	106
+2016-11-24	101
+2018-07-17	101
+2018-01-25	100
+2011-02-14	99
+2016-07-01	98
+2012-05-28	96
+2012-11-06	96
+2013-10-07	96
+2012-06-11	96
+2017-02-21	95
+2017-03-16	95
+2016-09-29	91
+2017-07-04	90
+2017-08-08	89
+2017-11-06	89
+2012-04-17	87
+2018-03-10	86
+2016-12-12	85
+2018-08-07	82
+2016-09-22	81
+2018-07-13	77
+2018-01-31	76
+2015-03-28	74
+2017-02-01	72
+2016-06-12	72
+2016-09-21	69
+2018-07-03	68
+2015-10-10	66
+2018-04-30	64
+2018-08-18	63
+2018-07-29	62
+2018-09-15	62
+2017-07-22	60
+2016-09-16	60
+2018-07-14	58
+2018-09-19	57
+2018-03-20	56
+2018-05-17	56
+2016-08-13	56
+2018-07-31	54
+2016-09-27	54
+2017-12-02	52
+2017-12-08	52
+2018-08-23	52
+2017-02-07	51
+2017-11-03	51
+2014-11-20	51
+2018-05-15	50
+2018-03-16	50
+2016-02-04	50
+2018-05-01	49
+2018-02-17	48
+2018-08-09	48
+2017-06-12	48
+2016-08-24	48
+2017-12-14	48
+2018-07-20	47
+2016-08-04	46
+
+germline
+false	21939
+
+identified_by
+!blank	21939
+
+isolate
+!blank	18690
+chicken	65
+pet	55
+human	40
+environment	39
+Campylobacter jejuni	32
+NECK SKIN	23
+Campylobacter	20
+MEAT	19
+FAECES	17
+ruminant	13
+WATER	4
+CI_5328	2
+CI_5357	2
+2009D7492	2
+CI_5429	2
+CI_0987	2
+D6249	2
+11168H	2
+FERA_C88	1
+CFSAN052380	1
+IN_Cj_FI_079	1
+Monkey T3526 Day 10	1
+IN_Cj_FI_071	1
+IN_Cj_FI_070	1
+IN_Cj_FI_073	1
+IN_Cj_FI_072	1
+IN_Cj_FI_075	1
+IN_Cj_FI_074	1
+IN_Cj_FI_077	1
+IN_Cj_FI_076	1
+Monkey T3583 Day 3	1
+DTU2016_2371_PRJ1085_Campylobacter_jejuni_14045951	1
+Monkey T3583 Day 5	1
+IN_Cj_FI_279	1
+IN_Cj_FI_278	1
+C140319_S30_L001	1
+IN_Cj_FI_276	1
+IN_Cj_FI_275	1
+IN_Cj_FI_274	1
+IN_Cj_FI_273	1
+IN_Cj_FI_272	1
+IN_Cj_FI_271	1
+IN_Cj_FI_270	1
+BCW_4449	1
+CHR_130	1
+C16BOV1723	1
+231c	1
+231a	1
+2005777	1
+2014D-0206	1
+2014D-0200	1
+2014D-0201	1
+2014D-0202	1
+DTU2017_397_PRJ1085_Campylobacter_jejuni_S14FP02937	1
+FI15	1
+FI17	1
+HMIK4113	1
+FERA_C11	1
+DTU2016_2269_PRJ1085_Campylobacter_jejuni_14CV120	1
+171050112-P004-A-2,CFSAN047581	1
+CFSAN052548	1
+CS99242	1
+DTU2016_2279_PRJ1085_Campylobacter_jejuni_14CV445	1
+DTU2016_2233_PRJ1085_Campylobacter_Jejuni_U14_0297	1
+BRTI	1
+DTU2017_347_PRJ1085_Campylobacter_jejuni_Q9	1
+DTU2016_2307_PRJ1085_Campylobacter_jejuni_14CV498	1
+CFSAN052613	1
+ChuB::erm_21	1
+DTU2016_2239_PRJ1085_Campylobacter_Jejuni_U14_0496	1
+CGY_HR_170	1
+HMIK4607	1
+C16BOV1058	1
+CGY_HR_076	1
+07_3238	1
+FDAN342	1
+C16BOV0840	1
+CFSAN084363	1
+NYCB-10-03-5511-C	1
+HP1109	1
+CS99046	1
+2266	1
+CFSAN037035	1
+CFSAN037034	1
+CFSAN052611	1
+2445	1
+2448	1
+P179a	1
+DTU2016_2326_PRJ1085_Campylobacter_jejuni_14045919	1
+14040713-CAM_S94_L001	1
+FERA_C29	1
+Monkey T3583 Day 4	1
+C16BOV1324	1
+DTU2016_2364_PRJ1085_Campylobacter_jejuni_14075816	1
+Monkey T3583 Day 7	1
+2013D-9792	1
+2013D-9791	1
+171050112-E027-B4hh1,CFSAN047575	1
+IN_Cj_FI_277	1
+
+isolation_source
+!blank	8913
+stool	2762
+animal-cattle-steer	651
+chicken breast	630
+animal-cattle-dairy cow	586
+raw intact chicken	519
+Chicken Breast	480
+Animal-Cattle-Dairy Cow	475
+chicken carcass	422
+feces	385
+animal-cattle-heifer	343
+faeces	334
+Animal-Cattle-Steer	277
+Animal-Cattle-Heifer	253
+Feces	251
+Chicken Wings	246
+Chicken Thighs	217
+culture	210
+animal-chicken-young chicken	192
+Raw Intact Chicken	150
+comminuted chicken	145
+Chicken Legs	131
+Broilers	131
+chicken	124
+Stool	124
+animal-cattle-beef cow	122
+human unspecified	119
+not collected	118
+Chicken Carcass	111
+Animal-Cattle-Beef Cow	103
+Broiler	101
+Human	98
+Bovine Stool	94
+aborted uteroplancental unit	84
+Broiler chicken	76
+Retail Meat	72
+Comminuted Chicken	68
+broiler	64
+Madrid	63
+cattle	54
+Infected Human Feces	52
+human	48
+dog	48
+blood	48
+Chicken	47
+Grey seal pup; live wild	47
+Whole - cut in lab	46
+Human stool	45
+Cattle faeces	43
+environmental waters	41
+Bovine Small intestine	40
+calf	36
+chicken offal or meat	34
+Rectum	32
+Raw Milk	31
+Gallus gallus; Chicken pieces	27
+Canine Stool	25
+Food	24
+Oldman River Watershed	23
+Grey seal pup; dead wild	22
+carcass swab	21
+Supermarket	20
+bovine	19
+Bovine Intestine	18
+Bovine Small Intestine	18
+South Nation Watershed	18
+Blood	17
+animal-swine-market swine	17
+ground turkey	16
+not available: to be reported later	15
+Small intestine	14
+Mixed Parts	14
+Comminuted Turkey	14
+host infection	14
+Infected Aotus Feces	13
+aborted uteroplacental unit	13
+Animal-Turkey-Young Turkey	13
+Chicken faeces	12
+cloacal swab	12
+Rectal swab	12
+caecal sample	11
+NRTE (Not-Ready-to-Eat) Comminuted Poultry Exploratory Sampling - Chickens	11
+bovine feces	11
+Animal-Chicken-Young Chicken	11
+crane stool	10
+In Vitro culture of sheep bile	10
+Raw cream	10
+faeces from the last inch of the rectum	9
+Cow Feces	9
+laboratory	9
+In vitro Laboratory Growth	9
+Swab	9
+Animal-Swine-Market Swine	9
+Ground Turkey	8
+Chicken breast	8
+meat	8
+farm environment	8
+Raw Cow Milk	8
+Raw Cream	7
+dairy farm, calf barn	7
+
+location
+!blank	20892
+52.942993 N 1.18464 W	188
+46.2276 N 2.2137 E	64
+40.43 N 3.7 W	63
+61.9241 N 25.7482 E	59
+41.8719 N 12.5674 E	58
+51.9194 N 19.1451 E	52
+45.9432 N 24.9668 E	45
+51.1657 N 10.4515 E	39
+50.5039 N 4.4699 E	38
+52.1326 N 5.2913 E	38
+52.3555 N 1.1743 E	38
+40.4637 N 3.7492 E	34
+49.6934 N 112.8418 W	32
+49.8153 N 6.1296 E	27
+51.0486 N 114.0708 W	26
+42.034534 N 93.62037 W	25
+53.9332 N 116.5765 W	25
+42.025494 N 93.627594 W	21
+54.35 N 5.55 W	20
+44.9683 N 75.4738 W	18
+49.8236 N 113.1587 W	15
+43.4642 N 80.5204 W	13
+41.31 S 174.78 E	10
+39.3999 N 8.2245 E	10
+49.41 N 112.49 W	8
+59.51 N 17.38 E	7
+56.39 N 16.21 E	7
+49.7216 N 113.4 W	6
+49.0564 N 122.1804 W	6
+49.5023 N 112.5231 W	6
+37.53 N 122.17 W	6
+49.4863 N 113.9502 W	5
+43.5448 N 80.2481 W	4
+43.4643 N 80.5204 W	4
+55.6425 N 12.4754 E	4
+49.7275 N 112.6179 W	4
+49.6935 N 112.8418 W	3
+90.0 S 0.0 E	3
+46.5379 N 71.3564 W	2
+49.1579 N 121.9514 W	2
+47.0479 N 67.7399 W	2
+37.871853 N 122.25842 W	1
+33.61 N 133.53 E	1
+23.7619 N 89.647 E	1
+23.7763 N 90.3997 E	1
+50.7001 N 119.2838 W	1
+22.2685 N 90.7096 E	1
+49.4863 N 113.9503 W	1
+53.0 N 2.0 W	1
+37.89 N 122.3 W	1
+40.36 S 175.62 E	1
+
+mating_type
+!blank	21939
+
+serotype
+!blank	21488
+not known	330
+Penner heat-stable 23, 36	74
+not available: to be reported later	21
+UA	5
+50	2
+4	2
+HS4,13; HL7	1
+penner HS:23, LOS class B	1
+Penner HS:19	1
+FDA:FDAARGOS_266	1
+O2	1
+HS2; HL90	1
+HS9,37; HL UT	1
+9	1
+penner HS:55, LOS class A	1
+HS2; HL36	1
+serotype 23	1
+Pattern B	1
+Non-typeable	1
+51	1
+Penner HS:19, LOS class A	1
+Serovar penner Serovar 2	1
+O:17 (Penner)	1
+
+serovar
+!blank	21488
+not known	330
+Penner heat-stable 23, 36	74
+not available: to be reported later	21
+UA	5
+50	2
+4	2
+HS4,13; HL7	1
+penner HS:23, LOS class B	1
+Penner HS:19	1
+FDA:FDAARGOS_266	1
+O2	1
+HS2; HL90	1
+HS9,37; HL UT	1
+9	1
+penner HS:55, LOS class A	1
+HS2; HL36	1
+serotype 23	1
+Pattern B	1
+Non-typeable	1
+51	1
+Penner HS:19, LOS class A	1
+Serovar penner Serovar 2	1
+O:17 (Penner)	1
+
+sex
+!blank	21939
+
+submitted_sex
+!blank	21939
+
+specimen_voucher
+!blank	21939
+
+strain
+!blank	6782
+M1	96
+Campylobacter jejuni	63
+CG8421	50
+NCTC11168	44
+ST45	31
+NCTC 11168 = ATCC 700819	21
+Sheep Abortion Clone (SA)	21
+81116	13
+CG8433	13
+M1cam	12
+NCTC 11168	10
+PT14	9
+NCTC12661	9
+81-176	8
+F38011	6
+ST 48	5
+ST 2314	5
+ST 25	4
+ST 574	4
+RM1221	4
+ST 1712	4
+ST 2568	3
+ST 267	3
+2015D-0049	2
+2015D-0048	2
+2015D-0043	2
+2015D-0042	2
+2015D-0047	2
+2015D-0046	2
+2015D-0044	2
+2010D-8366	2
+2014D-0066	2
+2013D-9767	2
+2015D-0021	2
+2015D-0020	2
+NW	2
+BCW_6920	2
+2014D-0280	2
+2014D-0281	2
+2014D-0282	2
+2014D-0283	2
+2014D-0279	2
+ST 353	2
+2015D-0057	2
+11168 and 81176	2
+ST 45	2
+CFSAN032806	2
+2015D-0045	2
+32488	2
+ST 233	2
+2009D7492	2
+ST 573	2
+D7341	2
+2015D-0056	2
+2015D-0050	2
+2015D-0051	2
+ST 867	2
+2014D-0277	2
+2015D-0019	2
+2015D-0010	2
+ST 2030	2
+ST 775	2
+ST 1910	2
+PNUSAC002956	2
+PNUSAC001149	2
+D2600	2
+2011D-8942	2
+PNUSAC002295	1
+PNUSAC002294	1
+PNUSAC002525	1
+PNUSAC002296	1
+PNUSAC002291	1
+PNUSAC002290	1
+PNUSAC002293	1
+PNUSAC002292	1
+PNUSAC002839	1
+PNUSAC002838	1
+CVM N17C793	1
+PNUSAC002299	1
+PNUSAC002833	1
+PNUSAC002529	1
+PNUSAC002528	1
+PNUSAC001644	1
+PNUSAC002523	1
+FSIS11705807	1
+PNUSAC002522	1
+CVM N58069	1
+FSIS1501386	1
+PNUSAC002521	1
+FSIS1501385	1
+CVM N58062	1
+FSIS1501388	1
+FSIS1501389	1
+CVM N58066	1
+CVM N17C799	1
+PNUSAC003836	1
+FSIS11810105	1
+CVM N17C816	1
+PNUSAC003837	1
+
+sub_species
+!blank	21754
+jejuni	184
+doylei	1
+
+sub_strain
+!blank	21926
+mariner transposon mutant library (9,951 unique mutants) containing a chloramphenicol resistance cassette	12
+PO	1
+
+tissue_lib
+!blank	21939
+
+tissue_type
+!blank	21939
+
+variety
+!blank	21939
+
+tax_id
+197	21648
+32022	181
+192222	47
+354242	10
+1408176	6
+32021	6
+407148	4
+195099	4
+1093789	2
+1093788	2
+1211776	1
+1236539	1
+1440033	1
+1338035	1
+1440062	1
+1368609	1
+1368608	1
+1383068	1
+1408360	1
+567106	1
+1380767	1
+885274	1
+1440037	1
+885273	1
+1357994	1
+1380768	1
+1177189	1
+1368610	1
+1368611	1
+1368612	1
+1111076	1
+1440036	1
+1111074	1
+1111075	1
+1111072	1
+1111073	1
+1323653	1
+1347340	1
+1440035	1
+
+scientific_name
+Campylobacter jejuni	21648
+Campylobacter jejuni subsp. jejuni	181
+Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	47
+Campylobacter jejuni subsp. jejuni 81-176	10
+Campylobacter jejuni subsp. jejuni F38011	6
+Campylobacter jejuni subsp. doylei	6
+Campylobacter jejuni subsp. jejuni 81116	4
+Campylobacter jejuni RM1221	4
+Campylobacter jejuni subsp. jejuni D2600	2
+Campylobacter jejuni subsp. jejuni NW	2
+Campylobacter jejuni subsp. jejuni P110B	1
+Campylobacter jejuni subsp. jejuni 81-176-55-T3	1
+Campylobacter jejuni CVM 41910	1
+Campylobacter jejuni subsp. jejuni NCTC 11168-PO	1
+Campylobacter jejuni subsp. jejuni 81-176-55-T1	1
+Campylobacter jejuni CVM 41964	1
+Campylobacter jejuni subsp. jejuni xy259	1
+Campylobacter jejuni subsp. jejuni 00-2544	1
+Campylobacter jejuni CVM 41908	1
+Campylobacter jejuni CVM 41905	1
+Campylobacter jejuni 4031	1
+Campylobacter jejuni subsp. jejuni 04199	1
+Campylobacter jejuni CVM 41927	1
+Campylobacter jejuni subsp. jejuni IA3902	1
+Campylobacter jejuni subsp. jejuni NCTC 11168-BN148	1
+Campylobacter jejuni subsp. jejuni 04197	1
+Campylobacter jejuni subsp. jejuni 81-176-55-O1	1
+Campylobacter jejuni subsp. jejuni RB922	1
+Campylobacter jejuni subsp. jejuni 00-2426	1
+Campylobacter jejuni subsp. jejuni 00-2425	1
+Campylobacter jejuni subsp. jejuni JCM 2013	1
+Campylobacter jejuni subsp. jejuni H22082	1
+Campylobacter jejuni subsp. jejuni 81-176-55	1
+Campylobacter jejuni subsp. jejuni 81-176-55-O3	1
+Campylobacter jejuni CVM 41914	1
+Campylobacter jejuni subsp. jejuni 00-2538	1
+Campylobacter jejuni subsp. doylei ATCC 49349	1
+Campylobacter jejuni subsp. jejuni 6399	1
+Campylobacter jejuni 32488	1
+
+sample_alias
+1	4
+7	3
+2	3
+4	3
+TESTWGCAMPY0001870	2
+Campy	2
+6	2
+8	2
+NCTC11168	2
+3	2
+TESTWGCAMPY10002655	2
+5	2
+PNUSAC002295	1
+PNUSAC002294	1
+PNUSAC002296	1
+PNUSAC002291	1
+PNUSAC002290	1
+PNUSAC002293	1
+PNUSAC002292	1
+PNUSAC002299	1
+UKZN016-sc-2012-08-22T13:46:16Z-1472041	1
+PNUSAC002832	1
+CJ6497-sc-2011-10-11T11:03:42Z-1288705	1
+CVM N58069	1
+CJ4743-sc-2012-03-15T10:55:13Z-1380013	1
+CVM N58066	1
+FSIS11810106	1
+FSIS11810105	1
+FSIS31800695	1
+C_354-sc-2012-06-08T15:07:37Z-1434264	1
+FSIS11810109	1
+FSIS11810108	1
+PNUSAC002743	1
+PNUSAC002742	1
+PNUSAC002741	1
+PNUSAC002740	1
+CFSAN052416	1
+PNUSAC002745	1
+PNUSAC002744	1
+PNUSAC002749	1
+PNUSAC002748	1
+CJM1cam_0297	1
+Cjejuni_rpoN_04-sc-2011-05-05T13:35:32Z-1488	1
+PNUSAC005287	1
+PNUSAC001901	1
+PNUSAC000763	1
+NC39-sc-2012-06-07T15:36:24Z-1433428	1
+PNUSAC001902	1
+PNUSAC001903	1
+SS_136-sc-2012-03-20T16:00:47Z-1361352	1
+PNUSAC001905	1
+PNUSAC005218	1
+PNUSAC005219	1
+PNUSAC005214	1
+PNUSAC005215	1
+PNUSAC005216	1
+PNUSAC005217	1
+PNUSAC005210	1
+PNUSAC005211	1
+PNUSAC005213	1
+CJ6374-sc-2011-09-14T12:37:14Z-1278667	1
+CVM N58062	1
+PNUSAC000760	1
+1_S1	1
+FSIS11812617	1
+FSIS11812619	1
+5e581360-fa7b-11e5-aecb-3c4a9275d6c8	1
+SS_77-sc-2012-02-09T10:25:57Z-1354504	1
+51c5b120-fa7b-11e5-8812-3c4a9275d6c8	1
+M1E_RG2-sc-1830213	1
+FSIS11809853	1
+FSIS11809852	1
+FSIS11809850	1
+40P-3	1
+40P-1	1
+117e	1
+117c	1
+ARI4663	1
+117a	1
+ARI4662	1
+39_S37	1
+SS_190-sc-2012-03-20T16:00:45Z-1361350	1
+FSIS1701503	1
+FSIS1710689	1
+FSIS1701506	1
+FSIS1701507	1
+FSIS1701505	1
+D7332	1
+FSIS1701509	1
+ARI_1313-sc-2012-06-08T14:59:47Z-1434073	1
+Cj_IFR1152	1
+CJ4719-sc-2012-03-15T10:54:56Z-1379997	1
+CJ6725-sc-2012-01-16T09:36:34Z-1332672	1
+UCT040-sc-2012-07-16T12:01:49Z-1450255	1
+AK1117400147-5	1
+AK1117400147-4	1
+AK1117400147-6	1
+AK1117400147-1	1
+AK1117400147-3	1
+AK1117400147-2	1
+
+checklist
+!blank	17291
+ERC000011	3758
+ERC000029	502
+ERC000028	240
+ERC000041	73
+
+center_name
+Genoscreen, Campus de l'Institut Pasteur de Lille, 59000 Lille Cedex, France	676
+Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark	502
+Wellcome Sanger Institute	355
+pda|100kgenomeproject	327
+UNIVERSITY OF HELSINKI	254
+pda|dunnsj	188
+CFSAN	140
+pda|a_thepault	119
+pda|wamanley	116
+pda|wuzw	113
+pda|steven.mutschall@gmail.com	104
+LSHTM	85
+pda|robchristensen	80
+UNIVERSITY OF CAMBRDGE	76
+CGE	73
+University of Oxford	61
+pda|pjbiggs	29
+pda|benizao	24
+pda|retimme	22
+University of Helsinski	22
+pda|pplummer	21
+Food safety, animal health and environment institute BIOR	18
+pda|drdiran	17
+MASSEY UNIVERSITY	16
+pda|jaxmolecular1	16
+pda|celinaphelps	13
+pda|xz060	13
+pda|nwheeler443	11
+INSTITUTE OF FOOD RESEARCH	10
+pda|taboadae	9
+European Bioinformatics Institute	8
+NOTTINGHAM TRENT UNIVERSITY, UK	7
+pda|hsichtig	7
+pda|ychen001	6
+cit|ajohnsto	5
+University of Helsinki	5
+PHE	5
+pda|bioinformatica_ddi	4
+Translational Genomics Research Institute	4
+STATENS SERUM INSTITUT	4
+pda|clifford.clark	4
+pda|zislam	3
+UCD-100K	1
+pda|rhodoral	1
+Colorado School of Mines	1
+GenBank	1
+pda|dmgohl	1
+NIHS_BFR	1
+
+depth
+!blank	3578
+
+elevation
+!blank	3578
+
+altitude
+!blank	3578
+
+environment_biome
+!blank	3577
+village biome	1
+
+environment_feature
+!blank	3577
+intestine environment	1
+
+environment_material
+!blank	3577
+feces	1
+
+temperature
+!blank	3578
+
+salinity
+!blank	3578
+
+sampling_campaign
+!blank	3578
+
+sampling_site
+!blank	3578
+
+sampling_platform
+!blank	3578
+
+protocol_label
+!blank	3578
+
+project_name
+!blank	3576
+Campylobacter jejuni and coli associated with a large outbreak in 2016 Japan	1
+Campylobacter jejuni doylei ATCC 49349	1
+
+host
+!blank	826
+Homo sapiens	753
+Gallus gallus	624
+human	334
+Bos taurus	270
+Chicken	103
+Sheep	81
+Gallus gallus domesticus	59
+Ovis aries	25
+Macaca mulatta	20
+not available: to be reported later	15
+Primate	14
+Human	14
+Guinea pig	13
+gnotobiotic pig	12
+Grus canadensis	10
+Canis lupus	8
+Sus scrofa	6
+Goose	6
+cattle	5
+goat	5
+Canis lupus familiaris	5
+Procyon lotor	4
+sheep	4
+Chroicocephalus ridibundus	4
+American crow	4
+Bovine	3
+Turdus merula	3
+Chicken farm	3
+Eudyptes chrysolophus	3
+mule deer	2
+chicken	2
+Corvus brachyrhynchos	2
+Mustela nigripes	2
+Equus caballus	2
+Cow	2
+Anas platyrhynchos	2
+Pig	2
+Felis catus	1
+rhesus macaque	1
+Aves	1
+Avian	1
+not known	1
+Meleagris gallopavo	1
+Human (Child)	1
+Goat	1
+Rabbit	1
+Human Child	1
+equine	1
+Bird (Chicken)	1
+
+host_tax_id
+!blank	860
+9606	569
+9031	565
+8847	6
+
+host_status
+!blank	1031
+not provided	502
+
+host_sex
+!blank	1324
+male	110
+female	99
+
+submitted_host_sex
+!blank	1324
+
+host_body_site
+!blank	1324
+
+host_gravidity
+!blank	1324
+
+host_phenotype
+!blank	1324
+
+host_genotype
+!blank	1324
+
+host_growth_conditions
+!blank	1324
+
+environmental_package
+!blank	1324
+
+investigation_type
+!blank	1323
+bacteria_archaea	1
+
+experimental_factor
+!blank	1324
+
+sample_collection
+!blank	1324
+
+sequencing_method
+!blank	1323
+
+target_gene
+!blank	1322
+
+ph
+!blank	1322
+
+broker_name
+

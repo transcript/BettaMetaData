@@ -1,0 +1,2088 @@
+bio_material
+!blank	173705
+Salmonella Genetic Stock Center (SGSC), University of Calgary	8
+Chang Gung Genomic Medical Center, Chang Gung Memorial Hospital, Taiwan	1
+
+cell_line
+!blank	173714
+
+cell_type
+!blank	173710
+Bacteria	3
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	1
+
+collected_by
+!blank	41518
+CDC	39140
+PHE	34480
+FDA	23407
+USDA-FSIS	13764
+Minnesota Department of Health	1692
+FLUFL	1210
+NY	1203
+USDA-ARS	559
+VA	526
+DTU	513
+NML	491
+Ohio State Univ.	404
+ADRDL	396
+MDH	352
+not collected	332
+IZSLT	323
+NIPH-NIH	293
+Nova	290
+BC	283
+Ohio Dept. of Agriculture	272
+AB	271
+Food Microbiology Lab/FCF/University of Sao Paulo	259
+Technical University Of Denmark	243
+Addis Ababa Univ.	241
+FL	239
+ADRDL, SDSU	224
+TX	210
+UGA	204
+MDH - Minnesota Department of Health	199
+MOD1	198
+WAPHL	194
+Statens Serum Institute	187
+HI	185
+NVRI	182
+undisclosed	181
+Ohio ADDL	181
+Food Safety Laboratory, Cornell University	177
+Taiwan CDC	172
+University of Florida	167
+Institute of Food Safety &amp; Hygeine, University of Zurich	150
+CRIE	150
+Teagasc Food Research Centre, Ashtown, Dublin	140
+LSAL Maison-Alfort	139
+Okalahoma State University	134
+Epidemiological Research Center at Sinaloa, Mexico, CIES	134
+TTU	129
+NY State Dept. Health	128
+CDPH FDLB	126
+TGEN	114
+Canadian Integrated Program for Antimicrobial Resistance Surveillance	113
+ISUVDL	110
+Washington State Dept. of Health	109
+TAMU	107
+FDN	104
+FNW	99
+FAR	99
+PA Dept of Health	96
+Cornell University	96
+FNE	95
+DRLID at OSU	95
+FSW	95
+FSF	94
+FMA	93
+FSE	89
+Instituto Nacional de Salud, Peru	88
+Thakur Molecular Epidemiology Lab	85
+AZ	85
+FCC	84
+CVM	81
+SHL	80
+FDA: Shaohua Zhao	80
+OADDL - OK	80
+ICPMR	78
+MDARD	78
+Food Engineering Dept of Middle East Technical University	78
+OSU-Waite-Cusic	76
+Hawaii State Department of Health	76
+MOH	75
+New Mexico Public Health Lab	70
+Emory University, FDA CFSAN	69
+University Hospital Galway	67
+FDA/Vet-LIRN/VCLASP	66
+Emory University/FDA CFSAN	64
+University of Maryland	64
+Ohio Department of Agriculture	63
+CIDMLS, ICPMR, Westmead Hospital	62
+UCD Dublin	61
+University of Ibadan	61
+Chiang Mai Univ.	61
+UNAM- Autonomous University of Mexico	60
+PA Health Department	60
+Food Micro Lab, Kansas State University	59
+the NSW Ministry of Health and the NSW Enteric Reference Laboratory	57
+Sokoine Univ. Ag.	57
+Malbran Institute-Argentina	56
+NCSU-CVM	56
+ADRDL FSM, SDSU	54
+Immunology and Microbiology Laboratory, PUCRS	54
+National Salmonella Reference Laboratory at the Centers for Disease Control and Prevention	52
+
+collection_date
+!blank	54686
+2017-01-01	9160
+2016-01-01	6848
+2018-01-01	6794
+2015-01-01	4007
+2014-01-01	2877
+2017-10-01	2341
+2017-07-01	1995
+2012-01-01	1950
+2017-11-01	1745
+2017-05-01	1703
+2016-09-01	1597
+2016-08-01	1595
+2011-01-01	1587
+2015-09-01	1574
+2017-12-01	1518
+2017-06-01	1428
+2013-01-01	1386
+2016-07-01	1334
+2017-04-01	1322
+2010-01-01	1307
+2014-09-01	1298
+2009-01-01	1204
+2014-08-01	1158
+2017-03-01	1090
+2017-09-01	1087
+2017-08-01	1062
+2014-10-01	1056
+2014-07-01	1051
+2015-08-01	1047
+2015-07-01	1043
+2016-11-01	1033
+2016-06-01	1029
+2008-01-01	1027
+2015-10-01	1016
+2015-06-01	974
+2016-10-01	940
+2017-02-01	880
+2016-12-01	855
+2016-05-01	812
+2016-04-01	762
+2007-01-09	736
+2015-05-01	732
+2015-04-01	724
+2005-01-01	714
+2015-11-01	712
+2007-01-01	703
+2014-11-01	692
+2016-03-01	680
+2006-01-01	679
+2014-05-01	639
+2015-03-01	629
+2018-08-01	628
+2014-12-01	625
+2016-02-01	600
+2015-12-01	597
+2004-01-01	593
+2014-04-01	589
+2018-05-01	563
+2018-07-01	539
+2014-06-01	482
+2015-02-01	481
+2018-06-01	472
+2003-01-01	438
+2018-02-01	426
+2018-04-01	423
+2002-01-01	404
+2018-03-01	367
+2001-01-01	310
+2012-10-01	248
+2000-01-01	241
+2016-10-24	209
+2003-02-01	207
+1994-01-01	181
+2012-08-01	179
+2015-06-18	174
+2012-11-01	174
+2012-09-01	168
+1998-01-01	148
+2012-07-01	142
+2005-09-23	141
+1995-01-01	138
+2016-08-15	131
+2012-05-01	130
+2016-11-11	129
+1996-01-01	129
+1999-01-01	123
+2003-04-01	122
+1997-01-01	121
+2016-05-10	120
+2003-06-01	120
+2016-04-25	114
+2012-12-01	111
+2015-08-20	111
+2007-02-02	109
+2003-03-01	105
+2014-06-17	103
+2012-02-01	99
+2012-06-01	96
+2014-05-12	96
+
+country
+USA	53022
+United Kingdom: United Kingdom	24767
+!blank	17970
+USA:MN	3400
+USA:CA	3117
+USA:GA	3112
+USA:NY	2250
+USA:TX	2148
+USA:WA	2146
+United Kingdom: North of England	2086
+United Kingdom: Midlands and East of England	1966
+United Kingdom: South of England	1939
+USA:NC	1873
+USA:IN	1795
+United Kingdom: None	1759
+USA:MD	1559
+United Kingdom: London	1546
+USA:VA	1527
+Mexico	1412
+Canada	1318
+USA:FL	1201
+USA:PA	1173
+USA:OH	1116
+Ireland	1087
+Denmark	1057
+India	1028
+USA:NM	1007
+Australia	952
+Brazil	934
+USA:IA	931
+not collected	895
+USA:TN	885
+Italy	875
+USA:IL	874
+USA:OR	824
+USA:Bloomington, IN	685
+USA:CO	661
+USA:NE	659
+USA:SD	653
+USA:SC	651
+USA:WI	648
+USA:AR	643
+USA:AZ	637
+USA:MI	586
+Viet Nam	578
+USA:MO	561
+USA:AL	552
+Poland	536
+USA:CT	519
+USA:WY	503
+Germany	453
+Indonesia	450
+USA:KY	446
+USA:MS	437
+USA: VA	433
+USA:NJ	412
+China	389
+Ethiopia:Central Eth.	385
+Taiwan	356
+USA:OK	355
+United Kingdom: Wales	341
+USA:DE	328
+Malawi	316
+USA:KS	306
+United Kingdom: Scotland	304
+USA: California	280
+Nigeria	275
+Thailand	266
+USA:UT	265
+USA:HI	256
+Peru	244
+United Kingdom	238
+USA:ID	223
+Cambodia	220
+Vietnam	209
+Japan	205
+South Africa	193
+USA: PA	191
+USA:MA	183
+Canada: Quebec	182
+Bangladesh	180
+Mexico:Sinaloa	177
+USA: GA	177
+Fiji	174
+Turkey	167
+Switzerland	165
+Singapore	161
+Russia	157
+USA:ME	154
+USA:LA	154
+Laos	138
+Sweden	137
+New Zealand	133
+France	131
+Canada: Ontario	127
+USA:RI	122
+Democratic Republic of the Congo	120
+Samoa	117
+Pakistan	115
+USA: MD	109
+
+cultivar
+!blank	173714
+
+culture_collection
+!blank	173370
+ATCC:BAA-664	9
+ATCC:14028s	5
+SGSC:2207	2
+SGSC:2485	2
+ATCC:13076	2
+SGSC:2251	2
+Robert Koch Institute, Wernigerode, Germany	2
+SGSC:2208	2
+SGSC:2190	2
+SGSC:2211	2
+SGSC:2213	2
+SGSC:2184	2
+ATCC:BAA-1045	2
+SGSC:2185	2
+SGSC:2187	2
+NCTC:6245	1
+NCTC:13175	1
+NCTC:13172	1
+SGSC:2245	1
+NCTC:5800	1
+NCTC:5801	1
+NCTC:7101	1
+NCTC:10310	1
+ATCC:19585	1
+NCTC:6802	1
+ATCC:19613	1
+FDA:FDAARGOS_318	1
+not collected	1
+NCTC:7102	1
+SGSC:2508	1
+SGSC:2462	1
+SGSC:2193	1
+NCTC:13349	1
+NCTC:13348	1
+NCTC:6480	1
+ATCC:7378	1
+NCTC:10381	1
+NCTC:13347	1
+NCTC:13346	1
+NCTC:9868	1
+ATCC:1070	1
+NCTC:5713	1
+ATCC:11997	1
+NCTC:5716	1
+NCTC:5717	1
+ATCC:700136	1
+NCTC:8497	1
+NCTC:12116	1
+NCTC:12694	1
+ATCC:9607	1
+SGSC:2192	1
+ATCC:AA-707	1
+SGSC:2206	1
+ATCC:10708	1
+SGSC:2480	1
+SGSC:2483	1
+SGSC:2482	1
+NCTC:7349	1
+NCTC:9884	1
+SGSC:2242	1
+SGSC:2241	1
+NCTC:7836	1
+SGSC:2247	1
+FDA:FDAARGOS_314	1
+ATCC:BAA-1585	1
+NCTC:779	1
+FDA:FDAARGOS_319	1
+SGSC:2203	1
+SGSC:2502	1
+ATCC:9120	1
+ATCC:19611	1
+NCTC:9322	1
+SGSC:2474	1
+SGSC:2244	1
+SGSC:2470	1
+NCTC:6086	1
+ATCC:19588	1
+SGSC:2200	1
+ATCC:19612	1
+SGSC:2479	1
+NCTC:7388	1
+NCTC:8392	1
+NCTC:5722	1
+NCTC:7308	1
+NCTC:7307	1
+NCTC:7306	1
+NCTC:7304	1
+NCTC:7303	1
+NCTC:7302	1
+NCTC:7300	1
+NCTC:9684	1
+NCTC:4840	1
+ATCC:10398	1
+NCTC:9930	1
+FDA:FDAARGOS_70	1
+ATCC:BAA-1594	1
+SGSC:2493	1
+SGSC:2238	1
+NCTC:7411	1
+
+description
+Salmonella enterica	22380
+Pathogen sample from Salmonella enterica	2540
+This sample has been submitted by pda|usda_fsis_el on 2017-11-08; Salmonella enterica	1868
+This sample has been submitted by pda|retimme on 2015-06-02; Salmonella enterica	1509
+This sample has been submitted by pda|retimme on 2015-02-12; Salmonella enterica subsp. enterica	1059
+This sample has been submitted by CFSAN on 2017-11-08; Salmonella enterica	1057
+Missing	1006
+This sample has been submitted by pda|100kgenomeproject on 2016-02-25; Salmonella enterica	641
+This sample has been submitted by pda|retimme on 2015-02-11; Salmonella enterica subsp. enterica	611
+This sample has been submitted by pda|fdacvm on 2016-06-15; Salmonella enterica	529
+This sample has been submitted by pda|txdshs on 2017-11-08; Salmonella enterica	514
+This sample has been submitted by pda|fdacvm on 2016-03-26; Salmonella enterica	451
+This sample has been submitted by pda|mdhmolepi on 2017-11-08; Salmonella enterica	430
+This sample has been submitted by pda|fdacvm on 2017-12-07; Salmonella enterica	421
+Salmonella Typhimurium and monophasic variants	366
+This sample has been submitted by pda|jaxmolecular1 on 2017-11-08; Salmonella enterica	356
+This sample has been submitted by pda|usda_fsis_el on 2017-10-27; Salmonella enterica	338
+Engage project	337
+This sample has been submitted by IZSLT (Istituto Zooprofilattico Sperimentale del Lazio e la Toscana) on 2017-12-01; Salmonella enterica	321
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-02; Salmonella enterica subsp. enterica serovar Typhimurium	320
+This sample has been submitted by null on 2015-09-16; Salmonella enterica	308
+This sample has been submitted by pda|samwirth on 2017-11-08; Salmonella enterica	306
+This sample has been submitted by pda|agoncalves on 2017-06-24; Salmonella enterica	301
+This sample has been submitted by CFSAN on 2017-04-26; Salmonella enterica	292
+DT104	291
+ENGAGE-project Salmonella strains from BfR	287
+Salmonella Enteritidis Sample	279
+This sample has been submitted by pda|they on 2017-11-08; Salmonella enterica	278
+This sample has been submitted by pda|fdacvm on 2016-07-21; Salmonella enterica	272
+This sample has been submitted by National Institute of Public Health - National Institute of Hygiene on 2017-12-02; Salmonella enterica	267
+This sample has been submitted by pda|carypirone1 on 2015-06-02; Salmonella enterica	266
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-02; Salmonella enterica subsp. enterica serovar Typhi	262
+This sample has been submitted by pda|retimme on 2014-06-04; Salmonella enterica subsp. enterica	262
+This sample has been submitted by pda|usda_fsis_el on 2017-11-30; Salmonella enterica	258
+This sample has been submitted by pda|usda_fsis_el on 2018-06-26; Salmonella enterica	256
+This sample has been submitted by pda|stevedietrich on 2017-11-08; Salmonella enterica	253
+This sample has been submitted by CFSAN on 2015-02-11; Salmonella enterica subsp. enterica	244
+This sample has been submitted by pda|retimme on 2014-06-27; Salmonella enterica subsp. enterica	238
+This sample has been submitted by CFSAN on 2015-06-02; Salmonella enterica	234
+This sample has been submitted by pda|txdshs on 2017-10-27; Salmonella enterica	234
+This sample has been submitted by pda|fdacvm on 2018-08-08; Salmonella enterica	224
+This sample has been submitted by pda|waphl on 2017-11-08; Salmonella enterica	224
+This sample has been submitted by pda|dc08507 on 2017-11-08; Salmonella enterica	222
+This sample has been submitted by pda|barbara.kozyreva@gmail.com on 2018-03-19; Salmonella enterica	221
+This sample has been submitted by pda|wgs_ga on 2017-11-08; Salmonella enterica	220
+S. Enteritidis	218
+This sample has been submitted by Wellcome Sanger Institute on 2014-09-30; Salmonella enterica subsp. enterica serovar Typhimurium	215
+This sample has been submitted by Wellcome Sanger Institute on 2013-11-25; Salmonella enterica subsp. enterica serovar Typhi	212
+This sample has been submitted by CFSAN on 2017-03-16; Salmonella enterica	206
+This sample has been submitted by pda|retimme on 2014-07-28; Salmonella enterica subsp. enterica	202
+This sample has been submitted by pda|cddseq on 2017-11-08; Salmonella enterica	199
+This sample has been submitted by CFSAN on 2017-11-30; Salmonella enterica	198
+This sample has been submitted by pda|asedlacek on 2017-11-08; Salmonella enterica	194
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-02; Salmonella enterica subsp. enterica serovar Typhimurium	192
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-08; Salmonella enterica	191
+This sample has been submitted by pda|lwillia713 on 2015-12-02; Salmonella enterica	191
+This sample has been submitted by CFSAN on 2016-07-22; Salmonella enterica	190
+This sample has been submitted by pda|txdshs on 2017-11-30; Salmonella enterica	189
+This sample has been submitted by pda|retimme on 2015-11-03; Salmonella enterica	188
+This sample has been submitted by pda|usda_fsis_el on 2018-01-25; Salmonella enterica	188
+This sample has been submitted by pda|retimme on 2015-04-25; Salmonella enterica	186
+This sample has been submitted by pda|usda_fsis_el on 2017-11-09; Salmonella enterica	185
+This sample has been submitted by CFSAN on 2017-09-29; Salmonella enterica	185
+This sample has been submitted by pda|carypirone1 on 2016-11-02; Salmonella enterica	183
+This sample has been submitted by NVRI on 2017-12-18; Salmonella enterica	182
+This sample has been submitted by pda|retimme on 2015-10-02; Salmonella enterica	181
+Pathogen sample from Salmonella enterica subsp. Enterica serovar Enteritidis	181
+This sample has been submitted by Wellcome Sanger Institute on 2014-08-20; Salmonella enterica	180
+WGS of Salmonella enterica serovar Enteriditis	178
+This sample has been submitted by pda|glen_mcgillivary on 2017-11-08; Salmonella enterica	175
+This sample has been submitted by pda|jade_mowery on 2017-11-08; Salmonella enterica	174
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-23; Salmonella enterica subsp. enterica serovar Typhi	173
+This sample has been submitted by pda|retimme on 2015-06-20; Salmonella enterica	171
+This sample has been submitted by CFSAN on 2017-10-27; Salmonella enterica	171
+This sample has been submitted by pda|retimme on 2015-10-02; Salmonella enterica subsp. enterica	169
+Salmonella enterica subsp. enterica serovar Typhimurium	167
+This sample has been submitted by pda|ariannassiri on 2017-11-08; Salmonella enterica	164
+This sample has been submitted by CFSAN on 2018-06-26; Salmonella enterica	162
+This sample has been submitted by pda|eija_trees on 2015-06-02; Salmonella enterica	161
+This sample has been submitted by pda|mdhmolepi on 2017-10-27; Salmonella enterica	161
+This sample has been submitted by pda|jaxmolecular1 on 2017-10-27; Salmonella enterica	153
+This sample has been submitted by pda|crie on 2018-08-09; Salmonella enterica	150
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-30; Salmonella enterica subsp. enterica serovar Typhi	150
+This sample has been submitted by Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark on 2017-12-12; Salmonella enterica	149
+monophasic Salmonella Typhimurium from food and animals	148
+This sample has been submitted by Wellcome Sanger Institute on 2012-07-27; Salmonella enterica subsp. enterica serovar Typhimurium	148
+This sample has been submitted by pda|usda_fsis_el on 2017-12-01; Salmonella enterica	148
+This sample has been submitted by pda|usda_fsis_el on 2018-09-06; Salmonella enterica	147
+Epidemic period isolate selected to cover observed phenotypic AMR profiles, from the Scottish Salmonella Shigella and Clostridium difficile Reference Laboratory	147
+This sample has been submitted by CFSAN on 2018-08-02; Salmonella enterica	142
+Genomic sequences of Salmonella enterica subsp. enterica serovar Paratyphi A strains	142
+This sample has been submitted by pda|usda_fsis_el on 2018-03-10; Salmonella enterica	137
+This sample has been submitted by pda|eleonoratassinari on 2018-04-06; Salmonella enterica subsp. enterica	137
+This sample has been submitted by pda|y_sevellec on 2018-02-03; Salmonella enterica subsp. enterica serovar Derby	137
+Pathogen bacterial, environmental sample from Salmonella enterica	137
+This sample has been submitted by pda|they on 2017-10-27; Salmonella enterica	136
+This sample has been submitted by pda|usda_fsis_el on 2018-08-21; Salmonella enterica	133
+This sample has been submitted by pda|retimme on 2014-06-30; Salmonella enterica subsp. enterica	132
+This sample has been submitted by null on 2015-08-24; Salmonella enterica subsp. enterica	132
+This sample has been submitted by CFSAN on 2016-12-23; Salmonella enterica subsp. enterica serovar Enteritidis	132
+
+dev_stage
+!blank	173714
+
+ecotype
+!blank	173714
+
+environmental_sample
+false	171974
+true	1740
+
+first_public
+2017-11-08	12316
+2015-06-02	9956
+2018-06-26	4706
+2017-10-27	4514
+2015-02-12	3015
+2017-11-30	2504
+2017-09-29	2033
+2018-03-28	1472
+2017-01-24	1408
+2015-12-25	1300
+2017-11-09	1295
+2018-03-23	1088
+2018-03-31	1058
+2017-02-02	1046
+2017-01-31	1037
+2018-09-18	936
+2018-01-27	850
+2018-07-10	813
+2016-02-25	799
+2018-09-08	788
+2016-06-15	751
+2018-07-11	721
+2011-02-14	693
+2016-04-03	689
+2017-12-07	660
+2016-03-25	658
+2018-05-17	650
+2017-08-02	633
+2018-06-28	628
+2018-07-02	600
+2018-05-15	599
+2018-03-30	594
+2018-06-14	587
+2017-03-21	583
+2014-01-17	574
+2017-07-26	572
+2014-07-01	571
+2016-11-01	557
+2016-12-15	546
+2016-12-20	531
+2014-12-16	524
+2018-07-31	523
+2016-03-26	516
+2018-08-07	512
+2017-12-14	509
+2018-07-24	506
+2017-04-26	495
+2018-07-19	493
+2018-06-29	492
+2017-07-04	483
+2014-01-20	481
+2018-06-13	479
+2018-06-07	458
+2017-08-10	455
+2015-10-02	455
+2018-07-13	452
+2018-08-10	452
+2018-08-02	451
+2018-06-12	448
+2018-09-15	444
+2018-07-18	430
+2018-07-17	424
+2018-05-31	422
+2017-12-02	420
+2018-08-28	417
+2017-01-11	412
+2015-03-16	412
+2016-11-29	411
+2017-10-31	408
+2017-07-28	406
+2014-04-29	404
+2018-03-01	400
+2016-11-24	399
+2018-04-02	398
+2015-10-07	393
+2018-01-19	388
+2018-08-08	386
+2018-01-31	385
+2018-06-30	382
+2016-07-21	381
+2018-05-30	379
+2015-09-16	374
+2018-04-26	372
+2015-02-13	371
+2018-07-27	370
+2016-09-27	370
+2016-11-10	368
+2018-09-13	368
+2013-10-14	363
+2017-07-13	363
+2018-01-20	361
+2018-08-23	359
+2018-05-01	355
+2018-04-03	355
+2014-06-05	352
+2018-05-26	351
+2018-07-14	351
+2018-07-06	350
+2017-11-07	350
+2017-12-05	349
+
+germline
+false	173714
+
+identified_by
+!blank	173714
+
+isolate
+!blank	102696
+Salmonella enterica	458
+Salmonella enterica subsp. enterica serovar Derby	150
+Salmonella enterica subsp. enterica serovar Napoli	141
+Salmonella enterica subsp. Enterica 4,[5],12:i:-	78
+DTU2016_2013_PRJ1084_Salmonella_Infantis_F14_802_1_R1.fastq.gz	44
+LT2	30
+Salmonella enterica subsp. enterica serovar Enteritidis	30
+DTU2016_2014_PRJ1084_Salmonella_Infantis_F14_1627_1_R1.fastq.gz	28
+DTU2016_2015_PRJ1084_Salmonella_Infantis_F15_1181_1_R1.fastq.gz	22
+Salmonella enterica subsp. enterica serovar Stanleyville	21
+Pathogen.cl	16
+SH field strain 2014	15
+SH field strain 1992	15
+Salmonella enterica subsp. Enterica serovar Typhimurium inconsistent variant	10
+Salmonella	9
+Salmonella enterica subsp. enterica serovar Kentucky	9
+45157	8
+14028	8
+R1-0007	6
+R1-0006	6
+Ministry of food and drug safety	6
+SL476	6
+12B06394-1	4
+Salmonella enterica subsp. houtenae	4
+Salmonella Enteritidis	3
+4	3
+8	3
+3	3
+391	2
+Stool	2
+CFSAN000576	2
+DW01	2
+S9	2
+CFSAN000164	2
+NCF1D7-7	2
+7	2
+NCF3D7-6	2
+CFSAN000581	2
+CFSAN001596	2
+NCF1D0-L4	2
+CSE76F	2
+CFSAN000535	2
+37832	2
+9	2
+1	2
+CFSAN000615	2
+CFSAN000614	2
+0813_11	2
+SD 595	2
+65	2
+CFSAN000552	2
+CFSAN000553	2
+CFSAN000550	2
+CFSAN000554	2
+CFSAN000537	2
+CFSAN001416	2
+From layer chicken	2
+CFSAN000648	2
+CFSAN000565	2
+62624	2
+CFSAN000444	2
+CFSAN000445	2
+CFSAN000447	2
+CFSAN000441	2
+CFSAN000442	2
+CFSAN000443	2
+CFSAN000564	2
+130302	2
+NCF1D0-A13	2
+20157827	2
+6	2
+NCF3D7-19	2
+CFSAN000643	2
+Senftenberg	2
+CFSAN000538	2
+CFSAN000539	2
+CFSAN000532	2
+32465	2
+IV 50:z4,z23:-	2
+CFSAN000622	2
+CFSAN000623	2
+Salmonella enterica subsp. enterica serovar Bredeney	2
+14	2
+16	2
+Avian	2
+24	2
+27	2
+CFSAN000545	2
+CFSAN000544	2
+CFSAN000547	2
+CFSAN000546	2
+CFSAN000541	2
+CFSAN000540	2
+CFSAN000542	2
+CFSAN000549	2
+38	2
+31	2
+34	2
+SD 137	2
+
+isolation_source
+!blank	54771
+human	19836
+Human	15517
+stool	10210
+Stool	5590
+raw intact chicken	2373
+Chicken Breast	1720
+Not known	1640
+Ground Turkey	1446
+comminuted chicken	1412
+blood	1355
+feces	1283
+chicken	1082
+urine	1081
+water	1076
+chicken carcass	967
+ground turkey	960
+food	912
+Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork	863
+Food	858
+environmental swab	797
+animal-swine-market swine	796
+Blood	789
+comminuted beef	755
+culture	697
+lab evolved	685
+chicken breast	670
+Water	556
+Feces	550
+Animal-Swine-Sow	538
+animal-chicken-young chicken	530
+Raw Intact Chicken	509
+Comminuted Turkey	506
+Ground Component Turkey	506
+river water	497
+environmental	485
+Animal-Swine-Market Swine	483
+Urine	441
+Agricultural	427
+sediment	427
+Comminuted Chicken	413
+not known	398
+Product-Raw-Intact-Pork	396
+animal-cattle-dairy cow	386
+Animal	371
+Chicken	366
+pond water	339
+Animal-Cattle-Dairy Cow	327
+swab	324
+Ground Component Chicken	319
+Environmental sponge	291
+animal	271
+animal-swine-sow	268
+clinical	263
+Bovine (feces)	261
+Kratom	260
+faeces	259
+product-raw-intact-beef	256
+Animal-Chicken-Young Chicken	255
+papaya	238
+Stool/Fecal	234
+STOOL	221
+Soil	217
+Poultry	215
+Ground Chicken	214
+Cucumbers	207
+Feaces	202
+soil	201
+Ground Beef	198
+Chicken Carcass	195
+creek water	192
+Comminuted Beef	182
+beef	179
+Other	177
+product-eggs-raw-whole	174
+Sewage	167
+Animal-Turkey-Young Turkey	155
+Faeces	155
+animal-cattle-steer	153
+Pork Chop	152
+biological fluid or tissue	147
+Enviromental	145
+fecal	138
+clinical sample	137
+Not Known	136
+Peanut Butter	136
+drag swab	135
+Bovine Feces	131
+Pig stool	128
+Environmental	127
+Pond Water	124
+Finished Ground Turkey	123
+suwanee river water	123
+Hogs	120
+Environmental (Pond)	119
+not available: to be reported later	117
+Environmental Swab	117
+Porcine Tissue	114
+Animal-Cattle-Steer	113
+WATER	112
+
+location
+!blank	170959
+56.13 N 106.34 W	575
+52.2597 N 21.0122 E	292
+41.8061 N 12.5786 E	244
+51.919437 N 19.145136 E	183
+56.2639 N 9.5018 E	145
+1.3521 N 103.8198 E	121
+55.67025 N 10.333328 E	91
+0.0 N 0.0 E	83
+33.51 N 130.5 E	66
+56.26392 N 9.501785 E	63
+33.86 S 151.2094 E	62
+48.0083 N 1.2387 W	61
+30.63 N 96.33 W	47
+95.018 E	41
+46.72 N 94.68 W	39
+50.2639 N 9.5018 E	32
+9.081999 N 8.675277 E	27
+51.1657 N 10.4515 E	27
+52.3791 N 4.8994 E	26
+53.2734 N 7.7783 W	20
+51.9194 N 19.1451 E	20
+47.1094 N 1.1124 W	19
+49.8738 N 6.0758 E	18
+42.39 N 21.1 E	17
+29.31 N 47.48 E	17
+42.34 N 75.18 W	16
+33.578014 N 117.24606 W	16
+47.1625 N 19.5033 E	15
+51.16569 N 10.451526 E	13
+44.7253 N 0.1401 W	12
+42.39338 N 13.424913 E	12
+45.6716 N 3.5211 E	11
+45.9432 N 24.9668 E	11
+47.0 N 8.0 E	9
+50.5039 N 4.4699 E	9
+45.6486 N 5.2817 E	9
+35.1264 N 33.4299 E	9
+40.4637 N 3.7492 E	9
+47.5 N 120.5 W	9
+43.4968 N 4.3176 E	8
+42.3482 N 75.189 W	6
+50.4156 N 104.588 W	6
+52.1333 N 106.6833 W	6
+45.8206 N 8.82506 E	6
+36.86591 N 127.55282 E	6
+61.9241 N 25.7482 E	5
+46.4719 N 0.7745 E	5
+55.6425 N 12.4754 E	5
+45.85657 N 9.39767 E	5
+45.5845 N 9.27445 E	4
+45.4642 N 9.18998 E	4
+33.95 N 83.38 W	4
+45.05262 N 9.69298 E	4
+49.193233 N 16.60001 E	4
+49.8175 N 15.473 E	4
+52.1326 N 5.2913 E	4
+39.0 N 101.0 W	4
+39.8681 N 75.754036 W	4
+45.80806 N 9.08518 E	4
+32.79 N 102.54 E	4
+43.889435 N 8.03986 E	3
+49.6 N 11.01 E	3
+41.8719 N 12.5674 E	3
+82.245 E	3
+49.0163 N 6.6165 E	3
+45.1 N 15.2 E	2
+5.930769 N 116.05487 E	2
+43.4888 N 1.8842 E	2
+44.699 E	2
+45.30972 N 9.50372 E	2
+42.78889 N 13.821592 E	2
+13.1339 N 27.8493 E	2
+30.675714 N 96.17432 W	2
+47.7947 N 2.3483 E	2
+44.49489 N 11.34262 E	2
+44.69899 N 10.62969 E	2
+42.8599 N 78.7963 W	2
+41.0 N 77.0 W	2
+45.54155 N 10.2118 E	2
+51.884968 N 2.2769165 W	2
+42.6621 N 73.8491 W	2
+47.214 N 5.4822 E	2
+27.059498 N 80.13643 W	2
+47.5162 N 14.5501 E	2
+48.47 N 11.29 E	2
+39.3999 N 8.2245 E	2
+50.5361 N 3.5019 E	2
+37.492 E	2
+42.7339 N 25.4858 E	2
+51.35 N 0.4936 W	2
+4.0 N 74.0 W	2
+29.5 N 45.75 E	2
+46.227642 N 2.213754 E	1
+42.30014 N 13.511989 E	1
+45.1847 N 9.153328 E	1
+40.46367 N 3.749221 W	1
+32.232212 N 110.95071 W	1
+42.486443 N 13.23289 E	1
+37.0 N 120.0 W	1
+
+mating_type
+!blank	173714
+
+serotype
+!blank	72694
+Typhimurium	8723
+Salmonella Enteritidis	8459
+Enteritidis	7304
+enteritidis	5988
+Kentucky	3710
+Salmonella Typhimurium	3289
+Infantis	3239
+Newport	3218
+Heidelberg	2625
+Salmonella Typhimurium - monophasic	1610
+Montevideo	1563
+I 4,[5],12:i:-	1439
+Anatum	1395
+Serotype pending	1292
+Saintpaul	1234
+Javiana	1033
+Agona	1001
+Schwarzengrund	961
+Not known	958
+Braenderup	886
+Dublin	861
+Typhi	830
+Hadar	827
+Salmonella Typhi	806
+Salmonella Newport	796
+Salmonella Infantis	781
+Senftenberg	772
+Mbandaka	771
+Thompson	715
+Derby	711
+Salmonella Agona	637
+H58	596
+Reading	583
+Weltevreden	569
+Oranienburg	567
+Cerro	531
+derby	520
+muenchen	514
+Unnamed	475
+Typhimurium var. 5-	466
+Bareilly	445
+4,[5],12:i:-	444
+Salmonella Stanley	436
+Salmonella Unnamed	433
+Salmonella Kentucky	420
+Salmonella Virchow	402
+Salmonella Paratyphi A	392
+Poona	379
+Paratyphi A	362
+Salmonella Braenderup	358
+Virchow	337
+Salmonella Java	335
+Stanley	320
+Berta	309
+Undetermined	296
+Muenster	285
+Muenchen	280
+Tennessee	280
+Salmonella Bareilly	280
+Salmonella Arizonae	277
+Give	264
+Johannesburg	248
+London	242
+Salmonella Heidelberg	240
+Salmonella Oranienburg	230
+Ohio	227
+Typhimurium var. O:5-	220
+Uganda	214
+Salmonella Chester	208
+Rissen	199
+Hartford	196
+Salmonella Weltevreden	196
+Rubislaw	196
+Salmonella Mbandaka	194
+Paratyphi B var. L(+) tartrate + (Java)	190
+Litchfield	188
+Napoli	186
+Meleagridis	182
+Enteriditis	182
+Salmonella Bovis-morbificans	180
+Salmonella Hadar	169
+O:4,[5],12; H:i:1,2	167
+Java	163
+Bredeney	161
+Norwich	158
+Salmonella Montevideo	155
+Albany	153
+Mississippi	150
+I 4,5,12:i:-	150
+Adelaide	149
+Bovismorbificans	142
+O:4,5,12; H:i:-	140
+Worthington	139
+Salmonella Corvallis	136
+Salmonella Derby	136
+0	136
+Sandiego	131
+Brandenburg	123
+Havana	119
+
+serovar
+!blank	72694
+Typhimurium	8723
+Salmonella Enteritidis	8459
+Enteritidis	7304
+enteritidis	5988
+Kentucky	3710
+Salmonella Typhimurium	3289
+Infantis	3239
+Newport	3218
+Heidelberg	2625
+Salmonella Typhimurium - monophasic	1610
+Montevideo	1563
+I 4,[5],12:i:-	1439
+Anatum	1395
+Serotype pending	1292
+Saintpaul	1234
+Javiana	1033
+Agona	1001
+Schwarzengrund	961
+Not known	958
+Braenderup	886
+Dublin	861
+Typhi	830
+Hadar	827
+Salmonella Typhi	806
+Salmonella Newport	796
+Salmonella Infantis	781
+Senftenberg	772
+Mbandaka	771
+Thompson	715
+Derby	711
+Salmonella Agona	637
+H58	596
+Reading	583
+Weltevreden	569
+Oranienburg	567
+Cerro	531
+derby	520
+muenchen	514
+Unnamed	475
+Typhimurium var. 5-	466
+Bareilly	445
+4,[5],12:i:-	444
+Salmonella Stanley	436
+Salmonella Unnamed	433
+Salmonella Kentucky	420
+Salmonella Virchow	402
+Salmonella Paratyphi A	392
+Poona	379
+Paratyphi A	362
+Salmonella Braenderup	358
+Virchow	337
+Salmonella Java	335
+Stanley	320
+Berta	309
+Undetermined	296
+Muenster	285
+Muenchen	280
+Tennessee	280
+Salmonella Bareilly	280
+Salmonella Arizonae	277
+Give	264
+Johannesburg	248
+London	242
+Salmonella Heidelberg	240
+Salmonella Oranienburg	230
+Ohio	227
+Typhimurium var. O:5-	220
+Uganda	214
+Salmonella Chester	208
+Rissen	199
+Hartford	196
+Salmonella Weltevreden	196
+Rubislaw	196
+Salmonella Mbandaka	194
+Paratyphi B var. L(+) tartrate + (Java)	190
+Litchfield	188
+Napoli	186
+Meleagridis	182
+Enteriditis	182
+Salmonella Bovis-morbificans	180
+Salmonella Hadar	169
+O:4,[5],12; H:i:1,2	167
+Java	163
+Bredeney	161
+Norwich	158
+Salmonella Montevideo	155
+Albany	153
+Mississippi	150
+I 4,5,12:i:-	150
+Adelaide	149
+Bovismorbificans	142
+O:4,5,12; H:i:-	140
+Worthington	139
+Salmonella Corvallis	136
+Salmonella Derby	136
+0	136
+Sandiego	131
+Brandenburg	123
+Havana	119
+
+sex
+!blank	173688
+male	26
+
+submitted_sex
+!blank	173688
+male	26
+
+specimen_voucher
+!blank	173457
+SA20080038	1
+SA20083036	1
+SA20080191	1
+SA20080031	1
+SA20093070	1
+SA20080032	1
+SA20080034	1
+SA20032029	1
+SA20103669	1
+SA20031863	1
+SA20032106	1
+SA20015560	1
+SA20080939	1
+SA20082126	1
+SA20023494	1
+SA20102587	1
+SA20021278	1
+SA20112854	1
+SA20064151	1
+SA20030607	1
+SA20113408	1
+SA19951277	1
+SA20103691	1
+SA20093146	1
+SA20080086	1
+SA20094946	1
+SA20031036	1
+SA20080215	1
+SA19981206	1
+SA20105433	1
+SA20030523	1
+SA20033187	1
+SA20090680	1
+SA20093284	1
+SA20055321	1
+SA20100964	1
+SA20103679	1
+SA20055329	1
+SA20095388	1
+SA20100974	1
+SA20031084	1
+SA20052655	1
+SA20025952	1
+SA20094313	1
+SA20093002	1
+SA20100814	1
+SA20102593	1
+SA20091502	1
+SA20100131	1
+SA20090203	1
+SA20111620	1
+SA20030439	1
+SA20070322	1
+SA20092163	1
+SA20102782	1
+MZ0162	1
+SA20103936	1
+SA20094702	1
+SA20093734	1
+SA20112682	1
+SA20112117	1
+SA20101062	1
+SA20101265	1
+ST130	1
+SA20024130	1
+SA20101142	1
+SA20092506	1
+SA20034666	1
+SA2003504	1
+SA20030628	1
+SA20060307	1
+SA20111798	1
+SA20081835	1
+SA20023070	1
+SA20092673	1
+SA20083007	1
+SA20092677	1
+SA20093457	1
+SA20032835	1
+SA20034508	1
+SA20103397	1
+SA20081223	1
+SA20092414	1
+SA20031257	1
+SA20035062	1
+SA20041095	1
+SA20030540	1
+SA20092075	1
+SA20081784	1
+SA20111802	1
+SA20054794	1
+SA20080225	1
+SA20080149	1
+SA20064154	1
+MZ0695	1
+MZ0692	1
+SA20092756	1
+SA20103689	1
+SA20032171	1
+
+strain
+!blank	19003
+SL1344	359
+Typhimurium	276
+Salmonella enterica subsp. enterica	159
+DT160	109
+Infantis	92
+LT2	85
+DT44	78
+ST4/74	71
+S449/87	55
+serovar Typhimurium	52
+P125109	51
+Typhimurium LT2 ATCC-19585	47
+WT174	45
+Bareilly ATCC-9115	45
+typhi ST1 (Salmonella Genetic Stock Center number: 2728)	45
+typhi CDC1707-81 (Salmonella Genetic Stock Center number: 2661)	45
+typhi CDC3137-73 (Salmonella Genetic Stock Center number: 2660)	44
+typhi PNG31 (Salmonella Genetic Stock Center number: 3194)	44
+typhi Ty2 (Salmonella Genetic Stock Center number: 2666)	44
+Enteritidis ATCC-BAA-1045	43
+Agona ATCC-BAA-707	43
+Newport ATCC-27869	43
+Paratyphi A ATCC-9150	43
+14028S	43
+typhi CDC382-82 (Salmonella Genetic Stock Center number: 2664)	42
+typhi CDC9228-77 (Salmonella Genetic Stock Center number: 2657)	42
+Dublin (Salmonella Genetic Stock Center number: 2469)	42
+typhi CT18 (Salmonella Genetic Stock Center number: 4072)	42
+D23580	41
+UK-1	31
+Salmonella	31
+subsp. enterica, serovar. Typhimurium str. LT2	24
+Salmonella Typhi WT174	23
+ser. typhiï¿½	22
+SL5209	22
+BRD948	19
+14028s	19
+Salmonella Typhimurium SL1344	18
+Ty2 aroC htrA	18
+Salmonella enterica serovar Typhi Ty2	18
+serovar Typhimurium LT2	17
+1434	15
+1306	15
+5317	15
+530	15
+dT+	15
+ST86	14
+14028	13
+TY2	12
+Typhimurium LT2 (mutH deficient; Salmonella Genetic Stock Center number: 1350)	12
+Enteritidis	11
+Typhimurium LT2 (mutL deficient; Salmonella Genetic Stock Center number: 1348)	10
+NCTC 12023	10
+Typhimurium LT2 (mutS deficient; Salmonella Genetic Stock Center number: 1349)	9
+KUMAR21	9
+DT56 variant	8
+4/74	8
+ST43	8
+DT104	8
+ST110	8
+wild-type ST4/74	8
+Paratyphi A	8
+SL3261	7
+JVS-1338	6
+N-15	6
+D27580	6
+449_87	6
+FORC_038	6
+JVS-4317	6
+ATCC 7251	6
+ATCC 14028	6
+Kentucky	5
+SPB7	5
+CFSAN000189	5
+CVM	4
+SG_WT5	4
+Muenchen	4
+NY-FSL-R8-2025	4
+SF102	4
+delta STM14_3465	4
+delta STM14_3463	4
+NY-FSL-R8-2233	4
+NY-FSL-R8-1626	4
+0508R6707	4
+0508R6762	4
+DM3480	4
+delta STM14_3474	4
+JVS-7000	4
+ST42	4
+SG_WT7	4
+AKU_12601	4
+SG_B23	4
+SL483	4
+delta STM14_5187	4
+delta STM14_5188	4
+14028s wild type	4
+delta STM14_3475	4
+A130	4
+DM9404	4
+
+sub_species
+!blank	116886
+enterica	55018
+Subsp. I	814
+diarizonae	357
+arizonae	218
+houtenae	209
+salamae	191
+indica	9
+Subsp. IIIb	3
+arizonae serovar 62 z4 z23 uid58191	3
+Salmonella Infantis	3
+Subsp. IV	1
+subsp I enterica	1
+IIIa	1
+
+sub_strain
+!blank	173703
+DT56v	5
+DT40	4
+DT81	1
+DT87v	1
+
+tissue_lib
+!blank	173714
+
+tissue_type
+!blank	173702
+S. Typhimurium planktonic culture	8
+CT26 tumor infected with S. Typhimurium	4
+
+variety
+!blank	173714
+
+tax_id
+28901	103974
+59201	44989
+90371	5644
+90370	4812
+149539	2461
+54388	983
+611	751
+220341	583
+595	467
+98360	424
+216597	403
+85569	364
+28144	356
+59204	310
+108619	252
+440524	238
+192955	209
+57743	204
+59203	199
+497977	198
+605	185
+59205	180
+224729	174
+57045	172
+59202	164
+57046	160
+58095	138
+1620419	126
+90105	119
+1461749	110
+909946	101
+99287	90
+596	83
+119912	82
+143221	79
+600	75
+149385	69
+28150	65
+192954	61
+353569	61
+1151001	59
+115981	57
+149387	55
+340190	51
+58097	51
+363569	47
+588858	41
+568708	40
+58712	40
+28147	39
+340188	37
+486990	36
+165302	34
+48409	31
+149391	30
+594	30
+990282	29
+58096	29
+192953	28
+286783	27
+82689	27
+358771	26
+550537	26
+149386	24
+598	24
+46626	23
+134047	20
+1160769	19
+209261	19
+29472	18
+70803	17
+486998	17
+179997	16
+117541	16
+211968	16
+486993	15
+189201	15
+1151171	14
+487004	14
+399581	13
+28142	13
+436295	13
+260677	12
+1911136	12
+913074	12
+486994	12
+1697389	11
+399587	11
+1173779	11
+1050190	10
+41529	10
+913076	10
+913079	10
+593905	10
+149390	9
+913240	9
+260676	8
+1114957	8
+486999	8
+1967612	8
+
+scientific_name
+Salmonella enterica	103974
+Salmonella enterica subsp. enterica	44989
+Salmonella enterica subsp. enterica serovar Typhimurium	5644
+Salmonella enterica subsp. enterica serovar Typhi	4812
+Salmonella enterica subsp. enterica serovar Enteritidis	2461
+Salmonella enterica subsp. enterica serovar Paratyphi A	983
+Salmonella enterica subsp. enterica serovar Heidelberg	751
+Salmonella enterica subsp. enterica serovar Typhi str. CT18	583
+Salmonella enterica subsp. enterica serovar Infantis	467
+Salmonella enterica subsp. enterica serovar Dublin	424
+Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	403
+Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	364
+Salmonella enterica subsp. enterica serovar Derby	356
+Salmonella enterica subsp. diarizonae	310
+Salmonella enterica subsp. enterica serovar Newport	252
+Salmonella enterica subsp. enterica serovar 4,[5],12:i:-	238
+Salmonella enterica subsp. enterica serovar Kentucky	209
+Salmonella enterica subsp. enterica serovar Weltevreden	204
+Salmonella enterica subsp. arizonae	199
+Salmonella enterica subsp. enterica serovar Typhi str. 404ty	198
+Salmonella enterica subsp. enterica serovar Pullorum	185
+Salmonella enterica subsp. houtenae	180
+Salmonella enterica subsp. enterica serovar Java	174
+Salmonella enterica subsp. enterica serovar Paratyphi B	172
+Salmonella enterica subsp. salamae	164
+Salmonella enterica subsp. enterica serovar Paratyphi C	160
+Salmonella enterica subsp. enterica serovar Agona	138
+Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	126
+Salmonella enterica subsp. enterica serovar Saintpaul	119
+Salmonella enterica subsp. enterica serovar Typhimurium var. monophasic 4,[5],12:i:-	110
+Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	101
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	90
+Salmonella enterica subsp. enterica serovar Muenchen	83
+Salmonella enterica subsp. enterica serovar Choleraesuis	82
+Salmonella enterica subsp. enterica serovar Tennessee	79
+Salmonella enterica subsp. enterica serovar Thompson	75
+Salmonella enterica subsp. enterica serovar Hadar	69
+Salmonella enterica subsp. enterica serovar Senftenberg	65
+Salmonella enterica subsp. enterica serovar Mbandaka	61
+Salmonella enterica subsp. enterica serovar 4,12:i:-	61
+Salmonella enterica subsp. enterica serovar Napoli	59
+Salmonella enterica subsp. enterica serovar Montevideo	57
+Salmonella enterica subsp. enterica serovar Brandenburg	55
+Salmonella enterica subsp. enterica serovar Schwarzengrund	51
+Salmonella enterica subsp. enterica serovar Bovismorbificans	51
+Salmonella enterica subsp. enterica serovar Javiana	47
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S	41
+Salmonella enterica subsp. enterica serovar Typhimurium str. D23580	40
+Salmonella enterica subsp. enterica serovar Anatum	40
+Salmonella enterica subsp. enterica serovar Oranienburg	39
+Salmonella enterica subsp. enterica serovar Cerro	37
+Salmonella enterica subsp. enterica serovar Copenhagen	36
+Salmonella enterica subsp. enterica serovar Reading	34
+Salmonella enterica subsp. enterica serovar Virchow	31
+Salmonella enterica subsp. enterica serovar Gallinarum	30
+Salmonella enterica subsp. enterica serovar Braenderup	30
+Salmonella enterica subsp. enterica serovar Bareilly	29
+Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1	29
+Salmonella enterica subsp. enterica serovar Stanley	28
+Salmonella enterica subsp. enterica serovar Indiana	27
+Salmonella enterica subsp. enterica serovar Muenster	27
+Salmonella enterica subsp. enterica serovar Kedougou	26
+Salmonella enterica subsp. enterica serovar Enteritidis str. P125109	26
+Salmonella enterica subsp. enterica serovar Rubislaw	24
+Salmonella enterica subsp. enterica serovar Chester	24
+Salmonella enterica subsp. enterica serovar Give	23
+Salmonella enterica subsp. enterica serovar Bredeney	20
+Salmonella enterica subsp. enterica serovar Typhi str. Ty2	19
+Salmonella enterica subsp. enterica serovar Worthington	19
+Salmonella enterica subsp. enterica serovar Panama	18
+Salmonella enterica subsp. enterica serovar Litchfield	17
+Salmonella enterica subsp. enterica serovar Minnesota	17
+Salmonella enterica subsp. enterica serovar Ohio	16
+Salmonella enterica subsp. enterica serovar Albany	16
+Salmonella enterica subsp. enterica serovar Havana	16
+Salmonella enterica subsp. enterica serovar Eastbourne	15
+Salmonella enterica subsp. enterica serovar Cubana	15
+Salmonella enterica subsp. enterica serovar 4,5,12:b:-	14
+Salmonella enterica subsp. enterica serovar Uganda	14
+Salmonella enterica subsp. enterica serovar Agama	13
+Salmonella enterica subsp. enterica serovar Poona	13
+Salmonella enterica subsp. enterica serovar Berta	13
+Salmonella enterica subsp. enterica serovar Hvittingfoss	12
+Salmonella enterica subsp. enterica serovar Urbana	12
+Salmonella enterica subsp. diarizonae serovar 38:[k]:-	12
+Salmonella enterica subsp. enterica serovar Inverness	12
+Salmonella enterica subsp. enterica serovar 4,5,12:i-	11
+Salmonella enterica subsp. enterica serovar Rissen	11
+Salmonella enterica subsp. diarizonae serovar 60:r:e,n,x,z15	11
+Salmonella enterica subsp. enterica serovar Mississippi	10
+Salmonella enterica subsp. enterica serovar Typhisuis	10
+Salmonella enterica subsp. enterica serovar Corvallis	10
+Salmonella enterica subsp. houtenae serovar 48:g,z51:-	10
+Salmonella enterica subsp. enterica serovar Johannesburg	10
+Salmonella enterica subsp. enterica serovar London	9
+Salmonella enterica subsp. enterica serovar Alachua	9
+Salmonella enterica subsp. enterica serovar Lexington	8
+Salmonella enterica subsp. houtenae serovar 50:z4,z23:-	8
+Salmonella enterica subsp. arizonae serovar 18:z4,z23:-	8
+Salmonella enterica subsp. enterica serovar Typhimurium str. 14028s Wu	8
+
+sample_alias
+S3	4
+1	3
+8	3
+31	2
+36	2
+S9	2
+S2	2
+S1	2
+S4	2
+12-01549	2
+12-02546-2	2
+0813_11	2
+85_3	2
+2011K-0868	2
+11-00422	2
+PNUSAS011482	2
+PNUSAS011526	2
+S12	2
+12-7092	2
+13-SA01718	2
+12-00619	2
+12-00618	2
+F7	2
+12-02548	2
+12-02544	2
+12-02541	2
+29	2
+46	2
+42	2
+85	2
+12-3792	2
+60_3	2
+53	2
+F1	2
+2011K-1668	2
+12-2460	2
+12-02552	2
+12-4374	2
+12-02539	2
+2012K-1020	2
+12-01497	2
+0134_12	2
+10	2
+35	2
+34	2
+54	2
+71	2
+91	2
+90	2
+92	2
+12-03724	2
+N13-01290	2
+E3	2
+6	2
+5	2
+171283.biosample	1
+PNUSAS051978	1
+CFSAN081804	1
+351322.biosample	1
+2015AM-3558	1
+FSIS21720139	1
+39820fe0-dbfe-11e6-b425-3c4a9275d6c8	1
+SPA_29-sc-2322254	1
+2015AM-3556	1
+FSIS21720131	1
+FSIS21720130	1
+FSIS21720133	1
+FSIS21720132	1
+FSIS21720135	1
+FSIS21720134	1
+FSIS21720137	1
+FDA00002068	1
+PNUSAS051677	1
+327980.biosample	1
+PNUSAS051675	1
+2015AM-3554	1
+CFSAN060338	1
+CFSAN060339	1
+PNUSAS051671	1
+Sample_D34_76	1
+CFSAN060334	1
+4451de20-1b6d-11e6-a6b2-3c4a9275d6c8	1
+CFSAN060336	1
+CFSAN060337	1
+CFSAN060330	1
+CFSAN060331	1
+CFSAN060332	1
+CFSAN060333	1
+362693.biosample	1
+412031.biosample	1
+PNUSAS046857	1
+PNUSAS027191	1
+FSIS31800690	1
+FSIS31800691	1
+FSIS31800692	1
+FSIS31800693	1
+FSIS11704829	1
+134275.biosample	1
+CFSAN081802	1
+PNUSAS052149	1
+
+checklist
+!blank	153317
+ERC000011	15612
+ERC000028	2340
+ERC000029	1460
+ERC000041	3
+
+center_name
+PHE	33691
+Wellcome Sanger Institute	3588
+CFSAN	2134
+pda|retimme	1949
+pda|jaxmolecular1	1040
+pda|carypirone1	905
+University Hospital Galway	889
+Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark	630
+pda|agoncalves	492
+pda|cyachison	491
+pda|100kgenomeproject	464
+ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE	449
+pda|robbiehall	439
+pda|dlgriffin	372
+STATENS SERUM INSTITUT	371
+!blank	342
+IZSLT (Istituto Zooprofilattico Sperimentale del Lazio e la Toscana)	310
+pda|barbara.kozyreva@gmail.com	226
+pda|samwirth	226
+National Institute of Public Health - National Institute of Hygiene	211
+QLD Health	207
+Statens Serum Institut	199
+NVRI	182
+pda|yuping224	173
+pda|justin.payne	152
+pda|matthew.walker	148
+WARWICK UNIVERSITY	118
+pda|lanlab	116
+BioSample	104
+European Bioinformatics Institute	99
+YANGZHOU UNIVERSITY	97
+Wadsworth Center / NYSDOH	91
+pda|cjboner	90
+pda|lmc297	90
+pda|ericfournier	90
+FDA/CFSAN	88
+University of Birmingham, UK	83
+Wadsworth Center NYSDOH	79
+pda|narjol123	78
+Doherty Institute	78
+pda|hawkey.jane@gmail.com	73
+UNIVERSITY OF HELSINKI	72
+pda|typhisophie	69
+pda|fdacvm	69
+pda|microseek	60
+pda|qinning	52
+University of New South Wales	48
+Public Health Agency of Sweden	47
+pda|tanyalaird	46
+pda|bingler25	44
+Istituto Zooprofilattico Sperimentale della Lombardia e del Emilia Romagna (IZSLER)	44
+pda|braddhaley	41
+pda|carolinevincent	41
+pda|wamanley	38
+NATIONAL VETERINARY RESEARCH INSTITUTE	36
+Cornell University	35
+NATIONAL VETERINARY INSTITUTE (SVA)	35
+pda|robchristensen	33
+FDA_NY	33
+pda|assias	32
+Wadsworth Center/NY Department of Health	32
+None	31
+pda|eleonoratassinari	31
+pda|straine	30
+pda|yan.luo	30
+pda|wwenash	26
+pda|ohadgal	22
+pda|gurukohli@gmail.com	21
+pda|lfz	19
+pda|bulletin2007	19
+pda|jasonsahl	19
+Laboratory of Molecular Medicine and Genomics	18
+pda|orsini_izsam	17
+UCD-100K	17
+pda|dmbulach	16
+ROBERT KOCH-INSTITUTE	14
+pda|dogunremi	13
+pda|xz060	12
+pda|mmcclelland	12
+The Wadsworth Center, NYSDOH	12
+pda|diana_sedano	12
+Technical University of Denmark	12
+pda|patriciacroscutt	11
+pda|sardar21s	11
+Yuan	11
+pda|hsichtig	11
+PHAC	10
+pda|romang1	10
+pda|jocke.nasvall@gmail.com	10
+pda|jbozzini	9
+US Food and Drug Administration	9
+Wadsworth Center, NYS Department of Health	8
+ETHZ	8
+Wadsworth Center, NY DOH	7
+pda|celinaphelps	7
+pda|pjbiggs	7
+pda|wwolfgang	7
+cit|ajohnsto	6
+pda|deekshashetty	6
+The University of Birmingham	6
+
+depth
+!blank	53208
+
+elevation
+!blank	53208
+
+altitude
+!blank	53208
+
+environment_biome
+!blank	53139
+anthropogenic	66
+no	2
+avian biome	1
+
+environment_feature
+!blank	53137
+organic	57
+mesoscopic	9
+no	2
+river	2
+sea	1
+
+environment_material
+!blank	53110
+organic	57
+stool	10
+chicken meat	9
+anthropogenic	9
+water	4
+lunch meat	4
+no	2
+Red Pepper Flakes	2
+Mozzarella	1
+
+temperature
+!blank	53205
+37.0	2
+32.0	1
+
+salinity
+!blank	53208
+
+sampling_campaign
+!blank	53208
+
+sampling_site
+!blank	53208
+
+sampling_platform
+!blank	53208
+
+protocol_label
+!blank	53208
+
+project_name
+!blank	52855
+Whole genome sequencing of Salmonella enterica serovar Typhimurium and its monophasic variant isolated from food animals in Japan	115
+Salmonella_Montevideo_outbreak	28
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 3369	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 2943	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 2941	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 3377	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 3539	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 2849	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Infantis str. 2967	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 3548	1
+Plasmid sequencing of Salmonella enterica subspecies enterica serovar Manhattan str. 3172	1
+
+host
+Homo sapiens	43718
+Bos taurus	970
+human	819
+!blank	717
+Human	635
+homo sapiens	574
+Gallus gallus	547
+Sus scrofa	344
+swine	214
+Sus scrofa domesticus	210
+Homo Sapiens	188
+Swine	172
+Gallus gallus domesticus	163
+bovine	152
+Homo Sapien	150
+Sus	129
+Bovine	116
+not available: to be reported later	111
+not known	102
+Cattle	88
+Pig	85
+mouse	70
+Dog	69
+Sus domesticus	67
+Homo sapien	67
+Meleagris gallopavo	64
+homo Sapiens	53
+Eudocimus albus	48
+Turkey	43
+Meleagris	37
+Mus musculus	33
+Chicken	33
+Horse	32
+Environmental	28
+homo spaiens	27
+Bos	26
+Sus sp.	24
+Trachemys scripta	24
+unidentified	24
+Gallus	23
+Larus dominicanus	16
+Poultry	16
+chicken	15
+Anas platyrhynchos	15
+porcine	13
+Canis lupus familiaris	13
+Didelphis virginiana	12
+Mouse	11
+Avian	11
+Procyon lotor	11
+Amniota	10
+avian	10
+Scaphiopus holbrookii	9
+H.ï¿½sapiens	9
+Equine	9
+Chlamydosaurus kingii	9
+Camel	9
+ovine	8
+pig	8
+Pogona vitticeps	7
+Cat	7
+equine	7
+Felis catus	7
+Seafood	7
+poultry	7
+G.ï¿½gallus	6
+Porphyrio hochstetteri	6
+Conolophus subcristatus	6
+Bufo terrestris	6
+Chloris chloris	6
+duck	5
+Alligator mississippiensis	5
+Chelydra serpentina	5
+Duck	5
+Food	5
+Canis	5
+Ovis aries	4
+yak	4
+Equus caballus	4
+Sus domestica	4
+Sternotherus odoratus	4
+Chrysemys picta	4
+animal	4
+Bos primigenius	4
+Piper nigrum	4
+Passer domesticus	4
+Pistacia vera L.	3
+Mus	3
+canine	3
+cattle	3
+Goose	3
+Cow	3
+Stenella coeruleoalba	3
+Pigeon	3
+Bubalus	3
+bos taurus	3
+Canis sp.	3
+Alpaca	3
+Vegetable	3
+Reptilia	3
+
+host_tax_id
+9606	4233
+!blank	1074
+9031	292
+9913	198
+9823	171
+9825	132
+9822	129
+9103	38
+9903	26
+32644	24
+9030	23
+9102	23
+8839	17
+9796	10
+9615	9
+37601	6
+9611	5
+9685	4
+48849	4
+13216	4
+129788	3
+10088	3
+9918	3
+55513	3
+10114	3
+10141	2
+104386	2
+6605	2
+7777	2
+9682	2
+30396	2
+8459	2
+9986	1
+9224	1
+13679	1
+761541	1
+8842	1
+8847	1
+8516	1
+8168	1
+8790	1
+13029	1
+9909	1
+30538	1
+37600	1
+
+host_status
+!blank	832
+not provided	291
+healthy	48
+diseased	14
+
+host_sex
+!blank	1046
+male	80
+female	59
+
+submitted_host_sex
+!blank	1046
+
+host_body_site
+!blank	1046
+
+host_gravidity
+!blank	1046
+
+host_phenotype
+!blank	1046
+
+host_genotype
+!blank	1046
+
+host_growth_conditions
+!blank	1046
+
+environmental_package
+!blank	1046
+
+investigation_type
+!blank	1013
+
+experimental_factor
+!blank	1013
+
+sample_collection
+!blank	1006
+
+sequencing_method
+!blank	995
+
+target_gene
+!blank	995
+
+ph
+!blank	995
+
+broker_name
+

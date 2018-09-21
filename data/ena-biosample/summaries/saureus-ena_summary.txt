@@ -1,0 +1,1952 @@
+bio_material
+!blank	53226
+
+cell_line
+!blank	53222
+Staphylococcus aureus USA300	2
+Staphylococcus aureus USA 300	1
+Staphylococcus aureus	1
+
+cell_type
+!blank	53204
+sessile cells	12
+Biofilm	6
+BRC cells	2
+DRC cells	2
+
+collected_by
+!blank	44829
+ModMedMicOxford	2359
+ModMedMicro	1163
+Angkor Hopsital for Children; Siem Reap; Cambodia	518
+Public Health England Colindale	389
+Jprice	275
+University of Michigan Medical School	268
+UCSD SBRG	254
+Sheppard Lab	219
+Hvidovre Hospital	207
+FTenover,ITickler	191
+Brigham and Women&apos;&apos;s Hospital	186
+Mayo Clinic	152
+University of Florida Emerging Pathogens Institute	141
+Laboratoire National de Sante	125
+Seungsoo Kim	121
+Infectious Disease Clinical Research Program, Uniformed Services University of the Health Sciences, Bethesda, MD	116
+Insitiute of Environmental Science and Research (ESR)	112
+UW clinical laboratory	112
+Hiroshima University, Hiroshima, Japan	95
+David, MZ	93
+FDA	86
+Min Li	76
+Public Health England	67
+Harvard Univserity	59
+Laboratorio de Microbiologia de la Red de Salud UC-Christus	57
+Emory Cystic Fibrosis Biospecimen Registry (CFBR)	49
+Rockefeller University	49
+Vladimir Gostev	48
+Paul Mann	44
+University of Pittsburgh Medical Center	40
+DARobinson,SNolan	38
+Kim Lewis	36
+B. Piening	30
+RGoering	29
+Michael Z David	29
+Menzies School of Health Research	28
+BKreisworth/SWang/KStevenson	27
+Massey University	25
+J Ross Fitzgerald at The Roslin Institute and Centre for Infectious Diseases, University of Edinburgh	24
+TX	23
+Nana Ama Amissah	21
+Auckland Hospital	19
+RGoering,IRobledo,GVazquez	18
+University of Washington	17
+National Food Institute (DTU Food)	16
+University Hospital Muenster	16
+Cystic Fibrosis Center at Boston Children&apos;&apos;s Hospital	15
+ESR-National Survey	15
+University of Copenhagen, Department of Veterinary and Animal Sciences	15
+PFey	14
+Esther Viedma	14
+Joon Ho Park	13
+CArias,PPlanet,JReyes	10
+Andreas Baumgartner	10
+Bacterial Molecular Genetics Laboratory, Universidad El Bosque	10
+Reference laboratory	9
+Veterinary Research Institute Brno	9
+RN	8
+Stanford Hospital	8
+Uniformed Services University	8
+Anne Jamet	8
+Centers for Disease Control and Prevention	7
+Fabien Garnier	7
+Laboratorio de Microbiologia, INTA, Universidad de Chile	7
+Department of Clinical Laboratory	6
+KCMC-KCRI	6
+EBrown	6
+Royal Children&apos;s Hospital, Brisbane	6
+MFD	5
+University of Washington Medical Center	5
+Mette Thorsing	5
+Dmitrenko O., Tikhomirov T., Balbutskaya A.,Fedorova N., Alkhovsky S.	5
+RSkov/ALarsen/MStegger	5
+RGoering,RSkov,ALarsen	4
+Amy Flaxman	4
+Maria Pardos de la Gandara	4
+RGoering,GCoombs	4
+Children&apos;&apos;s National Hospital	4
+DOSordelli	4
+MRSN_WRAIR	4
+RGoering,DColeman,AShore	4
+Ali Somily, King Khalid Univ Teaching Hospital	3
+Anses	3
+Colleen Kraft	3
+Broad Institute	2
+Korean National Culture Collection of Pathogen	2
+RSkov/ALarsen/Mstegger	2
+Korean Centers for Disease Control and Prevention	2
+USAMRIID	2
+Adeola Raji, Alfaisal University	2
+G. K. Sivaraman	2
+Andrea Garcia	2
+Mwangi Lab	2
+IZSTO-CATO	2
+UCSD	2
+Hospital de Clinicas	2
+Som S. Chatterjee	2
+WCH	2
+Food Research Institute	2
+
+collection_date
+!blank	30081
+2009-01-01	1479
+2014-01-01	1324
+2015-01-01	1241
+2013-01-01	1051
+2010-01-01	926
+2008-01-01	915
+2006-01-01	647
+2011-01-01	621
+2016-01-01	573
+2012-01-01	546
+2007-01-01	489
+2004-01-01	447
+2005-01-01	434
+2003-01-01	329
+2014-02-01	280
+2001-01-01	239
+2018-06-01	209
+2002-01-01	204
+1998-01-01	147
+2017-01-01	96
+2012-07-15	90
+2011-12-09	85
+2016-12-01	83
+1900-01-01	70
+1996-01-01	68
+1997-01-01	59
+1999-01-01	57
+1960-01-01	55
+1964-01-01	55
+2015-02-11	53
+2000-01-01	52
+2010-12-15	49
+2011-12-13	49
+2017-01-25	44
+2012-02-20	44
+1963-01-01	44
+2009-09-01	44
+1961-01-01	43
+2011-04-01	42
+2012-03-06	42
+2012-09-04	40
+2011-11-01	39
+2015-06-01	38
+2012-03-12	35
+2011-11-02	35
+2012-02-06	34
+2011-11-29	32
+2012-06-30	31
+2015-11-27	30
+2011-03-01	30
+2011-11-16	30
+2015-05-13	30
+2012-04-16	29
+2012-09-18	29
+2010-11-01	29
+2012-04-18	28
+2012-09-12	28
+2012-11-13	28
+2014-11-04	28
+2011-11-08	27
+2012-10-16	27
+2012-01-10	27
+1967-01-01	27
+2012-07-11	26
+2012-05-29	26
+2012-02-14	26
+2015-10-07	26
+2011-11-07	26
+2015-12-09	25
+2012-12-11	25
+2011-03-16	25
+2011-03-15	25
+2012-10-02	25
+2012-05-01	25
+1982-01-01	25
+2012-01-19	25
+2012-11-27	24
+2012-06-18	24
+2012-05-15	24
+2011-12-08	24
+2012-02-23	24
+2015-08-12	24
+2012-03-01	24
+2015-06-17	23
+2012-02-17	23
+2011-03-22	23
+2010-12-17	23
+2012-08-07	23
+2015-05-06	22
+2010-04-01	22
+2012-01-25	22
+2010-12-01	22
+2010-10-01	22
+2012-09-10	21
+2011-03-30	21
+2012-06-12	21
+2012-02-08	21
+2012-01-27	21
+2012-08-21	21
+
+country
+!blank	30828
+USA	2455
+United Kingdom: Brighton	2351
+United Kingdom	1514
+Germany	1405
+United Kingdom: Oxford	1075
+United Kingdom: England	848
+Denmark	772
+USA: Irvine, CA	636
+Cambodia: Siem Reap	518
+USA: Boston	454
+United Kingdom: London	447
+not collected	412
+USA: Houston	403
+USA: GA	379
+Australia	285
+Thailand	278
+Singapore	268
+USA: Southeast Michigan	268
+USA: New York, Inwood	256
+USA: San Diego, CA	254
+United Kingdom: England: South East	226
+Ireland	208
+DR Congo	196
+UK	187
+USA: Boston, MA	186
+England	181
+USA:Boston MA	180
+Netherlands	166
+USA:Minnesota:Rochester	152
+New Zealand	146
+USA: Jacksonville, FL	141
+USA: MS	128
+Luxembourg	127
+USA: WA	119
+USA: Fort Benning, GA	116
+USA: NY	115
+New Zealand: Porirua	112
+Tanzania	111
+not available	111
+United Kingdom: Wales	109
+United Kingdom: Scotland	101
+Japan: Hiroshima	95
+Gambia	91
+China	90
+USA:Bloomington, IN	83
+USA: NC	77
+USA: California	77
+United Kingdom: Northern Ireland	72
+Norway	69
+France	68
+Gabon	63
+Colombia	61
+Australia: Melbourne	60
+Canada	57
+Chile: Santiago	57
+Belgium	55
+USA: CA	54
+Taiwan	54
+USA: MN	53
+Spain	50
+Switzerland: Lausanne	50
+China:Shanghai Renji Hospital	49
+USA: Atlanta, GA	49
+Russia: Saint Petersburg	47
+USA: New York	45
+United Kingdom: England: South	45
+USA: Pacific Northwest	43
+USA: CT	43
+USA: New York, Morrisania	40
+Sweden	40
+USA:Pennsylvania	37
+Argentina	35
+France: Bordeaux	33
+USA: IL	33
+Italy	33
+USA: Chicago	33
+USA: New York, CentralHarlem	32
+Turkey: Izmir	32
+USA:California	32
+Switzerland	32
+Portugal	29
+United Kingdom: England: West Midlands	27
+United States	27
+USA: OR	25
+USA:Maryland	24
+Poland	24
+United Kingdom: Hertfordshire	24
+Turkey: Istanbul	24
+USA:TX	23
+Czech Republic	23
+USA:OR	23
+USA: NE	22
+USA: TX	22
+USA:Georgia	22
+Australia:Northern Territory	21
+Japan	21
+Ghana: Pakro	21
+USA:MD	20
+USA: New York, Riverdale	20
+
+cultivar
+!blank	53225
+NRS123	1
+
+culture_collection
+!blank	53024
+NRS NRS100	4
+NCTC:7887	1
+FDA:FDAARGOS_140	1
+NCTC:11963	1
+NCTC:11962	1
+NCTC:10703	1
+NCTC:13277	1
+NCTC:9611	1
+NCTC:7121	1
+NCTC:5657	1
+NCTC:5656	1
+NCTC:5655	1
+NCTC:12035	1
+NCTC:5658	1
+NCTC:6137	1
+NCTC:6136	1
+NCTC:4137	1
+NCTC:6134	1
+NCTC:6133	1
+NCTC:6131	1
+NCTC:7445	1
+NCTC:7446	1
+NCTC:7447	1
+ATCC:700699	1
+NCTC:7428	1
+NCTC:12973	1
+NCTC:12880	1
+ATCC:BAA-1718	1
+NCTC:11965	1
+NCTC:9613	1
+NCTC:9612	1
+NCTC:6966	1
+NCTC:8507	1
+ATCC:BAA-1717	1
+NCTC:9614	1
+NCTC:7878	1
+NCTC:7972	1
+NCTC:13373	1
+NCTC:10399	1
+NCTC:9752	1
+FDA:FDAARGOS_159	1
+FDA:FDAARGOS_169	1
+FDA:FDAARGOS_135	1
+NCTC:2669	1
+NCTC:7988	1
+NCTC:10804	1
+NCTC:7415	1
+NCTC:7414	1
+NCTC:13394	1
+NCTC:13395	1
+NCTC:3761	1
+NCTC:13811	1
+NCTC:13812	1
+FDA:FDAARGOS_19	1
+FDA:FDAARGOS_18	1
+FDA:FDAARGOS_13	1
+FDA:FDAARGOS_12	1
+FDA:FDAARGOS_11	1
+FDA:FDAARGOS_10	1
+FDA:FDAARGOS_17	1
+FDA:FDAARGOS_16	1
+FDA:FDAARGOS_15	1
+FDA:FDAARGOS_14	1
+FDA:FDAARGOS_3	1
+NCTC:11939	1
+NCTC:8765	1
+NCTC:8766	1
+NCTC:10724	1
+FDA:FDAARGOS_28	1
+NCTC:10443	1
+NCTC:10442	1
+NCTC:7791	1
+NCTC:7856	1
+NCTC:11045	1
+NCTC:7361	1
+NCTC:13552	1
+FDA:FDAARGOS_5	1
+NCTC:13626	1
+NCTC:7712	1
+NCTC:13138	1
+NCTC:13139	1
+NCTC:9547	1
+NCTC:9546	1
+NCTC:13132	1
+NCTC:13133	1
+NCTC:13131	1
+NCTC:13136	1
+NCTC:13137	1
+NCTC:13134	1
+NCTC:13135	1
+NCTC:8399	1
+NCTC:10344	1
+NCTC:10345	1
+FDA:FDAARGOS_1	1
+FDA:FDAARGOS_7	1
+FDA:FDAARGOS_6	1
+NCTC:11561	1
+FDA:FDAARGOS_4	1
+FDA:FDAARGOS_36	1
+
+description
+Transmission of S. aureus in ICU	1977
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-24; Staphylococcus aureus	1341
+Staphylococcus aureus whole genome sequencing from ModMedMicro study of within host evolution in disease	1163
+Staphylococcus aureus whole genome sequencing	907
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-27; Staphylococcus aureus	872
+This sample has been submitted by Wellcome Sanger Institute on 2013-06-10; Staphylococcus aureus	843
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-06; Staphylococcus aureus	665
+Staphylococcus aureus; Staphylococcus aureus	621
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-28; Staphylococcus aureus	523
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-11; Staphylococcus aureus	512
+This sample has been submitted by Wellcome Sanger Institute on 2015-03-05; Staphylococcus aureus	475
+This sample has been submitted by Wellcome Sanger Institute on 2013-08-09; Staphylococcus aureus	471
+MRSA from S. London study	448
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-19; Staphylococcus aureus	437
+Staphylococcus aureus	409
+This sample has been submitted by HMRI-DID on 2014-10-12; Staphylococcus aureus	403
+This sample has been submitted by Wellcome Sanger Institute on 2013-03-04; Staphylococcus aureus subsp. aureus TW20	384
+This sample has been submitted by Wellcome Sanger Institute on 2015-05-20; Staphylococcus aureus	383
+This sample has been submitted by pda|nclairegordon on 2018-05-17; Staphylococcus aureus	380
+This sample has been submitted by Wellcome Sanger Institute on 2014-10-21; Staphylococcus aureus	380
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-20; Staphylococcus aureus	377
+This sample has been submitted by Wellcome Sanger Institute on 2014-08-22; Staphylococcus aureus	373
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-22; Staphylococcus aureus	370
+This sample has been submitted by pda|lavanya_challagundla on 2017-04-09; Staphylococcus aureus	355
+This sample has been submitted by Wellcome Sanger Institute on 2015-04-02; Staphylococcus aureus	336
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-23; Staphylococcus aureus	321
+This sample has been submitted by pda|100kgenomeproject on 2016-02-25; Staphylococcus aureus	311
+This sample has been submitted by Wellcome Sanger Institute on 2012-02-27; Staphylococcus aureus	301
+This sample has been submitted by Wellcome Sanger Institute on 2012-07-12; Staphylococcus aureus	288
+This sample has been submitted by pda|darwinw13 on 2017-07-04; Staphylococcus aureus	288
+This sample has been submitted by Wellcome Sanger Institute on 2014-02-19; Staphylococcus aureus	284
+This sample has been submitted by Wellcome Sanger Institute on 2014-05-16; Staphylococcus aureus	282
+isolate NRC routine 02/2014	279
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-02; Staphylococcus aureus	270
+NA	268
+This sample has been submitted by Wellcome Sanger Institute on 2011-11-15; Staphylococcus aureus	259
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-26; Staphylococcus aureus	246
+This sample has been submitted by Wellcome Sanger Institute on 2014-04-08; Staphylococcus aureus	229
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-21; Staphylococcus aureus	223
+This sample has been submitted by Wellcome Sanger Institute on 2014-07-30; Staphylococcus aureus	221
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-05; Staphylococcus aureus	214
+This sample has been submitted by Wellcome Sanger Institute on 2011-09-23; Staphylococcus aureus	212
+This sample has been submitted by pda|jonathan.m.monk@gmail.com on 2018-08-24; Staphylococcus aureus	209
+This sample has been submitted by Wellcome Sanger Institute on 2011-04-05; Staphylococcus aureus	191
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-10; Staphylococcus aureus	188
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-15; Staphylococcus aureus	185
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-14; Staphylococcus aureus	184
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-21; Staphylococcus aureus	182
+This sample has been submitted by pda|msater@hsph.harvard.edu on 2017-11-09; Staphylococcus aureus	180
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-23; Staphylococcus aureus	176
+This sample has been submitted by Wellcome Sanger Institute on 2014-01-09; Staphylococcus aureus	170
+This sample has been submitted by Wellcome Sanger Institute on 2011-08-22; Staphylococcus aureus	169
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-13; Staphylococcus aureus	164
+This sample has been submitted by Wellcome Sanger Institute on 2011-06-02; Staphylococcus aureus	162
+This sample has been submitted by pda|troro on 2017-10-27; Staphylococcus aureus	157
+MRSA ST5	153
+This sample has been submitted by Wellcome Sanger Institute on 2013-07-24; Staphylococcus aureus	152
+This sample has been submitted by Emory University on 2015-02-13; Staphylococcus aureus	147
+This sample has been submitted by Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark on 2016-12-09; Staphylococcus aureus	138
+This sample has been submitted by pda|kep02 on 2017-11-08; Staphylococcus aureus	137
+This sample has been submitted by pda|fjaverliat on 2017-11-09; Staphylococcus aureus	131
+Pathogen sample from Staphylococcus aureus	125
+This sample has been submitted by pda|kranthiv1889 on 2015-11-07; Staphylococcus aureus	123
+S. aureus CC59 isolate	120
+This sample has been submitted by pda|schultzm303 on 2017-11-30; Staphylococcus aureus	112
+This sample has been submitted by pda|stevesal on 2015-07-08; Staphylococcus aureus	112
+This sample has been submitted by Wellcome Sanger Institute on 2012-11-13; Staphylococcus aureus	110
+This sample has been submitted by Wellcome Sanger Institute on 2010-03-30; Staphylococcus aureus	106
+MOST - Development Set	105
+This sample has been submitted by Wellcome Sanger Institute on 2013-08-28; Staphylococcus aureus subsp. aureus TW20	96
+CC80 S. aureus evolution	96
+This sample has been submitted by Wellcome Sanger Institute on 2013-10-24; Staphylococcus aureus	96
+This sample has been submitted by Wellcome Sanger Institute on 2012-08-21; Staphylococcus aureus	95
+This sample has been submitted by Wellcome Sanger Institute on 2015-02-12; Staphylococcus aureus	94
+This sample has been submitted by Wellcome Sanger Institute on 2013-11-05; Staphylococcus aureus	94
+This sample has been submitted by Wellcome Sanger Institute on 2013-04-09; Staphylococcus aureus	94
+SAB	93
+This sample has been submitted by Wellcome Sanger Institute on 2012-07-27; Staphylococcus aureus	92
+This sample has been submitted by Wellcome Sanger Institute on 2012-04-02; Staphylococcus aureus	91
+This sample has been submitted by Wellcome Sanger Institute on 2012-05-24; Staphylococcus aureus	91
+Staphylococcus aureus in Gambian humans and monkeys.	90
+This sample has been submitted by Wellcome Sanger Institute on 2011-03-02; Staphylococcus aureus	89
+This sample has been submitted by Wellcome Sanger Institute on 2012-03-15; Staphylococcus aureus	88
+This sample has been submitted by Wellcome Sanger Institute on 2013-02-27; Staphylococcus aureus	82
+This sample has been submitted by Wellcome Sanger Institute on 2013-01-24; Staphylococcus aureus	80
+This sample has been submitted by pda|sjg172 on 2018-02-02; Staphylococcus aureus	80
+This sample has been submitted by pda|fdacvm on 2016-09-02; Staphylococcus aureus	78
+This sample has been submitted by pda|kblilly on 2017-01-26; Staphylococcus aureus	78
+This sample has been submitted by pda|yaqiyou on 2017-09-29; Staphylococcus aureus	77
+This sample has been submitted by Wellcome Sanger Institute on 2014-11-03; Staphylococcus aureus	76
+This sample has been submitted by pda|hollyhooray on 2017-12-14; Staphylococcus aureus	76
+This sample has been submitted by Emory University on 2014-06-27; Staphylococcus aureus	75
+This sample has been submitted by Wellcome Sanger Institute on 2015-01-20; Staphylococcus aureus	73
+This sample has been submitted by pda|sky_qianqian on 2017-10-27; Staphylococcus aureus	71
+This sample has been submitted by pda|phelimbradley90@gmail.com on 2015-09-29; Staphylococcus aureus	67
+This sample has been submitted by Wellcome Sanger Institute on 2010-02-26; Staphylococcus aureus	66
+This sample has been submitted by Wellcome Sanger Institute on 2012-10-04; Staphylococcus aureus	65
+This sample has been submitted by Wellcome Sanger Institute on 2012-12-12; Staphylococcus aureus	64
+This sample has been submitted by Wellcome Sanger Institute on 2015-06-22; Staphylococcus aureus	60
+This sample has been submitted by pda|akarkaba on 2017-11-08; Staphylococcus aureus	59
+
+dev_stage
+!blank	53225
+Matured	1
+
+ecotype
+!blank	53226
+
+environmental_sample
+false	52841
+true	385
+
+first_public
+2017-05-19	1977
+2017-11-08	1375
+2014-02-01	1027
+2014-11-20	976
+2015-01-08	963
+2014-06-24	847
+2014-07-02	810
+2015-01-20	706
+2018-04-17	667
+2014-01-17	649
+2017-04-25	622
+2013-11-05	583
+2012-12-18	557
+2017-01-11	519
+2017-12-06	518
+2015-12-01	504
+2017-05-27	499
+2015-05-12	482
+2013-08-30	479
+2016-08-23	456
+2018-05-17	454
+2011-04-28	431
+2015-05-26	430
+2016-08-03	427
+2015-05-29	427
+2014-10-22	403
+2018-04-05	389
+2014-12-16	386
+2012-04-17	385
+2012-08-21	383
+2013-12-02	381
+2012-04-30	381
+2013-10-14	375
+2015-03-03	374
+2015-01-27	368
+2018-04-24	360
+2017-04-04	356
+2017-04-09	355
+2018-04-10	351
+2012-06-06	345
+2014-02-21	336
+2017-02-04	333
+2012-02-07	331
+2016-08-15	331
+2015-10-13	328
+2010-03-05	325
+2017-10-27	316
+2013-10-21	312
+2016-02-25	311
+2017-11-09	311
+2017-08-04	294
+2017-09-14	290
+2016-12-21	288
+2017-07-04	288
+2014-08-04	284
+2012-03-20	283
+2012-07-23	283
+2014-06-04	283
+2017-07-17	281
+2017-11-15	279
+2013-11-07	276
+2014-09-16	275
+2015-06-08	274
+2014-07-01	273
+2016-07-19	272
+2011-02-14	271
+2016-09-20	270
+2018-09-15	268
+2017-05-24	267
+2013-03-05	260
+2014-02-20	257
+2011-11-07	255
+2014-06-05	250
+2013-12-16	249
+2013-05-28	245
+2017-07-06	242
+2017-06-22	241
+2014-02-04	232
+2012-06-11	227
+2015-09-22	225
+2016-10-07	219
+2017-03-07	214
+2012-04-12	211
+2018-08-24	209
+2018-01-18	208
+2014-04-28	202
+2012-11-06	192
+2013-11-15	191
+2015-03-17	191
+2012-10-22	191
+2013-03-11	190
+2015-05-06	190
+2015-07-28	190
+2016-08-16	189
+2015-09-08	189
+2012-07-16	188
+2017-03-21	186
+2016-11-08	186
+2017-07-03	186
+2016-11-01	185
+
+germline
+false	53226
+
+identified_by
+!blank	53225
+Ting Pang	1
+
+isolate
+!blank	42722
+EMRSA15	914
+EMRSA16	176
+Staphylococcus aureus	106
+lukS-PV	31
+community associated	24
+hospital assocated	24
+culture	14
+UAMS-1	12
+not collected	10
+Meat	9
+Hematopoietic stem cell transplant recipient	8
+RU-CAMP-19	6
+RU-CAMP-18	6
+ATCC 25904	6
+Transposon Library Pool	6
+cheese	6
+RU-CAMP-29	6
+RU-CAMP-28	6
+11	5
+10	5
+34	5
+CFBR-101	5
+CFBR-105	5
+FPR 3757	5
+2	4
+SH1000	4
+3	4
+7	4
+WT	4
+21	4
+8	4
+35	4
+1	4
+90	3
+41	3
+108	3
+66	3
+6	3
+CFBR-280	3
+38	3
+pig swab	3
+MHO_001	3
+H173_M06	3
+clinical isolate	3
+12	3
+14	3
+18	3
+4	3
+Wound	3
+24	3
+22	3
+23	3
+28	3
+33	3
+32	3
+30	3
+47	3
+44	3
+56	3
+5	3
+preEMRSA15	3
+79	3
+9	3
+91	2
+96	2
+147-NC3	2
+59	2
+H185_Ex05	2
+Sequencing	2
+61	2
+62	2
+H247_M12	2
+LGA251	2
+099-NC2	2
+NRS384-rpoB-L488S	2
+149-NC5	2
+268-NC5	2
+H251_M06	2
+091-NC3	2
+250-NC4	2
+Lab strain	2
+A1	2
+A2	2
+147	2
+016-NC5	2
+153-NC4	2
+40	2
+sequencing	2
+107	2
+RH12000340-301-G03-2	2
+17	2
+Clinical isolate	2
+PR292	2
+059-NC5	2
+13	2
+15	2
+16	2
+19	2
+H280_Ex05	2
+
+isolation_source
+!blank	33021
+blood	1965
+nose	1319
+Wound	913
+clinical sample	908
+not known	890
+Blood	765
+nares	595
+Nasal swab	575
+Nares	549
+Skin	515
+sputum	406
+case	352
+Culture	351
+culture	310
+Host	302
+Nose	291
+Sample from soft tissue	267
+Blood for culture	265
+Not known	259
+Bodily fluid	255
+not collected	249
+MRSA Screen - Nose/Throat/Perineum	236
+Sputum	234
+Other	229
+Human body	225
+hospital ICU	206
+wound	204
+nasal	185
+patients	180
+environment	179
+laboratory	177
+throat	171
+MRSA screen	169
+soft tissue	154
+Respiratory	151
+nares or umbillicus	141
+human clinical	140
+Leg infection	137
+Blood Culture	120
+Human clinical sample	112
+Bulk tank milk	109
+Invasive	105
+USA	99
+not available: to be reported later	97
+Hiroshima University Hospital, Hiroshima, Japan	95
+nasal swab	94
+Skin or soft tissue	90
+perineum	89
+lab evolved	83
+Tissue	81
+Bulk milk	71
+human clinical specimen	70
+household surface	65
+Sample from bone or joint	65
+human	64
+Foremilk	63
+Nasal	59
+MRSA [Broth]	58
+Abscess	57
+Urine	56
+Laboratory strain	52
+swab	51
+Joint fluid	51
+Human	49
+Wound swab	49
+Cow	48
+urine	46
+Diabetic Foot Sample	45
+respiratory sample	43
+milk	39
+Norway	38
+pus	37
+cultured	37
+clinical	37
+Ground Turkey	36
+Facility E	35
+throat swab	34
+Perineum	32
+Bone	32
+Facility 3	31
+Prosthetic joint infection	31
+groin	31
+tip	31
+nasal or rectal swab	30
+blood culture	30
+Osteomyelitis	30
+wound swab	29
+Facility F	29
+Facility 4	29
+lab strain	28
+tracheal secretion	26
+swine facility	26
+Respiratory tract	26
+Milk	25
+In Vitro Derived	25
+Clinical specimen	25
+bronchial washings	23
+laboratory mutant	23
+Goat	22
+
+location
+!blank	47079
+50.82 N 0.12 W	1977
+51.76 N 1.22 W	1065
+55.64252 N 12.475386 E	207
+56.46 N 2.99 W	200
+42.3601 N 71.0589 W	195
+51.0 N 1.0 E	187
+44.02 N 92.47 W	152
+57.15 N 2.11 W	145
+49.60531 N 6.138541 E	125
+32.3913 N 84.8229 W	124
+41.1474 S 174.8389 E	112
+50.82 N 0.11 W	98
+34.37931 N 132.47807 E	95
+31.22 N 121.45 E	76
+42.370296 N 83.07622 W	76
+39.027378 N 94.66478 W	63
+31.5 N 34.5 E	58
+33.44342 S 70.640625 W	57
+53.32 N 6.31 E	50
+46.5 N 6.5 E	50
+33.749 N 84.388 W	49
+53.35 N 6.26 E	49
+41.30902 N 72.928734 W	46
+32.8801 N 117.234 W	45
+51.0 N 1.0 W	45
+40.4397 N 79.9764 W	40
+51.0 N 0.0 E	39
+60.472 N 8.4689 E	38
+53.33 N 10.0 E	35
+55.0 N 2.0 W	33
+56.42 N 2.98 W	30
+52.52 N 13.41 E	30
+56.47 N 2.96 W	25
+29.708014 N 95.40165 W	24
+52.526943 N 13.377222 E	24
+34.43 N 86.35 W	20
+56.33 N 2.87 W	20
+51.37 N 3.57 W	18
+51.9667 N 7.6333 E	16
+56.49 N 3.01 W	15
+55.67611 N 12.568333 E	15
+40.433334 N 3.683333 W	14
+32.88 N 117.23 W	13
+46.5248 N 6.6437 E	13
+51.525444 N 0.1336588 W	10
+51.3 N 0.7 W	10
+46.94917 N 7.44722 E	10
+43.0096 N 81.2737 W	10
+33.797245 N 84.31097 W	9
+52.0 N 1.0 E	9
+51.497868 N 0.1188407 W	9
+57.15498 N 2.136122 W	9
+51.8 N 1.5 W	8
+37.4335 N 122.1754 W	8
+45.8336 N 1.2611 E	7
+12.45 S 130.8333 E	6
+32.11 N 119.25 E	6
+27.4667 S 153.0333 E	6
+3.32 S 37.327 E	6
+55.65 N 37.49 E	5
+51.5 N 0.0 E	5
+35.6933 N 139.692 E	5
+51.924217 N 4.481776 E	5
+24.7136 N 46.6753 E	5
+48.81 N 2.42 E	4
+35.41 N 139.41 E	4
+53.32 N 3.49 W	4
+40.7127 N 74.0059 W	4
+38.9847 N 77.0947 W	4
+51.1657 N 10.4515 E	4
+40.21 N 8.43 W	4
+36.63 N 127.32 E	4
+40.85 N 73.92 W	4
+40.57605 S 73.13689 W	4
+38.984653 N 77.09471 W	4
+51.77124 N 1.2826478 W	4
+51.0 N 4.0 W	4
+54.6 N 5.93 W	4
+40.35 N 3.83 W	3
+51.46 N 2.59 W	3
+50.51 N 4.21 E	3
+38.54 N 77.0 W	3
+48.11 N 1.68 W	3
+51.48 N 3.18 W	3
+38.75 N 9.16 W	3
+49.8175 N 15.473 E	3
+51.751724 N 1.255285 W	3
+40.57605 S 73.13688 W	3
+48.39 N 4.49 W	3
+33.51 S 151.12 E	2
+39.48 N 6.37 W	2
+42.55 N 6.59 W	2
+53.47925 N 2.247926 W	2
+32.3661 N 84.9692 W	2
+41.55 N 8.42 W	2
+38.35 N 0.48 W	2
+50.8 N 1.09 W	2
+43.22 N 2.81 W	2
+53.0 N 2.0 W	2
+
+mating_type
+!blank	53226
+
+serotype
+!blank	50283
+Spa t008	966
+not known	416
+ST8	387
+CC398	305
+not available: to be reported later	121
+t008	102
+MRSA	86
+spa-type t032	73
+pvl	67
+t045	39
+spa-type t003	35
+ST250	27
+ST247	25
+t021	24
+USA300, ST8, mecA, spa type t008, agr grp I, SSCmec type Iva	20
+spa-type t002	15
+ST121	14
+spa-type t008	10
+Spa t002	7
+spa-type t022	7
+spa-type t014	6
+spa-type t045	5
+spa-type t688	5
+spa-type t037	5
+mecA, SSCmec type II	5
+spa-type t105	4
+Spa t242	4
+spa-type t294	4
+spa-type t6129	3
+spa-type t1814	3
+spa-type t954	3
+spa-type t223	3
+spa-type t127	3
+spa-type t044	3
+spa-type t012	3
+spa-type t011	3
+spa-type t651	3
+spa-type t8001	3
+mecA, SSCmec type IV	3
+spa-type t084	3
+spa-type t321	2
+spa-type t2873	2
+SCCmec1	2
+spa-type t318	2
+spa-type t608	2
+mecA, SSCmec type I	2
+spa-type t034	2
+Spa t088	2
+ST71	2
+SED	2
+spa-type t020	2
+spa-type t021	2
+spa-type t026	2
+spa-type t346	2
+spa-type t267	2
+spa-type t091	2
+spa-type t159	2
+spa-type t843	2
+spa-type t3151	2
+Spa t1882	1
+spa-type t1403	1
+Spa t6219	1
+spa-type t578	1
+not collected	1
+spa-type t209	1
+lukS-PV, SCCmec type IVa	1
+Rosenbach, Seattle 1945	1
+SCCmecIV	1
+4 R	1
+mecA positive, mecC negative	1
+spa-type t8581	1
+Spa t127	1
+ST398	1
+spa-type t4338	1
+spa-type t749	1
+spa-type t2006	1
+Serovar 13	1
+spa-type t186	1
+spa-type t2646	1
+spa-type t13454	1
+spa-type t116	1
+spa-type t4450	1
+spa-type t309	1
+SCCmec type IV	1
+spa-type t1302	1
+spa-type t304	1
+spa-type t690	1
+EMRSA-13	1
+spa-type t1287	1
+spa-type t121	1
+spa-type t11858	1
+spa-type t449	1
+Serotype C	1
+Serotype B	1
+Serotype 12	1
+9 R	1
+Serotype 11	1
+spa-type t529	1
+spa-type t2844	1
+
+serovar
+!blank	50283
+Spa t008	966
+not known	416
+ST8	387
+CC398	305
+not available: to be reported later	121
+t008	102
+MRSA	86
+spa-type t032	73
+pvl	67
+t045	39
+spa-type t003	35
+ST250	27
+ST247	25
+t021	24
+USA300, ST8, mecA, spa type t008, agr grp I, SSCmec type Iva	20
+spa-type t002	15
+ST121	14
+spa-type t008	10
+Spa t002	7
+spa-type t022	7
+spa-type t014	6
+spa-type t045	5
+spa-type t688	5
+spa-type t037	5
+mecA, SSCmec type II	5
+spa-type t105	4
+Spa t242	4
+spa-type t294	4
+spa-type t6129	3
+spa-type t1814	3
+spa-type t954	3
+spa-type t223	3
+spa-type t127	3
+spa-type t044	3
+spa-type t012	3
+spa-type t011	3
+spa-type t651	3
+spa-type t8001	3
+mecA, SSCmec type IV	3
+spa-type t084	3
+spa-type t321	2
+spa-type t2873	2
+SCCmec1	2
+spa-type t318	2
+spa-type t608	2
+mecA, SSCmec type I	2
+spa-type t034	2
+Spa t088	2
+ST71	2
+SED	2
+spa-type t020	2
+spa-type t021	2
+spa-type t026	2
+spa-type t346	2
+spa-type t267	2
+spa-type t091	2
+spa-type t159	2
+spa-type t843	2
+spa-type t3151	2
+Spa t1882	1
+spa-type t1403	1
+Spa t6219	1
+spa-type t578	1
+not collected	1
+spa-type t209	1
+lukS-PV, SCCmec type IVa	1
+Rosenbach, Seattle 1945	1
+SCCmecIV	1
+4 R	1
+mecA positive, mecC negative	1
+spa-type t8581	1
+Spa t127	1
+ST398	1
+spa-type t4338	1
+spa-type t749	1
+spa-type t2006	1
+Serovar 13	1
+spa-type t186	1
+spa-type t2646	1
+spa-type t13454	1
+spa-type t116	1
+spa-type t4450	1
+spa-type t309	1
+SCCmec type IV	1
+spa-type t1302	1
+spa-type t304	1
+spa-type t690	1
+EMRSA-13	1
+spa-type t1287	1
+spa-type t121	1
+spa-type t11858	1
+spa-type t449	1
+Serotype C	1
+Serotype B	1
+Serotype 12	1
+9 R	1
+Serotype 11	1
+spa-type t529	1
+spa-type t2844	1
+
+sex
+!blank	53198
+male	27
+female	1
+
+submitted_sex
+!blank	53149
+Other	49
+male	27
+Female	1
+
+specimen_voucher
+!blank	53225
+not collected	1
+
+strain
+!blank	25829
+MSSA	2168
+MRSA	667
+TW20	555
+USA500	550
+RN4220	454
+ST239	402
+ST93	391
+not collected	381
+ST398	265
+USA300	249
+ST22	225
+ST5	175
+HG003	165
+ST772	141
+ATCC 25923	86
+Staphylococcus aureus	83
+Newman	71
+ST8	56
+NRS384	54
+SACOL	44
+USA300 LAC	31
+N315	30
+USA300_FPR3757	26
+t002	25
+NCTC 8325	24
+MW2	21
+T126 N20	20
+Staphylococcus aureus ST398	20
+T126 N6	20
+T126 N1	20
+T126 N13	20
+CC398	17
+clinical isolate	17
+04-02981	17
+55488	15
+USA300_P23	15
+USA300_TCH1516	15
+USA100	14
+UKST63/485	14
+CC9/CC398	14
+t008	14
+E4278	14
+451516	13
+UK13136	13
+MSSA476	13
+ATCC 15811	12
+E2125	12
+LYO-S2	12
+TCH1516	11
+ST3933	11
+USA300_TCH959	10
+MSSA 476	10
+SH1000	9
+Mu50	9
+ATCC 29213	8
+ST228	8
+8325	8
+ST231	7
+screening isolate	7
+t012	7
+HG001	6
+JE2	6
+ST45	6
+Staphylococcus aureus Newman	6
+WCH-SK2	6
+EMRSA16	6
+{delta}rsaE pRMC2-rsaE	6
+IPLA 1	6
+EMRSA15	5
+UAMS-1	5
+USA 300	5
+SO385	5
+COL	5
+t688	5
+ST105	5
+S0385	5
+USA300 Houston	5
+CN79	5
+9B	4
+t084	4
+Balb/c	4
+Standard strain ATCC29213	4
+2007-70-91-4-SPA	4
+MRSA-M2	4
+MRSA BD02-25	4
+BUSA2288	4
+M34-B-1_11	4
+2008-60-970-1	4
+S. aureus USA300_FPR3757	4
+RH 0600 0061 09	3
+t334	3
+M0060	3
+M1229	3
+RH 0600 0064 09	3
+R35	3
+98.4823.X	3
+T032	3
+HGSA142	3
+t189	3
+
+sub_species
+!blank	52489
+aureus	680
+MRSA	55
+anaerobius	2
+
+sub_strain
+!blank	53222
+USA300 LAC selx EKQD-A	1
+wild type	1
+USA300 LACÎselx	1
+USA300 LAC Îselx rep	1
+
+tissue_lib
+!blank	53226
+
+tissue_type
+!blank	53213
+Biofilm cells	6
+Late-exponentially grown cells	6
+milk	1
+
+variety
+!blank	53226
+
+tax_id
+1280	47171
+663951	534
+561307	339
+46170	265
+367830	66
+426430	65
+93061	63
+1210042	30
+282459	22
+451516	19
+1385527	13
+158878	12
+451515	9
+1074919	8
+1242970	7
+523796	6
+93062	5
+1157008	3
+1214901	3
+72759	3
+1157009	2
+1157005	2
+1157004	2
+1157007	2
+1157000	2
+1157002	2
+1158536	2
+1157018	2
+1157019	2
+1157012	2
+1157013	2
+1157011	2
+1157016	2
+1157017	2
+1157014	2
+1157015	2
+904785	2
+904780	2
+931443	2
+1158505	2
+1224920	2
+904779	2
+904778	2
+904775	2
+904790	2
+1224919	2
+1158518	2
+1158514	2
+1158515	2
+1158511	2
+585139	2
+1242971	2
+1158687	2
+875057	2
+1158493	2
+1158492	2
+1158491	2
+1158490	2
+1158497	2
+1158496	2
+1158495	2
+1158494	2
+1158703	2
+1158702	2
+1158701	2
+1158700	2
+1158707	2
+1158706	2
+1158705	2
+1158704	2
+1213729	2
+1213721	2
+1213723	2
+1213722	2
+1213725	2
+1213727	2
+1213726	2
+585160	2
+1158480	2
+1158481	2
+1158482	2
+1158483	2
+1158484	2
+1158485	2
+1158487	2
+1158488	2
+1158489	2
+1158711	2
+1213732	2
+1213733	2
+1213730	2
+585156	2
+1158486	2
+282458	2
+1157030	2
+1157031	2
+1157032	2
+1157033	2
+1169273	2
+1169272	2
+
+scientific_name
+Staphylococcus aureus	47171
+Staphylococcus aureus subsp. aureus TW20	534
+Staphylococcus aureus subsp. aureus RN4220	339
+Staphylococcus aureus subsp. aureus	265
+Staphylococcus aureus subsp. aureus USA300	66
+Staphylococcus aureus subsp. aureus str. Newman	65
+Staphylococcus aureus subsp. aureus NCTC 8325	63
+Staphylococcus aureus subsp. aureus ST22	30
+Staphylococcus aureus subsp. aureus MSSA476	22
+Staphylococcus aureus subsp. aureus USA300_TCH1516	19
+Staphylococcus aureus USA300-0114	13
+Staphylococcus aureus subsp. aureus Mu50	12
+Staphylococcus aureus subsp. aureus USA300_FPR3757	9
+Staphylococcus aureus subsp. aureus ST228	8
+Staphylococcus aureus CN79	7
+Staphylococcus aureus subsp. aureus ST398	6
+Staphylococcus aureus subsp. aureus COL	5
+Staphylococcus aureus M0060	3
+Staphylococcus aureus M0646	3
+Staphylococcus aureus subsp. anaerobius	3
+Staphylococcus aureus M1565	2
+Staphylococcus aureus M1167	2
+Staphylococcus aureus M1309	2
+Staphylococcus aureus M0363	2
+Staphylococcus aureus M0364	2
+Staphylococcus aureus M0964	2
+Staphylococcus aureus M0415	2
+Staphylococcus aureus M0144	2
+Staphylococcus aureus M0565	2
+Staphylococcus aureus M0892	2
+Staphylococcus aureus B40950	2
+Staphylococcus aureus subsp. aureus 21196	2
+Staphylococcus aureus subsp. aureus 21195	2
+Staphylococcus aureus subsp. aureus 21194	2
+Staphylococcus aureus subsp. aureus 21193	2
+Staphylococcus aureus M0934	2
+Staphylococcus aureus M1170	2
+Staphylococcus aureus M1311	2
+Staphylococcus aureus M0312	2
+Staphylococcus aureus M0953	2
+Staphylococcus aureus M0221	2
+Staphylococcus aureus M0045	2
+Staphylococcus aureus M0288	2
+Staphylococcus aureus subsp. aureus WBG10049	2
+Staphylococcus aureus subsp. aureus 21189	2
+Staphylococcus aureus subsp. aureus IS-88	2
+Staphylococcus aureus B147830	2
+Staphylococcus aureus M1142	2
+Staphylococcus aureus M0306	2
+Staphylococcus aureus M0943	2
+Staphylococcus aureus M0944	2
+Staphylococcus aureus M0239	2
+Staphylococcus aureus M1322	2
+Staphylococcus aureus subsp. aureus IS-99	2
+Staphylococcus aureus subsp. aureus IS-91	2
+Staphylococcus aureus HI049	2
+Staphylococcus aureus M1083	2
+Staphylococcus aureus M0340	2
+Staphylococcus aureus M0687	2
+Staphylococcus aureus M0844	2
+Staphylococcus aureus M1216	2
+Staphylococcus aureus HIF003_B2N-C	2
+Staphylococcus aureus subsp. aureus M1015	2
+Staphylococcus aureus subsp. aureus M1016	2
+Staphylococcus aureus M1188	2
+Staphylococcus aureus M0326	2
+Staphylococcus aureus M0328	2
+Staphylococcus aureus M0329	2
+Staphylococcus aureus M1450	2
+Staphylococcus aureus M0695	2
+Staphylococcus aureus M0212	2
+Staphylococcus aureus M0213	2
+Staphylococcus aureus M0210	2
+Staphylococcus aureus M0580	2
+Staphylococcus aureus M0455	2
+Staphylococcus aureus M0104	2
+Staphylococcus aureus M0450	2
+Staphylococcus aureus M0103	2
+Staphylococcus aureus M1198	2
+Staphylococcus aureus M1199	2
+Staphylococcus aureus M0663	2
+Staphylococcus aureus M0660	2
+Staphylococcus aureus M0001	2
+Staphylococcus aureus M0460	2
+Staphylococcus aureus M0467	2
+Staphylococcus aureus M0468	2
+Staphylococcus aureus M0489	2
+Staphylococcus aureus M0719	2
+Staphylococcus aureus M0066	2
+Staphylococcus aureus M1291	2
+Staphylococcus aureus M0676	2
+Staphylococcus aureus M1277	2
+Staphylococcus aureus M1275	2
+Staphylococcus aureus M0279	2
+Staphylococcus aureus M0270	2
+Staphylococcus aureus M0273	2
+Staphylococcus aureus M0871	2
+Staphylococcus aureus M0877	2
+Staphylococcus aureus M0478	2
+Staphylococcus aureus M0493	2
+
+sample_alias
+1	5
+A2	4
+C1	4
+33	3
+H10	3
+171	3
+2	3
+Staphylococcus aureus	3
+11	3
+17	3
+16	3
+19	3
+25	3
+26	3
+27	3
+20	3
+21	3
+23	3
+28	3
+32	3
+31	3
+30	3
+36	3
+35	3
+34	3
+A3	3
+A5	3
+18	3
+C2	3
+C4	3
+24	3
+22	3
+29	3
+7231121_2	2
+USA300	2
+M3	2
+M2	2
+C00022879	2
+C00022870	2
+195	2
+7	2
+C00006429	2
+DL688	2
+C00022827	2
+C00022828	2
+C00022829	2
+C00022873	2
+C00022872	2
+C00022871	2
+C00022874	2
+C00006422	2
+C00006423	2
+C00006427	2
+C00006424	2
+C00006425	2
+C00006428	2
+9	2
+1061	2
+B10	2
+C9	2
+18439-61	2
+C00022914	2
+C00022916	2
+C00022917	2
+C00022910	2
+C00022911	2
+C00022912	2
+C00022913	2
+12782-4	2
+122	2
+123	2
+126	2
+D6	2
+4	2
+UTSW MRSA 55	2
+18439-49	2
+C00022830	2
+M0060	2
+C00007018	2
+C00007019	2
+6	2
+F2	2
+F8	2
+6314	2
+C00006430	2
+C00022856	2
+C00022850	2
+C00022859	2
+109	2
+107	2
+M1	2
+C00007021	2
+C00007020	2
+10	2
+12	2
+15	2
+14	2
+C00022868	2
+C00022869	2
+C00022867	2
+
+checklist
+ERC000011	25937
+!blank	24407
+ERC000028	2142
+ERC000029	247
+ERC000014	1
+
+center_name
+Wellcome Sanger Institute	5201
+ModMedMicOxford	4049
+Broad Institute	966
+LSHTM	742
+University Hospital Muenster	678
+pda|mfrisch3	642
+The Roslin Institute and Royal (Dick) School of Veterinary Studies, University of Edinburgh	485
+HMRI-DID	403
+St Andrews Bioinformatics Unit	389
+pda|nclairegordon	380
+pda|lavanya_challagundla	356
+ROBERT KOCH-INSTITUTE	303
+pda|darwinw13	281
+pda|vkos	275
+pda|apirani	268
+pda|jonathan.m.monk@gmail.com	254
+UNIVERSITY OF MELBOURNE	232
+pda|taj.azarian	229
+pda|benizao	220
+Centre for Genomic Epidemiology, National Food Institute, Technical University of Denmark (DTU), Denmark	218
+DTU Bioinformatics	207
+pda|msater@hsph.harvard.edu	180
+THE ROSLIN INSTITUTE	152
+pda|kep02	152
+pda|fjaverliat	131
+pda|tracy_nicholson	128
+pda|kblilly	116
+pda|stevesal	113
+pda|schultzm303	112
+The University of Melbourne, Australia	106
+STATENS SERUM INSTITUT	96
+pda|irhotep@gmail.com	95
+University of Warwick	90
+pda|sjg172	80
+pda|yaqiyou	77
+pda|hollyhooray	76
+pda|sky_qianqian	72
+pda|troro	67
+pda|rpetit	65
+pda|felipe.melis@gmail.com	64
+University of Washington	60
+pda|akarkaba	59
+pda|hsichtig	56
+UBC	55
+European Bioinformatics Institute	52
+pda|vladimir_g	48
+pda|mkrauland	40
+pda|chga	38
+pda|jack.davison@nih.gov	36
+pda|malekadel	32
+ANIMAL AND PLANT HEALTH AGENCY	30
+Robert Koch Institut	29
+TGen North	28
+UWSP	27
+Instituto de Tecnologia Quimica e Biologica Antonio Xavier	27
+University of Bath	24
+AIDRC	23
+CFSAN	23
+pda|jesper_larsen	22
+pda|teganharris	21
+pda|waalkes	21
+pda|nanaa	21
+University Hospital Munster	21
+pda|grace1107	19
+St George's, University of London	18
+pda|rpbbio	15
+University Medical Center Groningen	15
+!blank	15
+Lausanne University Hospital	15
+PUBLIC HEALTH ENGLAND	14
+pda|eviedma	14
+pda|mis064	13
+Emory University	12
+University of Liverpool	12
+Department of Chemistry, Biotechnology and Food Science (IKBM), Norwegian University of Life Sciences (NMBU), NORWAY	12
+pda|zzon6681	12
+Lab Pharmaceutical Microbiology, Ghent University	12
+pda|ramarquezor	10
+pda|orlakeane	10
+pda|dheinrichs	10
+pda|claireyt	9
+pda|zbauj	9
+pda|gerbix	9
+pda|johnston	9
+pda|annejamet	9
+pda|dmerrell	8
+1	8
+pda|conlans	8
+pda|tamburinifb	8
+pda|xz060	7
+pda|chrisgulvik	7
+University clinic Muenster	7
+pda|3298189	7
+pda|patiyan	7
+The Pennsylvania State University	6
+pda|woshikongzhen	6
+pda|kateorme	6
+pda|huaxin198543	6
+Kilimanjaro Clinical Research Institute	6
+Freie Universitat Berlin Institut fur Biologie-Mikrobiologie	6
+
+depth
+!blank	20063
+1.0-85.0	1
+
+elevation
+!blank	20064
+
+altitude
+!blank	20064
+
+environment_biome
+!blank	19475
+human-associated habitat	555
+Lab culture	10
+terrestrial biome [ENVO:00000446]	9
+nosocomial	5
+human-associated	2
+Purulent Abscess	2
+organism-associated habitat	2
+human feces	1
+atheroma	1
+human	1
+hexachlorocyclohexane-contaminated soil	1
+
+environment_feature
+!blank	19373
+not collected	557
+Lab culture	10
+Human	5
+human-associated habitat [ENVO:00009003]	2
+human-associated habitat	2
+staphylococcal food poisoning	1
+industrial site	1
+lung	1
+skin	1
+knee	1
+
+environment_material
+!blank	19375
+not collected	549
+Tryptic soy broth	10
+organic material	2
+blood [ENVO:02000020]	1
+joint fluid	1
+purulent abscess	1
+biological product [ENVO:02000043]	1
+
+temperature
+!blank	19940
+
+salinity
+!blank	19940
+
+sampling_campaign
+!blank	19940
+
+sampling_site
+!blank	19940
+
+sampling_platform
+!blank	19940
+
+protocol_label
+!blank	19940
+
+project_name
+!blank	19927
+Considering of USA300 clone diversity	2
+Complete genome sequencing of Staphylococcus aureus strain JP02758	1
+Staphylococcus aureus aureus MRSA131	1
+PRJEB6981	1
+Staphylococcus aureus aureus USA300_TCH959	1
+Staphylococcus aureus aureus ATCC BAA-39	1
+Staphylococcus aureus aureus MRSA177	1
+Genome analysis of the Staphylococcus aureus complicated infection group	1
+Staphylococcus aureus aureus TCH130	1
+Staphylococcus aureus aureus TCH70	1
+Staphylococcus aureus aureus MN8	1
+Staphylococcus aureus aureus TCH60	1
+
+host
+Homo sapiens	12035
+human	3888
+Human	2200
+Not known	259
+homo sapiens	211
+Gallus gallus domesticus	165
+!blank	138
+Bovine	109
+Bos taurus	91
+not available: to be reported later	86
+Sus scrofa domesticus	80
+Homo Sapiens	62
+Cow	53
+canine	42
+Monkey	32
+Gallus gallus	31
+Pig	28
+Rat	25
+Rabbit	25
+In Vitro Derived	25
+Goat	22
+Sus scrofa	18
+Culture	18
+Cattle	16
+Horse	14
+Sheep	10
+Macaque	10
+cow	8
+sheep	7
+Primate	7
+Cat	5
+Chicken	5
+Avian (bird)	4
+feline	4
+Mus musculus	4
+Bacteria	4
+Meleagris gallopavo	3
+Pan troglodytes	3
+bovine	3
+Phasianus colchicus	3
+Oryctolagus cuniculus	3
+homo sapien	3
+Turkey	2
+Ruminant	2
+Perdix perdix	2
+Porcine	2
+ribbon fish	2
+Chicken (Hen)	1
+Human (Infant)	1
+Lamb	1
+Environment	1
+Sheep (Ewe)	1
+Capybara	1
+Hen	1
+Chaffinch	1
+Parrot	1
+Chimpanzee	1
+Ovine	1
+Human (neonate)	1
+Bos taurus (cow)	1
+HUMAN	1
+Canis lupus familiaris	1
+Sus domesticus	1
+Environment (animal-associated)	1
+Meerkat	1
+Pheasant	1
+Great Tit	1
+Environment (human-associated)	1
+Lion	1
+Rattus	1
+Seal	1
+
+host_tax_id
+9606	6978
+!blank	592
+9913	101
+9825	33
+9479	31
+9031	18
+9986	18
+9940	5
+10090	4
+9054	3
+9598	3
+9103	2
+9823	2
+9052	2
+9685	2
+9615	1
+
+host_status
+!blank	872
+diseased	12
+healthy	4
+
+host_sex
+!blank	479
+male	231
+female	178
+
+submitted_host_sex
+!blank	479
+
+host_body_site
+!blank	476
+Prosthetic knee	1
+Nasal	1
+Vaginal	1
+
+host_gravidity
+!blank	478
+Prosthetic knee	1
+
+host_phenotype
+!blank	479
+
+host_genotype
+!blank	479
+
+host_growth_conditions
+!blank	479
+
+environmental_package
+!blank	478
+human-associated	1
+
+investigation_type
+!blank	342
+prokaryote	133
+bacteria_archaea	2
+metagenome	1
+
+experimental_factor
+!blank	478
+
+sample_collection
+!blank	478
+
+sequencing_method
+!blank	335
+ILLUMINA	125
+ION_TORRENT	8
+
+target_gene
+!blank	468
+
+ph
+!blank	468
+
+broker_name
+

@@ -38,13 +38,14 @@ for line in infile:
 				dic_list[position][datum] = 1
 				continue
 
-print len(dic_list)
+print "Analyzed file " + sys.argv[1]
+print "Number of fields: " + str(len(dic_list))
 
 infile.close()
 
 # outfile stuff
 if "-F" in sys.argv:
-	outfile = open("outfile.txt", "w")
+	outfile = open(sys.argv[1].split(".txt")[0] + "_summary.txt", "w")
 	for dictionary in dic_names:
 		exclude = ["accession", "secondary_sample_accession"]
 		if dictionary not in exclude:
@@ -53,4 +54,5 @@ if "-F" in sys.argv:
 				outfile.write(k + "\t" + str(v) + "\n")
 			outfile.write("\n")
 
+print "Excluded fields in summary outfiles: " + str(exclude)
 outfile.close()
