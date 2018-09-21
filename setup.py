@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from setuptools import setup
 __author__ = 'adamkoziol'
 setup(
     name="BettaMetadata",
