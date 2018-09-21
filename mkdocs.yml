@@ -1,0 +1,10 @@
+site_name: BettaMetaMetadata
+site_name: BettaMetadata Documentation
+theme: readthedocs
+repo_url: 'https://github.com/transcript/BettaMetaData'
+
+nav:
+    - Home: 'index.md'
+    - Installation: 'installation.md'
+    - Tutorial: 'tutorial.md'
+    - Tests: 'tests.md'
