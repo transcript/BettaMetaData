@@ -1,4 +1,5 @@
 from term_help import Terms
+from subprocess import call
 from argparse import ArgumentParser
 import pandas as pd
 import os
@@ -12,6 +13,7 @@ class Validator(object):
         """
         self.read_tsv(self.metadata_file)
         self.create_lexmapr_inputs()
+        self.run_lexmapr()
 
     def read_tsv(self, tsvfile):
         """
@@ -42,14 +44,14 @@ class Validator(object):
 
     def create_lexmapr_inputs(self):
         """
-        Create a .tsv file of all headings that have at least on value. This .tsv file will be processed by
+        Create a .csv file of all headings that have at least on value. This .csv file will be processed by
         LexMapr in order to refine the ontologies
         :return:
         """
         # Ensure that the term list actually exists
         if self.term_list:
             # Create the header
-            data = '\t'.join(term for term in self.term_list)
+            data = ','.join(term for term in self.term_list)
             data += '\n'
             # Iterate through all the samples in the dictionary
             for primary_key in self.metadata_dict:
@@ -57,13 +59,25 @@ class Validator(object):
                     for term in self.term_list:
                         # Extract the value for the term for this sample
                         if field == term:
-                            data += '{value}\t'.format(value=value)
+                            if str(value) == 'nan':
+                                value = 'missing'
+                            data += '{value},'.format(value=value)
                 data += '\n'
-            # Open the tsv file to be used by lexmapr
+            # Open the .csv file to be used by lexmapr
             with open(self.lexmapr_inputs, 'w') as lexmapr_file:
                 lexmapr_file.write(data)
         else:
             print('Empty metadata file?')
+
+    def run_lexmapr(self):
+        """
+        Run LexMapr on the extracted terms
+        """
+        print('Running LexMapr on provided metadata')
+        if not os.path.isfile(self.lexmapr_outputs):
+            lexmapr_command = ['lexmapr', '-o', self.lexmapr_outputs, self.lexmapr_inputs,
+                               os.path.join(self.path, 'lexmapr_logs')]
+            call(lexmapr_command)
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -73,7 +87,8 @@ class Validator(object):
         self.term_list = list()
         self.metadata_dict = dict()
         self.path = os.path.dirname(self.metadata_file)
-        self.lexmapr_inputs = os.path.join(self.path, 'lexmapr_inputs.tsv')
+        self.lexmapr_inputs = os.path.join(self.path, 'lexmapr_inputs.csv')
+        self.lexmapr_outputs = os.path.join(self.path, 'lexmapr_outputs.tsv')
 
 
 if __name__ == '__main__':

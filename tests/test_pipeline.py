@@ -44,7 +44,17 @@ def test_lexmapr_inputs():
     assert os.path.isfile(method.lexmapr_inputs)
 
 
-def clear_lexmapr_inputs():
+def test_lexmapr_run():
+    method.run_lexmapr()
+    assert os.path.isfile(method.lexmapr_outputs)
+    assert os.path.getsize(method.lexmapr_outputs) > 100
+
+
+def test_clear_lexmapr_inputs():
     os.remove(method.lexmapr_inputs)
+
+
+def test_clear_lexmapr_outputs():
+    os.remove(method.lexmapr_outputs)
 
 
