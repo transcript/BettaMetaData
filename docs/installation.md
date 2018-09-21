@@ -17,14 +17,12 @@ conda config --set always_yes yes
 conda update -q conda
 ```
 
-The easiest way to install BettaMetadata is to download the source code [GitHub Link](https://github.com/transcript/BettaMetaData)
+The easiest way to install BettaMetadata is to install the conda package
 
 ```
-git clone https://github.com/transcript/BettaMetaData.git
-cd BettaMetadata
-export PATH="/path/to/repository/BettaNetadata:$PATH"
-conda env create -f environment.yml
+conda create -n metadata_validator python=3.5
 source activate metadata_validator
+conda install -c adamkoziol bettametadata
 ```
 
 ### Testing
