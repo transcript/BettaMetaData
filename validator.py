@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from term_help import Terms
 from subprocess import call
 from argparse import ArgumentParser

@@ -1,6 +1,6 @@
 package:
   name: bettametadata
-  version: "0.0.02"
+  version: "0.0.03"
 
 source:
   git_url: https://github.com/transcript/BettaMetaData
@@ -14,6 +14,7 @@ requirements:
     - setuptools
     - pandas
     - lexmapr
+    - pytest
   run:
     - python
     - pandas
