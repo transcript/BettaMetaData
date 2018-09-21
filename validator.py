@@ -1,6 +1,8 @@
 from term_help import Terms
 from subprocess import call
 from argparse import ArgumentParser
+from threading import Thread
+from queue import Queue
 import pandas as pd
 import os
 
@@ -51,33 +53,56 @@ class Validator(object):
         # Ensure that the term list actually exists
         if self.term_list:
             # Create the header
-            data = ','.join(term for term in self.term_list)
-            data += '\n'
-            # Iterate through all the samples in the dictionary
-            for primary_key in self.metadata_dict:
-                for field, value in self.metadata_dict[primary_key].items():
-                    for term in self.term_list:
-                        # Extract the value for the term for this sample
+            # data = ','.join(term for term in self.term_list)
+            # data += '\n'
+            for term in self.term_list:
+                # Set the header
+                data = 'primary_key,{term}\n'.format(term=term)
+                # Iterate through all the samples in the dictionary
+                for primary_key in self.metadata_dict:
+                    for field, value in self.metadata_dict[primary_key].items():
                         if field == term:
                             if str(value) == 'nan':
                                 value = 'missing'
-                            data += '{value},'.format(value=value)
-                data += '\n'
-            # Open the .csv file to be used by lexmapr
-            with open(self.lexmapr_inputs, 'w') as lexmapr_file:
-                lexmapr_file.write(data)
+                            data += '{pk},{value},'.format(pk=primary_key,
+                                                           value=value)
+                    data += '\n'
+                # Open the .csv file to be used by lexmapr
+                with open(os.path.join(self.path, '{term}_input.csv'.format(term=term)), 'w') as lexmapr_file:
+                    lexmapr_file.write(data)
         else:
             print('Empty metadata file?')
 
     def run_lexmapr(self):
         """
-        Run LexMapr on the extracted terms
+        Run LexMapr in a multi-threaded manner on the extracted terms
         """
-        print('Running LexMapr on provided metadata')
-        if not os.path.isfile(self.lexmapr_outputs):
-            lexmapr_command = ['lexmapr', '-o', self.lexmapr_outputs, self.lexmapr_inputs,
-                               os.path.join(self.path, 'lexmapr_logs')]
-            call(lexmapr_command)
+        print('Running LexMapr on provided metadata values')
+        for i in range(len(self.term_list)):
+            # Start threads
+            threads = Thread(target=self.lex_map, args=())
+            # Set the daemon to True - something to do with thread management
+            threads.setDaemon(True)
+            # Start the threading
+            threads.start()
+        # Create the LexMapr command for each term
+        for term in self.term_list:
+            output = os.path.join(self.path, '{term}_output.csv'.format(term=term))
+            # Don't run the analyses if the output file already exists
+            if not os.path.isfile(output):
+                lexmapr_command = ['lexmapr', '-o', output,
+                                   os.path.join(self.path, '{term}_input.csv'.format(term=term)),
+                                   os.path.join(self.path, 'lexmapr_logs')]
+                # Add the command to the queue
+                self.lex_queue.put(lexmapr_command)
+        self.lex_queue.join()
+
+    def lex_map(self):
+        while True:
+            cmd = self.lex_queue.get()
+            # Run the system call with subprocess.call
+            call(cmd)
+            self.lex_queue.task_done()
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -87,8 +112,7 @@ class Validator(object):
         self.term_list = list()
         self.metadata_dict = dict()
         self.path = os.path.dirname(self.metadata_file)
-        self.lexmapr_inputs = os.path.join(self.path, 'lexmapr_inputs.csv')
-        self.lexmapr_outputs = os.path.join(self.path, 'lexmapr_outputs.tsv')
+        self.lex_queue = Queue()
 
 
 if __name__ == '__main__':
