@@ -1,10 +1,12 @@
 #!/usr/bin/env python
-from setuptools import setup
+from setuptools import setup, find_packages
 __author__ = 'adamkoziol'
 setup(
     name="BettaMetadata",
-    version="0.0.01",
+    version="0.0.02",
     include_package_data=True,
+    packages=find_packages(),
+    scripts=['validator.py'],
     license='GPL-3.0',
     author='Adam Koziol',
     author_email='adam.koziol@canada.ca',

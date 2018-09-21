@@ -1,0 +1,24 @@
+package:
+  name: bettametadata
+  version: "0.0.02"
+
+source:
+  git_url: https://github.com/transcript/BettaMetaData
+
+build:
+  script: python setup.py install --single-version-externally-managed --record=record.txt
+
+requirements:
+  build:
+    - python
+    - setuptools
+    - pandas
+    - lexmapr
+  run:
+    - python
+    - pandas
+    - lexmapr
+about:
+  home: https://github.com/transcript/BettaMetaData
+  license: GPL-3.0
+  license_file: LICENSE
