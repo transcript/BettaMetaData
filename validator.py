@@ -21,7 +21,8 @@ class Validator(object):
         self.run_lexmapr()
         self.parse_lexmapr_outputs()
         self.parse_collection_date()
-        self.create_clean_outputs()
+        self.clean_metadata()
+        self.create_clean_report()
 
     def read_tsv(self, tsvfile):
         """
@@ -55,27 +56,24 @@ class Validator(object):
         """
         Check to see if the sample_name column contains duplicate values
         """
-        # Create lists to store sample names, and duplicate names
-        sample_ids = list()
-        duplicate_ids = list()
         for primary_key in self.metadata_dict:
             for field, value in self.metadata_dict[primary_key].items():
                 # Only sample name needs to be unique
                 if field == 'sample_name':
                     # If the sample name is not in the list of sample names, add it to the list
-                    if value not in sample_ids:
-                        sample_ids.append(value)
+                    if value not in self.sample_ids:
+                        self.sample_ids.append(value)
                     # If the sample name is already in the list, add it to the list of duplicate names
                     else:
-                        duplicate_ids.append(value)
+                        self.duplicate_ids.append(value)
         # Create a variable to determine whether the script needs to stop
         unforgivable = False
         # Inform if duplicate names are present
-        if duplicate_ids:
+        if self.duplicate_ids:
             print('The following sample names are duplicated: {dups} Please provide unique sample names!'
-                  .format(dups=' ,'.join(duplicate_ids)))
+                  .format(dups=' ,'.join(self.duplicate_ids)))
             unforgivable = True
-        if 'nan' in [str(value) for value in sample_ids]:
+        if 'nan' in [str(value) for value in self.sample_ids]:
             print('Missing sample name!')
             unforgivable = True
         # Missing or duplicated sample names are cause for immediate exit
@@ -153,7 +151,7 @@ class Validator(object):
                     # key + header combination
                     for primary_key, value in df[header].items():
                         if header == 'Cleaned_Sample':
-                            print(term, primary_key, 'clean:', value, 'original:', self.metadata_dict[primary_key][term])
+                            # Update the dictionary with the LexMapr cleaned value
                             self.metadata_dict[primary_key][term] = value
 
     def parse_collection_date(self):
@@ -172,13 +170,34 @@ class Validator(object):
                     if str(value).lower() not in self.missing_synonyms:
                         try:
                             clean_date = parse(value)
+                            # Update the value with the parsed date
                             self.metadata_dict[primary_key][field] = clean_date
-
                         except (ValueError, TypeError):
-                            print('error', primary_key, value)
+                            # Illegal values are replaced with 'missing' in the dictionary
                             self.metadata_dict[primary_key][field] = 'missing'
 
-    def create_clean_outputs(self):
+    def clean_metadata(self):
+        """
+        Sanitise the values
+        """
+        for primary_key in self.metadata_dict:
+            for term in self.headers:
+                # Remove any asterisks
+                clean_term = term.lstrip('*')
+                for field, value in self.metadata_dict[primary_key].items():
+                    if field == clean_term:
+                        # Only clean up columns with supplied values
+                        if clean_term in self.term_list:
+                            if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
+                                value = 'missing'
+                        # Otherwise do not modify empty values
+                        else:
+                            if str(value) == 'nan':
+                                value = str()
+                        # Update the dictionary with the sanitised value
+                        self.metadata_dict[primary_key][field] = value
+
+    def create_clean_report(self):
         """
         Create the cleaned metadata file
         """
@@ -191,21 +210,12 @@ class Validator(object):
                     # Remove any asterisks
                     clean_term = term.lstrip('*')
                     for field, value in self.metadata_dict[primary_key].items():
-
                         if field == clean_term:
-                            # Only clean up columns with supplied values
-                            if clean_term in self.term_list:
-                                if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
-                                    value = 'missing'
-                            # Otherwise do not modify empty values
-                            else:
-                                if str(value) == 'nan':
-                                    value = str()
+                            # Update the string with the value
                             data += '{value}\t'.format(value=value)
                 data += '\n'
+            # Write the string to file
             clean_metadata.write(data)
-
-
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -214,8 +224,12 @@ class Validator(object):
         self.terms = Terms()
         self.headers = list()
         self.term_list = list()
+        # Create lists to store sample names, and duplicate names
+        self.sample_ids = list()
+        self.duplicate_ids = list()
         self.missing_synonyms = [
-            'not collected', 'not applicable', 'missing', 'undetermined', 'unknown', 'not available', 'not provided'
+            'not collected', 'not applicable', 'missing', 'undetermined', 'unknown', 'not available',
+            'not provided', 'na', 'n/a'
         ]
         self.lexmapr_terms = [
             'host', 'isolation_source'

@@ -42,6 +42,7 @@ def test_read_tsv(variables):
 
 def test_ensure_unique_names():
     method.ensure_unique_names()
+    assert sorted(method.sample_ids)[1] == 'YZU0097'
 
 
 def test_lexmapr_inputs():
@@ -57,10 +58,23 @@ def test_lexmapr_run():
 
 def test_parse_lexmapr_outputs():
     method.parse_lexmapr_outputs()
+    assert method.metadata_dict[0]['host'] == 'hu child'
 
 
 def test_parse_collection_date():
     method.parse_collection_date()
+    assert method.metadata_dict[4]['collection_date'] == 'missing'
+
+
+def test_clean_metadata():
+    method.clean_metadata()
+    assert method.metadata_dict[0]['organism'] == 'missing'
+
+
+def test_create_clean_report():
+    method.create_clean_report()
+    assert os.path.isfile(method.clean_metadata_file)
+    assert os.path.getsize(method.clean_metadata_file) > 100
 
 
 def test_clear_lexmapr_inputs():
@@ -73,3 +87,7 @@ def test_clear_lexmapr_outputs():
     outputs = glob(os.path.join(method.path, '*_output.csv'))
     for output_file in outputs:
         os.remove(output_file)
+
+
+def test_remove_clean_report():
+    os.remove(method.clean_metadata_file)
