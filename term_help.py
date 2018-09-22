@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-
+#!/usr/bin/env python3
 
 class Terms(object):
 
@@ -44,5 +43,7 @@ class Terms(object):
             'description': 'Provide any additional information here. Comments in this field will appear in the publicly released record.',
         }
 
-helper = Terms()
-print(helper.term_help('sample_title'))
+
+if __name__ == '__main__':
+    helper = Terms()
+    print(helper.term_help('sample_title'))
