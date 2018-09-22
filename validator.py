@@ -24,10 +24,12 @@ class Validator(object):
         self.parse_collection_date()
         self.clean_metadata()
         self.create_clean_report()
-        self.score()
+        self.calculate_usefulness()
+        self.score_summary()
 
     def read_tsv(self, tsvfile):
-        """
+        """sample_title
+
         Read in the .tsv metadata file with pandas, and create a dictionary of all the headers: values
         """
         print('Reading in supplied metadata file {metadata}'.format(metadata=tsvfile))
@@ -87,9 +89,9 @@ class Validator(object):
         """
         for primary_key in self.metadata_dict:
             for field, value in self.metadata_dict[primary_key].items():
-                self.total += 1
                 if field in self.required:
-                    if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
+                    self.total += 1
+                    if str(value) == 'nan':
                         self.missing += 1
 
     def create_lexmapr_inputs(self):
@@ -233,41 +235,68 @@ class Validator(object):
             # Write the string to file
             clean_metadata.write(data)
 
-    def score(self):
+    def calculate_usefulness(self):
+        """
+        Determine the number of 'useful' values provided (e.g. not 'missing') for the required fields
+        """
+
+        for primary_key in self.metadata_dict:
+            for field, value in self.metadata_dict[primary_key].items():
+                if field in self.required:
+                    if value == 'missing':
+                        self.missing_value += 1
+
+    def score_summary(self):
+        """
+        Determine both the total score (required fields provided / total required fields), and the
+        usefulness score (number of values that are not 'missing' / total required fields)
+        """
+        self.pass_value = self.score(self.missing, 'total')
+        self.useful_value = self.score(self.missing_value, 'useful')
+
+    def score(self, missing, analysistype):
         """
         Calculate the total metadata score
+        :param missing: The number of missing values
+        :param analysistype: The current analysistype. Total: total number of supplied required fields, useful:
+        total number of supplied 'non-missing' fields
+        :return: Return the updated pass_variable
         """
-        present = self.total - self.missing
-        print('You have entered {present}/{total} required metadata fields'
+        # Calculate the number of values present
+        present = self.total - missing
+        print('You have entered {present}/{total} required {analysistype} metadata fields'
               .format(present=present,
-                      total=self.total))
+                      total=self.total,
+                      analysistype=analysistype))
         # Calculate the fraction of supplied metadata
         fraction = present / self.total
         # Determine if the metadata passes
-        if fraction == 1.00:
-            self.pass_value = 'A+'
+        if fraction >= 0.95:
+            pass_variable = 'A+'
             colour = '\033[1;92m'
         elif fraction >= 0.9:
-            self.pass_value = 'A'
+            pass_variable = 'A'
             colour = '\033[1;92m'
         elif fraction >= 0.8:
-            self.pass_value = 'A-'
+            pass_variable = 'A-'
             colour = '\033[1;92m'
         elif fraction >= 0.7:
-            self.pass_value = 'B'
+            pass_variable = 'B'
             colour = '\033[1;92m'
         elif fraction >= 0.6:
-            self.pass_value = 'C'
+            pass_variable = 'C'
             colour = '\033[1;93m'
         elif fraction >= 0.5:
-            self.pass_value = 'D'
+            pass_variable = 'D'
             colour = '\033[1;93m'
         else:
-            self.pass_value = 'F'
+            pass_variable = 'F'
             colour = '\033[1;91m'
         # Print out the final grade
-        print(colour, 'Thanks for running BettaMetadata. Your metadata score has been calculated as: {grade}'
-              .format(grade=self.pass_value), '\033[0m')
+        print(colour, 'Thanks for running BettaMetadata. Your {analysistype} metadata score has been calculated as: '
+                      '{grade}'.format(analysistype=analysistype,
+                                       grade=pass_variable), '\033[0m')
+        return pass_variable
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -291,7 +320,9 @@ class Validator(object):
         # Initialise variables to store the number of total metadata fields, and the number of empty fields
         self.total = 0
         self.missing = 0
+        self.missing_value = 0
         self.pass_value = str()
+        self.useful_value = str()
         self.path = os.path.dirname(self.metadata_file)
         self.clean_metadata_file = os.path.join(self.path, 'cleaned_metadata.tsv')
         self.lex_queue = Queue()

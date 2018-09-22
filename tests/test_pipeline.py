@@ -47,7 +47,7 @@ def test_ensure_unique_names():
 
 def test_calculate_score():
     method.calculate_score()
-    assert method.missing == 80
+    assert method.missing == 48
 
 
 def test_lexmapr_inputs():
@@ -82,9 +82,15 @@ def test_create_clean_report():
     assert os.path.getsize(method.clean_metadata_file) > 100
 
 
-def test_score():
-    method.score()
-    assert method.pass_value == 'A-'
+def test_calculate_usefulness():
+    method.calculate_usefulness()
+    assert method.missing_value == 76
+
+
+def test_score_summary():
+    method.score_summary()
+    assert method.pass_value == 'B'
+    assert method.useful_value == 'D'
 
 
 def test_clear_lexmapr_inputs():
