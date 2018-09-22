@@ -45,6 +45,11 @@ def test_ensure_unique_names():
     assert sorted(method.sample_ids)[1] == 'YZU0097'
 
 
+def test_calculate_score():
+    method.calculate_score()
+    assert method.missing == 80
+
+
 def test_lexmapr_inputs():
     method.create_lexmapr_inputs()
     assert os.path.isfile(os.path.join(method.path, 'host_input.csv'))
@@ -75,6 +80,11 @@ def test_create_clean_report():
     method.create_clean_report()
     assert os.path.isfile(method.clean_metadata_file)
     assert os.path.getsize(method.clean_metadata_file) > 100
+
+
+def test_score():
+    method.score()
+    assert method.pass_value == 'A-'
 
 
 def test_clear_lexmapr_inputs():

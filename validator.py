@@ -17,12 +17,14 @@ class Validator(object):
         """
         self.read_tsv(self.metadata_file)
         self.ensure_unique_names()
+        self.calculate_score()
         self.create_lexmapr_inputs()
         self.run_lexmapr()
         self.parse_lexmapr_outputs()
         self.parse_collection_date()
         self.clean_metadata()
         self.create_clean_report()
+        self.score()
 
     def read_tsv(self, tsvfile):
         """
@@ -33,12 +35,10 @@ class Validator(object):
         df = pd.read_csv(tsvfile, delimiter='\t', comment='#')
         for header in df:
             self.headers.append(header)
-            # Create a variable to store whether a header isrequired
-            required = False
             # Remove any asterisks that may be present in the header names
             clean_header = header.lstrip('*')
             if '*' in header:
-                required = True
+                self.required.append(clean_header)
             # primary_key is the primary key, and value is the value of the cell for that key + header combination
             for primary_key, value in df[header].items():
                 # Update the dictionary with the new data
@@ -48,7 +48,6 @@ class Validator(object):
                 except KeyError:
                     self.metadata_dict[primary_key] = dict()
                     self.metadata_dict[primary_key].update({clean_header: value})
-                self.metadata_dict[primary_key].update({'required': required})
                 # Add any terms with values to the set of terms to be processed by lecmapr
                 if str(value) != 'nan' and clean_header not in self.term_list:
                     self.term_list.append(clean_header)
@@ -81,6 +80,17 @@ class Validator(object):
         if unforgivable:
             print('Please fix your sample names before continuing!')
             quit()
+
+    def calculate_score(self):
+        """
+        Calculate a score for the completeness of the metadata
+        """
+        for primary_key in self.metadata_dict:
+            for field, value in self.metadata_dict[primary_key].items():
+                self.total += 1
+                if field in self.required:
+                    if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
+                        self.missing += 1
 
     def create_lexmapr_inputs(self):
         """
@@ -131,6 +141,9 @@ class Validator(object):
         self.lex_queue.join()
 
     def lex_map(self):
+        """
+        Run the system call
+        """
         while True:
             cmd = self.lex_queue.get()
             # Run the system call with subprocess.call
@@ -220,6 +233,42 @@ class Validator(object):
             # Write the string to file
             clean_metadata.write(data)
 
+    def score(self):
+        """
+        Calculate the total metadata score
+        """
+        present = self.total - self.missing
+        print('You have entered {present}/{total} required metadata fields'
+              .format(present=present,
+                      total=self.total))
+        # Calculate the fraction of supplied metadata
+        fraction = present / self.total
+        # Determine if the metadata passes
+        if fraction == 1.00:
+            self.pass_value = 'A+'
+            colour = '\033[1;92m'
+        elif fraction >= 0.9:
+            self.pass_value = 'A'
+            colour = '\033[1;92m'
+        elif fraction >= 0.8:
+            self.pass_value = 'A-'
+            colour = '\033[1;92m'
+        elif fraction >= 0.7:
+            self.pass_value = 'B'
+            colour = '\033[1;92m'
+        elif fraction >= 0.6:
+            self.pass_value = 'C'
+            colour = '\033[1;93m'
+        elif fraction >= 0.5:
+            self.pass_value = 'D'
+            colour = '\033[1;93m'
+        else:
+            self.pass_value = 'F'
+            colour = '\033[1;91m'
+        # Print out the final grade
+        print(colour, 'Thanks for running BettaMetadata. Your metadata score has been calculated as: {grade}'
+              .format(grade=self.pass_value), '\033[0m')
+
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
         assert os.path.isfile(self.metadata_file), 'Cannot find the metadata file you specified: {metadata}'\
@@ -227,6 +276,7 @@ class Validator(object):
         self.terms = Terms()
         self.headers = list()
         self.term_list = list()
+        self.required = list()
         # Create lists to store sample names, and duplicate names
         self.sample_ids = list()
         self.duplicate_ids = list()
@@ -238,6 +288,10 @@ class Validator(object):
             'host', 'isolation_source'
         ]
         self.metadata_dict = dict()
+        # Initialise variables to store the number of total metadata fields, and the number of empty fields
+        self.total = 0
+        self.missing = 0
+        self.pass_value = str()
         self.path = os.path.dirname(self.metadata_file)
         self.clean_metadata_file = os.path.join(self.path, 'cleaned_metadata.tsv')
         self.lex_queue = Queue()
