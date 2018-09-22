@@ -21,6 +21,7 @@ class Validator(object):
         self.run_lexmapr()
         self.parse_lexmapr_outputs()
         self.parse_collection_date()
+        self.create_clean_outputs()
 
     def read_tsv(self, tsvfile):
         """
@@ -29,6 +30,7 @@ class Validator(object):
         # Read in the .tsv file with pandas. Skip the comment lines
         df = pd.read_csv(tsvfile, delimiter='\t', comment='#')
         for header in df:
+            self.headers.append(header)
             # Create a variable to store whether a header isrequired
             required = False
             # Remove any asterisks that may be present in the header names
@@ -89,7 +91,7 @@ class Validator(object):
         """
         # Ensure that the term list actually exists
         if self.term_list:
-            for term in self.term_list:
+            for term in self.lexmapr_terms:
                 # Set the header
                 data = 'primary_key,{term}\n'.format(term=term)
                 # Iterate through all the samples in the dictionary
@@ -150,7 +152,9 @@ class Validator(object):
                     # primary_key is the primary key, and value is the value of the cell for that
                     # key + header combination
                     for primary_key, value in df[header].items():
-                        print(term, primary_key, header, value)
+                        if header == 'Cleaned_Sample':
+                            print(term, primary_key, 'clean:', value, 'original:', self.metadata_dict[primary_key][term])
+                            self.metadata_dict[primary_key][term] = value
 
     def parse_collection_date(self):
         """
@@ -158,6 +162,7 @@ class Validator(object):
         DD-Mmm-YYYY", "Mmm-YYYY" or "YYYY" format (eg., 30-Oct-1990, Oct-1990 or 1990) or ISO 8601 standard
         "YYYY-mm-dd", "YYYY-mm" or "YYYY-mm-ddThh:mm:ss" (eg., 1990-10-30, 1990-10 or 1990-10-30T14:41:36)
         """
+        print('Parsing collection date values')
         # Iterate through all the samples in the dictionary
         for primary_key in self.metadata_dict:
             for field, value in self.metadata_dict[primary_key].items():
@@ -166,24 +171,58 @@ class Validator(object):
                     # Detect incorrectly formatted dates using the parse method of datetime
                     if str(value).lower() not in self.missing_synonyms:
                         try:
-                            _ = parse(value)
+                            clean_date = parse(value)
+                            self.metadata_dict[primary_key][field] = clean_date
+
                         except (ValueError, TypeError):
                             print('error', primary_key, value)
+                            self.metadata_dict[primary_key][field] = 'missing'
+
+    def create_clean_outputs(self):
+        """
+        Create the cleaned metadata file
+        """
+        # Initialise the header
+        data = '\t'.join(self.headers)
+        data += '\n'
+        with open(self.clean_metadata_file, 'w') as clean_metadata:
+            for primary_key in self.metadata_dict:
+                for term in self.headers:
+                    # Remove any asterisks
+                    clean_term = term.lstrip('*')
+                    for field, value in self.metadata_dict[primary_key].items():
+
+                        if field == clean_term:
+                            # Only clean up columns with supplied values
+                            if clean_term in self.term_list:
+                                if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
+                                    value = 'missing'
+                            # Otherwise do not modify empty values
+                            else:
+                                if str(value) == 'nan':
+                                    value = str()
+                            data += '{value}\t'.format(value=value)
+                data += '\n'
+            clean_metadata.write(data)
+
+
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
         assert os.path.isfile(self.metadata_file), 'Cannot find the metadata file you specified: {metadata}'\
             .format(metadata=self.metadata_file)
         self.terms = Terms()
+        self.headers = list()
         self.term_list = list()
         self.missing_synonyms = [
-            'not collected', 'not applicable', 'missing'
+            'not collected', 'not applicable', 'missing', 'undetermined', 'unknown', 'not available', 'not provided'
         ]
         self.lexmapr_terms = [
-            'host', 'host_disease', 'isolation_source'
+            'host', 'isolation_source'
         ]
         self.metadata_dict = dict()
         self.path = os.path.dirname(self.metadata_file)
+        self.clean_metadata_file = os.path.join(self.path, 'cleaned_metadata.tsv')
         self.lex_queue = Queue()
 
 

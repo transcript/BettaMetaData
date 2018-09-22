@@ -17,7 +17,7 @@ __author__ = 'adamkoziol'
 @pytest.fixture()
 def variables():
     v = ArgumentParser()
-    v.metadatafile = os.path.join(datapath, 'pathogen.csv')
+    v.metadatafile = os.path.join(datapath, 'pathogen.tsv')
     return v
 
 
@@ -46,13 +46,13 @@ def test_ensure_unique_names():
 
 def test_lexmapr_inputs():
     method.create_lexmapr_inputs()
-    assert os.path.isfile(os.path.join(method.path, 'host_disease_input.csv'))
+    assert os.path.isfile(os.path.join(method.path, 'host_input.csv'))
 
 
 def test_lexmapr_run():
     method.run_lexmapr()
-    assert os.path.isfile(os.path.join(method.path, 'host_disease_output.csv'))
-    assert os.path.getsize(os.path.join(method.path, 'host_disease_output.csv')) > 100
+    assert os.path.isfile(os.path.join(method.path, 'host_output.csv'))
+    assert os.path.getsize(os.path.join(method.path, 'host_output.csv')) > 100
 
 
 def test_parse_lexmapr_outputs():
