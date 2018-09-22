@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-
 from term_help import Terms
-from subprocess import call
+from dateutil.parser import parse
 from argparse import ArgumentParser
 from threading import Thread
+from subprocess import call
 from queue import Queue
 import pandas as pd
 import os
@@ -17,12 +17,10 @@ class Validator(object):
         """
         self.read_tsv(self.metadata_file)
         self.ensure_unique_names()
-        self.parse_collection_date()
-        quit()
         self.create_lexmapr_inputs()
         self.run_lexmapr()
         self.parse_lexmapr_outputs()
-        # self.parse_collection_date()
+        self.parse_collection_date()
 
     def read_tsv(self, tsvfile):
         """
@@ -120,7 +118,7 @@ class Validator(object):
             # Start the threading
             threads.start()
         # Create the LexMapr command for each term
-        for term in self.term_list:
+        for term in self.lexmapr_terms:
             output = os.path.join(self.path, '{term}_output.csv'.format(term=term))
             # Don't run the analyses if the output file already exists
             if not os.path.isfile(output):
@@ -142,14 +140,15 @@ class Validator(object):
         """
         Parse the LexMapr outputs, and try to incorporate suggestions/fixes
         """
-        for term in self.term_list:
+        for term in self.lexmapr_terms:
             output = os.path.join(self.path, '{term}_output.csv'.format(term=term))
 
             if os.path.isfile(output):
                 # Read in the .tsv file with pandas. Skip the comment lines
                 df = pd.read_csv(output, delimiter='\t', comment='#')
                 for header in df:
-                    # primary_key is the primary key, and value is the value of the cell for that key + header combination
+                    # primary_key is the primary key, and value is the value of the cell for that
+                    # key + header combination
                     for primary_key, value in df[header].items():
                         print(term, primary_key, header, value)
 
@@ -159,12 +158,17 @@ class Validator(object):
         DD-Mmm-YYYY", "Mmm-YYYY" or "YYYY" format (eg., 30-Oct-1990, Oct-1990 or 1990) or ISO 8601 standard
         "YYYY-mm-dd", "YYYY-mm" or "YYYY-mm-ddThh:mm:ss" (eg., 1990-10-30, 1990-10 or 1990-10-30T14:41:36)
         """
-        from dateutil.parser import parse
-        junk_list = ["2003-09-25", "2003-Sep-25", "missing"]
-        for junk in junk_list:
-            if junk not in self.missing_synonyms:
-                print(parse(junk))
-        quit()
+        # Iterate through all the samples in the dictionary
+        for primary_key in self.metadata_dict:
+            for field, value in self.metadata_dict[primary_key].items():
+                # Only interested in collection_date for this analysis
+                if field == 'collection_date':
+                    # Detect incorrectly formatted dates using the parse method of datetime
+                    if str(value).lower() not in self.missing_synonyms:
+                        try:
+                            _ = parse(value)
+                        except (ValueError, TypeError):
+                            print('error', primary_key, value)
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -174,6 +178,9 @@ class Validator(object):
         self.term_list = list()
         self.missing_synonyms = [
             'not collected', 'not applicable', 'missing'
+        ]
+        self.lexmapr_terms = [
+            'host', 'host_disease', 'isolation_source'
         ]
         self.metadata_dict = dict()
         self.path = os.path.dirname(self.metadata_file)
