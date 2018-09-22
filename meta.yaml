@@ -1,6 +1,6 @@
 package:
   name: bettametadata
-  version: "0.0.05"
+  version: "0.0.06"
 
 source:
   git_url: https://github.com/transcript/BettaMetaData
