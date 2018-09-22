@@ -141,6 +141,9 @@ class Validator(object):
         self.lex_queue.join()
 
     def lex_map(self):
+        """
+        Run the system call
+        """
         while True:
             cmd = self.lex_queue.get()
             # Run the system call with subprocess.call
@@ -235,8 +238,9 @@ class Validator(object):
         Calculate the total metadata score
         """
         present = self.total - self.missing
-        print('You have score of {present}/{total}'.format(present=present,
-                                                           total=self.total))
+        print('You have entered {present}/{total} required metadata fields'
+              .format(present=present,
+                      total=self.total))
         # Calculate the fraction of supplied metadata
         fraction = present / self.total
         # Determine if the metadata passes
