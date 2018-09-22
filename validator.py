@@ -28,6 +28,7 @@ class Validator(object):
         """
         Read in the .tsv metadata file with pandas, and create a dictionary of all the headers: values
         """
+        print('Reading in supplied metadata file {metadata}'.format(metadata=tsvfile))
         # Read in the .tsv file with pandas. Skip the comment lines
         df = pd.read_csv(tsvfile, delimiter='\t', comment='#')
         for header in df:
@@ -180,6 +181,7 @@ class Validator(object):
         """
         Sanitise the values
         """
+        print('Cleaning metadata values')
         for primary_key in self.metadata_dict:
             for term in self.headers:
                 # Remove any asterisks
@@ -201,6 +203,7 @@ class Validator(object):
         """
         Create the cleaned metadata file
         """
+        print('Creating cleaned report: {report}'.format(report=self.clean_metadata_file))
         # Initialise the header
         data = '\t'.join(self.headers)
         data += '\n'
