@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-
 from term_help import Terms
-from subprocess import call
+from dateutil.parser import parse
 from argparse import ArgumentParser
 from threading import Thread
+from subprocess import call
 from queue import Queue
 import pandas as pd
 import os
@@ -17,20 +17,22 @@ class Validator(object):
         """
         self.read_tsv(self.metadata_file)
         self.ensure_unique_names()
-        self.parse_collection_date()
-        quit()
         self.create_lexmapr_inputs()
         self.run_lexmapr()
         self.parse_lexmapr_outputs()
-        # self.parse_collection_date()
+        self.parse_collection_date()
+        self.clean_metadata()
+        self.create_clean_report()
 
     def read_tsv(self, tsvfile):
         """
         Read in the .tsv metadata file with pandas, and create a dictionary of all the headers: values
         """
+        print('Reading in supplied metadata file {metadata}'.format(metadata=tsvfile))
         # Read in the .tsv file with pandas. Skip the comment lines
         df = pd.read_csv(tsvfile, delimiter='\t', comment='#')
         for header in df:
+            self.headers.append(header)
             # Create a variable to store whether a header isrequired
             required = False
             # Remove any asterisks that may be present in the header names
@@ -55,27 +57,24 @@ class Validator(object):
         """
         Check to see if the sample_name column contains duplicate values
         """
-        # Create lists to store sample names, and duplicate names
-        sample_ids = list()
-        duplicate_ids = list()
         for primary_key in self.metadata_dict:
             for field, value in self.metadata_dict[primary_key].items():
                 # Only sample name needs to be unique
                 if field == 'sample_name':
                     # If the sample name is not in the list of sample names, add it to the list
-                    if value not in sample_ids:
-                        sample_ids.append(value)
+                    if value not in self.sample_ids:
+                        self.sample_ids.append(value)
                     # If the sample name is already in the list, add it to the list of duplicate names
                     else:
-                        duplicate_ids.append(value)
+                        self.duplicate_ids.append(value)
         # Create a variable to determine whether the script needs to stop
         unforgivable = False
         # Inform if duplicate names are present
-        if duplicate_ids:
+        if self.duplicate_ids:
             print('The following sample names are duplicated: {dups} Please provide unique sample names!'
-                  .format(dups=' ,'.join(duplicate_ids)))
+                  .format(dups=' ,'.join(self.duplicate_ids)))
             unforgivable = True
-        if 'nan' in [str(value) for value in sample_ids]:
+        if 'nan' in [str(value) for value in self.sample_ids]:
             print('Missing sample name!')
             unforgivable = True
         # Missing or duplicated sample names are cause for immediate exit
@@ -91,7 +90,7 @@ class Validator(object):
         """
         # Ensure that the term list actually exists
         if self.term_list:
-            for term in self.term_list:
+            for term in self.lexmapr_terms:
                 # Set the header
                 data = 'primary_key,{term}\n'.format(term=term)
                 # Iterate through all the samples in the dictionary
@@ -120,7 +119,7 @@ class Validator(object):
             # Start the threading
             threads.start()
         # Create the LexMapr command for each term
-        for term in self.term_list:
+        for term in self.lexmapr_terms:
             output = os.path.join(self.path, '{term}_output.csv'.format(term=term))
             # Don't run the analyses if the output file already exists
             if not os.path.isfile(output):
@@ -142,16 +141,19 @@ class Validator(object):
         """
         Parse the LexMapr outputs, and try to incorporate suggestions/fixes
         """
-        for term in self.term_list:
+        for term in self.lexmapr_terms:
             output = os.path.join(self.path, '{term}_output.csv'.format(term=term))
 
             if os.path.isfile(output):
                 # Read in the .tsv file with pandas. Skip the comment lines
                 df = pd.read_csv(output, delimiter='\t', comment='#')
                 for header in df:
-                    # primary_key is the primary key, and value is the value of the cell for that key + header combination
+                    # primary_key is the primary key, and value is the value of the cell for that
+                    # key + header combination
                     for primary_key, value in df[header].items():
-                        print(term, primary_key, header, value)
+                        if header == 'Cleaned_Sample':
+                            # Update the dictionary with the LexMapr cleaned value
+                            self.metadata_dict[primary_key][term] = value
 
     def parse_collection_date(self):
         """
@@ -159,24 +161,85 @@ class Validator(object):
         DD-Mmm-YYYY", "Mmm-YYYY" or "YYYY" format (eg., 30-Oct-1990, Oct-1990 or 1990) or ISO 8601 standard
         "YYYY-mm-dd", "YYYY-mm" or "YYYY-mm-ddThh:mm:ss" (eg., 1990-10-30, 1990-10 or 1990-10-30T14:41:36)
         """
-        from dateutil.parser import parse
-        junk_list = ["2003-09-25", "2003-Sep-25", "missing"]
-        for junk in junk_list:
-            if junk not in self.missing_synonyms:
-                print(parse(junk))
-        quit()
+        print('Parsing collection date values')
+        # Iterate through all the samples in the dictionary
+        for primary_key in self.metadata_dict:
+            for field, value in self.metadata_dict[primary_key].items():
+                # Only interested in collection_date for this analysis
+                if field == 'collection_date':
+                    # Detect incorrectly formatted dates using the parse method of datetime
+                    if str(value).lower() not in self.missing_synonyms:
+                        try:
+                            clean_date = parse(value)
+                            # Update the value with the parsed date
+                            self.metadata_dict[primary_key][field] = clean_date
+                        except (ValueError, TypeError):
+                            # Illegal values are replaced with 'missing' in the dictionary
+                            self.metadata_dict[primary_key][field] = 'missing'
+
+    def clean_metadata(self):
+        """
+        Sanitise the values
+        """
+        print('Cleaning metadata values')
+        for primary_key in self.metadata_dict:
+            for term in self.headers:
+                # Remove any asterisks
+                clean_term = term.lstrip('*')
+                for field, value in self.metadata_dict[primary_key].items():
+                    if field == clean_term:
+                        # Only clean up columns with supplied values
+                        if clean_term in self.term_list:
+                            if str(value) == 'nan' or str(value).lower() in self.missing_synonyms:
+                                value = 'missing'
+                        # Otherwise do not modify empty values
+                        else:
+                            if str(value) == 'nan':
+                                value = str()
+                        # Update the dictionary with the sanitised value
+                        self.metadata_dict[primary_key][field] = value
+
+    def create_clean_report(self):
+        """
+        Create the cleaned metadata file
+        """
+        print('Creating cleaned report: {report}'.format(report=self.clean_metadata_file))
+        # Initialise the header
+        data = '\t'.join(self.headers)
+        data += '\n'
+        with open(self.clean_metadata_file, 'w') as clean_metadata:
+            for primary_key in self.metadata_dict:
+                for term in self.headers:
+                    # Remove any asterisks
+                    clean_term = term.lstrip('*')
+                    for field, value in self.metadata_dict[primary_key].items():
+                        if field == clean_term:
+                            # Update the string with the value
+                            data += '{value}\t'.format(value=value)
+                data += '\n'
+            # Write the string to file
+            clean_metadata.write(data)
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
         assert os.path.isfile(self.metadata_file), 'Cannot find the metadata file you specified: {metadata}'\
             .format(metadata=self.metadata_file)
         self.terms = Terms()
+        self.headers = list()
         self.term_list = list()
+        # Create lists to store sample names, and duplicate names
+        self.sample_ids = list()
+        self.duplicate_ids = list()
         self.missing_synonyms = [
-            'not collected', 'not applicable', 'missing'
+            'not collected', 'not applicable', 'missing', 'undetermined', 'unknown', 'not available',
+            'not provided', 'na', 'n/a'
+        ]
+        self.lexmapr_terms = [
+            'host', 'isolation_source'
         ]
         self.metadata_dict = dict()
         self.path = os.path.dirname(self.metadata_file)
+        self.clean_metadata_file = os.path.join(self.path, 'cleaned_metadata.tsv')
         self.lex_queue = Queue()
 
 

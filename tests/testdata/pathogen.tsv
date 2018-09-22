@@ -10,5 +10,22 @@
 #     3. Upload the file on the 'Attributes' tab of the BioSample Submission Portal at https://submit.ncbi.nlm.nih.gov/subs/biosample/.																														
 #     4. If you have any questions, please contact us at biosamplehelp@ncbi.nlm.nih.gov.																														
 *sample_name	sample_title	bioproject_accession	*organism	strain	isolate	*collected_by	*collection_date	*geo_loc_name	*host	*host_disease	*isolation_source	*lat_lon	culture_collection	genotype	host_age	host_description	host_disease_outcome	host_disease_stage	host_health_state	host_sex	host_subject_id	host_tissue_sampled	passage_history	pathotype	serotype	serovar	specimen_voucher	subgroup	subtype	description
-apple			sputum																											
-		16				chicken																								
+apple				NA		Penn State E. coli Reference Center	2015-01-01	USA	Hu Child	Missing	human	29.6483 S 30.3318 E														Enteritidis				
+2			Escherichia coli	derived from parental emm-type 1 strain MGAS2221		Brigham and Women&apos;&apos;s Hospital	missing		unidentified	not collected	missing															NT				
+YZU0097			Salmonella enterica	K-12		FDA	not collected	missing	Gallus gallus domesticus	Salmonellosis	unknown	missing														1				
+YZU0098			Salmonella enterica subsp. enterica serovar Typhimurium var. monophasic 4,[5],12:i:-	not collected		Peking University People&apos;&apos;s Hospital	MISSING	Not applicable	homo sapian		Not applicable	Not collected														19F				
+YZU0099			Escherichia coli 'BL21-Gold(DE3)pLysS AG'	missing				USA:CA	imported food	invasive disease		not collected														NA				
+YZU0100				Not applicable		Angkor Hopsital for Children; Siem Reap; Cambodia	Missing	United Kingdom: Midlands and East of England	not available: to be reported later	Mycobacterium tuberculosis infection	blood	NA														4b				
+YZU0101			Escherichia coli 'BL21-Gold(DE3)pLysS AG'			Poland	2017	USA: Minnesota: Buffalo River Watershed	Homo Sapiens	NA	raw intact chicken	unknown														not typed				
+YZU0102				M (lineage 4.1.2.1)			2016-09-01	USA:VA	not provided	bovine tuberculosis	Morgue	not available														I 4,[5],12:i:-				
+YZU0103				Microbial			Sep-2018	China		N/A	normally sterile site	Unknown																		
+YZU0104				-			2006/2012	USA:Bloomington, IN	Homo sapiens	invasive disease	animal-swine-market swine															N/A				
+YZU0105				Euro-American			31-Mar-2016	Viet Nam: Ho Chi Minh City	natural / free-living	STEC diarrhoeal disease	Invasive															O157				
+YZU0106				Neisseria meningitidis			N/A	Canada: British Columbia	HUMAN/FOOD	abortion	NA	56.13 N 106.34 W														Undetermined				
+YZU0107				clinical isolate			not applicable		lab strain	TB	N/A	51 N 1 E																		
+YZU0108				strain			unknown		artificial	Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere	not provided	56.46/ -2.99																		
+YZU0109				Stellar			yesterday		meat	carriage	Sputum sample																			
+YZU0110							thursday, september 23, 1993		ovine (dairy sheep)	None	sterile site																			
+YZU0111									unknown	UNKNOWN	environmental swab																			
+YZU0112									Broiler	UTI	CSF																			
+YZU0113									lab resistant isolate		Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork																			

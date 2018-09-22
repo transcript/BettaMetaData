@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 __author__ = 'adamkoziol'
 setup(
     name="BettaMetadata",
-    version="0.0.05",
+    version="0.0.06",
     include_package_data=True,
     packages=find_packages(),
     scripts=['validator.py', 'term_help.py'],
