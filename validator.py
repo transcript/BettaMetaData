@@ -237,13 +237,33 @@ class Validator(object):
         present = self.total - self.missing
         print('You have score of {present}/{total}'.format(present=present,
                                                            total=self.total))
+        # Calculate the fraction of supplied metadata
+        fraction = present / self.total
         # Determine if the metadata passes
-        if present / self.total > 0.85:
-            self.pass_value = True
-        if self.pass_value:
-            print('You passed the metadata challenge!')
+        if fraction == 1.00:
+            self.pass_value = 'A+'
+            colour = '\033[1;92m'
+        elif fraction >= 0.9:
+            self.pass_value = 'A'
+            colour = '\033[1;92m'
+        elif fraction >= 0.8:
+            self.pass_value = 'A-'
+            colour = '\033[1;92m'
+        elif fraction >= 0.7:
+            self.pass_value = 'B'
+            colour = '\033[1;92m'
+        elif fraction >= 0.6:
+            self.pass_value = 'C'
+            colour = '\033[1;93m'
+        elif fraction >= 0.5:
+            self.pass_value = 'D'
+            colour = '\033[1;93m'
         else:
-            print('Nice try!')
+            self.pass_value = 'F'
+            colour = '\033[1;91m'
+        # Print out the final grade
+        print(colour, 'Thanks for running BettaMetadata. Your metadata score has been calculated as: {grade}'
+              .format(grade=self.pass_value), '\033[0m')
 
     def __init__(self, args):
         self.metadata_file = os.path.join(args.metadatafile)
@@ -267,7 +287,7 @@ class Validator(object):
         # Initialise variables to store the number of total metadata fields, and the number of empty fields
         self.total = 0
         self.missing = 0
-        self.pass_value = False
+        self.pass_value = str()
         self.path = os.path.dirname(self.metadata_file)
         self.clean_metadata_file = os.path.join(self.path, 'cleaned_metadata.tsv')
         self.lex_queue = Queue()

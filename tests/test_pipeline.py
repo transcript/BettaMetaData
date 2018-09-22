@@ -84,7 +84,7 @@ def test_create_clean_report():
 
 def test_score():
     method.score()
-    assert method.pass_value is True
+    assert method.pass_value == 'A-'
 
 
 def test_clear_lexmapr_inputs():
