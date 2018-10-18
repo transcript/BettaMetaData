@@ -1,131 +1,128 @@
-#! /usr/bin/python3
+from bs4 import BeautifulSoup
 
-def clean_indentifier(text):
-    return text.split(":")[1].lstrip()
+fields = {
+    'sample_accession': True,
+    'organism': True,
+    'sample_name': True,
+    'title': True,
+    'organism': True,
+    'taxonomy_id': True,
+    'comment': True,
+    'submitter': True,
+    'contact_email': True,
+    'first_name': True,
+    'last_name': True,
+    'submission_model': True,
+    'submission_package': True,
+    'submission_package_name': True
+}
+samples = []
+totals = {}
+with open("senterica-ncbi.xml", 'r') as xml_handle:
+    soup = BeautifulSoup(xml_handle, "xml")
 
-if __name__ == '__main__':
-    import argparse as ap
-    import glob
-    import gzip
-    from os.path import basename, splitext
+    for sample in soup.find_all('BioSample'):
+        new_sample = {'sample_accession': sample['accession']}
 
-    parser = ap.ArgumentParser(
-        prog='ncbi-parser.py',
-        conflict_handler='resolve',
-        description=('Parser for NCBI BioSample text output.'))
-    parser.add_argument('samples', metavar="DIRECTORY", type=str,
-                        help=('Directory of zipped NCBI BioSample output.'))
-    parser.add_argument('--prefix', metavar="PREFIX", type=str,
-                        help=('Prefix for output.'))
-    args = parser.parse_args()
+        # Sample Name
+        for id in sample.Ids.find_all('Id'):
+            if "db_label" in id.attrs:
+                if id.attrs["db_label"] == "Sample name":
+                    fields['sample_name'] = True
+                    new_sample['sample_name'] = id.text
 
-    total = 0
-    samples = {}
-    attributes = {}
-    values = {}
-    total_samples = 0
-    for file in glob.glob("{0}/*.gz".format(args.samples)):
-        organism = splitext(splitext(basename(file))[0])[0]
-        samples[organism] = []
-        with gzip.open(file, 'r') as file_handle:
-            """
-            1: Pathogen: environmental/food/other sample from Campylobacter jejuni
-            Identifiers: BioSample: SAMN10094112; Sample name: FSIS11813598; SRA: SRS3803845
-            Organism: Campylobacter jejuni
-            Attributes:
-            /strain="FSIS11813598"
-            /collected by="USDA-FSIS"
-            /collection date="2018"
-            /geographic location="USA:PR"
-            /isolation source="raw intact chicken"
-            /latitude and longitude="missing"
-            Accession: SAMN10094112 ID: 10094112
+        # Description
+        new_sample['title'] = sample.Description.Title.text
+        new_sample['organism'] = sample.Description.Organism.OrganismName.text
+        new_sample['taxonomy_id'] = sample.Description.Organism['taxonomy_id']
+        if sample.Description.Comment:
+            new_sample['comment'] = sample.Description.Comment.Paragraph.text
 
-            2: Pathogen: environmental/food/other sample from Campylobacter jejuni
-            Identifiers: BioSample: SAMN10094111; Sample name: FSIS11813597; SRA: SRS3803849
-            Organism: Campylobacter jejuni
-            Attributes:
-            /strain="FSIS11813597"
-            /collected by="USDA-FSIS"
-            /collection date="2018"
-            /geographic location="USA:MS"
-            /isolation source="animal-chicken-young chicken"
-            /latitude and longitude="missing"
-            Accession: SAMN10094111 ID: 10094111
+        # Owner
+        new_sample['submitter'] = sample.Owner.Name.text
+        if sample.Owner.Contacts:
+            new_sample['contact_email'] = sample.Owner.Contacts.Contact['email']
+            new_sample['first_name'] = sample.Owner.Contacts.Contact.Name.First.text
+            new_sample['last_name'] = sample.Owner.Contacts.Contact.Name.Last.text
 
-            """
-            current_biosample = {}
-            for line in file_handle:
-                line = line.strip().decode()
+        # Submission Model
+        new_sample['submission_model'] = sample.Models.Model.text
+        new_sample['submission_package'] = sample.Package.text
+        new_sample['submission_package_name'] = sample.Package['display_name']
 
-                if line:
-                    if line.startswith("Identifiers"):
-                        # print(line)
-                        # Identifiers: BioSample: SAMN10094111; Sample name: FSIS11813597; SRA: SRS3803849
-                        line = line.replace("Identifiers: ", "")
-                        biosample = line.split(";")[0]
-                        current_biosample['sample_accession'] = clean_indentifier(biosample)
-                        if 'sample_accession' not in attributes:
-                            attributes['sample_accession'] = 1
-                        else:
-                            attributes['sample_accession'] += 1
-                    elif line.startswith("Organism"):
-                        # Organism: Campylobacter jejuni
-                        current_biosample["organism"] = line.replace("Organism: ", "")
-                        if 'organism' not in attributes:
-                            attributes['organism'] = 1
-                        else:
-                            attributes['organism'] += 1
-                    elif line.startswith("/"):
-                        # Attributes
-                        # /strain="FSIS11813597"
-                        key, value = line.split("=", 1)
-                        key = key.replace("/", "").replace(" ", "_")
-                        if key not in attributes:
-                            attributes[key] = 1
-                        else:
-                            attributes[key] += 1
+        # Attributes
+        for attribute in sample.Attributes.find_all('Attribute'):
+            fields[attribute['attribute_name']] = True
+            new_sample[attribute['attribute_name']] = attribute.text
 
-                        value = value.replace('"', '')
-                        if value not in values:
-                            values[value] = 1
-                        else:
-                            values[value] += 1
-                        current_biosample[key] = value
-                else:
-                    total_samples += 1
-                    samples[organism].append(current_biosample)
-                    current_biosample = {}
+        break
+print(sorted(fields.keys()))
 
-    # Attributes
-    cols = []
-    required_total = 100000
-    with open("ncbi-attributes.txt", 'w') as fh_out:
-        for k, v in sorted(attributes.items(), key=lambda kv: kv[1], reverse=True):
-            if v >= required_total:
-                cols.append(k)
-            fh_out.write("{0}\t{1}\n".format(k, v))
+"""
+Example BioSample Entry
 
-    # Values
-    with open("ncbi-values.txt", 'w') as fh_out:
-        for k, v in sorted(values.items(), key=lambda kv: kv[1], reverse=True):
-            fh_out.write("{0}\t{1}\n".format(k, v))
-
-    # Stats
-    with open("ncbi-summary.txt", 'w') as fh_out:
-        fh_out.write("input_file\t{0}\n".format("\t".join(cols)))
-        for key, vals in samples.items():
-            print("{0}\t{1}".format(key, len(vals)))
-            for val in vals:
-                col_vals = []
-                has_value = False
-                for attribute in cols:
-                    if attributes[attribute] >= required_total:
-                        value = ''
-                        if attribute in val:
-                            has_value = True
-                            value = val[attribute]
-                        col_vals.append(value)
-
-                if has_value:
-                    fh_out.write("{0}\t{1}\n".format(organism, "\t".join(col_vals)))
+<BioSample accession="SAMN10058925" id="10058925" submission_date="2018-09-13T22:11:06.313"
+           last_update="2018-09-13T22:47:19.883" publication_date="2018-09-13T00:00:00.000" access="public">
+    <Ids>
+        <Id is_primary="1" db="BioSample">SAMN10058925</Id>
+        <Id db_label="Sample name">MER-222</Id>
+        <Id db="SRA">SRS3773353</Id
+    </Ids>
+    <Description>
+        <Title>MERINO1_TRIAL</Title>
+        <Organism taxonomy_name="Klebsiella pneumoniae" taxonomy_id="573">
+            <OrganismName>Klebsiella pneumoniae</OrganismName>
+        </Organism>
+        <Comment>
+            <Paragraph>Patient with bloodstream infection</Paragraph>
+        </Comment>
+    </Description>
+    <Owner>
+        <Name>University of Queensland</Name>
+        <Contacts>
+            <Contact email="padstock@hotmail.com">
+                <Name>
+                    <First>Patrick</First>
+                    <Last>Harris</Last>
+                </Name>
+            </Contact>
+        </Contacts>
+    </Owner>
+    <Models>
+        <Model>Pathogen.cl</Model>
+    </Models>
+    <Package display_name="Pathogen: clinical or host-associated; version 1.0">Pathogen.cl.1.0</Package>
+    <Attributes>
+        <Attribute display_name="strain" harmonized_name="strain" attribute_name="strain">N/A</Attribute>
+        <Attribute display_name="isolate" harmonized_name="isolate" attribute_name="isolate">N/A</Attribute>
+        <Attribute display_name="collected by" harmonized_name="collected_by" attribute_name="collected_by">UQCCR</Attribute>
+        <Attribute display_name="collection date" harmonized_name="collection_date" attribute_name="collection_date">2016</Attribute>
+        <Attribute display_name="geographic location" harmonized_name="geo_loc_name" attribute_name="geo_loc_name">Australia</Attribute>
+        <Attribute display_name="host" harmonized_name="host" attribute_name="host">Homo sapiens</Attribute>
+        <Attribute display_name="host disease" harmonized_name="host_disease" attribute_name="host_disease">bacterial infectious disease</Attribute>
+        <Attribute display_name="isolation source" harmonized_name="isolation_source" attribute_name="isolation_source">blood</Attribute>
+        <Attribute display_name="latitude and longitude" harmonized_name="lat_lon" attribute_name="lat_lon">N/A</Attribute>
+        <Attribute display_name="culture collection" harmonized_name="culture_collection" attribute_name="culture_collection">N/A</Attribute>
+        <Attribute display_name="genotype" harmonized_name="genotype" attribute_name="genotype">261</Attribute>
+        <Attribute display_name="host age" harmonized_name="host_age" attribute_name="host_age">47</Attribute>
+        <Attribute display_name="host description" harmonized_name="host_description" attribute_name="host_description">N/A</Attribute>
+        <Attribute display_name="host disease outcome" harmonized_name="host_disease_outcome" attribute_name="host_disease_outcome">N/A</Attribute>
+        <Attribute display_name="host disease stage" harmonized_name="host_disease_stage" attribute_name="host_disease_stage">N/A</Attribute>
+        <Attribute display_name="host health state" harmonized_name="host_health_state" attribute_name="host_health_state">N/A</Attribute>
+        <Attribute display_name="host sex" harmonized_name="host_sex" attribute_name="host_sex">male</Attribute>
+        <Attribute display_name="host subject id" harmonized_name="host_subject_id" attribute_name="host_subject_id">RBWH-K1-1</Attribute>
+        <Attribute display_name="host tissue sampled" harmonized_name="host_tissue_sampled" attribute_name="host_tissue_sampled">Blood</Attribute>
+        <Attribute display_name="passage history" harmonized_name="passage_history" attribute_name="passage_history">N/A</Attribute>
+        <Attribute display_name="pathotype" harmonized_name="pathotype" attribute_name="pathotype">N/A</Attribute>
+        <Attribute display_name="serotype" harmonized_name="serotype" attribute_name="serotype">N/A</Attribute>
+        <Attribute display_name="serovar" harmonized_name="serovar" attribute_name="serovar">N/A</Attribute>
+        <Attribute display_name="specimen voucher" harmonized_name="specimen_voucher" attribute_name="specimen_voucher">N/A</Attribute>
+        <Attribute display_name="subgroup" harmonized_name="subgroup" attribute_name="subgroup">N/A</Attribute>
+        <Attribute display_name="subtype" harmonized_name="subtype" attribute_name="subtype">N/A</Attribute>
+    </Attributes>
+    <Links>
+        <Link label="PRJNA398288" target="bioproject" type="entrez">398288</Link>
+    </Links>
+    <Status when="2018-09-13T22:11:06.313" status="live"/>
+</BioSample>
+"""
