@@ -1,0 +1,516 @@
+<EXPERIMENT_PACKAGE>
+ <EXPERIMENT accession="SRX4908796" alias="PNUSAL004451:wgs">
+  <IDENTIFIERS>
+   <PRIMARY_ID>
+    SRX4908796
+   </PRIMARY_ID>
+   <EXTERNAL_ID namespace="PulseNet1">
+    PNUSAL004451:wgs
+   </EXTERNAL_ID>
+  </IDENTIFIERS>
+  <TITLE/>
+  <STUDY_REF accession="SRP028271">
+   <IDENTIFIERS>
+    <PRIMARY_ID>
+     SRP028271
+    </PRIMARY_ID>
+    <EXTERNAL_ID namespace="BioProject">
+     PRJNA212117
+    </EXTERNAL_ID>
+   </IDENTIFIERS>
+  </STUDY_REF>
+  <DESIGN>
+   <DESIGN_DESCRIPTION/>
+   <SAMPLE_DESCRIPTOR accession="SRS3954821">
+    <IDENTIFIERS>
+     <PRIMARY_ID>
+      SRS3954821
+     </PRIMARY_ID>
+     <EXTERNAL_ID namespace="PulseNet1">
+      PNUSAL004451
+     </EXTERNAL_ID>
+    </IDENTIFIERS>
+   </SAMPLE_DESCRIPTOR>
+   <LIBRARY_DESCRIPTOR>
+    <LIBRARY_NAME>
+     NexteraXT
+    </LIBRARY_NAME>
+    <LIBRARY_STRATEGY>
+     WGS
+    </LIBRARY_STRATEGY>
+    <LIBRARY_SOURCE>
+     GENOMIC
+    </LIBRARY_SOURCE>
+    <LIBRARY_SELECTION>
+     RANDOM
+    </LIBRARY_SELECTION>
+    <LIBRARY_LAYOUT>
+     <PAIRED/>
+    </LIBRARY_LAYOUT>
+    <LIBRARY_CONSTRUCTION_PROTOCOL>
+     NexteraXT
+    </LIBRARY_CONSTRUCTION_PROTOCOL>
+   </LIBRARY_DESCRIPTOR>
+  </DESIGN>
+  <PLATFORM>
+   <ILLUMINA>
+    <INSTRUMENT_MODEL>
+     Illumina MiSeq
+    </INSTRUMENT_MODEL>
+   </ILLUMINA>
+  </PLATFORM>
+ </EXPERIMENT>
+ <SUBMISSION accession="SRA796276" alias="SUB4656437" center_name="Pulsenet" lab_name="">
+  <IDENTIFIERS>
+   <PRIMARY_ID>
+    SRA796276
+   </PRIMARY_ID>
+  </IDENTIFIERS>
+ </SUBMISSION>
+ <Organization org_id="116" type="institute" url="">
+  <Name abbr="Pulsenet">
+   PulseNet Next Generation Subtyping Methods Unit
+  </Name>
+  <Address postal_code="30333">
+   <Department>
+    Enteric Diseases Laboratory Branch, DFWED, NCEZID
+   </Department>
+   <Institution>
+    PulseNet Next Generation Subtyping Methods Unit
+   </Institution>
+   <Street>
+    1600 Clifton Road
+   </Street>
+   <City>
+    Atlanta
+   </City>
+   <Sub>
+    GA
+   </Sub>
+   <Country>
+    USA
+   </Country>
+  </Address>
+  <Contact email="eih9@cdc.gov" fax="404-639-3333" phone="404-639-3672">
+   <Name>
+    <First>
+     Eija
+    </First>
+    <Last>
+     Trees
+    </Last>
+   </Name>
+  </Contact>
+ </Organization>
+ <STUDY accession="SRP028271" alias="PRJNA212117" center_name="BioProject">
+  <IDENTIFIERS>
+   <PRIMARY_ID>
+    SRP028271
+   </PRIMARY_ID>
+   <EXTERNAL_ID label="primary" namespace="BioProject">
+    PRJNA212117
+   </EXTERNAL_ID>
+  </IDENTIFIERS>
+  <DESCRIPTOR>
+   <STUDY_TITLE>
+    Listeria monocytogenes Genome sequencing and assembly
+   </STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="Other"/>
+   <STUDY_ABSTRACT>
+    Genome sequencing of Listeria monocytogenes
+   </STUDY_ABSTRACT>
+   <CENTER_PROJECT_NAME>
+    Listeria monocytogenes
+   </CENTER_PROJECT_NAME>
+  </DESCRIPTOR>
+  <STUDY_LINKS>
+   <STUDY_LINK>
+    <XREF_LINK>
+     <DB>
+      pubmed
+     </DB>
+     <ID>
+      28883140
+     </ID>
+    </XREF_LINK>
+   </STUDY_LINK>
+   <STUDY_LINK>
+    <URL_LINK>
+     <LABEL>
+      Enteric Diseases Laboratory Branch, Centers for Disease Control and Prevention
+     </LABEL>
+     <URL>
+      http://www.cdc.gov/ncezid/dfwed/edlb/
+     </URL>
+    </URL_LINK>
+   </STUDY_LINK>
+  </STUDY_LINKS>
+  <STUDY_ATTRIBUTES>
+   <STUDY_ATTRIBUTE>
+    <TAG>
+     parent_bioproject
+    </TAG>
+    <VALUE>
+     PRJNA211456
+    </VALUE>
+   </STUDY_ATTRIBUTE>
+  </STUDY_ATTRIBUTES>
+ </STUDY>
+ <SAMPLE accession="SRS3954821" alias="PNUSAL004451">
+  <IDENTIFIERS>
+   <PRIMARY_ID>
+    SRS3954821
+   </PRIMARY_ID>
+   <EXTERNAL_ID namespace="BioSample">
+    SAMN10262275
+   </EXTERNAL_ID>
+  </IDENTIFIERS>
+  <TITLE>
+   Listeria monocytogenes
+  </TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>
+    1639
+   </TAXON_ID>
+   <SCIENTIFIC_NAME>
+    Listeria monocytogenes
+   </SCIENTIFIC_NAME>
+  </SAMPLE_NAME>
+  <SAMPLE_LINKS>
+   <SAMPLE_LINK>
+    <XREF_LINK>
+     <DB>
+      bioproject
+     </DB>
+     <ID>
+      212117
+     </ID>
+     <LABEL>
+      PRJNA212117
+     </LABEL>
+    </XREF_LINK>
+   </SAMPLE_LINK>
+  </SAMPLE_LINKS>
+  <SAMPLE_ATTRIBUTES>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     strain
+    </TAG>
+    <VALUE>
+     PNUSAL004451
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     isolate
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     isolation_source
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     collected_by
+    </TAG>
+    <VALUE>
+     CDC
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     collection_date
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     geo_loc_name
+    </TAG>
+    <VALUE>
+     USA
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     lat_lon
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     host
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     host_disease
+    </TAG>
+    <VALUE>
+     missing
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+   <SAMPLE_ATTRIBUTE>
+    <TAG>
+     BioSampleModel
+    </TAG>
+    <VALUE>
+     Pathogen.cl
+    </VALUE>
+   </SAMPLE_ATTRIBUTE>
+  </SAMPLE_ATTRIBUTES>
+ </SAMPLE>
+ <Pool>
+  <Member accession="SRS3954821" bases="209872875" member_name="" organism="Listeria monocytogenes" sample_name="PNUSAL004451" sample_title="Listeria monocytogenes" spots="467074" tax_id="1639">
+   <IDENTIFIERS>
+    <PRIMARY_ID>
+     SRS3954821
+    </PRIMARY_ID>
+    <EXTERNAL_ID namespace="BioSample">
+     SAMN10262275
+    </EXTERNAL_ID>
+   </IDENTIFIERS>
+  </Member>
+ </Pool>
+ <RUN_SET>
+  <RUN accession="SRR8081662" alias="PNUSAL004451:wgs" cluster_name="public" is_public="true" load_done="true" published="2018-10-19 18:09:12" size="100849718" static_data_available="1" total_bases="209872875" total_spots="467074">
+   <IDENTIFIERS>
+    <PRIMARY_ID>
+     SRR8081662
+    </PRIMARY_ID>
+    <EXTERNAL_ID namespace="PulseNet1">
+     PNUSAL004451:wgs
+    </EXTERNAL_ID>
+   </IDENTIFIERS>
+   <EXPERIMENT_REF accession="SRX4908796">
+    <IDENTIFIERS>
+     <EXTERNAL_ID namespace="PulseNet1">
+      PNUSAL004451:wgs
+     </EXTERNAL_ID>
+    </IDENTIFIERS>
+   </EXPERIMENT_REF>
+   <Pool>
+    <Member accession="SRS3954821" bases="209872875" member_name="" organism="Listeria monocytogenes" sample_name="PNUSAL004451" sample_title="Listeria monocytogenes" spots="467074" tax_id="1639">
+     <IDENTIFIERS>
+      <PRIMARY_ID>
+       SRS3954821
+      </PRIMARY_ID>
+      <EXTERNAL_ID namespace="BioSample">
+       SAMN10262275
+      </EXTERNAL_ID>
+     </IDENTIFIERS>
+    </Member>
+   </Pool>
+   <SRAFiles>
+    <SRAFile cluster="public" date="2018-10-19 18:12:15" filename="SRR8081662.realign" md5="160afe098733dcbb02ce15d1f5634c35" semantic_name="run.realign" size="9203616" url="https://sra-download.ncbi.nlm.nih.gov/traces/sra72/SRZ/008081/SRR8081662/SRR8081662.realign"/>
+    <SRAFile cluster="public" date="2018-10-19 18:13:37" filename="wgmlst_sig.tsv" md5="7b86f9c44fda6ecf9665d82b61f910f8" semantic_name="wgmlst_sig" size="2745952" url="https://sra-download.ncbi.nlm.nih.gov/traces/sra72/SRZ/008081/SRR8081662/wgmlst_sig.tsv"/>
+   </SRAFiles>
+   <QualityCount>
+    <Quality count="15890" value="2"/>
+    <Quality count="107766" value="7"/>
+    <Quality count="207496" value="8"/>
+    <Quality count="383420" value="9"/>
+    <Quality count="651979" value="10"/>
+    <Quality count="2031794" value="11"/>
+    <Quality count="69191" value="12"/>
+    <Quality count="41792" value="13"/>
+    <Quality count="72461" value="14"/>
+    <Quality count="123261" value="15"/>
+    <Quality count="140155" value="16"/>
+    <Quality count="168825" value="17"/>
+    <Quality count="311339" value="18"/>
+    <Quality count="396511" value="19"/>
+    <Quality count="474059" value="20"/>
+    <Quality count="755506" value="21"/>
+    <Quality count="730142" value="22"/>
+    <Quality count="915087" value="23"/>
+    <Quality count="1272334" value="24"/>
+    <Quality count="803807" value="25"/>
+    <Quality count="670459" value="26"/>
+    <Quality count="1502074" value="27"/>
+    <Quality count="964154" value="28"/>
+    <Quality count="884193" value="29"/>
+    <Quality count="1016239" value="30"/>
+    <Quality count="2180051" value="31"/>
+    <Quality count="1995739" value="32"/>
+    <Quality count="1232032" value="33"/>
+    <Quality count="10638604" value="34"/>
+    <Quality count="4294861" value="35"/>
+    <Quality count="7124839" value="36"/>
+    <Quality count="27419586" value="37"/>
+    <Quality count="140277229" value="38"/>
+   </QualityCount>
+   <Statistics nreads="2" nspots="467074">
+    <Read average="224.72" count="467074" index="0" stdev="48.23"/>
+    <Read average="224.62" count="467074" index="1" stdev="48.32"/>
+   </Statistics>
+   <Databases>
+    <Database>
+     <Table name="SEQUENCE">
+      <Statistics source="meta">
+       <Rows count="467074"/>
+       <Elements count="209872875"/>
+      </Statistics>
+     </Table>
+    </Database>
+   </Databases>
+   <Bases count="209872875" cs_native="false">
+    <Base count="63303019" value="A"/>
+    <Base count="41501809" value="C"/>
+    <Base count="41434857" value="G"/>
+    <Base count="63617300" value="T"/>
+    <Base count="15890" value="N"/>
+   </Bases>
+   <tax_analysis aligns_to_version="0.55" analyzed_spot_count="467074" dbs_pass_date="2018-10-19 18:08:24.990000" dbss_mtime="2018-03-12 11:20:58" dbss_name="tree_index.dbs" parser_version="0.81" total_spot_count="467074">
+    <taxon name="cellular organisms" self_count="21" tax_id="131567" total_count="448349">
+     <taxon name="Bacteria" rank="superkingdom" self_count="11594" tax_id="2" total_count="448261">
+      <taxon name="Terrabacteria group" self_count="74" tax_id="1783272" total_count="436329">
+       <taxon name="Firmicutes" rank="phylum" self_count="74" tax_id="1239" total_count="436255">
+        <taxon name="Bacilli" rank="class" self_count="508" tax_id="91061" total_count="436176">
+         <taxon name="Bacillales" rank="order" self_count="1076" tax_id="1385" total_count="435659">
+          <taxon name="Listeriaceae" rank="family" self_count="1197" tax_id="186820" total_count="434553">
+           <taxon name="Listeria" rank="genus" self_count="44780" tax_id="1637" total_count="433356">
+            <taxon name="Listeria monocytogenes" rank="species" self_count="388530" tax_id="1639" total_count="388536">
+             <taxon name="Listeria monocytogenes serotype 4b" self_count="1" tax_id="2065118" total_count="5">
+              <taxon name="Listeria monocytogenes serotype 4bV str. LS642" self_count="4" tax_id="1389485" total_count="4"/>
+             </taxon>
+             <taxon name="Listeria monocytogenes SHL006" self_count="1" tax_id="1302626" total_count="1"/>
+            </taxon>
+            <taxon name="Listeria welshimeri" rank="species" self_count="13" tax_id="1643" total_count="13"/>
+            <taxon name="Listeria innocua" rank="species" self_count="2" tax_id="1642" total_count="11">
+             <taxon name="Listeria innocua Clip11262" self_count="9" tax_id="272626" total_count="9"/>
+            </taxon>
+            <taxon name="Listeria ivanovii" rank="species" self_count="10" tax_id="1638" total_count="10"/>
+            <taxon name="Listeria seeligeri" rank="species" self_count="6" tax_id="1640" total_count="6"/>
+           </taxon>
+          </taxon>
+          <taxon name="Staphylococcaceae" rank="family" self_count="0" tax_id="90964" total_count="14">
+           <taxon name="Staphylococcus" rank="genus" self_count="1" tax_id="1279" total_count="14">
+            <taxon name="Staphylococcus aureus" rank="species" self_count="13" tax_id="1280" total_count="13"/>
+           </taxon>
+          </taxon>
+          <taxon name="Bacillaceae" rank="family" self_count="5" tax_id="186817" total_count="13">
+           <taxon name="Bacillus" rank="genus" self_count="6" tax_id="1386" total_count="7">
+            <taxon name="Bacillus subtilis group" rank="species group" self_count="0" tax_id="653685" total_count="1">
+             <taxon name="Bacillus amyloliquefaciens group" rank="species subgroup" self_count="1" tax_id="1938374" total_count="1"/>
+            </taxon>
+           </taxon>
+           <taxon name="Halobacillus" rank="genus" self_count="0" tax_id="45667" total_count="1">
+            <taxon name="Halobacillus massiliensis" rank="species" self_count="1" tax_id="1926286" total_count="1"/>
+           </taxon>
+          </taxon>
+          <taxon name="Planococcaceae" rank="family" self_count="1" tax_id="186818" total_count="2">
+           <taxon name="Planococcus" rank="genus" self_count="0" tax_id="1372" total_count="1">
+            <taxon name="Planococcus faecalis" rank="species" self_count="1" tax_id="1598147" total_count="1"/>
+           </taxon>
+          </taxon>
+          <taxon name="Paenibacillaceae" rank="family" self_count="0" tax_id="186822" total_count="1">
+           <taxon name="Paenibacillus" rank="genus" self_count="0" tax_id="44249" total_count="1">
+            <taxon name="Paenibacillus polymyxa" rank="species" self_count="1" tax_id="1406" total_count="1"/>
+           </taxon>
+          </taxon>
+         </taxon>
+         <taxon name="Lactobacillales" rank="order" self_count="7" tax_id="186826" total_count="9">
+          <taxon name="Streptococcaceae" rank="family" self_count="0" tax_id="1300" total_count="2">
+           <taxon name="Streptococcus" rank="genus" self_count="2" tax_id="1301" total_count="2"/>
+          </taxon>
+         </taxon>
+        </taxon>
+        <taxon name="Clostridia" rank="class" self_count="0" tax_id="186801" total_count="5">
+         <taxon name="Clostridiales" rank="order" self_count="4" tax_id="186802" total_count="5">
+          <taxon name="Clostridiales incertae sedis" self_count="0" tax_id="538999" total_count="1">
+           <taxon name="Clostridiales Family XII. Incertae Sedis" rank="family" self_count="0" tax_id="543313" total_count="1">
+            <taxon name="Fusibacter" rank="genus" self_count="0" tax_id="76008" total_count="1">
+             <taxon name="Fusibacter sp. 3D3" rank="species" self_count="1" tax_id="1048380" total_count="1"/>
+            </taxon>
+           </taxon>
+          </taxon>
+         </taxon>
+        </taxon>
+       </taxon>
+      </taxon>
+      <taxon name="Proteobacteria" rank="phylum" self_count="13" tax_id="1224" total_count="338">
+       <taxon name="Gammaproteobacteria" rank="class" self_count="18" tax_id="1236" total_count="325">
+        <taxon name="Enterobacterales" rank="order" self_count="3" tax_id="91347" total_count="181">
+         <taxon name="Enterobacteriaceae" rank="family" self_count="6" tax_id="543" total_count="178">
+          <taxon name="Salmonella" rank="genus" self_count="17" tax_id="590" total_count="172">
+           <taxon name="Salmonella enterica" rank="species" self_count="155" tax_id="28901" total_count="155"/>
+          </taxon>
+         </taxon>
+        </taxon>
+        <taxon name="Pseudomonadales" rank="order" self_count="0" tax_id="72274" total_count="126">
+         <taxon name="Pseudomonadaceae" rank="family" self_count="1" tax_id="135621" total_count="126">
+          <taxon name="Pseudomonas" rank="genus" self_count="125" tax_id="286" total_count="125"/>
+         </taxon>
+        </taxon>
+       </taxon>
+      </taxon>
+     </taxon>
+     <taxon name="Eukaryota" rank="superkingdom" self_count="65" tax_id="2759" total_count="67">
+      <taxon name="Opisthokonta" self_count="2" tax_id="33154" total_count="2"/>
+     </taxon>
+    </taxon>
+    <taxon name="Viruses" rank="superkingdom" self_count="0" tax_id="10239" total_count="5638">
+     <taxon name="dsDNA viruses, no RNA stage" self_count="0" tax_id="35237" total_count="5638">
+      <taxon name="Caudovirales" rank="order" self_count="0" tax_id="28883" total_count="5638">
+       <taxon name="Siphoviridae" rank="family" self_count="952" tax_id="10699" total_count="5638">
+        <taxon name="unclassified Siphoviridae" self_count="1260" tax_id="196894" total_count="3567">
+         <taxon name="Listeria phage A500" rank="species" self_count="650" tax_id="40522" total_count="650"/>
+         <taxon name="Listeria phage vB_LmoS_188" rank="species" self_count="477" tax_id="1591072" total_count="477"/>
+         <taxon name="Listeria phage vB_LmoS_293" rank="species" self_count="370" tax_id="1591073" total_count="370"/>
+         <taxon name="Listeria phage 2389" rank="species" self_count="224" tax_id="181007" total_count="224"/>
+         <taxon name="Listeria phage LP-030-3" rank="species" self_count="190" tax_id="1458852" total_count="190"/>
+         <taxon name="Listeria phage LP-101" rank="species" self_count="148" tax_id="1458856" total_count="148"/>
+         <taxon name="Listeria phage B025" rank="species" self_count="130" tax_id="330396" total_count="130"/>
+         <taxon name="Listeria phage A118" rank="species" self_count="118" tax_id="40521" total_count="118"/>
+        </taxon>
+        <taxon name="Psavirus" rank="genus" self_count="0" tax_id="1921434" total_count="1119">
+         <taxon name="Listeria virus LP302" rank="species" self_count="0" tax_id="1921435" total_count="1119">
+          <taxon name="Listeria phage LP-030-2" self_count="1119" tax_id="1173743" total_count="1119"/>
+         </taxon>
+        </taxon>
+       </taxon>
+      </taxon>
+     </taxon>
+    </taxon>
+   </tax_analysis>
+   <Lineage>
+    <N>
+     Bacteria
+    </N>
+    <N>
+     Firmicutes
+    </N>
+    <N>
+     Bacilli
+    </N>
+    <N>
+     Bacillales
+    </N>
+    <N>
+     Listeriaceae
+    </N>
+    <N>
+     Listeria
+    </N>
+    <N taxid="1639">
+     Listeria monocytogenes
+    </N>
+   </Lineage>
+  </RUN>
+ </RUN_SET>
+</EXPERIMENT_PACKAGE>

@@ -1,0 +1,1080 @@
+biosample_title	676549
+name	676549
+organism	676549
+publication_date	676549
+sample_accession	676549
+submission_model	676549
+submission_package	676549
+submission_package_name	676549
+submitter	676549
+taxonomy_id	676549
+strain	421256
+collection_date	391588
+geo_loc_name	381614
+sample_name	376394
+isolation_source	375740
+lat_lon	350156
+collected_by	341880
+host	286589
+host_disease	271956
+contact_email	189132
+last_name	183815
+first_name	183813
+serovar	165141
+isolate	163148
+Sample Name	154748
+ENA-LAST-UPDATE	128406
+ENA-FIRST-PUBLIC	127122
+contact_lab	115948
+isolate_name_alias	99461
+comment_paragraph	76315
+Species	74191
+ArrayExpress-Species	64132
+colection date	53266
+sub_species	53252
+potential_contaminant	51386
+sequence_type	50761
+host_age	43159
+isolation source	39856
+country	38999
+specific host	38874
+sample_type	36936
+ArrayExpress-Phenotype	34599
+Strain	32097
+HHS_region	31748
+geographic location (country and/or sea)	31603
+attribute_package	31438
+ArrayExpress-StrainOrLine	28592
+host status	23012
+host scientific name	20611
+specific_host	20162
+anonymized name	20006
+unknown	19709
+host health state	19217
+subgroup	18194
+ref_biomaterial	16593
+supplier name	16462
+isol_growth_condt	16298
+num_replicons	16009
+serotype	15264
+collection date	15214
+Subspecies	14196
+genotype	13634
+FDA_lab_id	11815
+ArrayExpress-SPECIES	11225
+SUBJECT_ID	11225
+PublicAccession	11050
+env_biome	10877
+Genus	10868
+ProjectAccession	10851
+host_sex	10477
+env_feature	10379
+env_material	10339
+culture_collection	10043
+isolation-source	9575
+PFGE_PrimaryEnzyme_pattern	9518
+biomaterial_provider	9289
+project_name	9036
+host_disease_outcome	8094
+host_subject_id	7977
+ArrayExpress-Sex	7256
+passage_history	7192
+host_description	6823
+geographic location (country and/or sea, region)	6427
+host_tissue_sampled	6423
+host_health_state	6341
+comment_table	6296
+biome	5674
+feature	5598
+material	5597
+Biosample	5481
+host_status	5422
+anonymized_name	5397
+specimen_voucher	5151
+supplier_name	4933
+pathotype	4825
+secondary description	4530
+subtype	4493
+host_disease_stage	4365
+PFGE_SecondaryEnzyme_pattern	4293
+Is the sequenced pathogen host associated?	4017
+ArrayExpress-STRAIN_OR_LINE	3832
+Sample Description	3806
+UploadDate	3652
+collected by	3600
+SPECIES	3170
+SUBJECT ID	3170
+sub species	3018
+Year received	2969
+ID	2954
+description	2874
+investigation_type	2822
+rel_to_oxygen	2771
+host associated	2715
+host_anti-retroviral_status	2693
+host_hiv_status	2693
+host_hiv_status_diagnosis_postmortem	2693
+host_location_sampled	2693
+latitude	2646
+longitude	2606
+geographic location (country and/or sea,region)	2584
+host_associated	2575
+biotic_relationship	2511
+depth	2410
+ena_checklist	2340
+environmental sample	2317
+host_disease_status	2273
+ArrayExpress-SEX	2245
+GENDER	2245
+env_package	2155
+VirulenceMarker	2022
+isolation source host-associated	1911
+phenotype	1830
+lat lon	1791
+pubmed_id-0	1777
+pubmed_id-1	1777
+STRAIN	1766
+NARMS_isolate_number	1716
+culture-collection	1587
+replicate	1558
+geo loc name	1545
+pubmed id	1524
+Sample name	1490
+environmental_sample	1471
+GOLD Stamp ID	1468
+nat-host	1464
+INSTRUMENT MODEL	1450
+READ LENGTH	1450
+estimated_size	1444
+sequencing method	1397
+samp_size	1346
+elev	1332
+Sample Number	1303
+sample comment	1300
+note	1290
+geographic location (region and locality)	1216
+investigation type	1204
+type-material	1190
+Gram Staining	1189
+locus_tag_prefix	1143
+collected-by	1130
+environment	1127
+samp_collect_device	1112
+PMID	1059
+host taxid	1058
+environment (feature)	1055
+NARMS isolate number	1003
+ph	969
+ph_meth	962
+tot_org_c_meth	962
+tot_org_carb	962
+assembly	951
+Calcium	943
+Copper	943
+Electrical Conductivity	943
+Iron	943
+Magnesium	943
+Nitrate-N	943
+Phosphorous	943
+Sodium	943
+cur_vegetation	937
+host-disease	927
+texture_meth	911
+texture	906
+trophic_level	893
+host_taxid	889
+substrain	882
+alternate_ID	865
+Isolation Site	859
+sub-species	852
+label	831
+Type Strain	822
+temp	804
+geographic location (latitude)	758
+geographic location (longitude)	758
+Temperature Range	751
+Outbreak	740
+baps	738
+lab_host	728
+isolation source non-host-associated	700
+alt_elev	697
+project name	694
+environment (material)	689
+environment (biome)	685
+serogroup	681
+source_mat_id	678
+identified_by	632
+sample_id	628
+finishing strategy (depth of coverage)	627
+Cell Shape	627
+AssemblyVersion	626
+SequencingTechnology	626
+nucleic acid extraction	624
+misc_param: HMP body site	623
+misc_param: HMP supersite	623
+project_type	623
+sop	623
+Motility	622
+collection-date	621
+geographic location	621
+subspecf_gen_lin	620
+MLST	561
+PHE Centre	555
+emm type	555
+host disease	550
+emm	546
+BioSampleModel	542
+sequencing_meth	536
+ENA-CHECKLIST	529
+pathovar	525
+altitude	524
+pmid	511
+Sex	502
+pathogenicity	496
+NARMS_ID	493
+FDA_Lab_Id	478
+scientific name	476
+tax id	476
+receipt date	472
+Sporulation	469
+taxon id	468
+biovar	463
+environmental package	463
+identification method	452
+host sex	451
+isolate_name	449
+health_state	440
+plant-associated environmental package	437
+host common name	436
+Temperature Optimum	432
+plant product	432
+strain_name_alias	430
+AntigenForm	427
+Isolation_site	425
+Culture_ID	421
+Year_isolated	421
+region	405
+Diseases	403
+geo-loc-name	396
+subsrc_note	386
+encoded_traits	384
+Biological replicate	360
+Experimental condition	360
+Technical replicate	360
+Gene Calling Method	355
+collection month	351
+sample	340
+subspecies	329
+sample_description	326
+sequence type	322
+Sample_ID	313
+sex	313
+lat-lon	304
+Phenotypes	294
+pH	288
+INSTRUMENT_MODEL	283
+READ_LENGTH	283
+fda_lab_id	282
+Cefox	275
+Cipro	274
+Clind	274
+Eryth	274
+Fusi	274
+Gent	274
+Lzd	274
+Mup	274
+Pen	274
+Rif	274
+Teic	274
+Tet	274
+Vanc	274
+health_disease_stat	273
+Funding Program	267
+ORIGIN	267
+ArrayExpress-PHENOTYPE	266
+PHENOTYPE	266
+Contact Information	266
+Host	266
+host_disease_stat	265
+panel_id	262
+Country	262
+Isolation source	253
+ENA_CHECKLIST	252
+host_body_habitat	251
+culture collection	245
+Toxin	241
+host-sex	236
+streptomycin_conc	230
+metagenomic	228
+Age range	223
+custom_id	220
+extrachrom_elements	216
+treatment	216
+metagenome_source	215
+Isolation Comments	213
+assembly_method	213
+assembly_method_version	213
+completeness_estimated	213
+contamination_estimated	213
+genome_coverage	213
+mapping_method	213
+mapping_method_version	213
+quality_assessment_method	213
+quality_assessment_method_version	213
+value	213
+clonal_complex	213
+pfge_enzyme_1_pattern	212
+pfge_enzyme_2_pattern	212
+latitude and longitude	209
+comment	209
+host age	207
+clone	203
+biotype	199
+alternate id	199
+bioprojec_accession	197
+body_site	195
+Phagetype	194
+translation missing: en, metadata, sample, sample_metadata, sample_strain_att	193
+source_material_id	192
+spa_type	189
+sub_type	187
+isolation source host associated	187
+sample_ID	184
+age	183
+reference_material	183
+isolation_year	183
+similarity	182
+phage	180
+BI GSSR sample ID	180
+BI GSSR sample LSID	180
+BI GSSR sample type	180
+antibiotics	175
+replicate_num	175
+treatment_type	175
+mating_type	172
+Serotype	172
+reference	170
+samp_mat_process	167
+Colonies	167
+ST	158
+sample type	154
+clonal complex	154
+Resistotype (HREZ)	153
+ZN stain	153
+urine_collect_meth	149
+pedigree	146
+spatial_structure	146
+Pathotype	146
+travel-relation	145
+breed	143
+Region (HHS)	142
+sequencing_id	139
+well	139
+dev_stage	138
+type_strain	136
+Serogroup	134
+Isolate, name or label	133
+detected_plasmids	132
+lineage	130
+Host status	128
+sample id	127
+sub_strain	125
+alternate_id	125
+Extraction Date	121
+Extraction Method	121
+Laboratory Host	121
+Passage Date	121
+Growth condition	121
+design_description	121
+filename	121
+filename2	121
+filetype	121
+instrument_model	121
+library_layout	121
+library_selection	121
+platform	121
+title	121
+ISOLATION SITE	120
+passage_species	119
+spa-type	118
+Source of Isolate	118
+geographic location (latitude and longitude)	116
+Year of isolation	116
+Country of contamination	115
+Phage Type	113
+Date isolated (in YEARS-MONTHS elapsed since a chosen date, see paper)	113
+body_compartment	113
+patient	113
+Symbiotic Relationship	112
+alias	111
+clade	111
+animal id	108
+farm	108
+sample code	108
+host_spec_range	106
+tissue	105
+host_life_stage	104
+disease	104
+finishing_strategy	103
+genome type	103
+protease	103
+seqID	103
+NGMAST full	101
+location	101
+year-month	101
+Greengenes ID	100
+mtrR	100
+patient_number	100
+23S	98
+barcode	98
+sampletitle	97
+Infection Type	97
+reference for biomaterial	96
+beta_lactamase_family	95
+alt_id	95
+number	94
+carbapenemase	94
+edta_inhibitor_tested	94
+id	93
+host-age	93
+Year_Isolated	92
+year of birth	92
+translation missing: en, metadata, sample, sample metadata, sample strain att	92
+isolation and growth condition	91
+isolate name alias	90
+tissue_type	89
+growth condition	88
+Specimen_Type	88
+isolation_source_food	88
+Genotype	87
+preservation_method	87
+Acknowledgement	86
+host species	86
+uniq	86
+Reference_Number	85
+Alias	85
+Serovar	85
+alt_ID	84
+Extraction	84
+pubmed_id	84
+Source code	84
+Warwick ST	84
+species	79
+ToxinAdditInfo	79
+Sampling Period	77
+ID no.	76
+taxon_id	75
+sub strain	75
+NCBI Sample Category	75
+cultivar	75
+library_id	74
+Panel_ID	73
+cell_line	73
+experimental_replicate	73
+cell_type	71
+disease_stage	71
+host_common_name	70
+BI GSSR Sample ID	70
+authority	70
+teleomorph	70
+anamorph	69
+haplotype	69
+orgmod_note	68
+Country of travel	68
+toxin	68
+bioproject	65
+owner:name	65
+package	65
+version	65
+Pseudomonas aeruginosa clone type	65
+time of isolation	65
+serology	63
+lab host	63
+pirnay_name	63
+environment_biome	63
+NML-Guelph sample ID	62
+outbreak	62
+Biotic Relationship	61
+tissue source	61
+Origination	60
+geographical location	59
+identifier	59
+outbreak_number	59
+extra	59
+BI GSSR Sample LSID	59
+BI GSSR Sample Type	59
+Subgroup	58
+passage history	58
+Healthy or ill chicken	57
+Original Escherichia coli phylogenetic group	57
+streptomycinain	57
+specimen_category	57
+uFORGE_Sample_ID	57
+Antibiotic resistance genes of the plasmid	56
+Isolate	56
+Oxygen Requirement	56
+Collection method	56
+Subtype	56
+Other resistances	55
+collection day	55
+Lat_lon	55
+group	54
+crispr	54
+crispr spacer sequence	54
+mlva	54
+notable_feature	54
+Other_strain_designation	53
+provider	53
+Contributing_institute	53
+geographic location (depth)	51
+day_post_infection	50
+isolate_pig_day_wound_strain	50
+day_in_experiment	50
+protozoa	50
+water environmental package	48
+sexual orientation	48
+Habitat	48
+samp_store_temp	46
+lon	46
+uniqueID	46
+pool_constituents	46
+ab_selection	46
+number of replicons	45
+latitude (raw)	45
+longitude (raw)	45
+Salinity	45
+UID	44
+Source	44
+phylotype	43
+Replicate	42
+WGA method	42
+input material WGA reaction	42
+unique identifier	42
+alternate-name-alias	41
+Borstel_sample-ID	41
+Position_in_the_box	41
+TB_Portal_ID	41
+original_ID	41
+Origin	41
+NMRC sample ID	41
+isolate type	40
+Pasteur sequence type	39
+acquired carbapenemase	39
+carbapenem susceptible/resistant	39
+Antigenic Formula	38
+timepoint	38
+source material identifiers	37
+Sample_number	37
+host_FEV1_at_time_of_collection	36
+host_duration_colonized_with_Bdolosa_at_time_of_collection	36
+other_name	36
+study_patient	36
+nat_host	35
+SeroTypeFinder	35
+scientific_name	35
+tax_id	35
+Bacteria Genus	35
+Bacteria Species	35
+Bacteria Strain	35
+Specimen Collection Date(String)	35
+Specimen Collection Location - Country	35
+Specimen Collection Location - Latitude	35
+Specimen Collection Location - Location	35
+Specimen Collection Location - Longitude	35
+Specimen Source Disease	35
+Specimen Type	35
+experimental_condition	35
+line	35
+time_point_days	35
+sample ID	35
+MLST_type	35
+SCCmec_type	35
+source	35
+Resistance Profiles	34
+alternate strain name	33
+isolate-name-alias	33
+collection_year	33
+HOST TAXON NAME	32
+Host Name	32
+samp generation of low of glucosee_tit generation of low of glucosee	32
+samp_store_loc	31
+Phenotype	31
+attribute	31
+Drug concentration_ug/ml	30
+Sample	30
+Time _hours	30
+Treatment	30
+treatment_group	30
+treatment_sequence	30
+spa type	30
+Experiment	30
+Selection	30
+estimated size	29
+Unique Sample ID	29
+Layout	29
+Planned read length (bp) for mate 1 and mate 2	29
+Platform	29
+Release date	29
+Strategy	29
+age (in years)	29
+package that describes your sample	29
+alt id	28
+Sample ID	28
+misc_param	27
+collection_month	27
+cell type	27
+organism part	27
+antigenic formula	27
+State	27
+Host Health	27
+Comment	26
+lab-host	26
+Patient inclusion	25
+collection_day	25
+is_excluded	25
+sequencing strategy	24
+turbidostat replicate and time point	24
+isolation_source_host_associated	24
+geographic location (elevation)	24
+host-associated environmental package	24
+amoxicillin clavulanic acid	24
+case type	24
+cefoxitin	24
+ceftazidime	24
+ciprofloxacin	24
+date isolation	24
+gentamicin	24
+piperacillin tazobactam	24
+place of isolation	24
+specimen type	24
+profile	23
+sample_title	23
+antibiotic treatment (local, wound related)	23
+antibiotic treatment (systemic)	23
+sample_order	23
+Body Sample Site	23
+colony pick	22
+bio material	22
+Direct_ancestory	22
+Pools_recoded	22
+checklist	21
+host disease status	21
+FDA CVM ID	21
+sediment environmental package	20
+translation missing: en, metadata, sample, sample_metadata, sample_description	20
+st-rain	20
+storage	20
+drug used in morbidostat (see paper)	20
+soil_type	19
+Haplotype	19
+Isolation hospital	19
+Week year isolated	19
+lab_handling	19
+perturbation	18
+relationship to oxygen	18
+custom attribute	18
+alternative_strain_name	18
+slope_aspect	18
+slope_gradient	18
+water_content_soil	18
+water_content_soil_meth	18
+Energy Source	18
+mulitlocus sequence type	18
+tdh	18
+trh	18
+host-description	17
+SAMPLE DESCRIPTION	17
+h_antigen	17
+k_antigen	17
+o_antigen	17
+stx_toxin_PCR_subtype	17
+stx_toxin_type_by_PCR	17
+host_phenotype	17
+sample collection device or method	16
+free-living	16
+SequencingID	16
+type_status	15
+chem_administration	15
+orgmod-note	15
+amount or size of sample collected	15
+encoded traits	15
+extrachromosomal elements	15
+health or disease status of specific host at time of collection	15
+host specificity or range	15
+known pathogenicity	15
+observed biotic relationship	15
+sample material processing	15
+2nd_geo_loc	15
+Isolation site	15
+AMR	15
+NG-MAST type	15
+old-name	15
+Biovar	15
+progenitor	15
+transfers	15
+miscellaneous environmental package	14
+environmental-sample	14
+Case	14
+passage	14
+Host health	14
+Isolate_note	14
+Challenge	13
+Evolved	13
+Pouplation ID	13
+line_number	13
+growth_conditions	13
+BDQ MIC	12
+CFZ MIC	12
+atpE mutation	12
+rv0678 mutation	12
+human gut environmental package	12
+developmental stage	12
+individual	12
+Sample_Description	12
+Euk mRNA removal	12
+Experimental Conditions	12
+rRNA removal	12
+Beta-thujaplicin MIC (micrograms/mL)	12
+Colony number	12
+Doxycycline MIC (micrograms/mL)	12
+Library preperation	12
+Size of tetA PCR product (kb)	12
+cell line	12
+genotype_method	11
+output_dir	11
+Host Age	11
+Host Gender	11
+LD50_no_of_organisms	11
+LSID	11
+samp_vol_we_dna_ext	10
+NCBI RefSeq	10
+Sample identifier	10
+metagenome-source	10
+salinity	10
+Body Sample SubSite	10
+ArrayExpress-CELL_TYPE	9
+ArrayExpress-DEVELOPMENTAL_STAGE	9
+ArrayExpress-ORGANISM_PART	9
+coidentical strain	9
+ArrayExpress-CellType	9
+ArrayExpress-DevelopmentalStage	9
+ArrayExpress-Immunoprecipitate	9
+ArrayExpress-OrganismPart	9
+contact:email	9
+contact:first_name	9
+contact:last_name	9
+plant_body_site	8
+Lot	8
+experimental_arm	8
+geographic location (country and/or sea	 region)	8
+Keywords	8
+SEROTYPE	8
+PAIRED	8
+DnaK	8
+repeat_library	8
+MLVA genotype	8
+P1 gene type	8
+Suscpetibility to macrolides	8
+isolates	8
+host_body_temp	7
+Number of reads sequenced	7
+specimen with known storage state	7
+reference id	7
+susceptibility	7
+experiment setting	7
+collection method	7
+oxy_stat_samp	6
+sample-type	6
+unique_sample	6
+Isolation and growth conditions	6
+lat	6
+reference_id	6
+ENVIRONMENTAL SAMPLE TYPE	6
+Compensatory mutant	6
+parental strain	6
+reference url	6
+human-associated environmental package	6
+Geographical location	6
+host disease stautus	6
+Other frequent host-diseases	6
+Current Finishing Status	6
+MLVA	6
+Phage type	6
+Antigen	5
+Contributing Laboratory	5
+NML sample ID	5
+reference_url	5
+bio_material	5
+COUNTRY	5
+ISOLATION SOURCE	5
+LAT LON	5
+Mutation	5
+REFERENCE ID	5
+REFERENCE URL	5
+biomaterial	5
+bacteria_available_from	5
+sequencing_type	5
+promoter_exchange	5
+isolate name	5
+CC	5
+Disease	5
+Year isolated	5
+growth_med	4
+samp_store_dur	4
+wastewater_type	4
+host_taxon_id	4
+mutant	4
+serovarovar	4
+soil environmental package	4
+alternative_isolate_alias	4
+Isolation_hospital	4
+Week_year_isolated	4
+Number of Reads	4
+Alternate strain	4
+MGGen ID #	4
+infra_specific_name	3
+infra_specific_rank	3
+life_stage	3
+mineral_nutr_regm	3
+tot_mass	3
+component_organism	3
+Depth	3
+Toxin A	3
+Toxin B	3
+plasmid	3
+commentary	3
+Date	3
+finishing strategy	3
+Identifier; CFSAN	3
+Biotype	3
+Misc.	3
+Internal lab name	3
+Resistance	3
+Tolerance	3
+host_tissue_sample	3
+Fe_II	3
+alkalinity	3
+ammonium	3
+calcium	3
+chloride	3
+lithology	3
+manganese	3
+methane	3
+microbial_biomass	3
+sodium	3
+sulfate	3
+alternative_isolate_name	3
+Antibiotic Resistance Pattern	3
+Group	3
+host_body_product	3
+Geographic Origin	3
+Reference	3
+store_cond	2
+alternative_ID	2
+isolate_alias	2
+amplified_region	2
+Collected_By	2
+identified by	2
+isolate details	2
+isolation date	2
+sampling site	2
+Kai-Jun Zhang	2
+culture_media	2
+host-tissue-sampled	2
+mtrR-Pr	2
+Fe(II) Dissolved and Nanoparticulate	2
+Fe(II) Dissolved and Nanoparticulate Standard Deviation	2
+Fe(II) Total	2
+Fe(II) Total Standard Deviation	2
+Fe(III) Dissolved and Nanoparticulate	2
+Fe(III) Dissolved and Nanoparticulate Standard Deviation	2
+Fe(III) Total	2
+Fe(III) Total Standard Deviation	2
+diss_oxygen	2
+sulfide	2
+Isolated by	2
+climate_environment	2
+Monobactam Produced	2
+UCC#	2
+nucl acid ext	2
+seq meth	2
+ncbi_project_name	2
+alternative strain name	2
+atribute_package	2
+note_orgmod	2
+Sequencing Depth	2
+reactor_type	2
+RM_KO	2
+strain_alias	2
+Optical Density(OD)	2
+Akira Hishinuma	2
+Makoto Ohnishi	2
+Yoshichika Arakawa	2
+subsp.	2
+lab_replicate	2
+Host Species	2
+parent_strain	2
+Geographic origin	2
+culuture_collection	1
+annual_season_temp	1
+Altitude	1
+Estimated_size	1
+Isolation_source	1
+crop_rotation	1
+cur_land_use	1
+pool_dna_extracts	1
+soil_type_meth	1
+tillage	1
+tot_n_meth	1
+tot_nitro	1
+biomaterial-provider	1
+Sub species	1
+mol_type	1
+host_genotype	1
+plant_product	1
+DMB	1
+type	1
+Carola	1
+Hinrich	1
+Wentao	1
+sample_identifier	1
+Isolation and growth conditions PMID	1
+abs_air_humidity	1
+air_temp	1
+build_occup_type	1
+building_setting	1
+carb_dioxide	1
+filter_type	1
+heat_cool_type	1
+indoor_space	1
+light_type	1
+occup_samp	1
+occupant_dens_samp	1
+organism_count	1
+rel_air_humidity	1
+space_typ_state	1
+typ_occupant_dens	1
+ventilation_type	1
+ecotype	1
+specimen voucher	1
+genetic modification	1
+alt_name	1
+Isolation coordinates	1
+Isolator	1
+subspecific genetic lineage	1
+Jia-fei Ju	1
+Xiao-yue Hong	1
+Jia-Fei Ju	1
+Xiao-Yue  Hong	1
+host_dev_stage	1
+Dawn	1
+Paul 	1
+host_age_range	1
+FGE_SecondaryEnzyme_pattern	1
+source_mat-id	1
+Assembly Method	1
+Assembly Name	1
+Genome Coverage	1
+Sequencing Technology	1
+MSLT	1
+propagation	1
+Gram Stain	1
+cell diameter	1
+cell length	1
+cell shape	1
+color	1
+host_taxID	1
+motility	1
+alias_ID	1
+clinical-unit	1
+subsrc-note	1
+Historical Monobactam Produced	1
+Unique Monobactam Clusters Identified	1
+Closely related known species	1
+Grace Joy Chin Wei Lie	1
+Kenneth Rodrigues	1
+biomaterial provider	1
+samp collect device	1
+Culture collection	1
+Growth media	1
+Identified by	1
+GOLD	1
+Genbank	1
+NCBI project	1
+Refseq	1
+Noa Sela	1
+repository	1
+risk group	1
+type status	1
+Is This a Test?	1
+body_habitat	1
+body_product	1
+disease_stat	1
+gb-synonym	1
+alternative name	1
+treatment 	1
+samp_salinity	1
+chronic	1
+environmental feature	1
+secondary accessions	1
+Culture Collection ID	1
+Body Sample Subsite	1
+sequencing depth	1
+PFGE_BlnI	1
+PFGE_XbaI	1
+Comments	1
+sewage_type	1
+Sequence type	1
+Sampling period	1
+Alternate strain name	1
+Plasmid	1
+Alternate strain 1 	1
+Alternate strain 2	1
+Alternate ID	1
+Alt Strain	1
+Alt ID	1
+Alternate Strain 	1
+isolation site	1
+secondary_treatment	1
+host_health	1
+ploidy	1
+source_name	1
+CLIA Certified	1
+Culturing Laboratory	1
+IRB Protocol	1
+StudyID	1
+Typing Kit Vendor	1
+Typing Method	1
+culture	1
+ITS	1
+Alternate Strain ID (CDC)	1
+provided_by	1
+alternative_strain	1
+NCBI taxonomy ID	1
+SAMN00990278	1
+ocus_tag_prefix	1
+increased lag phase	1
+Optical Density (OD)	1
+common name	1
+note-orgmod	1
+sub-strain	1
+country of origin	1
+genotype_note	1
+ITS type	1
+Bm	1
+host_diet	1
+disease status	1
+hematocrit	1
+outcome	1
+white blood cell count	1
+Alternative strain name	1
+culture conditions	1
+Culture Collection	1
+Subline	1
+Culture media	1
+RAST ID	1
+Site	1
+subsource_note	1
+sample collection date	1
+subsp	1
+DNA Source	1

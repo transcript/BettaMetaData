@@ -1,0 +1,4335 @@
+Database: sra
+Query: txid2[Organism:exp] AND genomic[Source] AND public[Access] AND wgs[Strategy]
+Date: 2018-10-20 09:49
+Records Found: 721284
+Batch Size: 500
+----------
+Downloading records 1 to 500
+	EFetch query successful
+	Took: 22.70s ... EST Time Remaining: 9:05:12
+Downloading records 501 to 1000
+	EFetch query successful
+	Took: 19.96s ... EST Time Remaining: 8:31:53
+Downloading records 1001 to 1500
+	EFetch query successful
+	Took: 20.99s ... EST Time Remaining: 8:28:51
+Downloading records 1501 to 2000
+	EFetch query successful
+	Took: 21.04s ... EST Time Remaining: 8:27:25
+Downloading records 2001 to 2500
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 8:29:05
+Downloading records 2501 to 3000
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 8:29:12
+Downloading records 3001 to 3500
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 8:30:48
+Downloading records 3501 to 4000
+	EFetch query successful
+	Took: 21.23s ... EST Time Remaining: 8:30:03
+Downloading records 4001 to 4500
+	EFetch query successful
+	Took: 20.06s ... EST Time Remaining: 8:26:17
+Downloading records 4501 to 5000
+	EFetch query successful
+	Took: 18.66s ... EST Time Remaining: 8:19:52
+Downloading records 5001 to 5500
+	EFetch query successful
+	Took: 19.09s ... EST Time Remaining: 8:15:30
+Downloading records 5501 to 6000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 8:16:42
+Downloading records 6001 to 6500
+	EFetch query successful
+	Took: 20.92s ... EST Time Remaining: 8:16:30
+Downloading records 6501 to 7000
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 8:17:04
+Downloading records 7001 to 7500
+	EFetch query successful
+	Took: 22.35s ... EST Time Remaining: 8:19:02
+Downloading records 7501 to 8000
+	EFetch query successful
+	Took: 19.39s ... EST Time Remaining: 8:16:19
+Downloading records 8001 to 8500
+	EFetch query successful
+	Took: 23.10s ... EST Time Remaining: 8:19:04
+Downloading records 8501 to 9000
+	EFetch query successful
+	Took: 22.03s ... EST Time Remaining: 8:20:04
+Downloading records 9001 to 9500
+	EFetch query successful
+	Took: 18.99s ... EST Time Remaining: 8:17:07
+Downloading records 9501 to 10000
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 8:18:30
+Downloading records 10001 to 10500
+	EFetch query successful
+	Took: 24.20s ... EST Time Remaining: 8:21:43
+Downloading records 10501 to 11000
+	EFetch query successful
+	Took: 20.57s ... EST Time Remaining: 8:20:43
+Downloading records 11001 to 11500
+	EFetch query successful
+	Took: 20.93s ... EST Time Remaining: 8:20:08
+Downloading records 11501 to 12000
+	EFetch query successful
+	Took: 19.39s ... EST Time Remaining: 8:18:03
+Downloading records 12001 to 12500
+	EFetch query successful
+	Took: 19.32s ... EST Time Remaining: 8:16:03
+Downloading records 12501 to 13000
+	EFetch query successful
+	Took: 20.76s ... EST Time Remaining: 8:15:28
+Downloading records 13001 to 13500
+	EFetch query successful
+	Took: 20.27s ... EST Time Remaining: 8:14:30
+Downloading records 13501 to 14000
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 8:14:30
+Downloading records 14001 to 14500
+	EFetch query successful
+	Took: 20.16s ... EST Time Remaining: 8:13:29
+Downloading records 14501 to 15000
+	EFetch query successful
+	Took: 20.63s ... EST Time Remaining: 8:12:53
+Downloading records 15001 to 15500
+	EFetch query successful
+	Took: 21.01s ... EST Time Remaining: 8:12:35
+Downloading records 15501 to 16000
+	EFetch query successful
+	Took: 20.69s ... EST Time Remaining: 8:12:02
+Downloading records 16001 to 16500
+	EFetch query successful
+	Took: 20.29s ... EST Time Remaining: 8:11:14
+Downloading records 16501 to 17000
+	EFetch query successful
+	Took: 19.77s ... EST Time Remaining: 8:10:06
+Downloading records 17001 to 17500
+	EFetch query successful
+	Took: 20.93s ... EST Time Remaining: 8:09:46
+Downloading records 17501 to 18000
+	EFetch query successful
+	Took: 22.45s ... EST Time Remaining: 8:10:27
+Downloading records 18001 to 18500
+	EFetch query successful
+	Took: 21.40s ... EST Time Remaining: 8:10:24
+Downloading records 18501 to 19000
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 8:10:49
+Downloading records 19001 to 19500
+	EFetch query successful
+	Took: 22.46s ... EST Time Remaining: 8:11:22
+Downloading records 19501 to 20000
+	EFetch query successful
+	Took: 20.60s ... EST Time Remaining: 8:10:46
+Downloading records 20001 to 20500
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 8:10:41
+Downloading records 20501 to 21000
+	EFetch query successful
+	Took: 21.34s ... EST Time Remaining: 8:10:31
+Downloading records 21001 to 21500
+	EFetch query successful
+	Took: 21.21s ... EST Time Remaining: 8:10:16
+Downloading records 21501 to 22000
+	EFetch query successful
+	Took: 19.62s ... EST Time Remaining: 8:09:10
+Downloading records 22001 to 22500
+	EFetch query successful
+	Took: 21.86s ... EST Time Remaining: 8:09:16
+Downloading records 22501 to 23000
+	EFetch query successful
+	Took: 19.83s ... EST Time Remaining: 8:08:19
+Downloading records 23001 to 23500
+	EFetch query successful
+	Took: 20.03s ... EST Time Remaining: 8:07:30
+Downloading records 23501 to 24000
+	EFetch query successful
+	Took: 20.77s ... EST Time Remaining: 8:07:03
+Downloading records 24001 to 24500
+	EFetch query successful
+	Took: 21.08s ... EST Time Remaining: 8:06:45
+Downloading records 24501 to 25000
+	EFetch query successful
+	Took: 20.17s ... EST Time Remaining: 8:06:02
+Downloading records 25001 to 25500
+	EFetch query successful
+	Took: 21.02s ... EST Time Remaining: 8:05:43
+Downloading records 25501 to 26000
+	EFetch query successful
+	Took: 21.03s ... EST Time Remaining: 8:05:24
+Downloading records 26001 to 26500
+	EFetch query successful
+	Took: 20.28s ... EST Time Remaining: 8:04:46
+Downloading records 26501 to 27000
+	EFetch query successful
+	Took: 23.08s ... EST Time Remaining: 8:05:20
+Downloading records 27001 to 27500
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 8:05:27
+Downloading records 27501 to 28000
+	EFetch query successful
+	Took: 22.32s ... EST Time Remaining: 8:05:39
+Downloading records 28001 to 28500
+	EFetch query successful
+	Took: 22.86s ... EST Time Remaining: 8:06:02
+Downloading records 28501 to 29000
+	EFetch query successful
+	Took: 19.18s ... EST Time Remaining: 8:04:56
+Downloading records 29001 to 29500
+	EFetch query successful
+	Took: 19.07s ... EST Time Remaining: 8:03:49
+Downloading records 29501 to 30000
+	EFetch query successful
+	Took: 18.96s ... EST Time Remaining: 8:02:42
+Downloading records 30001 to 30500
+	EFetch query successful
+	Took: 20.19s ... EST Time Remaining: 8:02:03
+Downloading records 30501 to 31000
+	EFetch query successful
+	Took: 22.53s ... EST Time Remaining: 8:02:18
+Downloading records 31001 to 31500
+	EFetch query successful
+	Took: 19.45s ... EST Time Remaining: 8:01:23
+Downloading records 31501 to 32000
+	EFetch query successful
+	Took: 19.51s ... EST Time Remaining: 8:00:32
+Downloading records 32001 to 32500
+	EFetch query successful
+	Took: 22.90s ... EST Time Remaining: 8:00:53
+Downloading records 32501 to 33000
+	EFetch query successful
+	Took: 23.57s ... EST Time Remaining: 8:01:26
+Downloading records 33001 to 33500
+	EFetch query successful
+	Took: 23.12s ... EST Time Remaining: 8:01:49
+Downloading records 33501 to 34000
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 8:01:37
+Downloading records 34001 to 34500
+	EFetch query successful
+	Took: 18.89s ... EST Time Remaining: 8:00:33
+Downloading records 34501 to 35000
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 8:00:34
+Downloading records 35001 to 35500
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 8:00:23
+Downloading records 35501 to 36000
+	EFetch query successful
+	Took: 22.27s ... EST Time Remaining: 8:00:26
+Downloading records 36001 to 36500
+	EFetch query successful
+	Took: 23.72s ... EST Time Remaining: 8:00:55
+Downloading records 36501 to 37000
+	EFetch query successful
+	Took: 22.89s ... EST Time Remaining: 8:01:08
+Downloading records 37001 to 37500
+	EFetch query successful
+	Took: 22.45s ... EST Time Remaining: 8:01:11
+Downloading records 37501 to 38000
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 8:01:00
+Downloading records 38001 to 38500
+	EFetch query successful
+	Took: 21.77s ... EST Time Remaining: 8:00:50
+Downloading records 38501 to 39000
+	EFetch query successful
+	Took: 20.51s ... EST Time Remaining: 8:00:18
+Downloading records 39001 to 39500
+	EFetch query successful
+	Took: 17.79s ... EST Time Remaining: 7:59:00
+Downloading records 39501 to 40000
+	EFetch query successful
+	Took: 23.40s ... EST Time Remaining: 7:59:18
+Downloading records 40001 to 40500
+	EFetch query successful
+	Took: 24.01s ... EST Time Remaining: 7:59:45
+Downloading records 40501 to 41000
+	EFetch query successful
+	Took: 22.26s ... EST Time Remaining: 7:59:43
+Downloading records 41001 to 41500
+	EFetch query successful
+	Took: 21.39s ... EST Time Remaining: 7:59:25
+Downloading records 41501 to 42000
+	EFetch query successful
+	Took: 18.26s ... EST Time Remaining: 7:58:17
+Downloading records 42001 to 42500
+	EFetch query successful
+	Took: 19.50s ... EST Time Remaining: 7:57:30
+Downloading records 42501 to 43000
+	EFetch query successful
+	Took: 22.45s ... EST Time Remaining: 7:57:30
+Downloading records 43001 to 43500
+	EFetch query successful
+	Took: 19.48s ... EST Time Remaining: 7:56:43
+Downloading records 43501 to 44000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 7:56:29
+Downloading records 44001 to 44500
+	EFetch query successful
+	Took: 22.65s ... EST Time Remaining: 7:56:31
+Downloading records 44501 to 45000
+	EFetch query successful
+	Took: 20.41s ... EST Time Remaining: 7:55:59
+Downloading records 45001 to 45500
+	EFetch query successful
+	Took: 21.66s ... EST Time Remaining: 7:55:46
+Downloading records 45501 to 46000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 7:55:27
+Downloading records 46001 to 46500
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 7:55:01
+Downloading records 46501 to 47000
+	EFetch query successful
+	Took: 21.41s ... EST Time Remaining: 7:54:43
+Downloading records 47001 to 47500
+	EFetch query successful
+	Took: 20.32s ... EST Time Remaining: 7:54:11
+Downloading records 47501 to 48000
+	EFetch query successful
+	Took: 21.56s ... EST Time Remaining: 7:53:56
+Downloading records 48001 to 48500
+	EFetch query successful
+	Took: 20.70s ... EST Time Remaining: 7:53:29
+Downloading records 48501 to 49000
+	EFetch query successful
+	Took: 20.78s ... EST Time Remaining: 7:53:03
+Downloading records 49001 to 49500
+	EFetch query successful
+	Took: 21.08s ... EST Time Remaining: 7:52:42
+Downloading records 49501 to 50000
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 7:52:37
+Downloading records 50001 to 50500
+	EFetch query successful
+	Took: 22.19s ... EST Time Remaining: 7:52:30
+Downloading records 50501 to 51000
+	EFetch query successful
+	Took: 22.85s ... EST Time Remaining: 7:52:32
+Downloading records 51001 to 51500
+	EFetch query successful
+	Took: 23.93s ... EST Time Remaining: 7:52:46
+Downloading records 51501 to 52000
+	EFetch query successful
+	Took: 20.68s ... EST Time Remaining: 7:52:19
+Downloading records 52001 to 52500
+	EFetch query successful
+	Took: 23.22s ... EST Time Remaining: 7:52:23
+Downloading records 52501 to 53000
+	EFetch query successful
+	Took: 24.45s ... EST Time Remaining: 7:52:43
+Downloading records 53001 to 53500
+	EFetch query successful
+	Took: 22.00s ... EST Time Remaining: 7:52:32
+Downloading records 53501 to 54000
+	EFetch query successful
+	Took: 22.27s ... EST Time Remaining: 7:52:23
+Downloading records 54001 to 54500
+	EFetch query successful
+	Took: 22.49s ... EST Time Remaining: 7:52:17
+Downloading records 54501 to 55000
+	EFetch query successful
+	Took: 21.86s ... EST Time Remaining: 7:52:03
+Downloading records 55001 to 55500
+	EFetch query successful
+	Took: 23.65s ... EST Time Remaining: 7:52:10
+Downloading records 55501 to 56000
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 7:52:06
+Downloading records 56001 to 56500
+	EFetch query successful
+	Took: 21.34s ... EST Time Remaining: 7:51:45
+Downloading records 56501 to 57000
+	EFetch query successful
+	Took: 22.64s ... EST Time Remaining: 7:51:39
+Downloading records 57001 to 57500
+	EFetch query successful
+	Took: 21.50s ... EST Time Remaining: 7:51:20
+Downloading records 57501 to 58000
+	EFetch query successful
+	Took: 21.07s ... EST Time Remaining: 7:50:56
+Downloading records 58001 to 58500
+	EFetch query successful
+	Took: 22.89s ... EST Time Remaining: 7:50:53
+Downloading records 58501 to 59000
+	EFetch query successful
+	Took: 21.31s ... EST Time Remaining: 7:50:31
+Downloading records 59001 to 59500
+	EFetch query successful
+	Took: 22.84s ... EST Time Remaining: 7:50:27
+Downloading records 59501 to 60000
+	EFetch query successful
+	Took: 21.60s ... EST Time Remaining: 7:50:08
+Downloading records 60001 to 60500
+	EFetch query successful
+	Took: 20.66s ... EST Time Remaining: 7:49:40
+Downloading records 60501 to 61000
+	EFetch query successful
+	Took: 20.67s ... EST Time Remaining: 7:49:11
+Downloading records 61001 to 61500
+	EFetch query successful
+	Took: 22.52s ... EST Time Remaining: 7:49:03
+Downloading records 61501 to 62000
+	EFetch query successful
+	Took: 21.64s ... EST Time Remaining: 7:48:44
+Downloading records 62001 to 62500
+	EFetch query successful
+	Took: 21.54s ... EST Time Remaining: 7:48:25
+Downloading records 62501 to 63000
+	EFetch query successful
+	Took: 20.69s ... EST Time Remaining: 7:47:57
+Downloading records 63001 to 63500
+	EFetch query successful
+	Took: 20.83s ... EST Time Remaining: 7:47:31
+Downloading records 63501 to 64000
+	EFetch query successful
+	Took: 21.34s ... EST Time Remaining: 7:47:09
+Downloading records 64001 to 64500
+	EFetch query successful
+	Took: 20.80s ... EST Time Remaining: 7:46:43
+Downloading records 64501 to 65000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 7:46:24
+Downloading records 65001 to 65500
+	EFetch query successful
+	Took: 23.57s ... EST Time Remaining: 7:46:25
+Downloading records 65501 to 66000
+	EFetch query successful
+	Took: 25.12s ... EST Time Remaining: 7:46:41
+Downloading records 66001 to 66500
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 7:46:26
+Downloading records 66501 to 67000
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 7:46:06
+Downloading records 67001 to 67500
+	EFetch query successful
+	Took: 23.12s ... EST Time Remaining: 7:46:02
+Downloading records 67501 to 68000
+	EFetch query successful
+	Took: 21.48s ... EST Time Remaining: 7:45:41
+Downloading records 68001 to 68500
+	EFetch query successful
+	Took: 19.45s ... EST Time Remaining: 7:45:01
+Downloading records 68501 to 69000
+	EFetch query successful
+	Took: 21.66s ... EST Time Remaining: 7:44:43
+Downloading records 69001 to 69500
+	EFetch query successful
+	Took: 21.33s ... EST Time Remaining: 7:44:21
+Downloading records 69501 to 70000
+	EFetch query successful
+	Took: 21.32s ... EST Time Remaining: 7:43:59
+Downloading records 70001 to 70500
+	EFetch query successful
+	Took: 21.77s ... EST Time Remaining: 7:43:41
+Downloading records 70501 to 71000
+	EFetch query successful
+	Took: 21.29s ... EST Time Remaining: 7:43:19
+Downloading records 71001 to 71500
+	EFetch query successful
+	Took: 19.37s ... EST Time Remaining: 7:42:39
+Downloading records 71501 to 72000
+	EFetch query successful
+	Took: 21.06s ... EST Time Remaining: 7:42:15
+Downloading records 72001 to 72500
+	EFetch query successful
+	Took: 21.27s ... EST Time Remaining: 7:41:53
+Downloading records 72501 to 73000
+	EFetch query successful
+	Took: 20.94s ... EST Time Remaining: 7:41:27
+Downloading records 73001 to 73500
+	EFetch query successful
+	Took: 20.19s ... EST Time Remaining: 7:40:56
+Downloading records 73501 to 74000
+	EFetch query successful
+	Took: 20.85s ... EST Time Remaining: 7:40:30
+Downloading records 74001 to 74500
+	EFetch query successful
+	Took: 20.33s ... EST Time Remaining: 7:40:00
+Downloading records 74501 to 75000
+	EFetch query successful
+	Took: 15.97s ... EST Time Remaining: 7:38:52
+Downloading records 75001 to 75500
+	EFetch query successful
+	Took: 19.27s ... EST Time Remaining: 7:38:13
+Downloading records 75501 to 76000
+	EFetch query successful
+	Took: 19.86s ... EST Time Remaining: 7:37:40
+Downloading records 76001 to 76500
+	EFetch query successful
+	Took: 21.24s ... EST Time Remaining: 7:37:18
+Downloading records 76501 to 77000
+	EFetch query successful
+	Took: 22.16s ... EST Time Remaining: 7:37:04
+Downloading records 77001 to 77500
+	EFetch query successful
+	Took: 19.99s ... EST Time Remaining: 7:36:32
+Downloading records 77501 to 78000
+	EFetch query successful
+	Took: 20.63s ... EST Time Remaining: 7:36:05
+Downloading records 78001 to 78500
+	EFetch query successful
+	Took: 20.79s ... EST Time Remaining: 7:35:40
+Downloading records 78501 to 79000
+	EFetch query successful
+	Took: 20.09s ... EST Time Remaining: 7:35:09
+Downloading records 79001 to 79500
+	EFetch query successful
+	Took: 22.44s ... EST Time Remaining: 7:34:57
+Downloading records 79501 to 80000
+	EFetch query successful
+	Took: 21.40s ... EST Time Remaining: 7:34:37
+Downloading records 80001 to 80500
+	EFetch query successful
+	Took: 20.00s ... EST Time Remaining: 7:34:05
+Downloading records 80501 to 81000
+	EFetch query successful
+	Took: 21.78s ... EST Time Remaining: 7:33:48
+Downloading records 81001 to 81500
+	EFetch query successful
+	Took: 24.18s ... EST Time Remaining: 7:33:50
+Downloading records 81501 to 82000
+	EFetch query successful
+	Took: 23.58s ... EST Time Remaining: 7:33:46
+Downloading records 82001 to 82500
+	EFetch query successful
+	Took: 21.32s ... EST Time Remaining: 7:33:25
+Downloading records 82501 to 83000
+	EFetch query successful
+	Took: 21.06s ... EST Time Remaining: 7:33:02
+Downloading records 83001 to 83500
+	EFetch query successful
+	Took: 22.61s ... EST Time Remaining: 7:32:51
+Downloading records 83501 to 84000
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 7:32:36
+Downloading records 84001 to 84500
+	EFetch query successful
+	Took: 21.01s ... EST Time Remaining: 7:32:13
+Downloading records 84501 to 85000
+	EFetch query successful
+	Took: 22.44s ... EST Time Remaining: 7:32:00
+Downloading records 85001 to 85500
+	EFetch query successful
+	Took: 22.02s ... EST Time Remaining: 7:31:44
+Downloading records 85501 to 86000
+	EFetch query successful
+	Took: 21.60s ... EST Time Remaining: 7:31:24
+Downloading records 86001 to 86500
+	EFetch query successful
+	Took: 21.88s ... EST Time Remaining: 7:31:07
+Downloading records 86501 to 87000
+	EFetch query successful
+	Took: 21.65s ... EST Time Remaining: 7:30:48
+Downloading records 87001 to 87500
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 7:30:32
+Downloading records 87501 to 88000
+	EFetch query successful
+	Took: 22.10s ... EST Time Remaining: 7:30:16
+Downloading records 88001 to 88500
+	EFetch query successful
+	Took: 21.45s ... EST Time Remaining: 7:29:56
+Downloading records 88501 to 89000
+	EFetch query successful
+	Took: 20.61s ... EST Time Remaining: 7:29:29
+Downloading records 89001 to 89500
+	EFetch query successful
+	Took: 22.34s ... EST Time Remaining: 7:29:15
+Downloading records 89501 to 90000
+	EFetch query successful
+	Took: 20.31s ... EST Time Remaining: 7:28:46
+Downloading records 90001 to 90500
+	EFetch query successful
+	Took: 21.22s ... EST Time Remaining: 7:28:24
+Downloading records 90501 to 91000
+	EFetch query successful
+	Took: 24.17s ... EST Time Remaining: 7:28:22
+Downloading records 91001 to 91500
+	EFetch query successful
+	Took: 20.92s ... EST Time Remaining: 7:27:58
+Downloading records 91501 to 92000
+	EFetch query successful
+	Took: 20.86s ... EST Time Remaining: 7:27:33
+Downloading records 92001 to 92500
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 7:27:12
+Downloading records 92501 to 93000
+	EFetch query successful
+	Took: 22.79s ... EST Time Remaining: 7:27:00
+Downloading records 93001 to 93500
+	EFetch query successful
+	Took: 21.96s ... EST Time Remaining: 7:26:43
+Downloading records 93501 to 94000
+	EFetch query successful
+	Took: 22.42s ... EST Time Remaining: 7:26:29
+Downloading records 94001 to 94500
+	EFetch query successful
+	Took: 21.57s ... EST Time Remaining: 7:26:09
+Downloading records 94501 to 95000
+	EFetch query successful
+	Took: 21.31s ... EST Time Remaining: 7:25:47
+Downloading records 95001 to 95500
+	EFetch query successful
+	Took: 17.85s ... EST Time Remaining: 7:25:03
+Downloading records 95501 to 96000
+	EFetch query successful
+	Took: 18.09s ... EST Time Remaining: 7:24:20
+Downloading records 96001 to 96500
+	EFetch query successful
+	Took: 17.59s ... EST Time Remaining: 7:23:34
+Downloading records 96501 to 97000
+	EFetch query successful
+	Took: 18.56s ... EST Time Remaining: 7:22:56
+Downloading records 97001 to 97500
+	EFetch query successful
+	Took: 17.81s ... EST Time Remaining: 7:22:12
+Downloading records 97501 to 98000
+	EFetch query successful
+	Took: 22.03s ... EST Time Remaining: 7:21:55
+Downloading records 98001 to 98500
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 7:21:43
+Downloading records 98501 to 99000
+	EFetch query successful
+	Took: 27.10s ... EST Time Remaining: 7:21:58
+Downloading records 99001 to 99500
+	EFetch query successful
+	Took: 22.48s ... EST Time Remaining: 7:21:44
+Downloading records 99501 to 100000
+	EFetch query successful
+	Took: 22.61s ... EST Time Remaining: 7:21:31
+Downloading records 100001 to 100500
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 7:21:10
+Downloading records 100501 to 101000
+	EFetch query successful
+	Took: 21.45s ... EST Time Remaining: 7:20:50
+Downloading records 101001 to 101500
+	EFetch query successful
+	Took: 23.56s ... EST Time Remaining: 7:20:42
+Downloading records 101501 to 102000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 7:20:21
+Downloading records 102001 to 102500
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 7:19:56
+Downloading records 102501 to 103000
+	EFetch query successful
+	Took: 21.23s ... EST Time Remaining: 7:19:34
+Downloading records 103001 to 103500
+	EFetch query successful
+	Took: 20.88s ... EST Time Remaining: 7:19:10
+Downloading records 103501 to 104000
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 7:18:50
+Downloading records 104001 to 104500
+	EFetch query successful
+	Took: 19.51s ... EST Time Remaining: 7:18:18
+Downloading records 104501 to 105000
+	EFetch query successful
+	Took: 18.86s ... EST Time Remaining: 7:17:42
+Downloading records 105001 to 105500
+	EFetch query successful
+	Took: 20.38s ... EST Time Remaining: 7:17:16
+Downloading records 105501 to 106000
+	EFetch query successful
+	Took: 20.69s ... EST Time Remaining: 7:16:51
+Downloading records 106001 to 106500
+	EFetch query successful
+	Took: 17.99s ... EST Time Remaining: 7:16:10
+Downloading records 106501 to 107000
+	EFetch query successful
+	Took: 20.07s ... EST Time Remaining: 7:15:42
+Downloading records 107001 to 107500
+	EFetch query successful
+	Took: 22.53s ... EST Time Remaining: 7:15:28
+Downloading records 107501 to 108000
+	EFetch query successful
+	Took: 19.60s ... EST Time Remaining: 7:14:57
+Downloading records 108001 to 108500
+	EFetch query successful
+	Took: 19.98s ... EST Time Remaining: 7:14:28
+Downloading records 108501 to 109000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 7:14:07
+Downloading records 109001 to 109500
+	EFetch query successful
+	Took: 23.02s ... EST Time Remaining: 7:13:55
+Downloading records 109501 to 110000
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 7:13:35
+Downloading records 110001 to 110500
+	EFetch query successful
+	Took: 22.79s ... EST Time Remaining: 7:13:22
+Downloading records 110501 to 111000
+	EFetch query successful
+	Took: 22.14s ... EST Time Remaining: 7:13:05
+Downloading records 111001 to 111500
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 7:12:50
+Downloading records 111501 to 112000
+	EFetch query successful
+	Took: 21.18s ... EST Time Remaining: 7:12:28
+Downloading records 112001 to 112500
+	EFetch query successful
+	Took: 20.76s ... EST Time Remaining: 7:12:04
+Downloading records 112501 to 113000
+	EFetch query successful
+	Took: 22.16s ... EST Time Remaining: 7:11:47
+Downloading records 113001 to 113500
+	EFetch query successful
+	Took: 21.96s ... EST Time Remaining: 7:11:29
+Downloading records 113501 to 114000
+	EFetch query successful
+	Took: 20.64s ... EST Time Remaining: 7:11:04
+Downloading records 114001 to 114500
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 7:10:55
+Downloading records 114501 to 115000
+	EFetch query successful
+	Took: 21.10s ... EST Time Remaining: 7:10:32
+Downloading records 115001 to 115500
+	EFetch query successful
+	Took: 21.10s ... EST Time Remaining: 7:10:10
+Downloading records 115501 to 116000
+	EFetch query successful
+	Took: 22.95s ... EST Time Remaining: 7:09:57
+Downloading records 116001 to 116500
+	EFetch query successful
+	Took: 21.61s ... EST Time Remaining: 7:09:37
+Downloading records 116501 to 117000
+	EFetch query successful
+	Took: 21.27s ... EST Time Remaining: 7:09:16
+Downloading records 117001 to 117500
+	EFetch query successful
+	Took: 19.68s ... EST Time Remaining: 7:08:46
+Downloading records 117501 to 118000
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 7:08:29
+Downloading records 118001 to 118500
+	EFetch query successful
+	Took: 22.44s ... EST Time Remaining: 7:08:13
+Downloading records 118501 to 119000
+	EFetch query successful
+	Took: 22.48s ... EST Time Remaining: 7:07:58
+Downloading records 119001 to 119500
+	EFetch query successful
+	Took: 22.98s ... EST Time Remaining: 7:07:44
+Downloading records 119501 to 120000
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 7:07:27
+Downloading records 120001 to 120500
+	EFetch query successful
+	Took: 23.17s ... EST Time Remaining: 7:07:15
+Downloading records 120501 to 121000
+	EFetch query successful
+	Took: 20.97s ... EST Time Remaining: 7:06:52
+Downloading records 121001 to 121500
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 7:06:28
+Downloading records 121501 to 122000
+	EFetch query successful
+	Took: 24.29s ... EST Time Remaining: 7:06:21
+Downloading records 122001 to 122500
+	EFetch query successful
+	Took: 21.99s ... EST Time Remaining: 7:06:03
+Downloading records 122501 to 123000
+	EFetch query successful
+	Took: 22.46s ... EST Time Remaining: 7:05:47
+Downloading records 123001 to 123500
+	EFetch query successful
+	Took: 23.67s ... EST Time Remaining: 7:05:37
+Downloading records 123501 to 124000
+	EFetch query successful
+	Took: 20.31s ... EST Time Remaining: 7:05:10
+Downloading records 124001 to 124500
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 7:04:52
+Downloading records 124501 to 125000
+	EFetch query successful
+	Took: 23.16s ... EST Time Remaining: 7:04:39
+Downloading records 125001 to 125500
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 7:04:21
+Downloading records 125501 to 126000
+	EFetch query successful
+	Took: 19.83s ... EST Time Remaining: 7:03:53
+Downloading records 126001 to 126500
+	EFetch query successful
+	Took: 23.72s ... EST Time Remaining: 7:03:42
+Downloading records 126501 to 127000
+	EFetch query successful
+	Took: 22.02s ... EST Time Remaining: 7:03:24
+Downloading records 127001 to 127500
+	EFetch query successful
+	Took: 21.75s ... EST Time Remaining: 7:03:04
+Downloading records 127501 to 128000
+	EFetch query successful
+	Took: 24.33s ... EST Time Remaining: 7:02:56
+Downloading records 128001 to 128500
+	EFetch query successful
+	Took: 21.26s ... EST Time Remaining: 7:02:34
+Downloading records 128501 to 129000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 7:02:13
+Downloading records 129001 to 129500
+	EFetch query successful
+	Took: 22.52s ... EST Time Remaining: 7:01:56
+Downloading records 129501 to 130000
+	EFetch query successful
+	Took: 20.88s ... EST Time Remaining: 7:01:33
+Downloading records 130001 to 130500
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 7:01:11
+Downloading records 130501 to 131000
+	EFetch query successful
+	Took: 21.79s ... EST Time Remaining: 7:00:52
+Downloading records 131001 to 131500
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 7:00:31
+Downloading records 131501 to 132000
+	EFetch query successful
+	Took: 21.72s ... EST Time Remaining: 7:00:11
+Downloading records 132001 to 132500
+	EFetch query successful
+	Took: 13.09s ... EST Time Remaining: 6:59:13
+Downloading records 132501 to 133000
+	EFetch query successful
+	Took: 17.19s ... EST Time Remaining: 6:58:33
+Downloading records 133001 to 133500
+	EFetch query successful
+	Took: 22.63s ... EST Time Remaining: 6:58:17
+Downloading records 133501 to 134000
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 6:58:00
+Downloading records 134001 to 134500
+	EFetch query successful
+	Took: 21.46s ... EST Time Remaining: 6:57:39
+Downloading records 134501 to 135000
+	EFetch query successful
+	Took: 21.93s ... EST Time Remaining: 6:57:20
+Downloading records 135001 to 135500
+	EFetch query successful
+	Took: 21.97s ... EST Time Remaining: 6:57:01
+Downloading records 135501 to 136000
+	EFetch query successful
+	Took: 21.41s ... EST Time Remaining: 6:56:40
+Downloading records 136001 to 136500
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 6:56:19
+Downloading records 136501 to 137000
+	EFetch query successful
+	Took: 23.46s ... EST Time Remaining: 6:56:07
+Downloading records 137001 to 137500
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 6:55:49
+Downloading records 137501 to 138000
+	EFetch query successful
+	Took: 23.00s ... EST Time Remaining: 6:55:34
+Downloading records 138001 to 138500
+	EFetch query successful
+	Took: 23.36s ... EST Time Remaining: 6:55:21
+Downloading records 138501 to 139000
+	EFetch query successful
+	Took: 21.14s ... EST Time Remaining: 6:54:59
+Downloading records 139001 to 139500
+	EFetch query successful
+	Took: 21.65s ... EST Time Remaining: 6:54:39
+Downloading records 139501 to 140000
+	EFetch query successful
+	Took: 20.80s ... EST Time Remaining: 6:54:15
+Downloading records 140001 to 140500
+	EFetch query successful
+	Took: 18.89s ... EST Time Remaining: 6:53:43
+Downloading records 140501 to 141000
+	EFetch query successful
+	Took: 19.51s ... EST Time Remaining: 6:53:14
+Downloading records 141001 to 141500
+	EFetch query successful
+	Took: 18.58s ... EST Time Remaining: 6:52:41
+Downloading records 141501 to 142000
+	EFetch query successful
+	Took: 18.62s ... EST Time Remaining: 6:52:09
+Downloading records 142001 to 142500
+	EFetch query successful
+	Took: 19.35s ... EST Time Remaining: 6:51:39
+Downloading records 142501 to 143000
+	EFetch query successful
+	Took: 18.32s ... EST Time Remaining: 6:51:06
+Downloading records 143001 to 143500
+	EFetch query successful
+	Took: 20.76s ... EST Time Remaining: 6:50:42
+Downloading records 143501 to 144000
+	EFetch query successful
+	Took: 20.44s ... EST Time Remaining: 6:50:17
+Downloading records 144001 to 144500
+	EFetch query successful
+	Took: 21.70s ... EST Time Remaining: 6:49:57
+Downloading records 144501 to 145000
+	EFetch query successful
+	Took: 19.74s ... EST Time Remaining: 6:49:29
+Downloading records 145001 to 145500
+	EFetch query successful
+	Took: 20.48s ... EST Time Remaining: 6:49:05
+Downloading records 145501 to 146000
+	EFetch query successful
+	Took: 22.37s ... EST Time Remaining: 6:48:48
+Downloading records 146001 to 146500
+	EFetch query successful
+	Took: 22.05s ... EST Time Remaining: 6:48:29
+Downloading records 146501 to 147000
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 6:48:06
+Downloading records 147001 to 147500
+	EFetch query successful
+	Took: 19.08s ... EST Time Remaining: 6:47:36
+Downloading records 147501 to 148000
+	EFetch query successful
+	Took: 22.83s ... EST Time Remaining: 6:47:20
+Downloading records 148001 to 148500
+	EFetch query successful
+	Took: 21.78s ... EST Time Remaining: 6:47:01
+Downloading records 148501 to 149000
+	EFetch query successful
+	Took: 19.99s ... EST Time Remaining: 6:46:34
+Downloading records 149001 to 149500
+	EFetch query successful
+	Took: 21.46s ... EST Time Remaining: 6:46:13
+Downloading records 149501 to 150000
+	EFetch query successful
+	Took: 22.34s ... EST Time Remaining: 6:45:56
+Downloading records 150001 to 150500
+	EFetch query successful
+	Took: 23.19s ... EST Time Remaining: 6:45:42
+Downloading records 150501 to 151000
+	EFetch query successful
+	Took: 21.64s ... EST Time Remaining: 6:45:21
+Downloading records 151001 to 151500
+	EFetch query successful
+	Took: 21.82s ... EST Time Remaining: 6:45:02
+Downloading records 151501 to 152000
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 6:44:42
+Downloading records 152001 to 152500
+	EFetch query successful
+	Took: 23.78s ... EST Time Remaining: 6:44:30
+Downloading records 152501 to 153000
+	EFetch query successful
+	Took: 24.55s ... EST Time Remaining: 6:44:21
+Downloading records 153001 to 153500
+	EFetch query successful
+	Took: 23.58s ... EST Time Remaining: 6:44:08
+Downloading records 153501 to 154000
+	EFetch query successful
+	Took: 19.51s ... EST Time Remaining: 6:43:40
+Downloading records 154001 to 154500
+	EFetch query successful
+	Took: 17.87s ... EST Time Remaining: 6:43:05
+Downloading records 154501 to 155000
+	EFetch query successful
+	Took: 20.24s ... EST Time Remaining: 6:42:40
+Downloading records 155001 to 155500
+	EFetch query successful
+	Took: 21.87s ... EST Time Remaining: 6:42:21
+Downloading records 155501 to 156000
+	EFetch query successful
+	Took: 21.84s ... EST Time Remaining: 6:42:01
+Downloading records 156001 to 156500
+	EFetch query successful
+	Took: 23.21s ... EST Time Remaining: 6:41:46
+Downloading records 156501 to 157000
+	EFetch query successful
+	Took: 24.06s ... EST Time Remaining: 6:41:35
+Downloading records 157001 to 157500
+	EFetch query successful
+	Took: 23.94s ... EST Time Remaining: 6:41:23
+Downloading records 157501 to 158000
+	EFetch query successful
+	Took: 24.97s ... EST Time Remaining: 6:41:14
+Downloading records 158001 to 158500
+	EFetch query successful
+	Took: 22.99s ... EST Time Remaining: 6:40:58
+Downloading records 158501 to 159000
+	EFetch query successful
+	Took: 25.67s ... EST Time Remaining: 6:40:52
+Downloading records 159001 to 159500
+	EFetch query successful
+	Took: 23.79s ... EST Time Remaining: 6:40:39
+Downloading records 159501 to 160000
+	EFetch query successful
+	Took: 21.37s ... EST Time Remaining: 6:40:18
+Downloading records 160001 to 160500
+	EFetch query successful
+	Took: 22.37s ... EST Time Remaining: 6:40:00
+Downloading records 160501 to 161000
+	EFetch query successful
+	Took: 23.68s ... EST Time Remaining: 6:39:46
+Downloading records 161001 to 161500
+	EFetch query successful
+	Took: 20.79s ... EST Time Remaining: 6:39:23
+Downloading records 161501 to 162000
+	EFetch query successful
+	Took: 21.61s ... EST Time Remaining: 6:39:02
+Downloading records 162001 to 162500
+	EFetch query successful
+	Took: 23.96s ... EST Time Remaining: 6:38:49
+Downloading records 162501 to 163000
+	EFetch query successful
+	Took: 24.12s ... EST Time Remaining: 6:38:37
+Downloading records 163001 to 163500
+	EFetch query successful
+	Took: 22.66s ... EST Time Remaining: 6:38:20
+Downloading records 163501 to 164000
+	EFetch query successful
+	Took: 22.89s ... EST Time Remaining: 6:38:03
+Downloading records 164001 to 164500
+	EFetch query successful
+	Took: 21.74s ... EST Time Remaining: 6:37:43
+Downloading records 164501 to 165000
+	EFetch query successful
+	Took: 23.65s ... EST Time Remaining: 6:37:29
+Downloading records 165001 to 165500
+	EFetch query successful
+	Took: 21.62s ... EST Time Remaining: 6:37:08
+Downloading records 165501 to 166000
+	EFetch query successful
+	Took: 23.35s ... EST Time Remaining: 6:36:53
+Downloading records 166001 to 166500
+	EFetch query successful
+	Took: 22.10s ... EST Time Remaining: 6:36:34
+Downloading records 166501 to 167000
+	EFetch query successful
+	Took: 22.14s ... EST Time Remaining: 6:36:14
+Downloading records 167001 to 167500
+	EFetch query successful
+	Took: 22.57s ... EST Time Remaining: 6:35:57
+Downloading records 167501 to 168000
+	EFetch query successful
+	Took: 22.41s ... EST Time Remaining: 6:35:38
+Downloading records 168001 to 168500
+	EFetch query successful
+	Took: 21.90s ... EST Time Remaining: 6:35:18
+Downloading records 168501 to 169000
+	EFetch query successful
+	Took: 23.41s ... EST Time Remaining: 6:35:03
+Downloading records 169001 to 169500
+	EFetch query successful
+	Took: 24.19s ... EST Time Remaining: 6:34:50
+Downloading records 169501 to 170000
+	EFetch query successful
+	Took: 23.57s ... EST Time Remaining: 6:34:36
+Downloading records 170001 to 170500
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 6:34:17
+Downloading records 170501 to 171000
+	EFetch query successful
+	Took: 20.64s ... EST Time Remaining: 6:33:52
+Downloading records 171001 to 171500
+	EFetch query successful
+	Took: 19.95s ... EST Time Remaining: 6:33:26
+Downloading records 171501 to 172000
+	EFetch query successful
+	Took: 22.92s ... EST Time Remaining: 6:33:09
+Downloading records 172001 to 172500
+	EFetch query successful
+	Took: 24.59s ... EST Time Remaining: 6:32:58
+Downloading records 172501 to 173000
+	EFetch query successful
+	Took: 21.67s ... EST Time Remaining: 6:32:37
+Downloading records 173001 to 173500
+	EFetch query successful
+	Took: 21.46s ... EST Time Remaining: 6:32:15
+Downloading records 173501 to 174000
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 6:31:54
+Downloading records 174001 to 174500
+	EFetch query successful
+	Took: 22.00s ... EST Time Remaining: 6:31:34
+Downloading records 174501 to 175000
+	EFetch query successful
+	Took: 23.58s ... EST Time Remaining: 6:31:19
+Downloading records 175001 to 175500
+	EFetch query successful
+	Took: 20.41s ... EST Time Remaining: 6:30:54
+Downloading records 175501 to 176000
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 6:30:34
+Downloading records 176001 to 176500
+	EFetch query successful
+	Took: 23.57s ... EST Time Remaining: 6:30:19
+Downloading records 176501 to 177000
+	EFetch query successful
+	Took: 23.53s ... EST Time Remaining: 6:30:04
+Downloading records 177001 to 177500
+	EFetch query successful
+	Took: 22.49s ... EST Time Remaining: 6:29:46
+Downloading records 177501 to 178000
+	EFetch query successful
+	Took: 19.00s ... EST Time Remaining: 6:29:16
+Downloading records 178001 to 178500
+	EFetch query successful
+	Took: 21.64s ... EST Time Remaining: 6:28:55
+Downloading records 178501 to 179000
+	EFetch query successful
+	Took: 22.75s ... EST Time Remaining: 6:28:38
+Downloading records 179001 to 179500
+	EFetch query successful
+	Took: 22.31s ... EST Time Remaining: 6:28:18
+Downloading records 179501 to 180000
+	EFetch query successful
+	Took: 20.65s ... EST Time Remaining: 6:27:54
+Downloading records 180001 to 180500
+	EFetch query successful
+	Took: 23.48s ... EST Time Remaining: 6:27:39
+Downloading records 180501 to 181000
+	EFetch query successful
+	Took: 21.74s ... EST Time Remaining: 6:27:18
+Downloading records 181001 to 181500
+	EFetch query successful
+	Took: 19.61s ... EST Time Remaining: 6:26:51
+Downloading records 181501 to 182000
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 6:26:33
+Downloading records 182001 to 182500
+	EFetch query successful
+	Took: 23.06s ... EST Time Remaining: 6:26:16
+Downloading records 182501 to 183000
+	EFetch query successful
+	Took: 21.81s ... EST Time Remaining: 6:25:55
+Downloading records 183001 to 183500
+	EFetch query successful
+	Took: 22.21s ... EST Time Remaining: 6:25:35
+Downloading records 183501 to 184000
+	EFetch query successful
+	Took: 21.05s ... EST Time Remaining: 6:25:13
+Downloading records 184001 to 184500
+	EFetch query successful
+	Took: 22.49s ... EST Time Remaining: 6:24:54
+Downloading records 184501 to 185000
+	EFetch query successful
+	Took: 19.02s ... EST Time Remaining: 6:24:25
+Downloading records 185001 to 185500
+	EFetch query successful
+	Took: 18.21s ... EST Time Remaining: 6:23:54
+Downloading records 185501 to 186000
+	EFetch query successful
+	Took: 21.93s ... EST Time Remaining: 6:23:34
+Downloading records 186001 to 186500
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 6:23:14
+Downloading records 186501 to 187000
+	EFetch query successful
+	Took: 24.25s ... EST Time Remaining: 6:23:00
+Downloading records 187001 to 187500
+	EFetch query successful
+	Took: 22.49s ... EST Time Remaining: 6:22:42
+Downloading records 187501 to 188000
+	EFetch query successful
+	Took: 21.31s ... EST Time Remaining: 6:22:19
+Downloading records 188001 to 188500
+	EFetch query successful
+	Took: 22.94s ... EST Time Remaining: 6:22:02
+Downloading records 188501 to 189000
+	EFetch query successful
+	Took: 22.85s ... EST Time Remaining: 6:21:44
+Downloading records 189001 to 189500
+	EFetch query successful
+	Took: 23.96s ... EST Time Remaining: 6:21:29
+Downloading records 189501 to 190000
+	EFetch query successful
+	Took: 26.33s ... EST Time Remaining: 6:21:21
+Downloading records 190001 to 190500
+	EFetch query successful
+	Took: 25.35s ... EST Time Remaining: 6:21:10
+Downloading records 190501 to 191000
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 6:20:48
+Downloading records 191001 to 191500
+	EFetch query successful
+	Took: 21.15s ... EST Time Remaining: 6:20:26
+Downloading records 191501 to 192000
+	EFetch query successful
+	Took: 23.19s ... EST Time Remaining: 6:20:09
+Downloading records 192001 to 192500
+	EFetch query successful
+	Took: 18.65s ... EST Time Remaining: 6:19:39
+Downloading records 192501 to 193000
+	EFetch query successful
+	Took: 25.60s ... EST Time Remaining: 6:19:29
+Downloading records 193001 to 193500
+	EFetch query successful
+	Took: 21.05s ... EST Time Remaining: 6:19:06
+Downloading records 193501 to 194000
+	EFetch query successful
+	Took: 20.80s ... EST Time Remaining: 6:18:42
+Downloading records 194001 to 194500
+	EFetch query successful
+	Took: 21.99s ... EST Time Remaining: 6:18:22
+Downloading records 194501 to 195000
+	EFetch query successful
+	Took: 23.01s ... EST Time Remaining: 6:18:04
+Downloading records 195001 to 195500
+	EFetch query successful
+	Took: 22.90s ... EST Time Remaining: 6:17:46
+Downloading records 195501 to 196000
+	EFetch query successful
+	Took: 24.58s ... EST Time Remaining: 6:17:33
+Downloading records 196001 to 196500
+	EFetch query successful
+	Took: 20.47s ... EST Time Remaining: 6:17:08
+Downloading records 196501 to 197000
+	EFetch query successful
+	Took: 20.82s ... EST Time Remaining: 6:16:44
+Downloading records 197001 to 197500
+	EFetch query successful
+	Took: 21.50s ... EST Time Remaining: 6:16:23
+Downloading records 197501 to 198000
+	EFetch query successful
+	Took: 25.84s ... EST Time Remaining: 6:16:12
+Downloading records 198001 to 198500
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 6:15:52
+Downloading records 198501 to 199000
+	EFetch query successful
+	Took: 23.76s ... EST Time Remaining: 6:15:37
+Downloading records 199001 to 199500
+	EFetch query successful
+	Took: 23.87s ... EST Time Remaining: 6:15:21
+Downloading records 199501 to 200000
+	EFetch query successful
+	Took: 23.30s ... EST Time Remaining: 6:15:04
+Downloading records 200001 to 200500
+	EFetch query successful
+	Took: 22.79s ... EST Time Remaining: 6:14:45
+Downloading records 200501 to 201000
+	EFetch query successful
+	Took: 22.47s ... EST Time Remaining: 6:14:26
+Downloading records 201001 to 201500
+	EFetch query successful
+	Took: 21.68s ... EST Time Remaining: 6:14:05
+Downloading records 201501 to 202000
+	EFetch query successful
+	Took: 22.71s ... EST Time Remaining: 6:13:46
+Downloading records 202001 to 202500
+	EFetch query successful
+	Took: 25.35s ... EST Time Remaining: 6:13:34
+Downloading records 202501 to 203000
+	EFetch query successful
+	Took: 22.39s ... EST Time Remaining: 6:13:14
+Downloading records 203001 to 203500
+	EFetch query successful
+	Took: 21.34s ... EST Time Remaining: 6:12:52
+Downloading records 203501 to 204000
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 6:12:31
+Downloading records 204001 to 204500
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 6:12:09
+Downloading records 204501 to 205000
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 6:11:49
+Downloading records 205001 to 205500
+	EFetch query successful
+	Took: 22.90s ... EST Time Remaining: 6:11:31
+Downloading records 205501 to 206000
+	EFetch query successful
+	Took: 22.71s ... EST Time Remaining: 6:11:12
+Downloading records 206001 to 206500
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 6:10:51
+Downloading records 206501 to 207000
+	EFetch query successful
+	Took: 20.59s ... EST Time Remaining: 6:10:27
+Downloading records 207001 to 207500
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 6:10:07
+Downloading records 207501 to 208000
+	EFetch query successful
+	Took: 23.45s ... EST Time Remaining: 6:09:50
+Downloading records 208001 to 208500
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 6:09:33
+Downloading records 208501 to 209000
+	EFetch query successful
+	Took: 21.21s ... EST Time Remaining: 6:09:10
+Downloading records 209001 to 209500
+	EFetch query successful
+	Took: 20.54s ... EST Time Remaining: 6:08:46
+Downloading records 209501 to 210000
+	EFetch query successful
+	Took: 20.66s ... EST Time Remaining: 6:08:22
+Downloading records 210001 to 210500
+	EFetch query successful
+	Took: 23.90s ... EST Time Remaining: 6:08:06
+Downloading records 210501 to 211000
+	EFetch query successful
+	Took: 22.36s ... EST Time Remaining: 6:07:46
+Downloading records 211001 to 211500
+	EFetch query successful
+	Took: 24.39s ... EST Time Remaining: 6:07:31
+Downloading records 211501 to 212000
+	EFetch query successful
+	Took: 22.41s ... EST Time Remaining: 6:07:11
+Downloading records 212001 to 212500
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 6:06:51
+Downloading records 212501 to 213000
+	EFetch query successful
+	Took: 23.30s ... EST Time Remaining: 6:06:34
+Downloading records 213001 to 213500
+	EFetch query successful
+	Took: 22.71s ... EST Time Remaining: 6:06:15
+Downloading records 213501 to 214000
+	EFetch query successful
+	Took: 21.75s ... EST Time Remaining: 6:05:53
+Downloading records 214001 to 214500
+	EFetch query successful
+	Took: 23.81s ... EST Time Remaining: 6:05:37
+Downloading records 214501 to 215000
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 6:05:16
+Downloading records 215001 to 215500
+	EFetch query successful
+	Took: 22.78s ... EST Time Remaining: 6:04:57
+Downloading records 215501 to 216000
+	EFetch query successful
+	Took: 23.17s ... EST Time Remaining: 6:04:39
+Downloading records 216001 to 216500
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 6:04:17
+Downloading records 216501 to 217000
+	EFetch query successful
+	Took: 23.06s ... EST Time Remaining: 6:03:59
+Downloading records 217001 to 217500
+	EFetch query successful
+	Took: 27.08s ... EST Time Remaining: 6:03:50
+Downloading records 217501 to 218000
+	EFetch query successful
+	Took: 26.20s ... EST Time Remaining: 6:03:38
+Downloading records 218001 to 218500
+	EFetch query successful
+	Took: 25.51s ... EST Time Remaining: 6:03:26
+Downloading records 218501 to 219000
+	EFetch query successful
+	Took: 24.86s ... EST Time Remaining: 6:03:11
+Downloading records 219001 to 219500
+	EFetch query successful
+	Took: 23.53s ... EST Time Remaining: 6:02:54
+Downloading records 219501 to 220000
+	EFetch query successful
+	Took: 22.97s ... EST Time Remaining: 6:02:35
+Downloading records 220001 to 220500
+	EFetch query successful
+	Took: 22.76s ... EST Time Remaining: 6:02:15
+Downloading records 220501 to 221000
+	EFetch query successful
+	Took: 27.91s ... EST Time Remaining: 6:02:08
+Downloading records 221001 to 221500
+	EFetch query successful
+	Took: 21.68s ... EST Time Remaining: 6:01:46
+Downloading records 221501 to 222000
+	EFetch query successful
+	Took: 21.10s ... EST Time Remaining: 6:01:23
+Downloading records 222001 to 222500
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 6:01:01
+Downloading records 222501 to 223000
+	EFetch query successful
+	Took: 22.28s ... EST Time Remaining: 6:00:40
+Downloading records 223001 to 223500
+	EFetch query successful
+	Took: 22.10s ... EST Time Remaining: 6:00:20
+Downloading records 223501 to 224000
+	EFetch query successful
+	Took: 23.98s ... EST Time Remaining: 6:00:03
+Downloading records 224001 to 224500
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 5:59:42
+Downloading records 224501 to 225000
+	EFetch query successful
+	Took: 21.74s ... EST Time Remaining: 5:59:20
+Downloading records 225001 to 225500
+	EFetch query successful
+	Took: 21.13s ... EST Time Remaining: 5:58:57
+Downloading records 225501 to 226000
+	EFetch query successful
+	Took: 22.45s ... EST Time Remaining: 5:58:37
+Downloading records 226001 to 226500
+	EFetch query successful
+	Took: 24.28s ... EST Time Remaining: 5:58:21
+Downloading records 226501 to 227000
+	EFetch query successful
+	Took: 23.06s ... EST Time Remaining: 5:58:02
+Downloading records 227001 to 227500
+	EFetch query successful
+	Took: 22.36s ... EST Time Remaining: 5:57:42
+Downloading records 227501 to 228000
+	EFetch query successful
+	Took: 23.66s ... EST Time Remaining: 5:57:24
+Downloading records 228001 to 228500
+	EFetch query successful
+	Took: 23.76s ... EST Time Remaining: 5:57:07
+Downloading records 228501 to 229000
+	EFetch query successful
+	Took: 22.73s ... EST Time Remaining: 5:56:47
+Downloading records 229001 to 229500
+	EFetch query successful
+	Took: 23.63s ... EST Time Remaining: 5:56:29
+Downloading records 229501 to 230000
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 5:56:11
+Downloading records 230001 to 230500
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 5:55:53
+Downloading records 230501 to 231000
+	EFetch query successful
+	Took: 21.09s ... EST Time Remaining: 5:55:30
+Downloading records 231001 to 231500
+	EFetch query successful
+	Took: 19.01s ... EST Time Remaining: 5:55:03
+Downloading records 231501 to 232000
+	EFetch query successful
+	Took: 19.28s ... EST Time Remaining: 5:54:36
+Downloading records 232001 to 232500
+	EFetch query successful
+	Took: 18.99s ... EST Time Remaining: 5:54:08
+Downloading records 232501 to 233000
+	EFetch query successful
+	Took: 18.81s ... EST Time Remaining: 5:53:40
+Downloading records 233001 to 233500
+	EFetch query successful
+	Took: 23.00s ... EST Time Remaining: 5:53:21
+Downloading records 233501 to 234000
+	EFetch query successful
+	Took: 22.47s ... EST Time Remaining: 5:53:01
+Downloading records 234001 to 234500
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 5:52:40
+Downloading records 234501 to 235000
+	EFetch query successful
+	Took: 22.57s ... EST Time Remaining: 5:52:20
+Downloading records 235001 to 235500
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 5:51:58
+Downloading records 235501 to 236000
+	EFetch query successful
+	Took: 24.31s ... EST Time Remaining: 5:51:42
+Downloading records 236001 to 236500
+	EFetch query successful
+	Took: 23.87s ... EST Time Remaining: 5:51:24
+Downloading records 236501 to 237000
+	EFetch query successful
+	Took: 24.06s ... EST Time Remaining: 5:51:07
+Downloading records 237001 to 237500
+	EFetch query successful
+	Took: 20.71s ... EST Time Remaining: 5:50:43
+Downloading records 237501 to 238000
+	EFetch query successful
+	Took: 25.85s ... EST Time Remaining: 5:50:30
+Downloading records 238001 to 238500
+	EFetch query successful
+	Took: 23.09s ... EST Time Remaining: 5:50:11
+Downloading records 238501 to 239000
+	EFetch query successful
+	Took: 24.65s ... EST Time Remaining: 5:49:55
+Downloading records 239001 to 239500
+	EFetch query successful
+	Took: 23.37s ... EST Time Remaining: 5:49:36
+Downloading records 239501 to 240000
+	EFetch query successful
+	Took: 26.22s ... EST Time Remaining: 5:49:23
+Downloading records 240001 to 240500
+	EFetch query successful
+	Took: 22.19s ... EST Time Remaining: 5:49:02
+Downloading records 240501 to 241000
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 5:48:41
+Downloading records 241001 to 241500
+	EFetch query successful
+	Took: 21.11s ... EST Time Remaining: 5:48:18
+Downloading records 241501 to 242000
+	EFetch query successful
+	Took: 21.07s ... EST Time Remaining: 5:47:55
+Downloading records 242001 to 242500
+	EFetch query successful
+	Took: 22.60s ... EST Time Remaining: 5:47:35
+Downloading records 242501 to 243000
+	EFetch query successful
+	Took: 23.46s ... EST Time Remaining: 5:47:16
+Downloading records 243001 to 243500
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 5:46:54
+Downloading records 243501 to 244000
+	EFetch query successful
+	Took: 20.16s ... EST Time Remaining: 5:46:29
+Downloading records 244001 to 244500
+	EFetch query successful
+	Took: 25.68s ... EST Time Remaining: 5:46:15
+Downloading records 244501 to 245000
+	EFetch query successful
+	Took: 23.13s ... EST Time Remaining: 5:45:56
+Downloading records 245001 to 245500
+	EFetch query successful
+	Took: 23.39s ... EST Time Remaining: 5:45:37
+Downloading records 245501 to 246000
+	EFetch query successful
+	Took: 22.99s ... EST Time Remaining: 5:45:17
+Downloading records 246001 to 246500
+	EFetch query successful
+	Took: 23.53s ... EST Time Remaining: 5:44:59
+Downloading records 246501 to 247000
+	EFetch query successful
+	Took: 20.15s ... EST Time Remaining: 5:44:34
+Downloading records 247001 to 247500
+	EFetch query successful
+	Took: 23.80s ... EST Time Remaining: 5:44:16
+Downloading records 247501 to 248000
+	EFetch query successful
+	Took: 23.94s ... EST Time Remaining: 5:43:58
+Downloading records 248001 to 248500
+	EFetch query successful
+	Took: 23.46s ... EST Time Remaining: 5:43:39
+Downloading records 248501 to 249000
+	EFetch query successful
+	Took: 22.71s ... EST Time Remaining: 5:43:19
+Downloading records 249001 to 249500
+	EFetch query successful
+	Took: 25.02s ... EST Time Remaining: 5:43:04
+Downloading records 249501 to 250000
+	EFetch query successful
+	Took: 23.11s ... EST Time Remaining: 5:42:44
+Downloading records 250001 to 250500
+	EFetch query successful
+	Took: 24.79s ... EST Time Remaining: 5:42:28
+Downloading records 250501 to 251000
+	EFetch query successful
+	Took: 23.07s ... EST Time Remaining: 5:42:08
+Downloading records 251001 to 251500
+	EFetch query successful
+	Took: 23.50s ... EST Time Remaining: 5:41:50
+Downloading records 251501 to 252000
+	EFetch query successful
+	Took: 22.97s ... EST Time Remaining: 5:41:30
+Downloading records 252001 to 252500
+	EFetch query successful
+	Took: 24.29s ... EST Time Remaining: 5:41:13
+Downloading records 252501 to 253000
+	EFetch query successful
+	Took: 21.40s ... EST Time Remaining: 5:40:50
+Downloading records 253001 to 253500
+	EFetch query successful
+	Took: 22.80s ... EST Time Remaining: 5:40:30
+Downloading records 253501 to 254000
+	EFetch query successful
+	Took: 23.28s ... EST Time Remaining: 5:40:11
+Downloading records 254001 to 254500
+	EFetch query successful
+	Took: 24.04s ... EST Time Remaining: 5:39:53
+Downloading records 254501 to 255000
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 5:39:33
+Downloading records 255001 to 255500
+	EFetch query successful
+	Took: 23.13s ... EST Time Remaining: 5:39:13
+Downloading records 255501 to 256000
+	EFetch query successful
+	Took: 24.25s ... EST Time Remaining: 5:38:56
+Downloading records 256001 to 256500
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 5:38:35
+Downloading records 256501 to 257000
+	EFetch query successful
+	Took: 23.24s ... EST Time Remaining: 5:38:16
+Downloading records 257001 to 257500
+	EFetch query successful
+	Took: 19.74s ... EST Time Remaining: 5:37:50
+Downloading records 257501 to 258000
+	EFetch query successful
+	Took: 22.34s ... EST Time Remaining: 5:37:29
+Downloading records 258001 to 258500
+	EFetch query successful
+	Took: 22.95s ... EST Time Remaining: 5:37:09
+Downloading records 258501 to 259000
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 5:36:48
+Downloading records 259001 to 259500
+	EFetch query successful
+	Took: 23.25s ... EST Time Remaining: 5:36:28
+Downloading records 259501 to 260000
+	EFetch query successful
+	Took: 24.04s ... EST Time Remaining: 5:36:10
+Downloading records 260001 to 260500
+	EFetch query successful
+	Took: 23.66s ... EST Time Remaining: 5:35:52
+Downloading records 260501 to 261000
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 5:35:31
+Downloading records 261001 to 261500
+	EFetch query successful
+	Took: 23.68s ... EST Time Remaining: 5:35:12
+Downloading records 261501 to 262000
+	EFetch query successful
+	Took: 23.86s ... EST Time Remaining: 5:34:54
+Downloading records 262001 to 262500
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 5:34:32
+Downloading records 262501 to 263000
+	EFetch query successful
+	Took: 22.45s ... EST Time Remaining: 5:34:11
+Downloading records 263001 to 263500
+	EFetch query successful
+	Took: 23.75s ... EST Time Remaining: 5:33:53
+Downloading records 263501 to 264000
+	EFetch query successful
+	Took: 21.97s ... EST Time Remaining: 5:33:31
+Downloading records 264001 to 264500
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 5:33:12
+Downloading records 264501 to 265000
+	EFetch query successful
+	Took: 22.42s ... EST Time Remaining: 5:32:51
+Downloading records 265001 to 265500
+	EFetch query successful
+	Took: 19.98s ... EST Time Remaining: 5:32:26
+Downloading records 265501 to 266000
+	EFetch query successful
+	Took: 22.92s ... EST Time Remaining: 5:32:05
+Downloading records 266001 to 266500
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 5:31:44
+Downloading records 266501 to 267000
+	EFetch query successful
+	Took: 23.37s ... EST Time Remaining: 5:31:25
+Downloading records 267001 to 267500
+	EFetch query successful
+	Took: 23.57s ... EST Time Remaining: 5:31:06
+Downloading records 267501 to 268000
+	EFetch query successful
+	Took: 24.87s ... EST Time Remaining: 5:30:49
+Downloading records 268001 to 268500
+	EFetch query successful
+	Took: 21.42s ... EST Time Remaining: 5:30:26
+Downloading records 268501 to 269000
+	EFetch query successful
+	Took: 21.61s ... EST Time Remaining: 5:30:04
+Downloading records 269001 to 269500
+	EFetch query successful
+	Took: 19.90s ... EST Time Remaining: 5:29:38
+Downloading records 269501 to 270000
+	EFetch query successful
+	Took: 21.42s ... EST Time Remaining: 5:29:16
+Downloading records 270001 to 270500
+	EFetch query successful
+	Took: 19.34s ... EST Time Remaining: 5:28:49
+Downloading records 270501 to 271000
+	EFetch query successful
+	Took: 21.84s ... EST Time Remaining: 5:28:27
+Downloading records 271001 to 271500
+	EFetch query successful
+	Took: 24.39s ... EST Time Remaining: 5:28:10
+Downloading records 271501 to 272000
+	EFetch query successful
+	Took: 20.18s ... EST Time Remaining: 5:27:45
+Downloading records 272001 to 272500
+	EFetch query successful
+	Took: 18.75s ... EST Time Remaining: 5:27:18
+Downloading records 272501 to 273000
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 5:26:57
+Downloading records 273001 to 273500
+	EFetch query successful
+	Took: 22.55s ... EST Time Remaining: 5:26:36
+Downloading records 273501 to 274000
+	EFetch query successful
+	Took: 21.37s ... EST Time Remaining: 5:26:13
+Downloading records 274001 to 274500
+	EFetch query successful
+	Took: 20.62s ... EST Time Remaining: 5:25:49
+Downloading records 274501 to 275000
+	EFetch query successful
+	Took: 21.45s ... EST Time Remaining: 5:25:26
+Downloading records 275001 to 275500
+	EFetch query successful
+	Took: 20.27s ... EST Time Remaining: 5:25:02
+Downloading records 275501 to 276000
+	EFetch query successful
+	Took: 21.46s ... EST Time Remaining: 5:24:39
+Downloading records 276001 to 276500
+	EFetch query successful
+	Took: 21.40s ... EST Time Remaining: 5:24:17
+Downloading records 276501 to 277000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 5:23:54
+Downloading records 277001 to 277500
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 5:23:33
+Downloading records 277501 to 278000
+	EFetch query successful
+	Took: 23.74s ... EST Time Remaining: 5:23:14
+Downloading records 278001 to 278500
+	EFetch query successful
+	Took: 24.22s ... EST Time Remaining: 5:22:56
+Downloading records 278501 to 279000
+	EFetch query successful
+	Took: 22.19s ... EST Time Remaining: 5:22:35
+Downloading records 279001 to 279500
+	EFetch query successful
+	Took: 22.17s ... EST Time Remaining: 5:22:13
+Downloading records 279501 to 280000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 5:21:50
+Downloading records 280001 to 280500
+	EFetch query successful
+	Took: 20.11s ... EST Time Remaining: 5:21:26
+Downloading records 280501 to 281000
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 5:21:05
+Downloading records 281001 to 281500
+	EFetch query successful
+	Took: 24.87s ... EST Time Remaining: 5:20:48
+Downloading records 281501 to 282000
+	EFetch query successful
+	Took: 26.81s ... EST Time Remaining: 5:20:33
+Downloading records 282001 to 282500
+	EFetch query successful
+	Took: 20.36s ... EST Time Remaining: 5:20:09
+Downloading records 282501 to 283000
+	EFetch query successful
+	Took: 22.50s ... EST Time Remaining: 5:19:48
+Downloading records 283001 to 283500
+	EFetch query successful
+	Took: 22.93s ... EST Time Remaining: 5:19:28
+Downloading records 283501 to 284000
+	EFetch query successful
+	Took: 21.16s ... EST Time Remaining: 5:19:05
+Downloading records 284001 to 284500
+	EFetch query successful
+	Took: 23.31s ... EST Time Remaining: 5:18:45
+Downloading records 284501 to 285000
+	EFetch query successful
+	Took: 21.88s ... EST Time Remaining: 5:18:23
+Downloading records 285001 to 285500
+	EFetch query successful
+	Took: 23.94s ... EST Time Remaining: 5:18:04
+Downloading records 285501 to 286000
+	EFetch query successful
+	Took: 21.48s ... EST Time Remaining: 5:17:42
+Downloading records 286001 to 286500
+	EFetch query successful
+	Took: 22.51s ... EST Time Remaining: 5:17:21
+Downloading records 286501 to 287000
+	EFetch query successful
+	Took: 21.09s ... EST Time Remaining: 5:16:58
+Downloading records 287001 to 287500
+	EFetch query successful
+	Took: 20.91s ... EST Time Remaining: 5:16:34
+Downloading records 287501 to 288000
+	EFetch query successful
+	Took: 19.36s ... EST Time Remaining: 5:16:08
+Downloading records 288001 to 288500
+	EFetch query successful
+	Took: 20.42s ... EST Time Remaining: 5:15:44
+Downloading records 288501 to 289000
+	EFetch query successful
+	Took: 23.39s ... EST Time Remaining: 5:15:25
+Downloading records 289001 to 289500
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 5:15:03
+Downloading records 289501 to 290000
+	EFetch query successful
+	Took: 23.40s ... EST Time Remaining: 5:14:43
+Downloading records 290001 to 290500
+	EFetch query successful
+	Took: 23.45s ... EST Time Remaining: 5:14:24
+Downloading records 290501 to 291000
+	EFetch query successful
+	Took: 22.31s ... EST Time Remaining: 5:14:02
+Downloading records 291001 to 291500
+	EFetch query successful
+	Took: 22.51s ... EST Time Remaining: 5:13:41
+Downloading records 291501 to 292000
+	EFetch query successful
+	Took: 23.17s ... EST Time Remaining: 5:13:21
+Downloading records 292001 to 292500
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 5:13:00
+Downloading records 292501 to 293000
+	EFetch query successful
+	Took: 22.74s ... EST Time Remaining: 5:12:39
+Downloading records 293001 to 293500
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 5:12:18
+Downloading records 293501 to 294000
+	EFetch query successful
+	Took: 25.53s ... EST Time Remaining: 5:12:01
+Downloading records 294001 to 294500
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 5:11:42
+Downloading records 294501 to 295000
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 5:11:21
+Downloading records 295001 to 295500
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 5:10:59
+Downloading records 295501 to 296000
+	EFetch query successful
+	Took: 21.28s ... EST Time Remaining: 5:10:37
+Downloading records 296001 to 296500
+	EFetch query successful
+	Took: 23.25s ... EST Time Remaining: 5:10:17
+Downloading records 296501 to 297000
+	EFetch query successful
+	Took: 23.10s ... EST Time Remaining: 5:09:56
+Downloading records 297001 to 297500
+	EFetch query successful
+	Took: 25.05s ... EST Time Remaining: 5:09:39
+Downloading records 297501 to 298000
+	EFetch query successful
+	Took: 30.00s ... EST Time Remaining: 5:09:28
+Downloading records 298001 to 298500
+	EFetch query successful
+	Took: 24.46s ... EST Time Remaining: 5:09:10
+Downloading records 298501 to 299000
+	EFetch query successful
+	Took: 19.87s ... EST Time Remaining: 5:08:45
+Downloading records 299001 to 299500
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 5:08:23
+Downloading records 299501 to 300000
+	EFetch query successful
+	Took: 20.72s ... EST Time Remaining: 5:08:00
+Downloading records 300001 to 300500
+	EFetch query successful
+	Took: 20.98s ... EST Time Remaining: 5:07:36
+Downloading records 300501 to 301000
+	EFetch query successful
+	Took: 23.33s ... EST Time Remaining: 5:07:16
+Downloading records 301001 to 301500
+	EFetch query successful
+	Took: 24.44s ... EST Time Remaining: 5:06:58
+Downloading records 301501 to 302000
+	EFetch query successful
+	Took: 21.82s ... EST Time Remaining: 5:06:36
+Downloading records 302001 to 302500
+	EFetch query successful
+	Took: 22.36s ... EST Time Remaining: 5:06:14
+Downloading records 302501 to 303000
+	EFetch query successful
+	Took: 23.42s ... EST Time Remaining: 5:05:54
+Downloading records 303001 to 303500
+	EFetch query successful
+	Took: 22.63s ... EST Time Remaining: 5:05:33
+Downloading records 303501 to 304000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 5:05:10
+Downloading records 304001 to 304500
+	EFetch query successful
+	Took: 20.12s ... EST Time Remaining: 5:04:45
+Downloading records 304501 to 305000
+	EFetch query successful
+	Took: 24.10s ... EST Time Remaining: 5:04:26
+Downloading records 305001 to 305500
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 5:04:04
+Downloading records 305501 to 306000
+	EFetch query successful
+	Took: 21.87s ... EST Time Remaining: 5:03:42
+Downloading records 306001 to 306500
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 5:03:19
+Downloading records 306501 to 307000
+	EFetch query successful
+	Took: 20.97s ... EST Time Remaining: 5:02:56
+Downloading records 307001 to 307500
+	EFetch query successful
+	Took: 20.04s ... EST Time Remaining: 5:02:31
+Downloading records 307501 to 308000
+	EFetch query successful
+	Took: 23.20s ... EST Time Remaining: 5:02:11
+Downloading records 308001 to 308500
+	EFetch query successful
+	Took: 22.69s ... EST Time Remaining: 5:01:50
+Downloading records 308501 to 309000
+	EFetch query successful
+	Took: 22.40s ... EST Time Remaining: 5:01:29
+Downloading records 309001 to 309500
+	EFetch query successful
+	Took: 23.62s ... EST Time Remaining: 5:01:09
+Downloading records 309501 to 310000
+	EFetch query successful
+	Took: 22.94s ... EST Time Remaining: 5:00:48
+Downloading records 310001 to 310500
+	EFetch query successful
+	Took: 23.70s ... EST Time Remaining: 5:00:29
+Downloading records 310501 to 311000
+	EFetch query successful
+	Took: 23.34s ... EST Time Remaining: 5:00:09
+Downloading records 311001 to 311500
+	EFetch query successful
+	Took: 24.76s ... EST Time Remaining: 4:59:50
+Downloading records 311501 to 312000
+	EFetch query successful
+	Took: 25.57s ... EST Time Remaining: 4:59:33
+Downloading records 312001 to 312500
+	EFetch query successful
+	Took: 20.94s ... EST Time Remaining: 4:59:10
+Downloading records 312501 to 313000
+	EFetch query successful
+	Took: 22.99s ... EST Time Remaining: 4:58:49
+Downloading records 313001 to 313500
+	EFetch query successful
+	Took: 21.77s ... EST Time Remaining: 4:58:27
+Downloading records 313501 to 314000
+	EFetch query successful
+	Took: 21.81s ... EST Time Remaining: 4:58:05
+Downloading records 314001 to 314500
+	EFetch query successful
+	Took: 23.89s ... EST Time Remaining: 4:57:45
+Downloading records 314501 to 315000
+	EFetch query successful
+	Took: 23.90s ... EST Time Remaining: 4:57:26
+Downloading records 315001 to 315500
+	EFetch query successful
+	Took: 25.47s ... EST Time Remaining: 4:57:08
+Downloading records 315501 to 316000
+	EFetch query successful
+	Took: 20.71s ... EST Time Remaining: 4:56:45
+Downloading records 316001 to 316500
+	EFetch query successful
+	Took: 20.29s ... EST Time Remaining: 4:56:20
+Downloading records 316501 to 317000
+	EFetch query successful
+	Took: 23.13s ... EST Time Remaining: 4:56:00
+Downloading records 317001 to 317500
+	EFetch query successful
+	Took: 20.73s ... EST Time Remaining: 4:55:36
+Downloading records 317501 to 318000
+	EFetch query successful
+	Took: 19.33s ... EST Time Remaining: 4:55:11
+Downloading records 318001 to 318500
+	EFetch query successful
+	Took: 19.84s ... EST Time Remaining: 4:54:46
+Downloading records 318501 to 319000
+	EFetch query successful
+	Took: 19.80s ... EST Time Remaining: 4:54:22
+Downloading records 319001 to 319500
+	EFetch query successful
+	Took: 19.16s ... EST Time Remaining: 4:53:56
+Downloading records 319501 to 320000
+	EFetch query successful
+	Took: 19.78s ... EST Time Remaining: 4:53:31
+Downloading records 320001 to 320500
+	EFetch query successful
+	Took: 23.43s ... EST Time Remaining: 4:53:11
+Downloading records 320501 to 321000
+	EFetch query successful
+	Took: 24.52s ... EST Time Remaining: 4:52:53
+Downloading records 321001 to 321500
+	EFetch query successful
+	Took: 25.97s ... EST Time Remaining: 4:52:36
+Downloading records 321501 to 322000
+	EFetch query successful
+	Took: 21.97s ... EST Time Remaining: 4:52:14
+Downloading records 322001 to 322500
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 4:51:50
+Downloading records 322501 to 323000
+	EFetch query successful
+	Took: 21.35s ... EST Time Remaining: 4:51:27
+Downloading records 323001 to 323500
+	EFetch query successful
+	Took: 24.06s ... EST Time Remaining: 4:51:08
+Downloading records 323501 to 324000
+	EFetch query successful
+	Took: 20.60s ... EST Time Remaining: 4:50:44
+Downloading records 324001 to 324500
+	EFetch query successful
+	Took: 25.54s ... EST Time Remaining: 4:50:27
+Downloading records 324501 to 325000
+	EFetch query successful
+	Took: 20.23s ... EST Time Remaining: 4:50:03
+Downloading records 325001 to 325500
+	EFetch query successful
+	Took: 20.83s ... EST Time Remaining: 4:49:39
+Downloading records 325501 to 326000
+	EFetch query successful
+	Took: 22.85s ... EST Time Remaining: 4:49:18
+Downloading records 326001 to 326500
+	EFetch query successful
+	Took: 21.24s ... EST Time Remaining: 4:48:56
+Downloading records 326501 to 327000
+	EFetch query successful
+	Took: 24.26s ... EST Time Remaining: 4:48:36
+Downloading records 327001 to 327500
+	EFetch query successful
+	Took: 23.84s ... EST Time Remaining: 4:48:17
+Downloading records 327501 to 328000
+	EFetch query successful
+	Took: 22.31s ... EST Time Remaining: 4:47:55
+Downloading records 328001 to 328500
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 4:47:33
+Downloading records 328501 to 329000
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 4:47:12
+Downloading records 329001 to 329500
+	EFetch query successful
+	Took: 23.01s ... EST Time Remaining: 4:46:51
+Downloading records 329501 to 330000
+	EFetch query successful
+	Took: 23.46s ... EST Time Remaining: 4:46:31
+Downloading records 330001 to 330500
+	EFetch query successful
+	Took: 24.13s ... EST Time Remaining: 4:46:11
+Downloading records 330501 to 331000
+	EFetch query successful
+	Took: 21.41s ... EST Time Remaining: 4:45:49
+Downloading records 331001 to 331500
+	EFetch query successful
+	Took: 21.98s ... EST Time Remaining: 4:45:27
+Downloading records 331501 to 332000
+	EFetch query successful
+	Took: 20.60s ... EST Time Remaining: 4:45:03
+Downloading records 332001 to 332500
+	EFetch query successful
+	Took: 22.03s ... EST Time Remaining: 4:44:41
+Downloading records 332501 to 333000
+	EFetch query successful
+	Took: 22.36s ... EST Time Remaining: 4:44:20
+Downloading records 333001 to 333500
+	EFetch query successful
+	Took: 22.95s ... EST Time Remaining: 4:43:59
+Downloading records 333501 to 334000
+	EFetch query successful
+	Took: 20.09s ... EST Time Remaining: 4:43:35
+Downloading records 334001 to 334500
+	EFetch query successful
+	Took: 21.70s ... EST Time Remaining: 4:43:12
+Downloading records 334501 to 335000
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 4:42:50
+Downloading records 335001 to 335500
+	EFetch query successful
+	Took: 21.16s ... EST Time Remaining: 4:42:27
+Downloading records 335501 to 336000
+	EFetch query successful
+	Took: 22.80s ... EST Time Remaining: 4:42:06
+Downloading records 336001 to 336500
+	EFetch query successful
+	Took: 25.42s ... EST Time Remaining: 4:41:48
+Downloading records 336501 to 337000
+	EFetch query successful
+	Took: 25.00s ... EST Time Remaining: 4:41:29
+Downloading records 337001 to 337500
+	EFetch query successful
+	Took: 21.91s ... EST Time Remaining: 4:41:07
+Downloading records 337501 to 338000
+	EFetch query successful
+	Took: 20.85s ... EST Time Remaining: 4:40:44
+Downloading records 338001 to 338500
+	EFetch query successful
+	Took: 19.16s ... EST Time Remaining: 4:40:19
+Downloading records 338501 to 339000
+	EFetch query successful
+	Took: 22.00s ... EST Time Remaining: 4:39:57
+Downloading records 339001 to 339500
+	EFetch query successful
+	Took: 23.14s ... EST Time Remaining: 4:39:36
+Downloading records 339501 to 340000
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 4:39:16
+Downloading records 340001 to 340500
+	EFetch query successful
+	Took: 23.42s ... EST Time Remaining: 4:38:55
+Downloading records 340501 to 341000
+	EFetch query successful
+	Took: 18.92s ... EST Time Remaining: 4:38:30
+Downloading records 341001 to 341500
+	EFetch query successful
+	Took: 19.34s ... EST Time Remaining: 4:38:05
+Downloading records 341501 to 342000
+	EFetch query successful
+	Took: 19.28s ... EST Time Remaining: 4:37:40
+Downloading records 342001 to 342500
+	EFetch query successful
+	Took: 18.75s ... EST Time Remaining: 4:37:15
+Downloading records 342501 to 343000
+	EFetch query successful
+	Took: 19.18s ... EST Time Remaining: 4:36:49
+Downloading records 343001 to 343500
+	EFetch query successful
+	Took: 19.14s ... EST Time Remaining: 4:36:24
+Downloading records 343501 to 344000
+	EFetch query successful
+	Took: 21.83s ... EST Time Remaining: 4:36:02
+Downloading records 344001 to 344500
+	EFetch query successful
+	Took: 22.50s ... EST Time Remaining: 4:35:41
+Downloading records 344501 to 345000
+	EFetch query successful
+	Took: 21.54s ... EST Time Remaining: 4:35:18
+Downloading records 345001 to 345500
+	EFetch query successful
+	Took: 22.31s ... EST Time Remaining: 4:34:57
+Downloading records 345501 to 346000
+	EFetch query successful
+	Took: 21.68s ... EST Time Remaining: 4:34:35
+Downloading records 346001 to 346500
+	EFetch query successful
+	Took: 22.92s ... EST Time Remaining: 4:34:14
+Downloading records 346501 to 347000
+	EFetch query successful
+	Took: 23.83s ... EST Time Remaining: 4:33:54
+Downloading records 347001 to 347500
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 4:33:33
+Downloading records 347501 to 348000
+	EFetch query successful
+	Took: 21.79s ... EST Time Remaining: 4:33:10
+Downloading records 348001 to 348500
+	EFetch query successful
+	Took: 20.51s ... EST Time Remaining: 4:32:47
+Downloading records 348501 to 349000
+	EFetch query successful
+	Took: 20.41s ... EST Time Remaining: 4:32:23
+Downloading records 349001 to 349500
+	EFetch query successful
+	Took: 21.98s ... EST Time Remaining: 4:32:01
+Downloading records 349501 to 350000
+	EFetch query successful
+	Took: 22.24s ... EST Time Remaining: 4:31:40
+Downloading records 350001 to 350500
+	EFetch query successful
+	Took: 21.14s ... EST Time Remaining: 4:31:17
+Downloading records 350501 to 351000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 4:30:54
+Downloading records 351001 to 351500
+	EFetch query successful
+	Took: 21.86s ... EST Time Remaining: 4:30:31
+Downloading records 351501 to 352000
+	EFetch query successful
+	Took: 22.90s ... EST Time Remaining: 4:30:11
+Downloading records 352001 to 352500
+	EFetch query successful
+	Took: 22.24s ... EST Time Remaining: 4:29:49
+Downloading records 352501 to 353000
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 4:29:26
+Downloading records 353001 to 353500
+	EFetch query successful
+	Took: 21.84s ... EST Time Remaining: 4:29:04
+Downloading records 353501 to 354000
+	EFetch query successful
+	Took: 22.17s ... EST Time Remaining: 4:28:43
+Downloading records 354001 to 354500
+	EFetch query successful
+	Took: 22.63s ... EST Time Remaining: 4:28:21
+Downloading records 354501 to 355000
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 4:27:59
+Downloading records 355001 to 355500
+	EFetch query successful
+	Took: 23.10s ... EST Time Remaining: 4:27:38
+Downloading records 355501 to 356000
+	EFetch query successful
+	Took: 22.28s ... EST Time Remaining: 4:27:16
+Downloading records 356001 to 356500
+	EFetch query successful
+	Took: 19.75s ... EST Time Remaining: 4:26:52
+Downloading records 356501 to 357000
+	EFetch query successful
+	Took: 21.49s ... EST Time Remaining: 4:26:30
+Downloading records 357001 to 357500
+	EFetch query successful
+	Took: 21.68s ... EST Time Remaining: 4:26:07
+Downloading records 357501 to 358000
+	EFetch query successful
+	Took: 20.16s ... EST Time Remaining: 4:25:44
+Downloading records 358001 to 358500
+	EFetch query successful
+	Took: 20.09s ... EST Time Remaining: 4:25:20
+Downloading records 358501 to 359000
+	EFetch query successful
+	Took: 18.91s ... EST Time Remaining: 4:24:55
+Downloading records 359001 to 359500
+	EFetch query successful
+	Took: 19.98s ... EST Time Remaining: 4:24:31
+Downloading records 359501 to 360000
+	EFetch query successful
+	Took: 22.51s ... EST Time Remaining: 4:24:09
+Downloading records 360001 to 360500
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 4:23:48
+Downloading records 360501 to 361000
+	EFetch query successful
+	Took: 22.96s ... EST Time Remaining: 4:23:27
+Downloading records 361001 to 361500
+	EFetch query successful
+	Took: 19.41s ... EST Time Remaining: 4:23:02
+Downloading records 361501 to 362000
+	EFetch query successful
+	Took: 19.33s ... EST Time Remaining: 4:22:38
+Downloading records 362001 to 362500
+	EFetch query successful
+	Took: 18.65s ... EST Time Remaining: 4:22:12
+Downloading records 362501 to 363000
+	EFetch query successful
+	Took: 19.61s ... EST Time Remaining: 4:21:48
+Downloading records 363001 to 363500
+	EFetch query successful
+	Took: 18.87s ... EST Time Remaining: 4:21:23
+Downloading records 363501 to 364000
+	EFetch query successful
+	Took: 19.59s ... EST Time Remaining: 4:20:59
+Downloading records 364001 to 364500
+	EFetch query successful
+	Took: 19.89s ... EST Time Remaining: 4:20:35
+Downloading records 364501 to 365000
+	EFetch query successful
+	Took: 19.38s ... EST Time Remaining: 4:20:11
+Downloading records 365001 to 365500
+	EFetch query successful
+	Took: 19.96s ... EST Time Remaining: 4:19:47
+Downloading records 365501 to 366000
+	EFetch query successful
+	Took: 19.42s ... EST Time Remaining: 4:19:22
+Downloading records 366001 to 366500
+	EFetch query successful
+	Took: 21.04s ... EST Time Remaining: 4:19:00
+Downloading records 366501 to 367000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 4:18:37
+Downloading records 367001 to 367500
+	EFetch query successful
+	Took: 20.68s ... EST Time Remaining: 4:18:14
+Downloading records 367501 to 368000
+	EFetch query successful
+	Took: 21.72s ... EST Time Remaining: 4:17:51
+Downloading records 368001 to 368500
+	EFetch query successful
+	Took: 22.94s ... EST Time Remaining: 4:17:31
+Downloading records 368501 to 369000
+	EFetch query successful
+	Took: 23.28s ... EST Time Remaining: 4:17:10
+Downloading records 369001 to 369500
+	EFetch query successful
+	Took: 23.32s ... EST Time Remaining: 4:16:49
+Downloading records 369501 to 370000
+	EFetch query successful
+	Took: 21.49s ... EST Time Remaining: 4:16:27
+Downloading records 370001 to 370500
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 4:16:05
+Downloading records 370501 to 371000
+	EFetch query successful
+	Took: 22.89s ... EST Time Remaining: 4:15:44
+Downloading records 371001 to 371500
+	EFetch query successful
+	Took: 25.13s ... EST Time Remaining: 4:15:25
+Downloading records 371501 to 372000
+	EFetch query successful
+	Took: 20.04s ... EST Time Remaining: 4:15:02
+Downloading records 372001 to 372500
+	EFetch query successful
+	Took: 18.93s ... EST Time Remaining: 4:14:37
+Downloading records 372501 to 373000
+	EFetch query successful
+	Took: 18.68s ... EST Time Remaining: 4:14:12
+Downloading records 373001 to 373500
+	EFetch query successful
+	Took: 19.16s ... EST Time Remaining: 4:13:48
+Downloading records 373501 to 374000
+	EFetch query successful
+	Took: 18.27s ... EST Time Remaining: 4:13:22
+Downloading records 374001 to 374500
+	EFetch query successful
+	Took: 18.77s ... EST Time Remaining: 4:12:58
+Downloading records 374501 to 375000
+	EFetch query successful
+	Took: 21.19s ... EST Time Remaining: 4:12:35
+Downloading records 375001 to 375500
+	EFetch query successful
+	Took: 23.50s ... EST Time Remaining: 4:12:15
+Downloading records 375501 to 376000
+	EFetch query successful
+	Took: 21.52s ... EST Time Remaining: 4:11:52
+Downloading records 376001 to 376500
+	EFetch query successful
+	Took: 20.73s ... EST Time Remaining: 4:11:29
+Downloading records 376501 to 377000
+	EFetch query successful
+	Took: 23.63s ... EST Time Remaining: 4:11:09
+Downloading records 377001 to 377500
+	EFetch query successful
+	Took: 24.31s ... EST Time Remaining: 4:10:49
+Downloading records 377501 to 378000
+	EFetch query successful
+	Took: 22.75s ... EST Time Remaining: 4:10:28
+Downloading records 378001 to 378500
+	EFetch query successful
+	Took: 23.80s ... EST Time Remaining: 4:10:08
+Downloading records 378501 to 379000
+	EFetch query successful
+	Took: 23.86s ... EST Time Remaining: 4:09:48
+Downloading records 379001 to 379500
+	EFetch query successful
+	Took: 23.65s ... EST Time Remaining: 4:09:27
+Downloading records 379501 to 380000
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 4:09:05
+Downloading records 380001 to 380500
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 4:08:43
+Downloading records 380501 to 381000
+	EFetch query successful
+	Took: 17.83s ... EST Time Remaining: 4:08:18
+Downloading records 381001 to 381500
+	EFetch query successful
+	Took: 19.49s ... EST Time Remaining: 4:07:54
+Downloading records 381501 to 382000
+	EFetch query successful
+	Took: 23.19s ... EST Time Remaining: 4:07:33
+Downloading records 382001 to 382500
+	EFetch query successful
+	Took: 19.66s ... EST Time Remaining: 4:07:09
+Downloading records 382501 to 383000
+	EFetch query successful
+	Took: 22.72s ... EST Time Remaining: 4:06:48
+Downloading records 383001 to 383500
+	EFetch query successful
+	Took: 20.23s ... EST Time Remaining: 4:06:25
+Downloading records 383501 to 384000
+	EFetch query successful
+	Took: 17.43s ... EST Time Remaining: 4:05:59
+Downloading records 384001 to 384500
+	EFetch query successful
+	Took: 17.28s ... EST Time Remaining: 4:05:33
+Downloading records 384501 to 385000
+	EFetch query successful
+	Took: 19.84s ... EST Time Remaining: 4:05:09
+Downloading records 385001 to 385500
+	EFetch query successful
+	Took: 20.36s ... EST Time Remaining: 4:04:46
+Downloading records 385501 to 386000
+	EFetch query successful
+	Took: 19.94s ... EST Time Remaining: 4:04:22
+Downloading records 386001 to 386500
+	EFetch query successful
+	Took: 23.69s ... EST Time Remaining: 4:04:02
+Downloading records 386501 to 387000
+	EFetch query successful
+	Took: 21.02s ... EST Time Remaining: 4:03:39
+Downloading records 387001 to 387500
+	EFetch query successful
+	Took: 20.44s ... EST Time Remaining: 4:03:16
+Downloading records 387501 to 388000
+	EFetch query successful
+	Took: 20.89s ... EST Time Remaining: 4:02:53
+Downloading records 388001 to 388500
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 4:02:31
+Downloading records 388501 to 389000
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 4:02:09
+Downloading records 389001 to 389500
+	EFetch query successful
+	Took: 20.66s ... EST Time Remaining: 4:01:46
+Downloading records 389501 to 390000
+	EFetch query successful
+	Took: 23.36s ... EST Time Remaining: 4:01:26
+Downloading records 390001 to 390500
+	EFetch query successful
+	Took: 18.15s ... EST Time Remaining: 4:01:01
+Downloading records 390501 to 391000
+	EFetch query successful
+	Took: 17.80s ... EST Time Remaining: 4:00:35
+Downloading records 391001 to 391500
+	EFetch query successful
+	Took: 22.34s ... EST Time Remaining: 4:00:14
+Downloading records 391501 to 392000
+	EFetch query successful
+	Took: 24.18s ... EST Time Remaining: 3:59:54
+Downloading records 392001 to 392500
+	EFetch query successful
+	Took: 21.00s ... EST Time Remaining: 3:59:31
+Downloading records 392501 to 393000
+	EFetch query successful
+	Took: 25.48s ... EST Time Remaining: 3:59:12
+Downloading records 393001 to 393500
+	EFetch query successful
+	Took: 25.26s ... EST Time Remaining: 3:58:53
+Downloading records 393501 to 394000
+	EFetch query successful
+	Took: 24.92s ... EST Time Remaining: 3:58:34
+Downloading records 394001 to 394500
+	EFetch query successful
+	Took: 22.52s ... EST Time Remaining: 3:58:13
+Downloading records 394501 to 395000
+	EFetch query successful
+	Took: 22.29s ... EST Time Remaining: 3:57:51
+Downloading records 395001 to 395500
+	EFetch query successful
+	Took: 25.64s ... EST Time Remaining: 3:57:32
+Downloading records 395501 to 396000
+	EFetch query successful
+	Took: 24.50s ... EST Time Remaining: 3:57:13
+Downloading records 396001 to 396500
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 3:56:51
+Downloading records 396501 to 397000
+	EFetch query successful
+	Took: 23.00s ... EST Time Remaining: 3:56:30
+Downloading records 397001 to 397500
+	EFetch query successful
+	Took: 21.79s ... EST Time Remaining: 3:56:08
+Downloading records 397501 to 398000
+	EFetch query successful
+	Took: 19.58s ... EST Time Remaining: 3:55:44
+Downloading records 398001 to 398500
+	EFetch query successful
+	Took: 19.97s ... EST Time Remaining: 3:55:21
+Downloading records 398501 to 399000
+	EFetch query successful
+	Took: 19.87s ... EST Time Remaining: 3:54:57
+Downloading records 399001 to 399500
+	EFetch query successful
+	Took: 23.81s ... EST Time Remaining: 3:54:37
+Downloading records 399501 to 400000
+	EFetch query successful
+	Took: 24.10s ... EST Time Remaining: 3:54:17
+Downloading records 400001 to 400500
+	EFetch query successful
+	Took: 21.12s ... EST Time Remaining: 3:53:54
+Downloading records 400501 to 401000
+	EFetch query successful
+	Took: 23.12s ... EST Time Remaining: 3:53:33
+Downloading records 401001 to 401500
+	EFetch query successful
+	Took: 22.55s ... EST Time Remaining: 3:53:12
+Downloading records 401501 to 402000
+	EFetch query successful
+	Took: 22.05s ... EST Time Remaining: 3:52:50
+Downloading records 402001 to 402500
+	EFetch query successful
+	Took: 19.37s ... EST Time Remaining: 3:52:26
+Downloading records 402501 to 403000
+	EFetch query successful
+	Took: 22.35s ... EST Time Remaining: 3:52:05
+Downloading records 403001 to 403500
+	EFetch query successful
+	Took: 22.90s ... EST Time Remaining: 3:51:44
+Downloading records 403501 to 404000
+	EFetch query successful
+	Took: 23.49s ... EST Time Remaining: 3:51:23
+Downloading records 404001 to 404500
+	EFetch query successful
+	Took: 21.88s ... EST Time Remaining: 3:51:01
+Downloading records 404501 to 405000
+	EFetch query successful
+	Took: 23.26s ... EST Time Remaining: 3:50:40
+Downloading records 405001 to 405500
+	EFetch query successful
+	Took: 19.78s ... EST Time Remaining: 3:50:17
+Downloading records 405501 to 406000
+	EFetch query successful
+	Took: 19.06s ... EST Time Remaining: 3:49:53
+Downloading records 406001 to 406500
+	EFetch query successful
+	Took: 23.38s ... EST Time Remaining: 3:49:32
+Downloading records 406501 to 407000
+	EFetch query successful
+	Took: 19.27s ... EST Time Remaining: 3:49:08
+Downloading records 407001 to 407500
+	EFetch query successful
+	Took: 22.88s ... EST Time Remaining: 3:48:47
+Downloading records 407501 to 408000
+	EFetch query successful
+	Took: 21.54s ... EST Time Remaining: 3:48:25
+Downloading records 408001 to 408500
+	EFetch query successful
+	Took: 25.52s ... EST Time Remaining: 3:48:06
+Downloading records 408501 to 409000
+	EFetch query successful
+	Took: 22.57s ... EST Time Remaining: 3:47:44
+Downloading records 409001 to 409500
+	EFetch query successful
+	Took: 22.77s ... EST Time Remaining: 3:47:23
+Downloading records 409501 to 410000
+	EFetch query successful
+	Took: 24.69s ... EST Time Remaining: 3:47:03
+Downloading records 410001 to 410500
+	EFetch query successful
+	Took: 21.90s ... EST Time Remaining: 3:46:41
+Downloading records 410501 to 411000
+	EFetch query successful
+	Took: 21.89s ... EST Time Remaining: 3:46:19
+Downloading records 411001 to 411500
+	EFetch query successful
+	Took: 22.73s ... EST Time Remaining: 3:45:58
+Downloading records 411501 to 412000
+	EFetch query successful
+	Took: 19.04s ... EST Time Remaining: 3:45:34
+Downloading records 412001 to 412500
+	EFetch query successful
+	Took: 26.10s ... EST Time Remaining: 3:45:15
+Downloading records 412501 to 413000
+	EFetch query successful
+	Took: 22.61s ... EST Time Remaining: 3:44:54
+Downloading records 413001 to 413500
+	EFetch query successful
+	Took: 21.20s ... EST Time Remaining: 3:44:31
+Downloading records 413501 to 414000
+	EFetch query successful
+	Took: 22.94s ... EST Time Remaining: 3:44:10
+Downloading records 414001 to 414500
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 3:43:49
+Downloading records 414501 to 415000
+	EFetch query successful
+	Took: 18.33s ... EST Time Remaining: 3:43:24
+Downloading records 415001 to 415500
+	EFetch query successful
+	Took: 19.92s ... EST Time Remaining: 3:43:01
+Downloading records 415501 to 416000
+	EFetch query successful
+	Took: 20.86s ... EST Time Remaining: 3:42:38
+Downloading records 416001 to 416500
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 3:42:16
+Downloading records 416501 to 417000
+	EFetch query successful
+	Took: 21.24s ... EST Time Remaining: 3:41:54
+Downloading records 417001 to 417500
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 3:41:32
+Downloading records 417501 to 418000
+	EFetch query successful
+	Took: 18.96s ... EST Time Remaining: 3:41:08
+Downloading records 418001 to 418500
+	EFetch query successful
+	Took: 17.98s ... EST Time Remaining: 3:40:43
+Downloading records 418501 to 419000
+	EFetch query successful
+	Took: 18.69s ... EST Time Remaining: 3:40:19
+Downloading records 419001 to 419500
+	EFetch query successful
+	Took: 19.01s ... EST Time Remaining: 3:39:55
+Downloading records 419501 to 420000
+	EFetch query successful
+	Took: 17.90s ... EST Time Remaining: 3:39:31
+Downloading records 420001 to 420500
+	EFetch query successful
+	Took: 19.25s ... EST Time Remaining: 3:39:07
+Downloading records 420501 to 421000
+	EFetch query successful
+	Took: 24.59s ... EST Time Remaining: 3:38:47
+Downloading records 421001 to 421500
+	EFetch query successful
+	Took: 20.72s ... EST Time Remaining: 3:38:24
+Downloading records 421501 to 422000
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 3:38:02
+Downloading records 422001 to 422500
+	EFetch query successful
+	Took: 21.78s ... EST Time Remaining: 3:37:40
+Downloading records 422501 to 423000
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 3:37:18
+Downloading records 423001 to 423500
+	EFetch query successful
+	Took: 20.80s ... EST Time Remaining: 3:36:56
+Downloading records 423501 to 424000
+	EFetch query successful
+	Took: 20.58s ... EST Time Remaining: 3:36:33
+Downloading records 424001 to 424500
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 3:36:11
+Downloading records 424501 to 425000
+	EFetch query successful
+	Took: 20.51s ... EST Time Remaining: 3:35:49
+Downloading records 425001 to 425500
+	EFetch query successful
+	Took: 20.78s ... EST Time Remaining: 3:35:26
+Downloading records 425501 to 426000
+	EFetch query successful
+	Took: 19.35s ... EST Time Remaining: 3:35:02
+Downloading records 426001 to 426500
+	EFetch query successful
+	Took: 21.67s ... EST Time Remaining: 3:34:40
+Downloading records 426501 to 427000
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 3:34:19
+Downloading records 427001 to 427500
+	EFetch query successful
+	Took: 22.64s ... EST Time Remaining: 3:33:58
+Downloading records 427501 to 428000
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 3:33:35
+Downloading records 428001 to 428500
+	EFetch query successful
+	Took: 20.62s ... EST Time Remaining: 3:33:13
+Downloading records 428501 to 429000
+	EFetch query successful
+	Took: 22.15s ... EST Time Remaining: 3:32:51
+Downloading records 429001 to 429500
+	EFetch query successful
+	Took: 23.78s ... EST Time Remaining: 3:32:31
+Downloading records 429501 to 430000
+	EFetch query successful
+	Took: 21.81s ... EST Time Remaining: 3:32:09
+Downloading records 430001 to 430500
+	EFetch query successful
+	Took: 21.14s ... EST Time Remaining: 3:31:46
+Downloading records 430501 to 431000
+	EFetch query successful
+	Took: 21.60s ... EST Time Remaining: 3:31:24
+Downloading records 431001 to 431500
+	EFetch query successful
+	Took: 20.53s ... EST Time Remaining: 3:31:01
+Downloading records 431501 to 432000
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 3:30:40
+Downloading records 432001 to 432500
+	EFetch query successful
+	Took: 21.61s ... EST Time Remaining: 3:30:18
+Downloading records 432501 to 433000
+	EFetch query successful
+	Took: 22.48s ... EST Time Remaining: 3:29:56
+Downloading records 433001 to 433500
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 3:29:34
+Downloading records 433501 to 434000
+	EFetch query successful
+	Took: 21.35s ... EST Time Remaining: 3:29:12
+Downloading records 434001 to 434500
+	EFetch query successful
+	Took: 21.59s ... EST Time Remaining: 3:28:50
+Downloading records 434501 to 435000
+	EFetch query successful
+	Took: 22.99s ... EST Time Remaining: 3:28:29
+Downloading records 435001 to 435500
+	EFetch query successful
+	Took: 23.22s ... EST Time Remaining: 3:28:08
+Downloading records 435501 to 436000
+	EFetch query successful
+	Took: 19.91s ... EST Time Remaining: 3:27:45
+Downloading records 436001 to 436500
+	EFetch query successful
+	Took: 22.13s ... EST Time Remaining: 3:27:23
+Downloading records 436501 to 437000
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 3:27:01
+Downloading records 437001 to 437500
+	EFetch query successful
+	Took: 19.31s ... EST Time Remaining: 3:26:38
+Downloading records 437501 to 438000
+	EFetch query successful
+	Took: 20.47s ... EST Time Remaining: 3:26:15
+Downloading records 438001 to 438500
+	EFetch query successful
+	Took: 20.45s ... EST Time Remaining: 3:25:52
+Downloading records 438501 to 439000
+	EFetch query successful
+	Took: 21.27s ... EST Time Remaining: 3:25:30
+Downloading records 439001 to 439500
+	EFetch query successful
+	Took: 20.28s ... EST Time Remaining: 3:25:07
+Downloading records 439501 to 440000
+	EFetch query successful
+	Took: 20.28s ... EST Time Remaining: 3:24:44
+Downloading records 440001 to 440500
+	EFetch query successful
+	Took: 20.97s ... EST Time Remaining: 3:24:22
+Downloading records 440501 to 441000
+	EFetch query successful
+	Took: 19.94s ... EST Time Remaining: 3:23:59
+Downloading records 441001 to 441500
+	EFetch query successful
+	Took: 20.83s ... EST Time Remaining: 3:23:36
+Downloading records 441501 to 442000
+	EFetch query successful
+	Took: 22.52s ... EST Time Remaining: 3:23:15
+Downloading records 442001 to 442500
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 3:22:53
+Downloading records 442501 to 443000
+	EFetch query successful
+	Took: 19.62s ... EST Time Remaining: 3:22:29
+Downloading records 443001 to 443500
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 3:22:08
+Downloading records 443501 to 444000
+	EFetch query successful
+	Took: 24.22s ... EST Time Remaining: 3:21:47
+Downloading records 444001 to 444500
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 3:21:25
+Downloading records 444501 to 445000
+	EFetch query successful
+	Took: 21.15s ... EST Time Remaining: 3:21:03
+Downloading records 445001 to 445500
+	EFetch query successful
+	Took: 23.34s ... EST Time Remaining: 3:20:42
+Downloading records 445501 to 446000
+	EFetch query successful
+	Took: 23.35s ... EST Time Remaining: 3:20:21
+Downloading records 446001 to 446500
+	EFetch query successful
+	Took: 20.33s ... EST Time Remaining: 3:19:58
+Downloading records 446501 to 447000
+	EFetch query successful
+	Took: 20.33s ... EST Time Remaining: 3:19:36
+Downloading records 447001 to 447500
+	EFetch query successful
+	Took: 20.57s ... EST Time Remaining: 3:19:13
+Downloading records 447501 to 448000
+	EFetch query successful
+	Took: 22.21s ... EST Time Remaining: 3:18:51
+Downloading records 448001 to 448500
+	EFetch query successful
+	Took: 21.41s ... EST Time Remaining: 3:18:29
+Downloading records 448501 to 449000
+	EFetch query successful
+	Took: 23.83s ... EST Time Remaining: 3:18:09
+Downloading records 449001 to 449500
+	EFetch query successful
+	Took: 21.87s ... EST Time Remaining: 3:17:47
+Downloading records 449501 to 450000
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 3:17:25
+Downloading records 450001 to 450500
+	EFetch query successful
+	Took: 18.98s ... EST Time Remaining: 3:17:01
+Downloading records 450501 to 451000
+	EFetch query successful
+	Took: 23.03s ... EST Time Remaining: 3:16:40
+Downloading records 451001 to 451500
+	EFetch query successful
+	Took: 23.79s ... EST Time Remaining: 3:16:20
+Downloading records 451501 to 452000
+	EFetch query successful
+	Took: 22.35s ... EST Time Remaining: 3:15:58
+Downloading records 452001 to 452500
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 3:15:36
+Downloading records 452501 to 453000
+	EFetch query successful
+	Took: 24.13s ... EST Time Remaining: 3:15:16
+Downloading records 453001 to 453500
+	EFetch query successful
+	Took: 22.35s ... EST Time Remaining: 3:14:54
+Downloading records 453501 to 454000
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 3:14:33
+Downloading records 454001 to 454500
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 3:14:11
+Downloading records 454501 to 455000
+	EFetch query successful
+	Took: 23.60s ... EST Time Remaining: 3:13:50
+Downloading records 455001 to 455500
+	EFetch query successful
+	Took: 22.40s ... EST Time Remaining: 3:13:28
+Downloading records 455501 to 456000
+	EFetch query successful
+	Took: 22.56s ... EST Time Remaining: 3:13:07
+Downloading records 456001 to 456500
+	EFetch query successful
+	Took: 21.27s ... EST Time Remaining: 3:12:45
+Downloading records 456501 to 457000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 3:12:22
+Downloading records 457001 to 457500
+	EFetch query successful
+	Took: 21.00s ... EST Time Remaining: 3:12:00
+Downloading records 457501 to 458000
+	EFetch query successful
+	Took: 22.54s ... EST Time Remaining: 3:11:38
+Downloading records 458001 to 458500
+	EFetch query successful
+	Took: 23.36s ... EST Time Remaining: 3:11:17
+Downloading records 458501 to 459000
+	EFetch query successful
+	Took: 22.94s ... EST Time Remaining: 3:10:56
+Downloading records 459001 to 459500
+	EFetch query successful
+	Took: 19.92s ... EST Time Remaining: 3:10:33
+Downloading records 459501 to 460000
+	EFetch query successful
+	Took: 20.30s ... EST Time Remaining: 3:10:11
+Downloading records 460001 to 460500
+	EFetch query successful
+	Took: 22.39s ... EST Time Remaining: 3:09:49
+Downloading records 460501 to 461000
+	EFetch query successful
+	Took: 21.72s ... EST Time Remaining: 3:09:27
+Downloading records 461001 to 461500
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 3:09:05
+Downloading records 461501 to 462000
+	EFetch query successful
+	Took: 21.18s ... EST Time Remaining: 3:08:43
+Downloading records 462001 to 462500
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 3:08:20
+Downloading records 462501 to 463000
+	EFetch query successful
+	Took: 22.11s ... EST Time Remaining: 3:07:59
+Downloading records 463001 to 463500
+	EFetch query successful
+	Took: 24.68s ... EST Time Remaining: 3:07:38
+Downloading records 463501 to 464000
+	EFetch query successful
+	Took: 21.58s ... EST Time Remaining: 3:07:16
+Downloading records 464001 to 464500
+	EFetch query successful
+	Took: 21.26s ... EST Time Remaining: 3:06:54
+Downloading records 464501 to 465000
+	EFetch query successful
+	Took: 19.25s ... EST Time Remaining: 3:06:31
+Downloading records 465001 to 465500
+	EFetch query successful
+	Took: 20.13s ... EST Time Remaining: 3:06:08
+Downloading records 465501 to 466000
+	EFetch query successful
+	Took: 19.75s ... EST Time Remaining: 3:05:45
+Downloading records 466001 to 466500
+	EFetch query successful
+	Took: 22.74s ... EST Time Remaining: 3:05:24
+Downloading records 466501 to 467000
+	EFetch query successful
+	Took: 20.67s ... EST Time Remaining: 3:05:01
+Downloading records 467001 to 467500
+	EFetch query successful
+	Took: 20.30s ... EST Time Remaining: 3:04:38
+Downloading records 467501 to 468000
+	EFetch query successful
+	Took: 22.83s ... EST Time Remaining: 3:04:17
+Downloading records 468001 to 468500
+	EFetch query successful
+	Took: 25.15s ... EST Time Remaining: 3:03:57
+Downloading records 468501 to 469000
+	EFetch query successful
+	Took: 23.79s ... EST Time Remaining: 3:03:36
+Downloading records 469001 to 469500
+	EFetch query successful
+	Took: 22.93s ... EST Time Remaining: 3:03:15
+Downloading records 469501 to 470000
+	EFetch query successful
+	Took: 20.70s ... EST Time Remaining: 3:02:52
+Downloading records 470001 to 470500
+	EFetch query successful
+	Took: 20.66s ... EST Time Remaining: 3:02:30
+Downloading records 470501 to 471000
+	EFetch query successful
+	Took: 23.22s ... EST Time Remaining: 3:02:09
+Downloading records 471001 to 471500
+	EFetch query successful
+	Took: 22.67s ... EST Time Remaining: 3:01:47
+Downloading records 471501 to 472000
+	EFetch query successful
+	Took: 18.35s ... EST Time Remaining: 3:01:24
+Downloading records 472001 to 472500
+	EFetch query successful
+	Took: 19.12s ... EST Time Remaining: 3:01:00
+Downloading records 472501 to 473000
+	EFetch query successful
+	Took: 19.62s ... EST Time Remaining: 3:00:37
+Downloading records 473001 to 473500
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 3:00:16
+Downloading records 473501 to 474000
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 2:59:54
+Downloading records 474001 to 474500
+	EFetch query successful
+	Took: 21.65s ... EST Time Remaining: 2:59:32
+Downloading records 474501 to 475000
+	EFetch query successful
+	Took: 21.32s ... EST Time Remaining: 2:59:10
+Downloading records 475001 to 475500
+	EFetch query successful
+	Took: 23.14s ... EST Time Remaining: 2:58:48
+Downloading records 475501 to 476000
+	EFetch query successful
+	Took: 20.96s ... EST Time Remaining: 2:58:26
+Downloading records 476001 to 476500
+	EFetch query successful
+	Took: 20.66s ... EST Time Remaining: 2:58:04
+Downloading records 476501 to 477000
+	EFetch query successful
+	Took: 21.04s ... EST Time Remaining: 2:57:41
+Downloading records 477001 to 477500
+	EFetch query successful
+	Took: 19.77s ... EST Time Remaining: 2:57:18
+Downloading records 477501 to 478000
+	EFetch query successful
+	Took: 22.74s ... EST Time Remaining: 2:56:57
+Downloading records 478001 to 478500
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 2:56:35
+Downloading records 478501 to 479000
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 2:56:14
+Downloading records 479001 to 479500
+	EFetch query successful
+	Took: 26.20s ... EST Time Remaining: 2:55:54
+Downloading records 479501 to 480000
+	EFetch query successful
+	Took: 17.94s ... EST Time Remaining: 2:55:30
+Downloading records 480001 to 480500
+	EFetch query successful
+	Took: 22.26s ... EST Time Remaining: 2:55:09
+Downloading records 480501 to 481000
+	EFetch query successful
+	Took: 20.55s ... EST Time Remaining: 2:54:46
+Downloading records 481001 to 481500
+	EFetch query successful
+	Took: 18.84s ... EST Time Remaining: 2:54:23
+Downloading records 481501 to 482000
+	EFetch query successful
+	Took: 21.73s ... EST Time Remaining: 2:54:01
+Downloading records 482001 to 482500
+	EFetch query successful
+	Took: 22.24s ... EST Time Remaining: 2:53:39
+Downloading records 482501 to 483000
+	EFetch query successful
+	Took: 19.34s ... EST Time Remaining: 2:53:16
+Downloading records 483001 to 483500
+	EFetch query successful
+	Took: 18.93s ... EST Time Remaining: 2:52:53
+Downloading records 483501 to 484000
+	EFetch query successful
+	Took: 20.03s ... EST Time Remaining: 2:52:30
+Downloading records 484001 to 484500
+	EFetch query successful
+	Took: 20.19s ... EST Time Remaining: 2:52:07
+Downloading records 484501 to 485000
+	EFetch query successful
+	Took: 21.98s ... EST Time Remaining: 2:51:46
+Downloading records 485001 to 485500
+	EFetch query successful
+	Took: 22.07s ... EST Time Remaining: 2:51:24
+Downloading records 485501 to 486000
+	EFetch query successful
+	Took: 25.53s ... EST Time Remaining: 2:51:04
+Downloading records 486001 to 486500
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 2:50:42
+Downloading records 486501 to 487000
+	EFetch query successful
+	Took: 21.49s ... EST Time Remaining: 2:50:20
+Downloading records 487001 to 487500
+	EFetch query successful
+	Took: 22.67s ... EST Time Remaining: 2:49:59
+Downloading records 487501 to 488000
+	EFetch query successful
+	Took: 25.35s ... EST Time Remaining: 2:49:39
+Downloading records 488001 to 488500
+	EFetch query successful
+	Took: 24.37s ... EST Time Remaining: 2:49:18
+Downloading records 488501 to 489000
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 2:48:56
+Downloading records 489001 to 489500
+	EFetch query successful
+	Took: 20.60s ... EST Time Remaining: 2:48:33
+Downloading records 489501 to 490000
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 2:48:12
+Downloading records 490001 to 490500
+	EFetch query successful
+	Took: 20.98s ... EST Time Remaining: 2:47:49
+Downloading records 490501 to 491000
+	EFetch query successful
+	Took: 19.90s ... EST Time Remaining: 2:47:27
+Downloading records 491001 to 491500
+	EFetch query successful
+	Took: 21.31s ... EST Time Remaining: 2:47:05
+Downloading records 491501 to 492000
+	EFetch query successful
+	Took: 23.18s ... EST Time Remaining: 2:46:43
+Downloading records 492001 to 492500
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 2:46:21
+Downloading records 492501 to 493000
+	EFetch query successful
+	Took: 22.69s ... EST Time Remaining: 2:46:00
+Downloading records 493001 to 493500
+	EFetch query successful
+	Took: 22.05s ... EST Time Remaining: 2:45:38
+Downloading records 493501 to 494000
+	EFetch query successful
+	Took: 21.89s ... EST Time Remaining: 2:45:16
+Downloading records 494001 to 494500
+	EFetch query successful
+	Took: 21.04s ... EST Time Remaining: 2:44:54
+Downloading records 494501 to 495000
+	EFetch query successful
+	Took: 20.37s ... EST Time Remaining: 2:44:32
+Downloading records 495001 to 495500
+	EFetch query successful
+	Took: 22.82s ... EST Time Remaining: 2:44:10
+Downloading records 495501 to 496000
+	EFetch query successful
+	Took: 22.38s ... EST Time Remaining: 2:43:49
+Downloading records 496001 to 496500
+	EFetch query successful
+	Took: 22.29s ... EST Time Remaining: 2:43:27
+Downloading records 496501 to 497000
+	EFetch query successful
+	Took: 23.28s ... EST Time Remaining: 2:43:06
+Downloading records 497001 to 497500
+	EFetch query successful
+	Took: 23.08s ... EST Time Remaining: 2:42:45
+Downloading records 497501 to 498000
+	EFetch query successful
+	Took: 20.56s ... EST Time Remaining: 2:42:22
+Downloading records 498001 to 498500
+	EFetch query successful
+	Took: 19.65s ... EST Time Remaining: 2:41:59
+Downloading records 498501 to 499000
+	EFetch query successful
+	Took: 20.57s ... EST Time Remaining: 2:41:37
+Downloading records 499001 to 499500
+	EFetch query successful
+	Took: 22.29s ... EST Time Remaining: 2:41:15
+Downloading records 499501 to 500000
+	EFetch query successful
+	Took: 21.44s ... EST Time Remaining: 2:40:53
+Downloading records 500001 to 500500
+	EFetch query successful
+	Took: 21.77s ... EST Time Remaining: 2:40:31
+Downloading records 500501 to 501000
+	EFetch query successful
+	Took: 20.08s ... EST Time Remaining: 2:40:09
+Downloading records 501001 to 501500
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 2:39:47
+Downloading records 501501 to 502000
+	EFetch query successful
+	Took: 20.78s ... EST Time Remaining: 2:39:24
+Downloading records 502001 to 502500
+	EFetch query successful
+	Took: 21.08s ... EST Time Remaining: 2:39:02
+Downloading records 502501 to 503000
+	EFetch query successful
+	Took: 19.56s ... EST Time Remaining: 2:38:39
+Downloading records 503001 to 503500
+	EFetch query successful
+	Took: 19.05s ... EST Time Remaining: 2:38:16
+Downloading records 503501 to 504000
+	EFetch query successful
+	Took: 19.38s ... EST Time Remaining: 2:37:54
+Downloading records 504001 to 504500
+	EFetch query successful
+	Took: 20.93s ... EST Time Remaining: 2:37:31
+Downloading records 504501 to 505000
+	EFetch query successful
+	Took: 20.06s ... EST Time Remaining: 2:37:09
+Downloading records 505001 to 505500
+	EFetch query successful
+	Took: 19.52s ... EST Time Remaining: 2:36:46
+Downloading records 505501 to 506000
+	EFetch query successful
+	Took: 21.40s ... EST Time Remaining: 2:36:24
+Downloading records 506001 to 506500
+	EFetch query successful
+	Took: 20.65s ... EST Time Remaining: 2:36:02
+Downloading records 506501 to 507000
+	EFetch query successful
+	Took: 20.18s ... EST Time Remaining: 2:35:39
+Downloading records 507001 to 507500
+	EFetch query successful
+	Took: 19.63s ... EST Time Remaining: 2:35:16
+Downloading records 507501 to 508000
+	EFetch query successful
+	Took: 21.23s ... EST Time Remaining: 2:34:54
+Downloading records 508001 to 508500
+	EFetch query successful
+	Took: 19.10s ... EST Time Remaining: 2:34:31
+Downloading records 508501 to 509000
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 2:34:09
+Downloading records 509001 to 509500
+	EFetch query successful
+	Took: 21.08s ... EST Time Remaining: 2:33:47
+Downloading records 509501 to 510000
+	EFetch query successful
+	Took: 21.51s ... EST Time Remaining: 2:33:25
+Downloading records 510001 to 510500
+	EFetch query successful
+	Took: 20.74s ... EST Time Remaining: 2:33:03
+Downloading records 510501 to 511000
+	EFetch query successful
+	Took: 22.46s ... EST Time Remaining: 2:32:42
+Downloading records 511001 to 511500
+	EFetch query successful
+	Took: 21.33s ... EST Time Remaining: 2:32:20
+Downloading records 511501 to 512000
+	EFetch query successful
+	Took: 24.45s ... EST Time Remaining: 2:31:59
+Downloading records 512001 to 512500
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 2:31:37
+Downloading records 512501 to 513000
+	EFetch query successful
+	Took: 19.57s ... EST Time Remaining: 2:31:14
+Downloading records 513001 to 513500
+	EFetch query successful
+	Took: 22.57s ... EST Time Remaining: 2:30:53
+Downloading records 513501 to 514000
+	EFetch query successful
+	Took: 20.12s ... EST Time Remaining: 2:30:30
+Downloading records 514001 to 514500
+	EFetch query successful
+	Took: 22.47s ... EST Time Remaining: 2:30:09
+Downloading records 514501 to 515000
+	EFetch query successful
+	Took: 22.23s ... EST Time Remaining: 2:29:47
+Downloading records 515001 to 515500
+	EFetch query successful
+	Took: 22.65s ... EST Time Remaining: 2:29:25
+Downloading records 515501 to 516000
+	EFetch query successful
+	Took: 21.76s ... EST Time Remaining: 2:29:04
+Downloading records 516001 to 516500
+	EFetch query successful
+	Took: 21.66s ... EST Time Remaining: 2:28:42
+Downloading records 516501 to 517000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 2:28:20
+Downloading records 517001 to 517500
+	EFetch query successful
+	Took: 22.07s ... EST Time Remaining: 2:27:58
+Downloading records 517501 to 518000
+	EFetch query successful
+	Took: 22.62s ... EST Time Remaining: 2:27:37
+Downloading records 518001 to 518500
+	EFetch query successful
+	Took: 23.19s ... EST Time Remaining: 2:27:15
+Downloading records 518501 to 519000
+	EFetch query successful
+	Took: 21.33s ... EST Time Remaining: 2:26:53
+Downloading records 519001 to 519500
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 2:26:32
+Downloading records 519501 to 520000
+	EFetch query successful
+	Took: 21.50s ... EST Time Remaining: 2:26:10
+Downloading records 520001 to 520500
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 2:25:48
+Downloading records 520501 to 521000
+	EFetch query successful
+	Took: 22.47s ... EST Time Remaining: 2:25:26
+Downloading records 521001 to 521500
+	EFetch query successful
+	Took: 22.07s ... EST Time Remaining: 2:25:04
+Downloading records 521501 to 522000
+	EFetch query successful
+	Took: 21.18s ... EST Time Remaining: 2:24:42
+Downloading records 522001 to 522500
+	EFetch query successful
+	Took: 21.19s ... EST Time Remaining: 2:24:20
+Downloading records 522501 to 523000
+	EFetch query successful
+	Took: 20.89s ... EST Time Remaining: 2:23:58
+Downloading records 523001 to 523500
+	EFetch query successful
+	Took: 21.79s ... EST Time Remaining: 2:23:36
+Downloading records 523501 to 524000
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 2:23:14
+Downloading records 524001 to 524500
+	EFetch query successful
+	Took: 19.74s ... EST Time Remaining: 2:22:52
+Downloading records 524501 to 525000
+	EFetch query successful
+	Took: 20.09s ... EST Time Remaining: 2:22:29
+Downloading records 525001 to 525500
+	EFetch query successful
+	Took: 21.86s ... EST Time Remaining: 2:22:08
+Downloading records 525501 to 526000
+	EFetch query successful
+	Took: 21.14s ... EST Time Remaining: 2:21:46
+Downloading records 526001 to 526500
+	EFetch query successful
+	Took: 20.74s ... EST Time Remaining: 2:21:23
+Downloading records 526501 to 527000
+	EFetch query successful
+	Took: 20.72s ... EST Time Remaining: 2:21:01
+Downloading records 527001 to 527500
+	EFetch query successful
+	Took: 21.55s ... EST Time Remaining: 2:20:39
+Downloading records 527501 to 528000
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 2:20:18
+Downloading records 528001 to 528500
+	EFetch query successful
+	Took: 22.27s ... EST Time Remaining: 2:19:56
+Downloading records 528501 to 529000
+	EFetch query successful
+	Took: 20.43s ... EST Time Remaining: 2:19:34
+Downloading records 529001 to 529500
+	EFetch query successful
+	Took: 21.34s ... EST Time Remaining: 2:19:12
+Downloading records 529501 to 530000
+	EFetch query successful
+	Took: 20.35s ... EST Time Remaining: 2:18:49
+Downloading records 530001 to 530500
+	EFetch query successful
+	Took: 22.28s ... EST Time Remaining: 2:18:28
+Downloading records 530501 to 531000
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 2:18:06
+Downloading records 531001 to 531500
+	EFetch query successful
+	Took: 21.83s ... EST Time Remaining: 2:17:44
+Downloading records 531501 to 532000
+	EFetch query successful
+	Took: 20.59s ... EST Time Remaining: 2:17:22
+Downloading records 532001 to 532500
+	EFetch query successful
+	Took: 20.96s ... EST Time Remaining: 2:17:00
+Downloading records 532501 to 533000
+	EFetch query successful
+	Took: 21.10s ... EST Time Remaining: 2:16:38
+Downloading records 533001 to 533500
+	EFetch query successful
+	Took: 21.20s ... EST Time Remaining: 2:16:16
+Downloading records 533501 to 534000
+	EFetch query successful
+	Took: 21.52s ... EST Time Remaining: 2:15:54
+Downloading records 534001 to 534500
+	EFetch query successful
+	Took: 21.58s ... EST Time Remaining: 2:15:32
+Downloading records 534501 to 535000
+	EFetch query successful
+	Took: 20.84s ... EST Time Remaining: 2:15:10
+Downloading records 535001 to 535500
+	EFetch query successful
+	Took: 21.86s ... EST Time Remaining: 2:14:48
+Downloading records 535501 to 536000
+	EFetch query successful
+	Took: 21.45s ... EST Time Remaining: 2:14:26
+Downloading records 536001 to 536500
+	EFetch query successful
+	Took: 22.40s ... EST Time Remaining: 2:14:04
+Downloading records 536501 to 537000
+	EFetch query successful
+	Took: 23.99s ... EST Time Remaining: 2:13:43
+Downloading records 537001 to 537500
+	EFetch query successful
+	Took: 20.38s ... EST Time Remaining: 2:13:21
+Downloading records 537501 to 538000
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 2:12:59
+Downloading records 538001 to 538500
+	EFetch query successful
+	Took: 22.84s ... EST Time Remaining: 2:12:38
+Downloading records 538501 to 539000
+	EFetch query successful
+	Took: 21.25s ... EST Time Remaining: 2:12:16
+Downloading records 539001 to 539500
+	EFetch query successful
+	Took: 20.16s ... EST Time Remaining: 2:11:53
+Downloading records 539501 to 540000
+	EFetch query successful
+	Took: 20.37s ... EST Time Remaining: 2:11:31
+Downloading records 540001 to 540500
+	EFetch query successful
+	Took: 18.74s ... EST Time Remaining: 2:11:08
+Downloading records 540501 to 541000
+	EFetch query successful
+	Took: 19.95s ... EST Time Remaining: 2:10:46
+Downloading records 541001 to 541500
+	EFetch query successful
+	Took: 18.73s ... EST Time Remaining: 2:10:23
+Downloading records 541501 to 542000
+	EFetch query successful
+	Took: 19.91s ... EST Time Remaining: 2:10:00
+Downloading records 542001 to 542500
+	EFetch query successful
+	Took: 19.91s ... EST Time Remaining: 2:09:38
+Downloading records 542501 to 543000
+	EFetch query successful
+	Took: 19.41s ... EST Time Remaining: 2:09:16
+Downloading records 543001 to 543500
+	EFetch query successful
+	Took: 22.77s ... EST Time Remaining: 2:08:54
+Downloading records 543501 to 544000
+	EFetch query successful
+	Took: 22.37s ... EST Time Remaining: 2:08:32
+Downloading records 544001 to 544500
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 2:08:11
+Downloading records 544501 to 545000
+	EFetch query successful
+	Took: 23.02s ... EST Time Remaining: 2:07:49
+Downloading records 545001 to 545500
+	EFetch query successful
+	Took: 21.72s ... EST Time Remaining: 2:07:28
+Downloading records 545501 to 546000
+	EFetch query successful
+	Took: 19.91s ... EST Time Remaining: 2:07:05
+Downloading records 546001 to 546500
+	EFetch query successful
+	Took: 21.67s ... EST Time Remaining: 2:06:43
+Downloading records 546501 to 547000
+	EFetch query successful
+	Took: 20.16s ... EST Time Remaining: 2:06:21
+Downloading records 547001 to 547500
+	EFetch query successful
+	Took: 20.94s ... EST Time Remaining: 2:05:59
+Downloading records 547501 to 548000
+	EFetch query successful
+	Took: 20.93s ... EST Time Remaining: 2:05:37
+Downloading records 548001 to 548500
+	EFetch query successful
+	Took: 21.05s ... EST Time Remaining: 2:05:15
+Downloading records 548501 to 549000
+	EFetch query successful
+	Took: 20.82s ... EST Time Remaining: 2:04:53
+Downloading records 549001 to 549500
+	EFetch query successful
+	Took: 21.03s ... EST Time Remaining: 2:04:31
+Downloading records 549501 to 550000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 2:04:09
+Downloading records 550001 to 550500
+	EFetch query successful
+	Took: 20.36s ... EST Time Remaining: 2:03:47
+Downloading records 550501 to 551000
+	EFetch query successful
+	Took: 20.83s ... EST Time Remaining: 2:03:24
+Downloading records 551001 to 551500
+	EFetch query successful
+	Took: 20.18s ... EST Time Remaining: 2:03:02
+Downloading records 551501 to 552000
+	EFetch query successful
+	Took: 20.82s ... EST Time Remaining: 2:02:40
+Downloading records 552001 to 552500
+	EFetch query successful
+	Took: 20.88s ... EST Time Remaining: 2:02:18
+Downloading records 552501 to 553000
+	EFetch query successful
+	Took: 20.75s ... EST Time Remaining: 2:01:56
+Downloading records 553001 to 553500
+	EFetch query successful
+	Took: 20.13s ... EST Time Remaining: 2:01:34
+Downloading records 553501 to 554000
+	EFetch query successful
+	Took: 21.23s ... EST Time Remaining: 2:01:12
+Downloading records 554001 to 554500
+	EFetch query successful
+	Took: 19.67s ... EST Time Remaining: 2:00:49
+Downloading records 554501 to 555000
+	EFetch query successful
+	Took: 20.73s ... EST Time Remaining: 2:00:27
+Downloading records 555001 to 555500
+	EFetch query successful
+	Took: 20.04s ... EST Time Remaining: 2:00:05
+Downloading records 555501 to 556000
+	EFetch query successful
+	Took: 19.10s ... EST Time Remaining: 1:59:42
+Downloading records 556001 to 556500
+	EFetch query successful
+	Took: 21.03s ... EST Time Remaining: 1:59:20
+Downloading records 556501 to 557000
+	EFetch query successful
+	Took: 20.50s ... EST Time Remaining: 1:58:58
+Downloading records 557001 to 557500
+	EFetch query successful
+	Took: 21.27s ... EST Time Remaining: 1:58:36
+Downloading records 557501 to 558000
+	EFetch query successful
+	Took: 20.94s ... EST Time Remaining: 1:58:14
+Downloading records 558001 to 558500
+	EFetch query successful
+	Took: 19.75s ... EST Time Remaining: 1:57:52
+Downloading records 558501 to 559000
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 1:57:30
+Downloading records 559001 to 559500
+	EFetch query successful
+	Took: 20.38s ... EST Time Remaining: 1:57:08
+Downloading records 559501 to 560000
+	EFetch query successful
+	Took: 21.19s ... EST Time Remaining: 1:56:46
+Downloading records 560001 to 560500
+	EFetch query successful
+	Took: 20.44s ... EST Time Remaining: 1:56:24
+Downloading records 560501 to 561000
+	EFetch query successful
+	Took: 20.38s ... EST Time Remaining: 1:56:02
+Downloading records 561001 to 561500
+	EFetch query successful
+	Took: 20.19s ... EST Time Remaining: 1:55:40
+Downloading records 561501 to 562000
+	EFetch query successful
+	Took: 20.79s ... EST Time Remaining: 1:55:18
+Downloading records 562001 to 562500
+	EFetch query successful
+	Took: 22.88s ... EST Time Remaining: 1:54:56
+Downloading records 562501 to 563000
+	EFetch query successful
+	Took: 23.08s ... EST Time Remaining: 1:54:35
+Downloading records 563001 to 563500
+	EFetch query successful
+	Took: 23.07s ... EST Time Remaining: 1:54:14
+Downloading records 563501 to 564000
+	EFetch query successful
+	Took: 22.71s ... EST Time Remaining: 1:53:52
+Downloading records 564001 to 564500
+	EFetch query successful
+	Took: 24.69s ... EST Time Remaining: 1:53:31
+Downloading records 564501 to 565000
+	EFetch query successful
+	Took: 25.25s ... EST Time Remaining: 1:53:10
+Downloading records 565001 to 565500
+	EFetch query successful
+	Took: 23.18s ... EST Time Remaining: 1:52:49
+Downloading records 565501 to 566000
+	EFetch query successful
+	Took: 22.69s ... EST Time Remaining: 1:52:27
+Downloading records 566001 to 566500
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 1:52:06
+Downloading records 566501 to 567000
+	EFetch query successful
+	Took: 21.91s ... EST Time Remaining: 1:51:44
+Downloading records 567001 to 567500
+	EFetch query successful
+	Took: 23.21s ... EST Time Remaining: 1:51:23
+Downloading records 567501 to 568000
+	EFetch query successful
+	Took: 23.22s ... EST Time Remaining: 1:51:01
+Downloading records 568001 to 568500
+	EFetch query successful
+	Took: 22.93s ... EST Time Remaining: 1:50:40
+Downloading records 568501 to 569000
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 1:50:18
+Downloading records 569001 to 569500
+	EFetch query successful
+	Took: 21.89s ... EST Time Remaining: 1:49:56
+Downloading records 569501 to 570000
+	EFetch query successful
+	Took: 21.48s ... EST Time Remaining: 1:49:34
+Downloading records 570001 to 570500
+	EFetch query successful
+	Took: 23.10s ... EST Time Remaining: 1:49:13
+Downloading records 570501 to 571000
+	EFetch query successful
+	Took: 21.78s ... EST Time Remaining: 1:48:51
+Downloading records 571001 to 571500
+	EFetch query successful
+	Took: 22.32s ... EST Time Remaining: 1:48:30
+Downloading records 571501 to 572000
+	EFetch query successful
+	Took: 23.32s ... EST Time Remaining: 1:48:08
+Downloading records 572001 to 572500
+	EFetch query successful
+	Took: 22.86s ... EST Time Remaining: 1:47:47
+Downloading records 572501 to 573000
+	EFetch query successful
+	Took: 22.39s ... EST Time Remaining: 1:47:25
+Downloading records 573001 to 573500
+	EFetch query successful
+	Took: 20.76s ... EST Time Remaining: 1:47:03
+Downloading records 573501 to 574000
+	EFetch query successful
+	Took: 21.90s ... EST Time Remaining: 1:46:41
+Downloading records 574001 to 574500
+	EFetch query successful
+	Took: 21.44s ... EST Time Remaining: 1:46:19
+Downloading records 574501 to 575000
+	EFetch query successful
+	Took: 20.77s ... EST Time Remaining: 1:45:57
+Downloading records 575001 to 575500
+	EFetch query successful
+	Took: 21.33s ... EST Time Remaining: 1:45:36
+Downloading records 575501 to 576000
+	EFetch query successful
+	Took: 21.20s ... EST Time Remaining: 1:45:14
+Downloading records 576001 to 576500
+	EFetch query successful
+	Took: 26.69s ... EST Time Remaining: 1:44:53
+Downloading records 576501 to 577000
+	EFetch query successful
+	Took: 38.36s ... EST Time Remaining: 1:44:35
+Downloading records 577001 to 577500
+	EFetch query successful
+	Took: 21.52s ... EST Time Remaining: 1:44:14
+Downloading records 577501 to 578000
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 1:43:52
+Downloading records 578001 to 578500
+	EFetch query successful
+	Took: 21.28s ... EST Time Remaining: 1:43:30
+Downloading records 578501 to 579000
+	EFetch query successful
+	Took: 20.69s ... EST Time Remaining: 1:43:08
+Downloading records 579001 to 579500
+	EFetch query successful
+	Took: 21.30s ... EST Time Remaining: 1:42:46
+Downloading records 579501 to 580000
+	EFetch query successful
+	Took: 21.89s ... EST Time Remaining: 1:42:25
+Downloading records 580001 to 580500
+	EFetch query successful
+	Took: 22.99s ... EST Time Remaining: 1:42:03
+Downloading records 580501 to 581000
+	EFetch query successful
+	Took: 21.49s ... EST Time Remaining: 1:41:41
+Downloading records 581001 to 581500
+	EFetch query successful
+	Took: 20.97s ... EST Time Remaining: 1:41:19
+Downloading records 581501 to 582000
+	EFetch query successful
+	Took: 19.05s ... EST Time Remaining: 1:40:57
+Downloading records 582001 to 582500
+	EFetch query successful
+	Took: 23.60s ... EST Time Remaining: 1:40:35
+Downloading records 582501 to 583000
+	EFetch query successful
+	Took: 23.90s ... EST Time Remaining: 1:40:14
+Downloading records 583001 to 583500
+	EFetch query successful
+	Took: 23.95s ... EST Time Remaining: 1:39:53
+Downloading records 583501 to 584000
+	EFetch query successful
+	Took: 23.23s ... EST Time Remaining: 1:39:31
+Downloading records 584001 to 584500
+	EFetch query successful
+	Took: 22.55s ... EST Time Remaining: 1:39:10
+Downloading records 584501 to 585000
+	EFetch query successful
+	Took: 22.19s ... EST Time Remaining: 1:38:48
+Downloading records 585001 to 585500
+	EFetch query successful
+	Took: 24.17s ... EST Time Remaining: 1:38:27
+Downloading records 585501 to 586000
+	EFetch query successful
+	Took: 22.60s ... EST Time Remaining: 1:38:05
+Downloading records 586001 to 586500
+	EFetch query successful
+	Took: 25.20s ... EST Time Remaining: 1:37:44
+Downloading records 586501 to 587000
+	EFetch query successful
+	Took: 24.61s ... EST Time Remaining: 1:37:23
+Downloading records 587001 to 587500
+	EFetch query successful
+	Took: 24.50s ... EST Time Remaining: 1:37:02
+Downloading records 587501 to 588000
+	EFetch query successful
+	Took: 23.67s ... EST Time Remaining: 1:36:41
+Downloading records 588001 to 588500
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 1:36:19
+Downloading records 588501 to 589000
+	EFetch query successful
+	Took: 23.26s ... EST Time Remaining: 1:35:57
+Downloading records 589001 to 589500
+	EFetch query successful
+	Took: 23.04s ... EST Time Remaining: 1:35:36
+Downloading records 589501 to 590000
+	EFetch query successful
+	Took: 20.89s ... EST Time Remaining: 1:35:14
+Downloading records 590001 to 590500
+	EFetch query successful
+	Took: 20.00s ... EST Time Remaining: 1:34:51
+Downloading records 590501 to 591000
+	EFetch query successful
+	Took: 20.13s ... EST Time Remaining: 1:34:29
+Downloading records 591001 to 591500
+	EFetch query successful
+	Took: 19.89s ... EST Time Remaining: 1:34:07
+Downloading records 591501 to 592000
+	EFetch query successful
+	Took: 19.89s ... EST Time Remaining: 1:33:45
+Downloading records 592001 to 592500
+	EFetch query successful
+	Took: 19.29s ... EST Time Remaining: 1:33:22
+Downloading records 592501 to 593000
+	EFetch query successful
+	Took: 20.77s ... EST Time Remaining: 1:33:00
+Downloading records 593001 to 593500
+	EFetch query successful
+	Took: 20.05s ... EST Time Remaining: 1:32:38
+Downloading records 593501 to 594000
+	EFetch query successful
+	Took: 20.35s ... EST Time Remaining: 1:32:16
+Downloading records 594001 to 594500
+	EFetch query successful
+	Took: 20.04s ... EST Time Remaining: 1:31:54
+Downloading records 594501 to 595000
+	EFetch query successful
+	Took: 20.02s ... EST Time Remaining: 1:31:32
+Downloading records 595001 to 595500
+	EFetch query successful
+	Took: 20.36s ... EST Time Remaining: 1:31:10
+Downloading records 595501 to 596000
+	EFetch query successful
+	Took: 22.35s ... EST Time Remaining: 1:30:48
+Downloading records 596001 to 596500
+	EFetch query successful
+	Took: 22.06s ... EST Time Remaining: 1:30:26
+Downloading records 596501 to 597000
+	EFetch query successful
+	Took: 19.72s ... EST Time Remaining: 1:30:04
+Downloading records 597001 to 597500
+	EFetch query successful
+	Took: 19.73s ... EST Time Remaining: 1:29:42
+Downloading records 597501 to 598000
+	EFetch query successful
+	Took: 21.70s ... EST Time Remaining: 1:29:20
+Downloading records 598001 to 598500
+	EFetch query successful
+	Took: 23.07s ... EST Time Remaining: 1:28:59
+Downloading records 598501 to 599000
+	EFetch query successful
+	Took: 22.08s ... EST Time Remaining: 1:28:37
+Downloading records 599001 to 599500
+	EFetch query successful
+	Took: 23.18s ... EST Time Remaining: 1:28:15
+Downloading records 599501 to 600000
+	EFetch query successful
+	Took: 22.98s ... EST Time Remaining: 1:27:54
+Downloading records 600001 to 600500
+	EFetch query successful
+	Took: 23.88s ... EST Time Remaining: 1:27:32
+Downloading records 600501 to 601000
+	EFetch query successful
+	Took: 22.19s ... EST Time Remaining: 1:27:11
+Downloading records 601001 to 601500
+	EFetch query successful
+	Took: 21.48s ... EST Time Remaining: 1:26:49
+Downloading records 601501 to 602000
+	EFetch query successful
+	Took: 25.07s ... EST Time Remaining: 1:26:28
+Downloading records 602001 to 602500
+	EFetch query successful
+	Took: 21.62s ... EST Time Remaining: 1:26:06
+Downloading records 602501 to 603000
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 1:25:44
+Downloading records 603001 to 603500
+	EFetch query successful
+	Took: 23.27s ... EST Time Remaining: 1:25:22
+Downloading records 603501 to 604000
+	EFetch query successful
+	Took: 24.23s ... EST Time Remaining: 1:25:01
+Downloading records 604001 to 604500
+	EFetch query successful
+	Took: 26.21s ... EST Time Remaining: 1:24:40
+Downloading records 604501 to 605000
+	EFetch query successful
+	Took: 20.71s ... EST Time Remaining: 1:24:18
+Downloading records 605001 to 605500
+	EFetch query successful
+	Took: 23.37s ... EST Time Remaining: 1:23:57
+Downloading records 605501 to 606000
+	EFetch query successful
+	Took: 26.46s ... EST Time Remaining: 1:23:36
+Downloading records 606001 to 606500
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 1:23:14
+Downloading records 606501 to 607000
+	EFetch query successful
+	Took: 22.46s ... EST Time Remaining: 1:22:53
+Downloading records 607001 to 607500
+	EFetch query successful
+	Took: 24.93s ... EST Time Remaining: 1:22:31
+Downloading records 607501 to 608000
+	EFetch query successful
+	Took: 22.22s ... EST Time Remaining: 1:22:10
+Downloading records 608001 to 608500
+	EFetch query successful
+	Took: 21.47s ... EST Time Remaining: 1:21:48
+Downloading records 608501 to 609000
+	EFetch query successful
+	Took: 23.03s ... EST Time Remaining: 1:21:26
+Downloading records 609001 to 609500
+	EFetch query successful
+	Took: 23.31s ... EST Time Remaining: 1:21:05
+Downloading records 609501 to 610000
+	EFetch query successful
+	Took: 20.94s ... EST Time Remaining: 1:20:43
+Downloading records 610001 to 610500
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 1:20:21
+Downloading records 610501 to 611000
+	EFetch query successful
+	Took: 21.82s ... EST Time Remaining: 1:19:59
+Downloading records 611001 to 611500
+	EFetch query successful
+	Took: 21.93s ... EST Time Remaining: 1:19:37
+Downloading records 611501 to 612000
+	EFetch query successful
+	Took: 23.80s ... EST Time Remaining: 1:19:16
+Downloading records 612001 to 612500
+	EFetch query successful
+	Took: 20.65s ... EST Time Remaining: 1:18:54
+Downloading records 612501 to 613000
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 1:18:32
+Downloading records 613001 to 613500
+	EFetch query successful
+	Took: 22.62s ... EST Time Remaining: 1:18:10
+Downloading records 613501 to 614000
+	EFetch query successful
+	Took: 22.61s ... EST Time Remaining: 1:17:49
+Downloading records 614001 to 614500
+	EFetch query successful
+	Took: 23.29s ... EST Time Remaining: 1:17:27
+Downloading records 614501 to 615000
+	EFetch query successful
+	Took: 25.23s ... EST Time Remaining: 1:17:06
+Downloading records 615001 to 615500
+	EFetch query successful
+	Took: 23.52s ... EST Time Remaining: 1:16:44
+Downloading records 615501 to 616000
+	EFetch query successful
+	Took: 23.77s ... EST Time Remaining: 1:16:23
+Downloading records 616001 to 616500
+	EFetch query successful
+	Took: 25.05s ... EST Time Remaining: 1:16:02
+Downloading records 616501 to 617000
+	EFetch query successful
+	Took: 22.03s ... EST Time Remaining: 1:15:40
+Downloading records 617001 to 617500
+	EFetch query successful
+	Took: 24.89s ... EST Time Remaining: 1:15:18
+Downloading records 617501 to 618000
+	EFetch query successful
+	Took: 23.17s ... EST Time Remaining: 1:14:57
+Downloading records 618001 to 618500
+	EFetch query successful
+	Took: 22.57s ... EST Time Remaining: 1:14:35
+Downloading records 618501 to 619000
+	EFetch query successful
+	Took: 23.51s ... EST Time Remaining: 1:14:14
+Downloading records 619001 to 619500
+	EFetch query successful
+	Took: 21.81s ... EST Time Remaining: 1:13:52
+Downloading records 619501 to 620000
+	EFetch query successful
+	Took: 21.36s ... EST Time Remaining: 1:13:30
+Downloading records 620001 to 620500
+	EFetch query successful
+	Took: 20.08s ... EST Time Remaining: 1:13:08
+Downloading records 620501 to 621000
+	EFetch query successful
+	Took: 20.41s ... EST Time Remaining: 1:12:46
+Downloading records 621001 to 621500
+	EFetch query successful
+	Took: 29.66s ... EST Time Remaining: 1:12:25
+Downloading records 621501 to 622000
+	EFetch query successful
+	Took: 23.43s ... EST Time Remaining: 1:12:04
+Downloading records 622001 to 622500
+	EFetch query successful
+	Took: 20.57s ... EST Time Remaining: 1:11:41
+Downloading records 622501 to 623000
+	EFetch query successful
+	Took: 24.99s ... EST Time Remaining: 1:11:20
+Downloading records 623001 to 623500
+	EFetch query successful
+	Took: 22.03s ... EST Time Remaining: 1:10:58
+Downloading records 623501 to 624000
+	EFetch query successful
+	Took: 25.19s ... EST Time Remaining: 1:10:37
+Downloading records 624001 to 624500
+	EFetch query successful
+	Took: 23.22s ... EST Time Remaining: 1:10:15
+Downloading records 624501 to 625000
+	EFetch query successful
+	Took: 24.37s ... EST Time Remaining: 1:09:54
+Downloading records 625001 to 625500
+	EFetch query successful
+	Took: 24.72s ... EST Time Remaining: 1:09:33
+Downloading records 625501 to 626000
+	EFetch query successful
+	Took: 22.53s ... EST Time Remaining: 1:09:11
+Downloading records 626001 to 626500
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 1:08:49
+Downloading records 626501 to 627000
+	EFetch query successful
+	Took: 35.38s ... EST Time Remaining: 1:08:29
+Downloading records 627001 to 627500
+	EFetch query successful
+	Took: 28.96s ... EST Time Remaining: 1:08:08
+Downloading records 627501 to 628000
+	EFetch query successful
+	Took: 25.85s ... EST Time Remaining: 1:07:47
+Downloading records 628001 to 628500
+	EFetch query successful
+	Took: 24.00s ... EST Time Remaining: 1:07:25
+Downloading records 628501 to 629000
+	EFetch query successful
+	Took: 21.69s ... EST Time Remaining: 1:07:04
+Downloading records 629001 to 629500
+	EFetch query successful
+	Took: 25.24s ... EST Time Remaining: 1:06:42
+Downloading records 629501 to 630000
+	EFetch query successful
+	Took: 24.42s ... EST Time Remaining: 1:06:21
+Downloading records 630001 to 630500
+	EFetch query successful
+	Took: 25.74s ... EST Time Remaining: 1:05:59
+Downloading records 630501 to 631000
+	EFetch query successful
+	Took: 28.70s ... EST Time Remaining: 1:05:38
+Downloading records 631001 to 631500
+	EFetch query successful
+	Took: 27.09s ... EST Time Remaining: 1:05:17
+Downloading records 631501 to 632000
+	EFetch query successful
+	Took: 28.22s ... EST Time Remaining: 1:04:56
+Downloading records 632001 to 632500
+	EFetch query successful
+	Took: 27.64s ... EST Time Remaining: 1:04:35
+Downloading records 632501 to 633000
+	EFetch query successful
+	Took: 36.46s ... EST Time Remaining: 1:04:15
+Downloading records 633001 to 633500
+	EFetch query successful
+	Took: 33.30s ... EST Time Remaining: 1:03:55
+Downloading records 633501 to 634000
+	EFetch query successful
+	Took: 28.72s ... EST Time Remaining: 1:03:34
+Downloading records 634001 to 634500
+	EFetch query successful
+	Took: 41.66s ... EST Time Remaining: 1:03:15
+Downloading records 634501 to 635000
+	EFetch query successful
+	Took: 43.21s ... EST Time Remaining: 1:02:56
+Downloading records 635001 to 635500
+	EFetch query successful
+	Took: 42.61s ... EST Time Remaining: 1:02:37
+Downloading records 635501 to 636000
+	EFetch query successful
+	Took: 27.80s ... EST Time Remaining: 1:02:15
+Downloading records 636001 to 636500
+	EFetch query successful
+	Took: 42.47s ... EST Time Remaining: 1:01:56
+Downloading records 636501 to 637000
+	EFetch query successful
+	Took: 37.99s ... EST Time Remaining: 1:01:36
+Downloading records 637001 to 637500
+	EFetch query successful
+	Took: 35.87s ... EST Time Remaining: 1:01:16
+Downloading records 637501 to 638000
+	EFetch query successful
+	Took: 32.09s ... EST Time Remaining: 1:00:55
+Downloading records 638001 to 638500
+	EFetch query successful
+	Took: 21.38s ... EST Time Remaining: 1:00:33
+Downloading records 638501 to 639000
+	EFetch query successful
+	Took: 18.81s ... EST Time Remaining: 1:00:11
+Downloading records 639001 to 639500
+	EFetch query successful
+	Took: 18.74s ... EST Time Remaining: 0:59:48
+Downloading records 639501 to 640000
+	EFetch query successful
+	Took: 19.85s ... EST Time Remaining: 0:59:26
+Downloading records 640001 to 640500
+	EFetch query successful
+	Took: 19.29s ... EST Time Remaining: 0:59:04
+Downloading records 640501 to 641000
+	EFetch query successful
+	Took: 18.19s ... EST Time Remaining: 0:58:41
+Downloading records 641001 to 641500
+	EFetch query successful
+	Took: 18.63s ... EST Time Remaining: 0:58:19
+Downloading records 641501 to 642000
+	EFetch query successful
+	Took: 27.34s ... EST Time Remaining: 0:57:58
+Downloading records 642001 to 642500
+	EFetch query successful
+	Took: 27.31s ... EST Time Remaining: 0:57:36
+Downloading records 642501 to 643000
+	EFetch query successful
+	Took: 31.00s ... EST Time Remaining: 0:57:15
+Downloading records 643001 to 643500
+	EFetch query successful
+	Took: 31.91s ... EST Time Remaining: 0:56:54
+Downloading records 643501 to 644000
+	EFetch query successful
+	Took: 29.41s ... EST Time Remaining: 0:56:33
+Downloading records 644001 to 644500
+	EFetch query successful
+	Took: 29.85s ... EST Time Remaining: 0:56:12
+Downloading records 644501 to 645000
+	EFetch query successful
+	Took: 29.52s ... EST Time Remaining: 0:55:51
+Downloading records 645001 to 645500
+	EFetch query successful
+	Took: 32.64s ... EST Time Remaining: 0:55:30
+Downloading records 645501 to 646000
+	EFetch query successful
+	Took: 38.43s ... EST Time Remaining: 0:55:10
+Downloading records 646001 to 646500
+	EFetch query successful
+	Took: 30.28s ... EST Time Remaining: 0:54:49
+Downloading records 646501 to 647000
+	EFetch query successful
+	Took: 22.24s ... EST Time Remaining: 0:54:27
+Downloading records 647001 to 647500
+	EFetch query successful
+	Took: 23.30s ... EST Time Remaining: 0:54:05
+Downloading records 647501 to 648000
+	EFetch query successful
+	Took: 25.03s ... EST Time Remaining: 0:53:43
+Downloading records 648001 to 648500
+	EFetch query successful
+	Took: 24.57s ... EST Time Remaining: 0:53:21
+Downloading records 648501 to 649000
+	EFetch query successful
+	Took: 23.76s ... EST Time Remaining: 0:52:59
+Downloading records 649001 to 649500
+	EFetch query successful
+	Took: 25.43s ... EST Time Remaining: 0:52:38
+Downloading records 649501 to 650000
+	EFetch query successful
+	Took: 25.88s ... EST Time Remaining: 0:52:16
+Downloading records 650001 to 650500
+	EFetch query successful
+	Took: 24.00s ... EST Time Remaining: 0:51:54
+Downloading records 650501 to 651000
+	EFetch query successful
+	Took: 23.85s ... EST Time Remaining: 0:51:32
+Downloading records 651001 to 651500
+	EFetch query successful
+	Took: 28.84s ... EST Time Remaining: 0:51:11
+Downloading records 651501 to 652000
+	EFetch query successful
+	Took: 33.02s ... EST Time Remaining: 0:50:50
+Downloading records 652001 to 652500
+	EFetch query successful
+	Took: 35.92s ... EST Time Remaining: 0:50:29
+Downloading records 652501 to 653000
+	EFetch query successful
+	Took: 37.64s ... EST Time Remaining: 0:50:09
+Downloading records 653001 to 653500
+	EFetch query successful
+	Took: 42.98s ... EST Time Remaining: 0:49:49
+Downloading records 653501 to 654000
+	EFetch query successful
+	Took: 26.26s ... EST Time Remaining: 0:49:27
+Downloading records 654001 to 654500
+	EFetch query successful
+	Took: 22.34s ... EST Time Remaining: 0:49:05
+Downloading records 654501 to 655000
+	EFetch query successful
+	Took: 22.59s ... EST Time Remaining: 0:48:43
+Downloading records 655001 to 655500
+	EFetch query successful
+	Took: 28.87s ... EST Time Remaining: 0:48:22
+Downloading records 655501 to 656000
+	EFetch query successful
+	Took: 31.06s ... EST Time Remaining: 0:48:00
+Downloading records 656001 to 656500
+	EFetch query successful
+	Took: 22.25s ... EST Time Remaining: 0:47:38
+Downloading records 656501 to 657000
+	EFetch query successful
+	Took: 27.54s ... EST Time Remaining: 0:47:16
+Downloading records 657001 to 657500
+	EFetch query successful
+	Took: 44.47s ... EST Time Remaining: 0:46:56
+Downloading records 657501 to 658000
+	EFetch query successful
+	Took: 30.58s ... EST Time Remaining: 0:46:35
+Downloading records 658001 to 658500
+	EFetch query successful
+	Took: 35.27s ... EST Time Remaining: 0:46:14
+Downloading records 658501 to 659000
+	EFetch query successful
+	Took: 38.73s ... EST Time Remaining: 0:45:54
+Downloading records 659001 to 659500
+	EFetch query successful
+	Took: 42.57s ... EST Time Remaining: 0:45:33
+Downloading records 659501 to 660000
+	EFetch query successful
+	Took: 40.43s ... EST Time Remaining: 0:45:13
+Downloading records 660001 to 660500
+	EFetch query successful
+	Took: 23.38s ... EST Time Remaining: 0:44:51
+Downloading records 660501 to 661000
+	EFetch query successful
+	Took: 31.01s ... EST Time Remaining: 0:44:29
+Downloading records 661001 to 661500
+	EFetch query successful
+	Took: 33.50s ... EST Time Remaining: 0:44:08
+Downloading records 661501 to 662000
+	EFetch query successful
+	Took: 23.09s ... EST Time Remaining: 0:43:46
+Downloading records 662001 to 662500
+	EFetch query successful
+	Took: 30.38s ... EST Time Remaining: 0:43:24
+Downloading records 662501 to 663000
+	EFetch query successful
+	Took: 36.82s ... EST Time Remaining: 0:43:03
+Downloading records 663001 to 663500
+	EFetch query successful
+	Took: 32.82s ... EST Time Remaining: 0:42:42
+Downloading records 663501 to 664000
+	EFetch query successful
+	Took: 23.84s ... EST Time Remaining: 0:42:20
+Downloading records 664001 to 664500
+	EFetch query successful
+	Took: 26.18s ... EST Time Remaining: 0:41:58
+Downloading records 664501 to 665000
+	EFetch query successful
+	Took: 37.25s ... EST Time Remaining: 0:41:37
+Downloading records 665001 to 665500
+	EFetch query successful
+	Took: 37.00s ... EST Time Remaining: 0:41:16
+Downloading records 665501 to 666000
+	EFetch query successful
+	Took: 32.88s ... EST Time Remaining: 0:40:54
+Downloading records 666001 to 666500
+	EFetch query successful
+	Took: 24.42s ... EST Time Remaining: 0:40:32
+Downloading records 666501 to 667000
+	EFetch query successful
+	Took: 24.34s ... EST Time Remaining: 0:40:10
+Downloading records 667001 to 667500
+	EFetch query successful
+	Took: 27.13s ... EST Time Remaining: 0:39:48
+Downloading records 667501 to 668000
+	EFetch query successful
+	Took: 31.74s ... EST Time Remaining: 0:39:26
+Downloading records 668001 to 668500
+	EFetch query successful
+	Took: 24.49s ... EST Time Remaining: 0:39:04
+Downloading records 668501 to 669000
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 0:38:42
+Downloading records 669001 to 669500
+	EFetch query successful
+	Took: 24.71s ... EST Time Remaining: 0:38:20
+Downloading records 669501 to 670000
+	EFetch query successful
+	Took: 24.14s ... EST Time Remaining: 0:37:58
+Downloading records 670001 to 670500
+	EFetch query successful
+	Took: 23.08s ... EST Time Remaining: 0:37:35
+Downloading records 670501 to 671000
+	EFetch query successful
+	Took: 22.64s ... EST Time Remaining: 0:37:13
+Downloading records 671001 to 671500
+	EFetch query successful
+	Took: 22.68s ... EST Time Remaining: 0:36:51
+Downloading records 671501 to 672000
+	EFetch query successful
+	Took: 22.43s ... EST Time Remaining: 0:36:28
+Downloading records 672001 to 672500
+	EFetch query successful
+	Took: 23.43s ... EST Time Remaining: 0:36:06
+Downloading records 672501 to 673000
+	EFetch query successful
+	Took: 22.33s ... EST Time Remaining: 0:35:44
+Downloading records 673001 to 673500
+	EFetch query successful
+	Took: 23.97s ... EST Time Remaining: 0:35:22
+Downloading records 673501 to 674000
+	EFetch query successful
+	Took: 23.08s ... EST Time Remaining: 0:34:59
+Downloading records 674001 to 674500
+	EFetch query successful
+	Took: 22.70s ... EST Time Remaining: 0:34:37
+Downloading records 674501 to 675000
+	EFetch query successful
+	Took: 23.21s ... EST Time Remaining: 0:34:15
+Downloading records 675001 to 675500
+	EFetch query successful
+	Took: 22.88s ... EST Time Remaining: 0:33:52
+Downloading records 675501 to 676000
+	EFetch query successful
+	Took: 22.55s ... EST Time Remaining: 0:33:30
+Downloading records 676001 to 676500
+	EFetch query successful
+	Took: 23.94s ... EST Time Remaining: 0:33:08
+Downloading records 676501 to 677000
+	EFetch query successful
+	Took: 24.16s ... EST Time Remaining: 0:32:46
+Downloading records 677001 to 677500
+	EFetch query successful
+	Took: 24.01s ... EST Time Remaining: 0:32:23
+Downloading records 677501 to 678000
+	EFetch query successful
+	Took: 22.95s ... EST Time Remaining: 0:32:01
+Downloading records 678001 to 678500
+	EFetch query successful
+	Took: 23.05s ... EST Time Remaining: 0:31:39
+Downloading records 678501 to 679000
+	EFetch query successful
+	Took: 22.51s ... EST Time Remaining: 0:31:17
+Downloading records 679001 to 679500
+	EFetch query successful
+	Took: 23.47s ... EST Time Remaining: 0:30:54
+Downloading records 679501 to 680000
+	EFetch query successful
+	Took: 22.20s ... EST Time Remaining: 0:30:32
+Downloading records 680001 to 680500
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 0:30:10
+Downloading records 680501 to 681000
+	EFetch query successful
+	Took: 21.13s ... EST Time Remaining: 0:29:47
+Downloading records 681001 to 681500
+	EFetch query successful
+	Took: 22.85s ... EST Time Remaining: 0:29:25
+Downloading records 681501 to 682000
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 0:29:02
+Downloading records 682001 to 682500
+	EFetch query successful
+	Took: 21.57s ... EST Time Remaining: 0:28:40
+Downloading records 682501 to 683000
+	EFetch query successful
+	Took: 22.30s ... EST Time Remaining: 0:28:18
+Downloading records 683001 to 683500
+	EFetch query successful
+	Took: 21.63s ... EST Time Remaining: 0:27:55
+Downloading records 683501 to 684000
+	EFetch query successful
+	Took: 23.80s ... EST Time Remaining: 0:27:33
+Downloading records 684001 to 684500
+	EFetch query successful
+	Took: 22.51s ... EST Time Remaining: 0:27:11
+Downloading records 684501 to 685000
+	EFetch query successful
+	Took: 21.43s ... EST Time Remaining: 0:26:48
+Downloading records 685001 to 685500
+	EFetch query successful
+	Took: 22.04s ... EST Time Remaining: 0:26:26
+Downloading records 685501 to 686000
+	EFetch query successful
+	Took: 22.33s ... EST Time Remaining: 0:26:04
+Downloading records 686001 to 686500
+	EFetch query successful
+	Took: 21.03s ... EST Time Remaining: 0:25:41
+Downloading records 686501 to 687000
+	EFetch query successful
+	Took: 21.51s ... EST Time Remaining: 0:25:19
+Downloading records 687001 to 687500
+	EFetch query successful
+	Took: 22.32s ... EST Time Remaining: 0:24:57
+Downloading records 687501 to 688000
+	EFetch query successful
+	Took: 21.90s ... EST Time Remaining: 0:24:34
+Downloading records 688001 to 688500
+	EFetch query successful
+	Took: 21.85s ... EST Time Remaining: 0:24:12
+Downloading records 688501 to 689000
+	EFetch query successful
+	Took: 22.42s ... EST Time Remaining: 0:23:50
+Downloading records 689001 to 689500
+	EFetch query successful
+	Took: 20.69s ... EST Time Remaining: 0:23:27
+Downloading records 689501 to 690000
+	EFetch query successful
+	Took: 21.62s ... EST Time Remaining: 0:23:05
+Downloading records 690001 to 690500
+	EFetch query successful
+	Took: 23.83s ... EST Time Remaining: 0:22:42
+Downloading records 690501 to 691000
+	EFetch query successful
+	Took: 23.85s ... EST Time Remaining: 0:22:20
+Downloading records 691001 to 691500
+	EFetch query successful
+	Took: 21.53s ... EST Time Remaining: 0:21:58
+Downloading records 691501 to 692000
+	EFetch query successful
+	Took: 24.23s ... EST Time Remaining: 0:21:36
+Downloading records 692001 to 692500
+	EFetch query successful
+	Took: 23.21s ... EST Time Remaining: 0:21:13
+Downloading records 692501 to 693000
+	EFetch query successful
+	Took: 22.09s ... EST Time Remaining: 0:20:51
+Downloading records 693001 to 693500
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 0:20:29
+Downloading records 693501 to 694000
+	EFetch query successful
+	Took: 21.01s ... EST Time Remaining: 0:20:06
+Downloading records 694001 to 694500
+	EFetch query successful
+	Took: 22.00s ... EST Time Remaining: 0:19:44
+Downloading records 694501 to 695000
+	EFetch query successful
+	Took: 23.79s ... EST Time Remaining: 0:19:22
+Downloading records 695001 to 695500
+	EFetch query successful
+	Took: 23.71s ... EST Time Remaining: 0:18:59
+Downloading records 695501 to 696000
+	EFetch query successful
+	Took: 23.75s ... EST Time Remaining: 0:18:37
+Downloading records 696001 to 696500
+	EFetch query successful
+	Took: 22.18s ... EST Time Remaining: 0:18:15
+Downloading records 696501 to 697000
+	EFetch query successful
+	Took: 22.12s ... EST Time Remaining: 0:17:52
+Downloading records 697001 to 697500
+	EFetch query successful
+	Took: 23.30s ... EST Time Remaining: 0:17:30
+Downloading records 697501 to 698000
+	EFetch query successful
+	Took: 23.03s ... EST Time Remaining: 0:17:08
+Downloading records 698001 to 698500
+	EFetch query successful
+	Took: 24.58s ... EST Time Remaining: 0:16:45
+Downloading records 698501 to 699000
+	EFetch query successful
+	Took: 22.96s ... EST Time Remaining: 0:16:23
+Downloading records 699001 to 699500
+	EFetch query successful
+	Took: 23.55s ... EST Time Remaining: 0:16:01
+Downloading records 699501 to 700000
+	EFetch query successful
+	Took: 22.70s ... EST Time Remaining: 0:15:38
+Downloading records 700001 to 700500
+	EFetch query successful
+	Took: 24.81s ... EST Time Remaining: 0:15:16
+Downloading records 700501 to 701000
+	EFetch query successful
+	Took: 22.40s ... EST Time Remaining: 0:14:54
+Downloading records 701001 to 701500
+	EFetch query successful
+	Took: 24.92s ... EST Time Remaining: 0:14:32
+Downloading records 701501 to 702000
+	EFetch query successful
+	Took: 29.55s ... EST Time Remaining: 0:14:09
+Downloading records 702001 to 702500
+	EFetch query successful
+	Took: 36.40s ... EST Time Remaining: 0:13:47
+Downloading records 702501 to 703000
+	EFetch query successful
+	Took: 27.59s ... EST Time Remaining: 0:13:25
+Downloading records 703001 to 703500
+	EFetch query successful
+	Took: 25.41s ... EST Time Remaining: 0:13:03
+Downloading records 703501 to 704000
+	EFetch query successful
+	Took: 26.56s ... EST Time Remaining: 0:12:41
+Downloading records 704001 to 704500
+	EFetch query successful
+	Took: 22.76s ... EST Time Remaining: 0:12:18
+Downloading records 704501 to 705000
+	EFetch query successful
+	Took: 28.16s ... EST Time Remaining: 0:11:56
+Downloading records 705001 to 705500
+	EFetch query successful
+	Took: 31.74s ... EST Time Remaining: 0:11:34
+Downloading records 705501 to 706000
+	EFetch query successful
+	Took: 27.20s ... EST Time Remaining: 0:11:12
+Downloading records 706001 to 706500
+	EFetch query successful
+	Took: 27.43s ... EST Time Remaining: 0:10:49
+Downloading records 706501 to 707000
+	EFetch query successful
+	Took: 23.40s ... EST Time Remaining: 0:10:27
+Downloading records 707001 to 707500
+	EFetch query successful
+	Took: 23.99s ... EST Time Remaining: 0:10:05
+Downloading records 707501 to 708000
+	EFetch query successful
+	Took: 23.94s ... EST Time Remaining: 0:09:42
+Downloading records 708001 to 708500
+	EFetch query successful
+	Took: 24.67s ... EST Time Remaining: 0:09:20
+Downloading records 708501 to 709000
+	EFetch query successful
+	Took: 22.89s ... EST Time Remaining: 0:08:57
+Downloading records 709001 to 709500
+	EFetch query successful
+	Took: 23.43s ... EST Time Remaining: 0:08:35
+Downloading records 709501 to 710000
+	EFetch query successful
+	Took: 23.63s ... EST Time Remaining: 0:08:13
+Downloading records 710001 to 710500
+	EFetch query successful
+	Took: 25.93s ... EST Time Remaining: 0:07:50
+Downloading records 710501 to 711000
+	EFetch query successful
+	Took: 38.59s ... EST Time Remaining: 0:07:28
+Downloading records 711001 to 711500
+	EFetch query successful
+	Took: 27.13s ... EST Time Remaining: 0:07:06
+Downloading records 711501 to 712000
+	EFetch query successful
+	Took: 44.20s ... EST Time Remaining: 0:06:44
+Downloading records 712001 to 712500
+	EFetch query successful
+	Took: 34.25s ... EST Time Remaining: 0:06:21
+Downloading records 712501 to 713000
+	EFetch query successful
+	Took: 24.26s ... EST Time Remaining: 0:05:59
+Downloading records 713001 to 713500
+	EFetch query successful
+	Took: 23.62s ... EST Time Remaining: 0:05:37
+Downloading records 713501 to 714000
+	EFetch query successful
+	Took: 24.39s ... EST Time Remaining: 0:05:14
+Downloading records 714001 to 714500
+	EFetch query successful
+	Took: 24.21s ... EST Time Remaining: 0:04:52
+Downloading records 714501 to 715000
+	EFetch query successful
+	Took: 24.69s ... EST Time Remaining: 0:04:29
+Downloading records 715001 to 715500
+	EFetch query successful
+	Took: 23.13s ... EST Time Remaining: 0:04:07
+Downloading records 715501 to 716000
+	EFetch query successful
+	Took: 23.43s ... EST Time Remaining: 0:03:44
+Downloading records 716001 to 716500
+	EFetch query successful
+	Took: 29.29s ... EST Time Remaining: 0:03:22
+Downloading records 716501 to 717000
+	EFetch query successful
+	Took: 28.14s ... EST Time Remaining: 0:03:00
+Downloading records 717001 to 717500
+	EFetch query successful
+	Took: 25.12s ... EST Time Remaining: 0:02:37
+Downloading records 717501 to 718000
+	EFetch query successful
+	Took: 27.90s ... EST Time Remaining: 0:02:15
+Downloading records 718001 to 718500
+	EFetch query successful
+	Took: 22.16s ... EST Time Remaining: 0:01:52
+Downloading records 718501 to 719000
+	EFetch query successful
+	Took: 21.56s ... EST Time Remaining: 0:01:30
+Downloading records 719001 to 719500
+	EFetch query successful
+	Took: 23.75s ... EST Time Remaining: 0:01:07
+Downloading records 719501 to 720000
+	EFetch query successful
+	Took: 25.25s ... EST Time Remaining: 0:00:45
+Downloading records 720001 to 720500
+	EFetch query successful
+	Took: 23.37s ... EST Time Remaining: 0:00:22
+Downloading records 720501 to 721000
+	EFetch query successful
+	Took: 22.29s ... EST Time Remaining: 0:00:00
+Downloading records 721001 to 721284
+	EFetch query successful
+	Took: 15.80s ... EST Time Remaining: -1 day, 23:59:38

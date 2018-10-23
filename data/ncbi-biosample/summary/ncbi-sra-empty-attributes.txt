@@ -1,0 +1,44 @@
+sra_lab_name	381050
+experiment_title	224547
+Sample Description	53562
+Strain	28853
+library_name	23300
+library_construction_protocol	18906
+sample_description	15441
+sample_title	11686
+strain	8106
+organization_name	6727
+serovar	656
+pathotype	451
+ACCESSION	267
+isolation source non-host-associated	257
+sample_attributes	254
+mtrR-Pr	99
+ST	97
+host scientific name	73
+host_disease	73
+host_taxid	73
+collection date	61
+environment (biome)	61
+environment (feature)	61
+environment (material)	61
+environmental package	61
+geographic location (altitude)	61
+geographic location (latitude)	61
+geographic location (longitude)	61
+investigation type	61
+project name	61
+sequencing method	61
+isolate	60
+isolation source host-associated	60
+translation missing: en, metadata, sample, sample_metadata, sample_description	56
+host	20
+translation missing: en, metadata, sample, sample_metadata, sample_strain_att	20
+	10
+lat_lon	6
+geographic location (region and locality)	6
+geographic location (country and/or sea)	4
+23S	3
+host health state	3
+isolation_source	3
+mtrR	1
